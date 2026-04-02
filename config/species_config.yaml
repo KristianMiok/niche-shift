@@ -1,0 +1,113 @@
+# Species selection criteria and configuration
+# Adjust thresholds based on actual data availability
+
+data_file: "data/raw/combined_data_true_master.csv"
+
+# Column names (exact matches from the dataset)
+columns:
+  species: "Crayfish_scientific_name"
+  status: "Status"
+  accuracy: "Accuracy"
+  distance: "distance_m"
+  segment: "subc_id"
+  woc_id: "WoCID"
+
+# Status values used in the dataset
+status_values:
+  native: "Native"
+  alien: "Alien"
+
+selection_criteria:
+  # Minimum occurrence records per range context (native OR invasive)
+  min_records_per_range: 40
+  # Only use high-accuracy records
+  accuracy_filter: "High"
+  # Maximum snapping distance (meters)
+  max_snapping_distance: 1000
+  # Minimum records after deduplication
+  min_records_after_dedup: 30
+
+# Candidate species to evaluate for inclusion
+# These are known invasive crayfish with likely good data coverage
+# Final inclusion depends on meeting the criteria above
+candidate_species:
+  - name: "Procambarus clarkii"
+    common_name: "Red swamp crayfish"
+    family: "Cambaridae"
+    native_region: "Southern USA, northeastern Mexico"
+    invasive_region: "Europe, Africa, Asia, South America"
+    notes: "Most globally invasive crayfish species"
+
+  - name: "Pacifastacus leniusculus"
+    common_name: "Signal crayfish"
+    family: "Astacidae"
+    native_region: "Pacific Northwest North America"
+    invasive_region: "Europe, Japan"
+    notes: "Major invasive in European freshwaters, plague carrier"
+
+  - name: "Faxonius limosus"
+    common_name: "Spiny-cheek crayfish"
+    family: "Cambaridae"
+    native_region: "Eastern North America"
+    invasive_region: "Europe"
+    notes: "One of earliest crayfish introductions to Europe"
+
+  - name: "Faxonius virilis"
+    common_name: "Virile crayfish"
+    family: "Cambaridae"
+    native_region: "Central-eastern North America"
+    invasive_region: "Western North America, Europe"
+    notes: "Within-continent and intercontinental invasions"
+
+  - name: "Procambarus virginalis"
+    common_name: "Marbled crayfish"
+    family: "Cambaridae"
+    native_region: "Uncertain (aquarium origin)"
+    invasive_region: "Europe, Madagascar, Japan"
+    notes: "Parthenogenetic; native range poorly defined - may need special handling"
+
+  - name: "Cherax destructor"
+    common_name: "Yabby"
+    family: "Parastacidae"
+    native_region: "Eastern Australia"
+    invasive_region: "Western Australia, possibly other regions"
+    notes: "Check invasive range record counts"
+
+  - name: "Faxonius rusticus"
+    common_name: "Rusty crayfish"
+    family: "Cambaridae"
+    native_region: "Ohio River basin, USA"
+    invasive_region: "Great Lakes region, northeastern USA, Canada"
+    notes: "Well-studied North American invader"
+
+  - name: "Faxonius immunis"
+    common_name: "Calico crayfish"
+    family: "Cambaridae"
+    native_region: "Central North America"
+    invasive_region: "Europe"
+    notes: "Expanding range in Europe"
+
+# Environmental variable groups to include in analysis
+# Based on GeoTraits variable structure
+variable_groups:
+  - code: "CLI"
+    name: "Climate"
+    description: "Thermal and precipitation regimes"
+  - code: "TOP"
+    name: "Topography"
+    description: "Stream slope, elevation, catchment geometry"
+  - code: "SOL"
+    name: "Soil"
+    description: "Physical and chemical soil characteristics"
+  - code: "LAC"
+    name: "Land Cover"
+    description: "Vegetation types and anthropogenic land use"
+
+# Spatial scales
+scales:
+  - prefix: "l_"
+    name: "Local"
+    description: "90m segment-level"
+  - prefix: "u_"
+    name: "Upstream"
+    description: "Catchment-aggregated"

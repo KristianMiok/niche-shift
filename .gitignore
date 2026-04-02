@@ -1,0 +1,25 @@
+# Data (large files, not tracked)
+data/raw/
+data/interim/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (regenerable, optionally track)
+results/models/*.pkl
+results/models/*.joblib

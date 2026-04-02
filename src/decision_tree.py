@@ -38,6 +38,7 @@ from data_preparation import (
     handle_missing_values, remove_constant_variables,
     remove_highly_correlated,
 )
+from variable_glossary import load_glossary, translate, make_label
 
 
 def prepare_xy(
@@ -171,7 +172,7 @@ def extract_decision_rules(
     return rules
 
 
-def format_rules_text(rules: list[dict], species_name: str) -> str:
+def format_rules_text(rules: list[dict], species_name: str, glossary: dict = None) -> str:
     """Format decision rules as human-readable text."""
     lines = [
         f"Decision Rules for {species_name}",
@@ -180,13 +181,18 @@ def format_rules_text(rules: list[dict], species_name: str) -> str:
         "",
     ]
 
-    # Sort by class and sample count
     for i, rule in enumerate(
         sorted(rules, key=lambda r: (-r["n_samples"],)), 1
     ):
-        path_str = " AND ".join(
-            f"{feat} {op} {thresh}" for feat, op, thresh in rule["path"]
-        )
+        if glossary:
+            path_str = " AND ".join(
+                f"{translate(feat, glossary)} {op} {thresh}"
+                for feat, op, thresh in rule["path"]
+            )
+        else:
+            path_str = " AND ".join(
+                f"{feat} {op} {thresh}" for feat, op, thresh in rule["path"]
+            )
         lines.append(f"Rule {i}: {rule['class'].upper()}")
         lines.append(f"  IF {path_str}")
         lines.append(f"  Samples: {rule['n_samples']} "
@@ -240,19 +246,27 @@ def plot_feature_importances(
     species_name: str,
     n_top: int = 20,
     output_dir: str = "results/figures",
+    glossary: dict = None,
 ) -> str:
     """Plot top feature importances as horizontal bar chart."""
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
 
-    top = importances.head(n_top).iloc[::-1]  # Reverse for horizontal bars
+    top = importances.head(n_top).iloc[::-1]
 
-    fig, ax = plt.subplots(figsize=(8, max(5, n_top * 0.3)))
-    ax.barh(top["variable"], top["importance"], color="#2196F3")
+    if glossary:
+        labels = [make_label(v, glossary, max_len=55) for v in top["variable"]]
+    else:
+        labels = top["variable"].tolist()
+
+    fig, ax = plt.subplots(figsize=(10, max(5, n_top * 0.35)))
+    ax.barh(range(len(labels)), top["importance"], color="#2196F3")
+    ax.set_yticks(range(len(labels)))
+    ax.set_yticklabels(labels)
     ax.set_xlabel("Feature Importance")
     ax.set_title(f"{species_name}: Top {n_top} Environmental Variables\n"
                  f"(distinguishing native from invasive range)")
-    ax.tick_params(labelsize=9)
+    ax.tick_params(axis='y', labelsize=8)
     plt.tight_layout()
 
     safe_name = species_name.replace(" ", "_").lower()
@@ -268,6 +282,7 @@ def analyze_species(
     env_vars: list,
     max_depth: int = 5,
     output_dir: str = "results",
+    glossary: dict = None,
 ) -> dict:
     """
     Full decision tree analysis for one species.
@@ -321,12 +336,13 @@ def analyze_species(
     importances = extract_feature_importances(clf, feature_names)
     print(f"\n  Top 10 features:")
     for _, row in importances.head(10).iterrows():
-        print(f"    {row['rank']:2d}. {row['variable']:<20s} "
-              f"{row['importance']:.4f} (cum: {row['cumulative']:.3f})")
+        var = row['variable']
+        desc = translate(var, glossary) if glossary else var
+        print(f"    {row['rank']:2d}. {var:<15s} {row['importance']:.4f}  {desc}")
 
     # Decision rules
     rules = extract_decision_rules(clf, feature_names)
-    rules_text = format_rules_text(rules, species_name)
+    rules_text = format_rules_text(rules, species_name, glossary=glossary)
 
     # Save results
     tables_dir = Path(output_dir) / "tables"
@@ -352,7 +368,7 @@ def analyze_species(
     print(f"  Tree plot saved to {tree_fig}")
 
     imp_fig = plot_feature_importances(importances, species_name,
-                                       output_dir=figures_dir)
+                                       output_dir=figures_dir, glossary=glossary)
     print(f"  Importance plot saved to {imp_fig}")
 
     # Full classification report
@@ -397,6 +413,11 @@ def main():
     env_info = get_env_variables(df_filtered)
     env_vars = env_info["all_env"]
 
+    # Load variable glossary
+    glossary_path = "data/raw/S2.xlsx"
+    glossary = load_glossary(glossary_path)
+    print(f"Loaded glossary: {len(glossary)} variable definitions")
+
     # Analyze each study species
     all_results = {}
     for species in STUDY_SPECIES:
@@ -404,6 +425,7 @@ def main():
             df_filtered, species, env_vars,
             max_depth=args.max_depth,
             output_dir=args.output,
+            glossary=glossary,
         )
         all_results[species] = result
 

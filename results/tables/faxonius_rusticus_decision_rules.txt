@@ -3,81 +3,81 @@ Decision Rules for Faxonius rusticus
 Total leaves: 20
 
 Rule 1: NATIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 <= 1.4161 AND l_CLI17 <= 28.25
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) <= 28.25
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 2: INVASIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 <= 1.4161 AND l_CLI17 > 28.25 AND u_CLI7 <= 9.5531
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) > 28.25 AND Mean diurnal range (mean of monthly (max temp – min temp)) [mean] (°C) <= 9.5531
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 3: INVASIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 <= 1.4161 AND l_CLI17 > 28.25 AND u_CLI7 > 9.5531
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) > 28.25 AND Mean diurnal range (mean of monthly (max temp – min temp)) [mean] (°C) > 9.5531
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 4: INVASIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 <= 0.3822 AND u_TOP39 <= 2500806.875
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875
   Samples: 1 (native: 0.7%, invasive: 99.3%)
 
 Rule 5: NATIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 <= 0.3822 AND u_TOP39 > 2500806.875
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 2500806.875
   Samples: 1 (native: 62.2%, invasive: 37.8%)
 
 Rule 6: NATIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 > 0.3822 AND l_TOP2 <= 16326.0
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) > 0.3822 AND Cell maximum curvature (up-focal-down) [max] (m⁻¹) <= 16326.0
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 7: NATIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 > 0.3822 AND l_TOP2 > 16326.0
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) > 0.3822 AND Cell maximum curvature (up-focal-down) [max] (m⁻¹) > 16326.0
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 8: NATIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 <= 11.5 AND l_SOL46 <= 0.5
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [max] (%) <= 11.5 AND Soil acidity (WRB class-based) [max] (pH) <= 0.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 9: NATIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 <= 11.5 AND l_SOL46 > 0.5
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [max] (%) <= 11.5 AND Soil acidity (WRB class-based) [max] (pH) > 0.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 10: INVASIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 > 11.5 AND u_LAC13 <= 0.0665
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [max] (%) > 11.5 AND Grassland (130) (%) <= 0.0665
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 11: INVASIVE
-  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 > 11.5 AND u_LAC13 > 0.0665
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [max] (%) > 11.5 AND Grassland (130) (%) > 0.0665
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 12: INVASIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 <= 2293.5
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) <= 2293.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 13: INVASIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 <= 30.2203 AND u_SOL19 > 50.7653
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) > 50.7653
   Samples: 1 (native: 8.4%, invasive: 91.6%)
 
 Rule 14: NATIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 > 30.2203 AND l_CLI57 <= 14.65
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) <= 14.65
   Samples: 1 (native: 81.4%, invasive: 18.6%)
 
 Rule 15: INVASIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 <= 32.8909 AND l_SOL48 <= 0.4833
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 32.8909 AND Soil acidity (WRB class-based) [sd] (pH) <= 0.4833
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 16: NATIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 <= 32.8909 AND l_SOL48 > 0.4833
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 32.8909 AND Soil acidity (WRB class-based) [sd] (pH) > 0.4833
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 17: INVASIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 > 32.8909 AND l_SOL22 <= 3.5
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 32.8909 AND Coarse fragments by volume (>2 mm) [max] (v%) <= 3.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 18: NATIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 > 32.8909 AND l_SOL22 > 3.5
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 32.8909 AND Coarse fragments by volume (>2 mm) [max] (v%) > 3.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 19: NATIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 <= 30.2203 AND u_SOL19 <= 50.7653
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653
   Samples: 0 (native: 97.6%, invasive: 2.4%)
 
 Rule 20: INVASIVE
-  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 > 30.2203 AND l_CLI57 > 14.65
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) > 14.65
   Samples: 0 (native: 9.9%, invasive: 90.1%)

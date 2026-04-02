@@ -3,97 +3,97 @@ Decision Rules for Procambarus clarkii
 Total leaves: 24
 
 Rule 1: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 <= 258.85 AND l_LAC7 <= 0.9665 AND l_CLI30 > 23.5
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) > 23.5
   Samples: 1 (native: 5.3%, invasive: 94.7%)
 
 Rule 2: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 <= 258.85 AND l_LAC7 > 0.9665 AND l_SOL9 <= 32.5
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) > 0.9665 AND Clay fraction by weight (<0.0002 mm) [min] (w%) <= 32.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 3: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 > 258.85 AND l_CLI18 <= 31.6 AND l_CLI30 > 6.2
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) > 6.2
   Samples: 1 (native: 7.7%, invasive: 92.3%)
 
 Rule 4: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 > 258.85 AND l_CLI18 > 31.6 AND l_TOP124 <= 0.0138
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) <= 0.0138
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 5: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 > 822.75 AND l_TOP109 <= 2582.0
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) <= 2582.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 6: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 > 822.75 AND l_TOP109 > 2582.0 AND l_CLI66 <= 159.05
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) <= 159.05
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 7: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 > 822.75 AND l_TOP109 > 2582.0 AND l_CLI66 > 159.05 AND l_TOP109 > 6922.5
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) > 6922.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 8: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 <= 39.05 AND l_TOP102 <= 124.5 AND l_SOL17 <= 15.5
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) <= 15.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 9: NATIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 <= 39.05 AND l_TOP102 <= 124.5 AND l_SOL17 > 15.5 AND l_CLI2 <= 18.2
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) <= 18.2
   Samples: 1 (native: 86.6%, invasive: 13.4%)
 
 Rule 10: NATIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 <= 39.05 AND l_TOP102 <= 124.5 AND l_SOL17 > 15.5 AND l_CLI2 > 18.2
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) > 18.2
   Samples: 1 (native: 99.8%, invasive: 0.2%)
 
 Rule 11: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 <= 39.05 AND l_TOP102 > 124.5 AND l_TOP53 <= 1.0
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 124.5 AND Elev. diff. to basin outlet [min] (m) <= 1.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 12: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 <= 39.05 AND l_TOP102 > 124.5 AND l_TOP53 > 1.0
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 124.5 AND Elev. diff. to basin outlet [min] (m) > 1.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 13: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 <= 2238.0 AND l_TOP107 <= 9.5 AND l_TOP109 <= 2111.0
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) <= 9.5 AND Topological dimension of streams (–) <= 2111.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 14: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 <= 2238.0 AND l_TOP107 <= 9.5 AND l_TOP109 > 2111.0
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) <= 9.5 AND Topological dimension of streams (–) > 2111.0
   Samples: 1 (native: 21.6%, invasive: 78.4%)
 
 Rule 15: NATIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 <= 2238.0 AND l_TOP107 > 9.5
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) > 9.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 16: NATIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 > 2238.0 AND l_CLI49 <= 67.6 AND l_CLI6 <= 14.25
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) <= 67.6 AND Mean diurnal range (mean of monthly (max temp – min temp)) [max] (°C) <= 14.25
   Samples: 1 (native: 99.1%, invasive: 0.9%)
 
 Rule 17: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 > 2238.0 AND l_CLI49 <= 67.6 AND l_CLI6 > 14.25
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) <= 67.6 AND Mean diurnal range (mean of monthly (max temp – min temp)) [max] (°C) > 14.25
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 18: INVASIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 > 2238.0 AND l_CLI49 > 67.6 AND l_CLI38 <= 29.2
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) > 67.6 AND Mean temp. of warmest quarter [max] (°C) <= 29.2
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 19: NATIVE
-  IF l_CLI38 > 26.5 AND l_CLI57 > 39.05 AND l_TOP109 > 2238.0 AND l_CLI49 > 67.6 AND l_CLI38 > 29.2
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) > 67.6 AND Mean temp. of warmest quarter [max] (°C) > 29.2
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 20: INVASIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 <= 258.85 AND l_LAC7 <= 0.9665 AND l_CLI30 <= 23.5
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) <= 23.5
   Samples: 0 (native: 0.1%, invasive: 99.9%)
 
 Rule 21: NATIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 <= 258.85 AND l_LAC7 > 0.9665 AND l_SOL9 > 32.5
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) > 0.9665 AND Clay fraction by weight (<0.0002 mm) [min] (w%) > 32.5
   Samples: 0 (native: 93.9%, invasive: 6.1%)
 
 Rule 22: NATIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 > 258.85 AND l_CLI18 <= 31.6 AND l_CLI30 <= 6.2
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) <= 6.2
   Samples: 0 (native: 70.4%, invasive: 29.6%)
 
 Rule 23: NATIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 <= 822.75 AND l_CLI66 > 258.85 AND l_CLI18 > 31.6 AND l_TOP124 > 0.0138
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) > 0.0138
   Samples: 0 (native: 89.8%, invasive: 10.2%)
 
 Rule 24: NATIVE
-  IF l_CLI38 <= 26.5 AND l_CLI14 > 822.75 AND l_TOP109 > 2582.0 AND l_CLI66 > 159.05 AND l_TOP109 <= 6922.5
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) <= 6922.5
   Samples: 0 (native: 98.0%, invasive: 2.0%)

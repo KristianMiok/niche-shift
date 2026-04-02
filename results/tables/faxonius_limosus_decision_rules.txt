@@ -3,33 +3,33 @@ Decision Rules for Faxonius limosus
 Total leaves: 8
 
 Rule 1: INVASIVE
-  IF l_CLI25 <= 31.35 AND l_TOP102 <= 115.5 AND u_CLI15 <= 841.0063 AND l_TOP14 <= 501.0
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) <= 31.35 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 841.0063 AND Cell gradient [max] (–) <= 501.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 2: INVASIVE
-  IF l_CLI25 <= 31.35 AND l_TOP102 <= 115.5 AND u_CLI15 <= 841.0063 AND l_TOP14 > 501.0
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) <= 31.35 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 841.0063 AND Cell gradient [max] (–) > 501.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 3: NATIVE
-  IF l_CLI25 <= 31.35 AND l_TOP102 <= 115.5 AND u_CLI15 > 841.0063
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) <= 31.35 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 841.0063
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 4: NATIVE
-  IF l_CLI25 <= 31.35 AND l_TOP102 > 115.5 AND l_CLI60 <= 0.0665 AND l_SOL18 <= 21.5
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) <= 31.35 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 115.5 AND Precip. seasonality (CV) [sd] (kg/m²) <= 0.0665 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) <= 21.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 5: NATIVE
-  IF l_CLI25 <= 31.35 AND l_TOP102 > 115.5 AND l_CLI60 <= 0.0665 AND l_SOL18 > 21.5
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) <= 31.35 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 115.5 AND Precip. seasonality (CV) [sd] (kg/m²) <= 0.0665 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) > 21.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 6: INVASIVE
-  IF l_CLI25 <= 31.35 AND l_TOP102 > 115.5 AND l_CLI60 > 0.0665
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) <= 31.35 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 115.5 AND Precip. seasonality (CV) [sd] (kg/m²) > 0.0665
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 7: INVASIVE
-  IF l_CLI25 > 31.35 AND l_CLI61 <= 233.5
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) > 31.35 AND Precip. of wettest quarter [min] (kg/m²) <= 233.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 8: NATIVE
-  IF l_CLI25 > 31.35 AND l_CLI61 > 233.5
+  IF Temp. ann. range (bio5 – bio6) [min] (°C) > 31.35 AND Precip. of wettest quarter [min] (kg/m²) > 233.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)

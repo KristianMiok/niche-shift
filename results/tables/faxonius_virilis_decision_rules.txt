@@ -3,77 +3,77 @@ Decision Rules for Faxonius virilis
 Total leaves: 19
 
 Rule 1: NATIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 <= 996.617 AND l_CLI33 <= 25.65 AND u_TOP39 <= 602967.0312 AND l_SOL7 > 32.4159
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) > 32.4159
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 2: INVASIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 <= 996.617 AND l_CLI33 <= 25.65 AND u_TOP39 > 602967.0312 AND l_CLI9 <= 29.95
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 602967.0312 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 29.95
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 3: NATIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 <= 996.617 AND l_CLI33 <= 25.65 AND u_TOP39 > 602967.0312 AND l_CLI9 > 29.95
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 602967.0312 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 29.95
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 4: NATIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 <= 996.617 AND l_CLI33 > 25.65 AND l_CLI17 <= 34.7
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65 AND Max temp. of warmest month [min] (°C) <= 34.7
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 5: INVASIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 <= 996.617 AND l_CLI33 > 25.65 AND l_CLI17 > 34.7
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65 AND Max temp. of warmest month [min] (°C) > 34.7
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 6: NATIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 > 996.617 AND l_TOP60 <= 0.779
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Elevation difference between focal  grid cell and downstream node [sd] (m) <= 0.779
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 7: NATIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 > 996.617 AND l_TOP60 > 0.779
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Elevation difference between focal  grid cell and downstream node [sd] (m) > 0.779
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 8: NATIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 <= 826.4 AND l_TOP109 <= 4605.0 AND l_TOP105 <= 7.5 AND l_TOP90 <= 0.5
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Strahler’s stream order (–) <= 7.5 AND Cell downstream elevation difference (between focal cell and the next cell) [max] (–) <= 0.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 9: NATIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 <= 826.4 AND l_TOP109 <= 4605.0 AND l_TOP105 <= 7.5 AND l_TOP90 > 0.5
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Strahler’s stream order (–) <= 7.5 AND Cell downstream elevation difference (between focal cell and the next cell) [max] (–) > 0.5
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 10: INVASIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 <= 826.4 AND l_TOP109 <= 4605.0 AND l_TOP105 > 7.5
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Strahler’s stream order (–) > 7.5
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 11: INVASIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 <= 826.4 AND l_TOP109 > 4605.0 AND u_CLI31 <= 21.6821 AND l_TOP30 <= 2997894.0
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Mean temp. of wettest quarter [mean] (°C) <= 21.6821 AND Dist. to basin outlet [max] (m) <= 2997894.0
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 12: NATIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 <= 826.4 AND l_TOP109 > 4605.0 AND u_CLI31 <= 21.6821 AND l_TOP30 > 2997894.0
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Mean temp. of wettest quarter [mean] (°C) <= 21.6821 AND Dist. to basin outlet [max] (m) > 2997894.0
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 13: NATIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 <= 826.4 AND l_TOP109 > 4605.0 AND u_CLI31 > 21.6821
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Mean temp. of wettest quarter [mean] (°C) > 21.6821
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 14: INVASIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 > 826.4 AND l_CLI70 <= 129.25
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) <= 129.25
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 15: INVASIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 > 826.4 AND l_CLI70 > 129.25 AND l_CLI9 <= 37.05 AND l_SOL12 > 3.8079
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) > 3.8079
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 16: NATIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 > 826.4 AND l_CLI70 > 129.25 AND l_CLI9 > 37.05 AND l_CLI73 <= 33.55
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 37.05 AND Precip. of coldest quarter [min] (kg/m²) <= 33.55
   Samples: 1 (native: 100.0%, invasive: 0.0%)
 
 Rule 17: INVASIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 > 826.4 AND l_CLI70 > 129.25 AND l_CLI9 > 37.05 AND l_CLI73 > 33.55
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 37.05 AND Precip. of coldest quarter [min] (kg/m²) > 33.55
   Samples: 1 (native: 0.0%, invasive: 100.0%)
 
 Rule 18: INVASIVE
-  IF l_TOP30 <= 1332779.0 AND u_CLI15 <= 996.617 AND l_CLI33 <= 25.65 AND u_TOP39 <= 602967.0312 AND l_SOL7 <= 32.4159
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159
   Samples: 0 (native: 1.6%, invasive: 98.4%)
 
 Rule 19: NATIVE
-  IF l_TOP30 > 1332779.0 AND l_CLI14 > 826.4 AND l_CLI70 > 129.25 AND l_CLI9 <= 37.05 AND l_SOL12 <= 3.8079
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079
   Samples: 0 (native: 99.2%, invasive: 0.8%)

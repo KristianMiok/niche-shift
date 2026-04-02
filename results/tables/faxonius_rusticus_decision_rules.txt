@@ -1,0 +1,83 @@
+Decision Rules for Faxonius rusticus
+============================================================
+Total leaves: 20
+
+Rule 1: NATIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 <= 1.4161 AND l_CLI17 <= 28.25
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 <= 1.4161 AND l_CLI17 > 28.25 AND u_CLI7 <= 9.5531
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: INVASIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 <= 1.4161 AND l_CLI17 > 28.25 AND u_CLI7 > 9.5531
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 4: INVASIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 <= 0.3822 AND u_TOP39 <= 2500806.875
+  Samples: 1 (native: 0.7%, invasive: 99.3%)
+
+Rule 5: NATIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 <= 0.3822 AND u_TOP39 > 2500806.875
+  Samples: 1 (native: 62.2%, invasive: 37.8%)
+
+Rule 6: NATIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 > 0.3822 AND l_TOP2 <= 16326.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 7: NATIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 <= 28.654 AND u_TOP59 > 1.4161 AND l_CLI36 > 0.3822 AND l_TOP2 > 16326.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 8: NATIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 <= 11.5 AND l_SOL46 <= 0.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 9: NATIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 <= 11.5 AND l_SOL46 > 0.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 10: INVASIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 > 11.5 AND u_LAC13 <= 0.0665
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 11: INVASIVE
+  IF l_CLI21 <= -7.1 AND l_SOL11 > 28.654 AND l_SOL58 > 11.5 AND u_LAC13 > 0.0665
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 12: INVASIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 <= 2293.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 13: INVASIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 <= 30.2203 AND u_SOL19 > 50.7653
+  Samples: 1 (native: 8.4%, invasive: 91.6%)
+
+Rule 14: NATIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 > 30.2203 AND l_CLI57 <= 14.65
+  Samples: 1 (native: 81.4%, invasive: 18.6%)
+
+Rule 15: INVASIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 <= 32.8909 AND l_SOL48 <= 0.4833
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 16: NATIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 <= 32.8909 AND l_SOL48 > 0.4833
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 17: INVASIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 > 32.8909 AND l_SOL22 <= 3.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 18: NATIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 > 22.9658 AND u_SOL11 > 32.8909 AND l_SOL22 > 3.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 19: NATIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 <= 30.2203 AND u_SOL19 <= 50.7653
+  Samples: 0 (native: 97.6%, invasive: 2.4%)
+
+Rule 20: INVASIVE
+  IF l_CLI21 > -7.1 AND l_TOP109 > 2293.5 AND u_CLI59 <= 22.9658 AND u_CLI11 > 30.2203 AND l_CLI57 > 14.65
+  Samples: 0 (native: 9.9%, invasive: 90.1%)

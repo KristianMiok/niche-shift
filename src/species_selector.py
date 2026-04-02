@@ -19,35 +19,36 @@ from data_loader import (
     COL_SPECIES, COL_STATUS, COL_ACCURACY, COL_DISTANCE, COL_SEGMENT,
 )
 
-# Expected status values (adjust if data uses different labels)
+# Status values: only Native vs Alien (ignoring Introduced and Type locality)
 STATUS_NATIVE = "Native"
 STATUS_ALIEN = "Alien"
 
+# Core study species selected based on data availability
+STUDY_SPECIES = [
+    "Procambarus clarkii",       # Native: 2208, Alien: 8527
+    "Faxonius limosus",          # Native: 382,  Alien: 4089
+    "Pacifastacus leniusculus",  # Native: 117,  Alien: 4459
+    "Faxonius virilis",          # Native: 1856, Alien: 500
+    "Faxonius rusticus",         # Native: 1223, Alien: 670
+]
 
 def apply_quality_filters(df: pd.DataFrame, config: dict) -> pd.DataFrame:
     """
     Apply the quality filtering pipeline.
 
     Steps:
-        1. Keep only High accuracy records
-        2. Remove records beyond max snapping distance (1 km)
-        3. Deduplicate by segment per species per status
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Raw data.
-    config : dict
-        Selection criteria from species_config.yaml.
-
-    Returns
-    -------
-    pd.DataFrame
-        Filtered data.
+        1. Keep only Native and Alien status (drop Introduced, Type locality)
+        2. Keep only High accuracy records
+        3. Remove records beyond max snapping distance (1 km)
+        4. Deduplicate by segment per species per status
     """
     criteria = config["selection_criteria"]
     n_start = len(df)
     print(f"\nApplying quality filters (starting with {n_start:,} records)...")
+
+    # Step 0: Keep only Native and Alien (drop Introduced, Type locality)
+    df = df[df[COL_STATUS].isin([STATUS_NATIVE, STATUS_ALIEN])].copy()
+    print(f"  After status filter (Native/Alien only): {len(df):,} records")
 
     # Step 1: Accuracy filter
     acc_val = criteria.get("accuracy_filter", "High")
@@ -74,31 +75,21 @@ def select_species(df: pd.DataFrame, config: dict) -> pd.DataFrame:
     """
     Identify species with sufficient records in both native and invasive ranges.
 
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Quality-filtered data.
-    config : dict
-        Configuration with selection criteria and candidate species.
-
-    Returns
-    -------
-    pd.DataFrame
-        Summary table with record counts and qualification flag.
+    Filters to STUDY_SPECIES list and checks minimum record counts.
     """
     criteria = config["selection_criteria"]
     min_per_range = criteria.get("min_records_per_range", 40)
 
+    # Filter to study species only
+    df_study = df[df[COL_SPECIES].isin(STUDY_SPECIES)]
+    print(f"\nRecords for study species: {len(df_study):,}")
+
     # Count records per species per status
     counts = (
-        df.groupby([COL_SPECIES, COL_STATUS])
+        df_study.groupby([COL_SPECIES, COL_STATUS])
         .size()
         .reset_index(name="n_records")
     )
-
-    # Report actual status values
-    status_values = df[COL_STATUS].unique()
-    print(f"\nStatus values in filtered data: {status_values.tolist()}")
 
     # Pivot to native/alien counts
     native_counts = (
@@ -119,20 +110,9 @@ def select_species(df: pd.DataFrame, config: dict) -> pd.DataFrame:
     summary["n_alien"] = summary["n_alien"].astype(int)
     summary["n_total"] = summary["n_native"] + summary["n_alien"]
     summary["min_range_n"] = summary[["n_native", "n_alien"]].min(axis=1)
-
-    # Qualification flag
     summary["qualifies"] = summary["min_range_n"] >= min_per_range
 
-    # Mark candidate species
-    candidates = config.get("candidate_species", [])
-    candidate_names = [c["name"] for c in candidates]
-    summary["is_candidate"] = summary[COL_SPECIES].isin(candidate_names)
-
-    summary = summary.sort_values(
-        ["qualifies", "is_candidate", "n_total"],
-        ascending=[False, False, False],
-    ).reset_index(drop=True)
-
+    summary = summary.sort_values("n_total", ascending=False).reset_index(drop=True)
     return summary
 
 
@@ -160,28 +140,24 @@ def main():
         return
 
     min_n = config["selection_criteria"]["min_records_per_range"]
-    qualifying = summary[summary["qualifies"]]
-    has_alien = summary[summary["n_alien"] > 0]
 
     print(f"\n{'='*75}")
     print(f"SPECIES SELECTION RESULTS (min {min_n} records per range)")
     print(f"{'='*75}")
+    print(f"\nStudy species ({len(summary)}):")
+    print(summary.to_string(index=False))
 
-    print(f"\nQualifying species ({len(qualifying)}):")
-    if not qualifying.empty:
-        print(qualifying.to_string(index=False))
-    else:
-        print("  None found. Consider lowering min_records_per_range.")
-
-    print(f"\nAll species with any Alien records ({len(has_alien)}):")
-    if not has_alien.empty:
-        print(has_alien.to_string(index=False))
+    not_qual = summary[~summary["qualifies"]]
+    if not not_qual.empty:
+        print(f"\nWARNING: {len(not_qual)} species below threshold:")
+        print(not_qual[[COL_SPECIES, "n_native", "n_alien"]].to_string(index=False))
+        print("  Consider lowering min_records_per_range or removing these species.")
 
     # Save
     out_path = Path("data/interim/species_selection_summary.csv")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     summary.to_csv(out_path, index=False)
-    print(f"\nFull summary saved to {out_path}")
+    print(f"\nSummary saved to {out_path}")
 
 
 if __name__ == "__main__":

@@ -24,7 +24,7 @@ from data_loader import (
 )
 from species_selector import (
     apply_quality_filters, select_species,
-    STATUS_NATIVE, STATUS_ALIEN,
+    STATUS_NATIVE, STATUS_ALIEN, STUDY_SPECIES,
 )
 
 

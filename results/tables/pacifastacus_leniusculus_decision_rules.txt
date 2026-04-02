@@ -1,0 +1,51 @@
+Decision Rules for Pacifastacus leniusculus
+============================================================
+Total leaves: 12
+
+Rule 1: NATIVE
+  IF l_CLI58 <= 36.25 AND l_CLI26 <= 31.45 AND u_SOL23 <= 0.0265
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF l_CLI58 <= 36.25 AND l_CLI26 <= 31.45 AND u_SOL23 > 0.0265
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: NATIVE
+  IF l_CLI58 <= 36.25 AND l_CLI26 > 31.45 AND l_SOL35 <= 1.6772 AND l_SOL11 <= 27.2712 AND u_LAC12 <= 0.5929
+  Samples: 1 (native: 99.7%, invasive: 0.3%)
+
+Rule 4: INVASIVE
+  IF l_CLI58 <= 36.25 AND l_CLI26 > 31.45 AND l_SOL35 <= 1.6772 AND l_SOL11 <= 27.2712 AND u_LAC12 > 0.5929
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 5: INVASIVE
+  IF l_CLI58 <= 36.25 AND l_CLI26 > 31.45 AND l_SOL35 <= 1.6772 AND l_SOL11 > 27.2712
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: INVASIVE
+  IF l_CLI58 <= 36.25 AND l_CLI26 > 31.45 AND l_SOL35 > 1.6772
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: INVASIVE
+  IF l_CLI58 > 36.25 AND l_CLI30 <= 10.3 AND u_LAC2 <= 0.0001 AND l_SOL31 <= 12.6916
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 8: INVASIVE
+  IF l_CLI58 > 36.25 AND l_CLI30 <= 10.3 AND u_LAC2 <= 0.0001 AND l_SOL31 > 12.6916 AND u_LAC6 > 0.0503
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 9: INVASIVE
+  IF l_CLI58 > 36.25 AND l_CLI30 <= 10.3 AND u_LAC2 > 0.0001
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: NATIVE
+  IF l_CLI58 > 36.25 AND l_CLI30 > 10.3 AND u_CLI15 <= 513.3147
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 11: INVASIVE
+  IF l_CLI58 > 36.25 AND l_CLI30 > 10.3 AND u_CLI15 > 513.3147
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 12: NATIVE
+  IF l_CLI58 > 36.25 AND l_CLI30 <= 10.3 AND u_LAC2 <= 0.0001 AND l_SOL31 > 12.6916 AND u_LAC6 <= 0.0503
+  Samples: 0 (native: 99.6%, invasive: 0.4%)

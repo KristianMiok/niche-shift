@@ -1,0 +1,16 @@
+variable,description,native_threshold,invasive_threshold,native_depth,invasive_depth,native_importance,invasive_importance,in_both,threshold_shift,shift_pct
+l_CLI26,Temp. ann. range (bio5 – bio6) [max] (°C),31.65,33.15,0.0,0.0,0.202757,0.427373,True,1.5,4.7
+l_CLI18,Max temp. of warmest month [max] (°C),30.6,27.55,1.0,3.0,0.090133,0.338189,True,-3.05,-10.0
+l_CLI14,Temp. seasonality (SD × 100) [max] (°C/100),932.1,906.8,1.0,1.0,0.007643,0.018184,True,-25.3,-2.7
+l_SOL1,Derived saturated water content (vol. frac.) [min] (v%),38.5,,3.0,,0.489796,0.0,False,,
+u_TOP112,Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m),0.9998,,3.0,,0.235537,0.0,False,,
+u_SOL59,Probability of occurrence of R horizon [mean] (%),24.1631,,2.0,,0.149866,0.0,False,,
+l_CLI49,Precip. of wettest month [min] (kg/m²),107.55,,3.0,,0.10403,0.0,False,,
+l_CLI33,Mean temp. of driest quarter [min] (°C),-1.4,,2.0,,0.070562,0.0,False,,
+u_TOP31,Dist. to basin outlet [mean] (m),1281680.6875,,3.0,,0.053909,0.0,False,,
+u_LAC6,"Tree cover, broadleaved, deciduous   (%)",,0.5683,,2.0,0.0,0.018171,False,,
+l_CLI61,Precip. of wettest quarter [min] (kg/m²),,395.75,,1.0,0.0,0.011982,False,,
+l_SOL39,Soil organic carbon content in ‰ [mean] (g/kg),,4.5878,,2.0,0.0,0.009142,False,,
+l_TOP109,Topological dimension of streams (–),,6167.0,,3.0,0.0,0.006994,False,,
+l_SOL40,Soil organic carbon content in ‰ [sd] (g/kg),3.235,,3.0,,0.005807,0.0,False,,
+l_TOP125,"Long-term mean ann. flow (FLO1K, 1980-2010) [max] (m³/s)",,1825.2828,,3.0,0.0,0.003081,False,,

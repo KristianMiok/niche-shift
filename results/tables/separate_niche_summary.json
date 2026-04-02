@@ -1,0 +1,515 @@
+{
+  "Procambarus clarkii": {
+    "species": "Procambarus clarkii",
+    "native_cv": {
+      "accuracy": 0.9379542181887128,
+      "roc_auc": 0.9732002279969884
+    },
+    "invasive_cv": {
+      "accuracy": 0.8996717709050674,
+      "roc_auc": 0.9417744947651924
+    },
+    "native_n_presence": 2208,
+    "invasive_n_presence": 8527,
+    "native_top_splits": [
+      {
+        "variable": "l_CLI38",
+        "threshold": 26.7,
+        "depth": "0",
+        "n_samples": "4416",
+        "improvement": 0.341766
+      },
+      {
+        "variable": "l_CLI6",
+        "threshold": 10.05,
+        "depth": "2",
+        "n_samples": "338",
+        "improvement": 0.136943
+      },
+      {
+        "variable": "l_SOL42",
+        "threshold": 56.5,
+        "depth": "2",
+        "n_samples": "457",
+        "improvement": 0.12357
+      },
+      {
+        "variable": "l_LAC13",
+        "threshold": 0.5905,
+        "depth": "3",
+        "n_samples": "168",
+        "improvement": 0.111083
+      },
+      {
+        "variable": "l_CLI73",
+        "threshold": 409.35,
+        "depth": "3",
+        "n_samples": "74",
+        "improvement": 0.069829
+      }
+    ],
+    "invasive_top_splits": [
+      {
+        "variable": "l_CLI1",
+        "threshold": 12.4,
+        "depth": "0",
+        "n_samples": "17054",
+        "improvement": 0.259014
+      },
+      {
+        "variable": "l_CLI57",
+        "threshold": 34.45,
+        "depth": "3",
+        "n_samples": "566",
+        "improvement": 0.114188
+      },
+      {
+        "variable": "l_CLI19",
+        "threshold": 27.1588,
+        "depth": "2",
+        "n_samples": "427",
+        "improvement": 0.110537
+      },
+      {
+        "variable": "l_LAC21",
+        "threshold": 0.6745,
+        "depth": "3",
+        "n_samples": "72",
+        "improvement": 0.100222
+      },
+      {
+        "variable": "l_CLI14",
+        "threshold": 309.6,
+        "depth": "3",
+        "n_samples": "355",
+        "improvement": 0.094022
+      }
+    ],
+    "shared_variables": [],
+    "n_shared": 0
+  },
+  "Faxonius limosus": {
+    "species": "Faxonius limosus",
+    "native_cv": {
+      "accuracy": 0.9345029239766081,
+      "roc_auc": 0.9290222416088068
+    },
+    "invasive_cv": {
+      "accuracy": 0.8230623658808313,
+      "roc_auc": 0.8804590277178346
+    },
+    "native_n_presence": 382,
+    "invasive_n_presence": 4089,
+    "native_top_splits": [
+      {
+        "variable": "l_TOP29",
+        "threshold": 173157.5,
+        "depth": "3",
+        "n_samples": "29",
+        "improvement": 0.428062
+      },
+      {
+        "variable": "l_SOL31",
+        "threshold": 14.9861,
+        "depth": "2",
+        "n_samples": "41",
+        "improvement": 0.332919
+      },
+      {
+        "variable": "l_CLI32",
+        "threshold": 0.127,
+        "depth": "3",
+        "n_samples": "5",
+        "improvement": 0.32
+      },
+      {
+        "variable": "l_TOP6",
+        "threshold": 39877.5,
+        "depth": "3",
+        "n_samples": "16",
+        "improvement": 0.275
+      },
+      {
+        "variable": "l_CLI57",
+        "threshold": 14.35,
+        "depth": "0",
+        "n_samples": "764",
+        "improvement": 0.246667
+      }
+    ],
+    "invasive_top_splits": [
+      {
+        "variable": "l_TOP102",
+        "threshold": 114.5,
+        "depth": "0",
+        "n_samples": "8178",
+        "improvement": 0.164308
+      },
+      {
+        "variable": "l_TOP130",
+        "threshold": 0.0381,
+        "depth": "3",
+        "n_samples": "92",
+        "improvement": 0.148735
+      },
+      {
+        "variable": "l_CLI33",
+        "threshold": 19.5,
+        "depth": "2",
+        "n_samples": "149",
+        "improvement": 0.089695
+      },
+      {
+        "variable": "l_CLI30",
+        "threshold": 5.95,
+        "depth": "3",
+        "n_samples": "57",
+        "improvement": 0.082111
+      },
+      {
+        "variable": "l_CLI9",
+        "threshold": 25.6,
+        "depth": "2",
+        "n_samples": "575",
+        "improvement": 0.070984
+      }
+    ],
+    "shared_variables": [],
+    "n_shared": 0
+  },
+  "Pacifastacus leniusculus": {
+    "species": "Pacifastacus leniusculus",
+    "native_cv": {
+      "accuracy": 0.9488436632747457,
+      "roc_auc": 0.9527173913043478
+    },
+    "invasive_cv": {
+      "accuracy": 0.8562473434957457,
+      "roc_auc": 0.9210289605520507
+    },
+    "native_n_presence": 117,
+    "invasive_n_presence": 4459,
+    "native_top_splits": [
+      {
+        "variable": "l_CLI70",
+        "threshold": 197.0,
+        "depth": "0",
+        "n_samples": "234",
+        "improvement": 0.435106
+      },
+      {
+        "variable": "l_CLI14",
+        "threshold": 533.2,
+        "depth": "1",
+        "n_samples": "123",
+        "improvement": 0.059793
+      },
+      {
+        "variable": "l_CLI33",
+        "threshold": 7.55,
+        "depth": "1",
+        "n_samples": "111",
+        "improvement": 0.017856
+      },
+      {
+        "variable": "l_CLI32",
+        "threshold": 3.2222,
+        "depth": "2",
+        "n_samples": "119",
+        "improvement": 0.016105
+      },
+      {
+        "variable": "l_TOP129",
+        "threshold": 13.6376,
+        "depth": "3",
+        "n_samples": "118",
+        "improvement": 0.008046
+      }
+    ],
+    "invasive_top_splits": [
+      {
+        "variable": "u_TOP130",
+        "threshold": 0.0672,
+        "depth": "3",
+        "n_samples": "6",
+        "improvement": 0.277778
+      },
+      {
+        "variable": "l_CLI39",
+        "threshold": 20.5401,
+        "depth": "0",
+        "n_samples": "8918",
+        "improvement": 0.155828
+      },
+      {
+        "variable": "l_CLI1",
+        "threshold": 6.7,
+        "depth": "2",
+        "n_samples": "1173",
+        "improvement": 0.106844
+      },
+      {
+        "variable": "l_SOL21",
+        "threshold": 9.5,
+        "depth": "1",
+        "n_samples": "5975",
+        "improvement": 0.102883
+      },
+      {
+        "variable": "l_CLI14",
+        "threshold": 782.85,
+        "depth": "2",
+        "n_samples": "968",
+        "improvement": 0.077078
+      }
+    ],
+    "shared_variables": [
+      {
+        "variable": "l_CLI14",
+        "description": "Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+        "native_threshold": 533.2,
+        "invasive_threshold": 782.85,
+        "native_depth": "1",
+        "invasive_depth": "2",
+        "native_importance": 0.059793,
+        "invasive_importance": 0.077078,
+        "in_both": true,
+        "threshold_shift": 249.65,
+        "shift_pct": 46.8
+      }
+    ],
+    "n_shared": 1
+  },
+  "Faxonius virilis": {
+    "species": "Faxonius virilis",
+    "native_cv": {
+      "accuracy": 0.9005931370237217,
+      "roc_auc": 0.9387241122749357
+    },
+    "invasive_cv": {
+      "accuracy": 0.931,
+      "roc_auc": 0.9397500000000001
+    },
+    "native_n_presence": 1856,
+    "invasive_n_presence": 500,
+    "native_top_splits": [
+      {
+        "variable": "u_LAC4",
+        "threshold": 0.0054,
+        "depth": "3",
+        "n_samples": "12",
+        "improvement": 0.444444
+      },
+      {
+        "variable": "l_CLI26",
+        "threshold": 34.15,
+        "depth": "0",
+        "n_samples": "3712",
+        "improvement": 0.289033
+      },
+      {
+        "variable": "l_CLI70",
+        "threshold": 284.2,
+        "depth": "2",
+        "n_samples": "89",
+        "improvement": 0.23207
+      },
+      {
+        "variable": "l_CLI48",
+        "threshold": 2.5388,
+        "depth": "3",
+        "n_samples": "35",
+        "improvement": 0.197551
+      },
+      {
+        "variable": "l_CLI38",
+        "threshold": 23.5,
+        "depth": "3",
+        "n_samples": "286",
+        "improvement": 0.104683
+      }
+    ],
+    "invasive_top_splits": [
+      {
+        "variable": "l_TOP139",
+        "threshold": 0.6312,
+        "depth": "3",
+        "n_samples": "4",
+        "improvement": 0.375
+      },
+      {
+        "variable": "l_SOL26",
+        "threshold": 1520.5,
+        "depth": "3",
+        "n_samples": "81",
+        "improvement": 0.319288
+      },
+      {
+        "variable": "l_CLI26",
+        "threshold": 30.75,
+        "depth": "0",
+        "n_samples": "1000",
+        "improvement": 0.24189
+      },
+      {
+        "variable": "l_TOP116",
+        "threshold": 374.4,
+        "depth": "2",
+        "n_samples": "99",
+        "improvement": 0.23109
+      },
+      {
+        "variable": "l_SOL27",
+        "threshold": 1556.5507,
+        "depth": "3",
+        "n_samples": "34",
+        "improvement": 0.180854
+      }
+    ],
+    "shared_variables": [
+      {
+        "variable": "l_CLI26",
+        "description": "Temp. ann. range (bio5 \u2013 bio6) [max] (\u00b0C)",
+        "native_threshold": 34.15,
+        "invasive_threshold": 30.75,
+        "native_depth": "0",
+        "invasive_depth": "0",
+        "native_importance": 0.289033,
+        "invasive_importance": 0.24189,
+        "in_both": true,
+        "threshold_shift": -3.4,
+        "shift_pct": -10.0
+      }
+    ],
+    "n_shared": 1
+  },
+  "Faxonius rusticus": {
+    "species": "Faxonius rusticus",
+    "native_cv": {
+      "accuracy": 0.9080163599182004,
+      "roc_auc": 0.9073273840817693
+    },
+    "invasive_cv": {
+      "accuracy": 0.967910447761194,
+      "roc_auc": 0.9700991312096235
+    },
+    "native_n_presence": 1223,
+    "invasive_n_presence": 670,
+    "native_top_splits": [
+      {
+        "variable": "l_SOL1",
+        "threshold": 38.5,
+        "depth": "3",
+        "n_samples": "7",
+        "improvement": 0.489796
+      },
+      {
+        "variable": "u_TOP112",
+        "threshold": 0.9998,
+        "depth": "3",
+        "n_samples": "22",
+        "improvement": 0.235537
+      },
+      {
+        "variable": "l_CLI26",
+        "threshold": 31.65,
+        "depth": "0",
+        "n_samples": "2446",
+        "improvement": 0.202757
+      },
+      {
+        "variable": "u_SOL59",
+        "threshold": 24.1631,
+        "depth": "2",
+        "n_samples": "188",
+        "improvement": 0.149866
+      },
+      {
+        "variable": "l_CLI49",
+        "threshold": 107.55,
+        "depth": "3",
+        "n_samples": "134",
+        "improvement": 0.10403
+      }
+    ],
+    "invasive_top_splits": [
+      {
+        "variable": "l_CLI26",
+        "threshold": 33.15,
+        "depth": "0",
+        "n_samples": "1340",
+        "improvement": 0.427373
+      },
+      {
+        "variable": "l_CLI18",
+        "threshold": 27.55,
+        "depth": "3",
+        "n_samples": "31",
+        "improvement": 0.338189
+      },
+      {
+        "variable": "l_CLI14",
+        "threshold": 906.8,
+        "depth": "1",
+        "n_samples": "695",
+        "improvement": 0.018184
+      },
+      {
+        "variable": "u_LAC6",
+        "threshold": 0.5683,
+        "depth": "2",
+        "n_samples": "688",
+        "improvement": 0.018171
+      },
+      {
+        "variable": "l_CLI61",
+        "threshold": 395.75,
+        "depth": "1",
+        "n_samples": "645",
+        "improvement": 0.011982
+      }
+    ],
+    "shared_variables": [
+      {
+        "variable": "l_CLI26",
+        "description": "Temp. ann. range (bio5 \u2013 bio6) [max] (\u00b0C)",
+        "native_threshold": 31.65,
+        "invasive_threshold": 33.15,
+        "native_depth": "0",
+        "invasive_depth": "0",
+        "native_importance": 0.202757,
+        "invasive_importance": 0.427373,
+        "in_both": true,
+        "threshold_shift": 1.5,
+        "shift_pct": 4.7
+      },
+      {
+        "variable": "l_CLI18",
+        "description": "Max temp. of warmest month [max] (\u00b0C)",
+        "native_threshold": 30.6,
+        "invasive_threshold": 27.55,
+        "native_depth": "1",
+        "invasive_depth": "3",
+        "native_importance": 0.090133,
+        "invasive_importance": 0.338189,
+        "in_both": true,
+        "threshold_shift": -3.05,
+        "shift_pct": -10.0
+      },
+      {
+        "variable": "l_CLI14",
+        "description": "Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+        "native_threshold": 932.1,
+        "invasive_threshold": 906.8,
+        "native_depth": "1",
+        "invasive_depth": "1",
+        "native_importance": 0.007643,
+        "invasive_importance": 0.018184,
+        "in_both": true,
+        "threshold_shift": -25.3,
+        "shift_pct": -2.7
+      }
+    ],
+    "n_shared": 3
+  }
+}

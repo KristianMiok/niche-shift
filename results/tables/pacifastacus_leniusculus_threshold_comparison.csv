@@ -1,0 +1,14 @@
+variable,description,native_threshold,invasive_threshold,native_depth,invasive_depth,native_importance,invasive_importance,in_both,threshold_shift,shift_pct
+l_CLI14,Temp. seasonality (SD × 100) [max] (°C/100),533.2,782.85,1.0,2.0,0.059793,0.077078,True,249.65,46.8
+l_CLI70,Precip. of warmest quarter [max] (kg/m²),197.0,,0.0,,0.435106,0.0,False,,
+u_TOP130,"Long-term standart deviation ann. flow (FLO1K, 1980-2010) [mean] (m³/s)",,0.0672,,3.0,0.0,0.277778,False,,
+l_CLI39,Mean temp. of warmest quarter [mean] (°C),,20.5401,,0.0,0.0,0.155828,False,,
+l_CLI1,Ann. mean air temp. [min] (°C),,6.7,,2.0,0.0,0.106844,False,,
+l_SOL21,Coarse fragments by volume (>2 mm) [min] (v%),,9.5,,1.0,0.0,0.102883,False,,
+l_CLI21,Min temp. of coldest month [min] (°C),,2.2,,3.0,0.0,0.073448,False,,
+l_CLI19,Max temp. of warmest month [mean] (°C),,21.9886,,3.0,0.0,0.069323,False,,
+u_TOP31,Dist. to basin outlet [mean] (m),,705107.9062,,3.0,0.0,0.051791,False,,
+l_CLI30,Mean temp. of wettest quarter [max] (°C),,19.7,,3.0,0.0,0.049075,False,,
+l_CLI33,Mean temp. of driest quarter [min] (°C),7.55,,1.0,,0.017856,0.0,False,,
+l_CLI32,Mean temp. of wettest quarter [sd] (°C),3.2222,,2.0,,0.016105,0.0,False,,
+l_TOP129,"Long-term standart deviation ann. flow (FLO1K, 1980-2010) [max] (m³/s)",13.6376,,3.0,,0.008046,0.0,False,,

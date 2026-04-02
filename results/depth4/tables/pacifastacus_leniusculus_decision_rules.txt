@@ -1,0 +1,47 @@
+Decision Rules for Pacifastacus leniusculus
+============================================================
+Total leaves: 11
+
+Rule 1: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) <= 31.45 AND Coarse fragments by volume (>2 mm) [mean] (v%) <= 0.0265
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) <= 31.45 AND Coarse fragments by volume (>2 mm) [mean] (v%) > 0.0265
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) > 31.45 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 1.6772 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 27.2712
+  Samples: 1 (native: 99.5%, invasive: 0.5%)
+
+Rule 4: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) > 31.45 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 1.6772 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 27.2712
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 5: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) > 31.45 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 1.6772
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) <= 10.3 AND Cropland, irrigated / post-flooding (20) (%) <= 0.0001 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [mean] (cmolc/kg) <= 12.6916
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) <= 10.3 AND Cropland, irrigated / post-flooding (20) (%) > 0.0001
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 8: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) > 10.3 AND Mean temp. of warmest quarter [mean] (°C) <= 26.0184 AND Temp. seasonality (SD × 100) [sd] (°C/100) <= 0.0204
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 9: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) > 10.3 AND Mean temp. of warmest quarter [mean] (°C) <= 26.0184 AND Temp. seasonality (SD × 100) [sd] (°C/100) > 0.0204
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) > 10.3 AND Mean temp. of warmest quarter [mean] (°C) > 26.0184
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 11: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) <= 10.3 AND Cropland, irrigated / post-flooding (20) (%) <= 0.0001 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [mean] (cmolc/kg) > 12.6916
+  Samples: 0 (native: 99.3%, invasive: 0.7%)

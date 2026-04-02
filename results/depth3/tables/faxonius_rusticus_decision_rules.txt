@@ -1,0 +1,31 @@
+Decision Rules for Faxonius rusticus
+============================================================
+Total leaves: 7
+
+Rule 1: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161
+  Samples: 1 (native: 62.2%, invasive: 37.8%)
+
+Rule 2: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Cell gradient [sd] (–) <= 24287.0381
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 3: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Cell gradient [sd] (–) > 24287.0381
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 4: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) <= 2293.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 5: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658
+  Samples: 1 (native: 14.4%, invasive: 85.6%)
+
+Rule 6: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161
+  Samples: 0 (native: 1.3%, invasive: 98.7%)
+
+Rule 7: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658
+  Samples: 0 (native: 95.2%, invasive: 4.8%)

@@ -1,0 +1,55 @@
+Decision Rules for Faxonius rusticus
+============================================================
+Total leaves: 13
+
+Rule 1: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) <= 28.25
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) > 28.25
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) > 0.3822
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 4: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) <= 115.2904 AND Dist. to downstream node [sd] (m) <= 63.3271
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 5: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) <= 115.2904 AND Dist. to downstream node [sd] (m) > 63.3271
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 6: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) > 115.2904 AND Dist. to its nearest downstream stream grid cell [mean] (m) <= 116.7022
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) > 115.2904 AND Dist. to its nearest downstream stream grid cell [mean] (m) > 116.7022
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 8: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) <= 2293.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 9: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 32.8909
+  Samples: 1 (native: 2.1%, invasive: 97.9%)
+
+Rule 10: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 32.8909
+  Samples: 1 (native: 79.3%, invasive: 20.7%)
+
+Rule 11: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822
+  Samples: 0 (native: 1.1%, invasive: 98.9%)
+
+Rule 12: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203
+  Samples: 0 (native: 96.7%, invasive: 3.3%)
+
+Rule 13: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203
+  Samples: 0 (native: 33.2%, invasive: 66.8%)

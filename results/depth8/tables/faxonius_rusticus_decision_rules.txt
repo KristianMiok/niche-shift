@@ -1,0 +1,143 @@
+Decision Rules for Faxonius rusticus
+============================================================
+Total leaves: 35
+
+Rule 1: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) <= 28.25
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) > 28.25 AND Mean diurnal range (mean of monthly (max temp – min temp)) [mean] (°C) <= 9.5531
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) <= 1.4161 AND Max temp. of warmest month [min] (°C) > 28.25 AND Mean diurnal range (mean of monthly (max temp – min temp)) [mean] (°C) > 9.5531
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 4: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) <= 1569.5 AND Sand fraction by weight (0.05–2 mm) [sd] (w%) <= 5.051 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [mean] (cmolc/kg) <= 9.9267
+  Samples: 1 (native: 15.4%, invasive: 84.6%)
+
+Rule 5: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) <= 1569.5 AND Sand fraction by weight (0.05–2 mm) [sd] (w%) <= 5.051 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [mean] (cmolc/kg) > 9.9267
+  Samples: 1 (native: 0.1%, invasive: 99.9%)
+
+Rule 6: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) <= 1569.5 AND Sand fraction by weight (0.05–2 mm) [sd] (w%) > 5.051 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) <= 763.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 7: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) <= 1569.5 AND Sand fraction by weight (0.05–2 mm) [sd] (w%) > 5.051 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) > 763.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 8: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) > 1569.5 AND Cell stream course curvature of the focal cell [sd] (–) <= 4796.6607
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 9: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 2500806.875 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) > 1569.5 AND Cell stream course curvature of the focal cell [sd] (–) > 4796.6607
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 2500806.875 AND Segment downstream elevation difference [mean] (–) <= 3.3928
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 11: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) <= 0.3822 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 2500806.875 AND Segment downstream elevation difference [mean] (–) > 3.3928
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 12: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) > 0.3822 AND Mean temp. of wettest quarter [sd] (°C) <= 0.0245
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 13: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 28.654 AND Elevation difference between focal  grid cell and downstream node [mean] (m) > 1.4161 AND Mean temp. of driest quarter [sd] (°C) > 0.3822 AND Mean temp. of wettest quarter [sd] (°C) > 0.0245
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 14: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [min] (%) <= 5.5 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) <= 778.5834
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 15: NATIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [min] (%) <= 5.5 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) > 778.5834
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 16: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [min] (%) > 5.5 AND Stream power index – a measure of the erosive power of flowing water (Moore et al., 1991) (–) <= 0.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 17: INVASIVE
+  IF Min temp. of coldest month [min] (°C) <= -7.1 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 28.654 AND Probability of occurrence of R horizon [min] (%) > 5.5 AND Stream power index – a measure of the erosive power of flowing water (Moore et al., 1991) (–) > 0.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 18: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) <= 2293.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 19: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653 AND Mean temp. of driest quarter [min] (°C) <= -1.6 AND Precip. of wettest month [min] (kg/m²) <= 115.35
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 20: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653 AND Mean temp. of driest quarter [min] (°C) <= -1.6 AND Precip. of wettest month [min] (kg/m²) > 115.35
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 21: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653 AND Mean temp. of driest quarter [min] (°C) > -1.6 AND Outlet elevation (elevation of stream outlet) (m) <= 421.55 AND Mean temp. of driest quarter [mean] (°C) <= -1.3793
+  Samples: 1 (native: 35.4%, invasive: 64.6%)
+
+Rule 22: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653 AND Mean temp. of driest quarter [min] (°C) > -1.6 AND Outlet elevation (elevation of stream outlet) (m) > 421.55 AND Probability of occurrence of R horizon [sd] (%) <= 1.5431
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 23: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653 AND Mean temp. of driest quarter [min] (°C) > -1.6 AND Outlet elevation (elevation of stream outlet) (m) > 421.55 AND Probability of occurrence of R horizon [sd] (%) > 1.5431
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 24: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) > 50.7653 AND Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m) <= 0.7024
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 25: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) > 50.7653 AND Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m) > 0.7024
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 26: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) <= 14.65 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) <= 1559.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 27: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) <= 14.65 AND Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³) > 1559.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 28: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) > 14.65 AND Soil organic carbon content in ‰ [min] (g/kg) <= 8.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 29: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) > 14.65 AND Soil organic carbon content in ‰ [min] (g/kg) > 8.5 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 71.575
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 30: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 30.2203 AND Precip. seasonality (CV) [min] (kg/m²) > 14.65 AND Soil organic carbon content in ‰ [min] (g/kg) > 8.5 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 71.575
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 31: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 32.8909 AND Hack’s stream order (–) <= 7.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 32: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) <= 32.8909 AND Hack’s stream order (–) > 7.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 33: INVASIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 32.8909 AND Precip. seasonality (CV) [min] (kg/m²) <= 22.8
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 34: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) > 22.9658 AND Clay fraction by weight (<0.0002 mm) [mean] (w%) > 32.8909 AND Precip. seasonality (CV) [min] (kg/m²) > 22.8
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 35: NATIVE
+  IF Min temp. of coldest month [min] (°C) > -7.1 AND Topological dimension of streams (–) > 2293.5 AND Precip. seasonality (CV) [mean] (kg/m²) <= 22.9658 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 30.2203 AND Silt fraction by weight (0.0002–0.05 mm) [mean] (w%) <= 50.7653 AND Mean temp. of driest quarter [min] (°C) > -1.6 AND Outlet elevation (elevation of stream outlet) (m) <= 421.55 AND Mean temp. of driest quarter [mean] (°C) > -1.3793
+  Samples: 0 (native: 99.4%, invasive: 0.6%)

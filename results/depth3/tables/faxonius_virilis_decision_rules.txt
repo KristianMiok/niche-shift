@@ -1,0 +1,35 @@
+Decision Rules for Faxonius virilis
+============================================================
+Total leaves: 8
+
+Rule 1: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65
+  Samples: 1 (native: 59.0%, invasive: 41.0%)
+
+Rule 2: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Long-term standart deviation ann. flow (FLO1K, 1980-2010) [mean] (m³/s) <= 0.0029
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 3: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Long-term standart deviation ann. flow (FLO1K, 1980-2010) [mean] (m³/s) > 0.0029
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 4: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0
+  Samples: 1 (native: 0.8%, invasive: 99.2%)
+
+Rule 5: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of wettest quarter [max] (kg/m²) <= 148.75
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of wettest quarter [max] (kg/m²) > 148.75
+  Samples: 1 (native: 98.1%, invasive: 1.9%)
+
+Rule 7: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65
+  Samples: 0 (native: 2.6%, invasive: 97.4%)
+
+Rule 8: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0
+  Samples: 0 (native: 68.3%, invasive: 31.7%)

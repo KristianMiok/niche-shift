@@ -1,0 +1,35 @@
+Decision Rules for Pacifastacus leniusculus
+============================================================
+Total leaves: 8
+
+Rule 1: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) <= 31.45 AND Coarse fragments by volume (>2 mm) [mean] (v%) <= 0.0265
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) <= 31.45 AND Coarse fragments by volume (>2 mm) [mean] (v%) > 0.0265
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) > 31.45 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 1.6772
+  Samples: 1 (native: 98.7%, invasive: 1.3%)
+
+Rule 4: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) <= 36.25 AND Temp. ann. range (bio5 – bio6) [max] (°C) > 31.45 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 1.6772
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 5: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) <= 10.3 AND Cropland, irrigated / post-flooding (20) (%) > 0.0001
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: INVASIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) > 10.3 AND Sand fraction by weight (0.05–2 mm) [mean] (w%) <= 63.3674
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) > 10.3 AND Sand fraction by weight (0.05–2 mm) [mean] (w%) > 63.3674
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 8: NATIVE
+  IF Precip. seasonality (CV) [max] (kg/m²) > 36.25 AND Mean temp. of wettest quarter [max] (°C) <= 10.3 AND Cropland, irrigated / post-flooding (20) (%) <= 0.0001
+  Samples: 0 (native: 98.8%, invasive: 1.2%)

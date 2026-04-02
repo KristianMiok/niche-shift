@@ -1,0 +1,55 @@
+Decision Rules for Faxonius virilis
+============================================================
+Total leaves: 13
+
+Rule 1: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 602967.0312
+  Samples: 1 (native: 74.8%, invasive: 25.2%)
+
+Rule 2: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) <= 33.6768
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 3: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65 AND Isothermality (bio2 / bio7) (× 100) [mean] (°C) > 33.6768
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 4: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Elevation difference of the longest path from focal grid cell to the sub-catchment drainage divide [mean] (m) <= 0.8206
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 5: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Elevation difference of the longest path from focal grid cell to the sub-catchment drainage divide [mean] (m) > 0.8206
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 6: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Soil acidity (WRB class-based) [min] (pH) <= 0.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Soil acidity (WRB class-based) [min] (pH) > 0.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 8: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Length of the stream reach (m) <= 572.3465
+  Samples: 1 (native: 0.4%, invasive: 99.6%)
+
+Rule 9: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Length of the stream reach (m) > 572.3465
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 10: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of wettest month [max] (kg/m²) <= 56.6
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 11: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312
+  Samples: 0 (native: 1.9%, invasive: 98.1%)
+
+Rule 12: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of wettest month [max] (kg/m²) > 56.6 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05
+  Samples: 0 (native: 99.0%, invasive: 1.0%)
+
+Rule 13: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of wettest month [max] (kg/m²) > 56.6 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 37.05
+  Samples: 0 (native: 6.3%, invasive: 93.7%)

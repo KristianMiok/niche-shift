@@ -1,0 +1,202 @@
+[
+  {
+    "path": [
+      [
+        "l_TOP30",
+        "<=",
+        1332779.0
+      ],
+      [
+        "u_CLI15",
+        "<=",
+        996.617
+      ],
+      [
+        "l_CLI33",
+        "<=",
+        25.65
+      ]
+    ],
+    "class": "invasive",
+    "n_samples": 0,
+    "native_count": 0,
+    "invasive_count": 0,
+    "native_pct": 2.6,
+    "invasive_pct": 97.4
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        "<=",
+        1332779.0
+      ],
+      [
+        "u_CLI15",
+        "<=",
+        996.617
+      ],
+      [
+        "l_CLI33",
+        ">",
+        25.65
+      ]
+    ],
+    "class": "native",
+    "n_samples": 1,
+    "native_count": 0,
+    "invasive_count": 0,
+    "native_pct": 59.0,
+    "invasive_pct": 41.0
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        "<=",
+        1332779.0
+      ],
+      [
+        "u_CLI15",
+        ">",
+        996.617
+      ],
+      [
+        "l_TOP130",
+        "<=",
+        0.0029
+      ]
+    ],
+    "class": "native",
+    "n_samples": 1,
+    "native_count": 1,
+    "invasive_count": 0,
+    "native_pct": 100.0,
+    "invasive_pct": 0.0
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        "<=",
+        1332779.0
+      ],
+      [
+        "u_CLI15",
+        ">",
+        996.617
+      ],
+      [
+        "l_TOP130",
+        ">",
+        0.0029
+      ]
+    ],
+    "class": "native",
+    "n_samples": 1,
+    "native_count": 1,
+    "invasive_count": 0,
+    "native_pct": 100.0,
+    "invasive_pct": 0.0
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        ">",
+        1332779.0
+      ],
+      [
+        "l_CLI14",
+        "<=",
+        826.4
+      ],
+      [
+        "l_TOP109",
+        "<=",
+        4605.0
+      ]
+    ],
+    "class": "native",
+    "n_samples": 0,
+    "native_count": 0,
+    "invasive_count": 0,
+    "native_pct": 68.3,
+    "invasive_pct": 31.7
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        ">",
+        1332779.0
+      ],
+      [
+        "l_CLI14",
+        "<=",
+        826.4
+      ],
+      [
+        "l_TOP109",
+        ">",
+        4605.0
+      ]
+    ],
+    "class": "invasive",
+    "n_samples": 1,
+    "native_count": 0,
+    "invasive_count": 0,
+    "native_pct": 0.8,
+    "invasive_pct": 99.2
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        ">",
+        1332779.0
+      ],
+      [
+        "l_CLI14",
+        ">",
+        826.4
+      ],
+      [
+        "l_CLI62",
+        "<=",
+        148.75
+      ]
+    ],
+    "class": "invasive",
+    "n_samples": 1,
+    "native_count": 0,
+    "invasive_count": 1,
+    "native_pct": 0.0,
+    "invasive_pct": 100.0
+  },
+  {
+    "path": [
+      [
+        "l_TOP30",
+        ">",
+        1332779.0
+      ],
+      [
+        "l_CLI14",
+        ">",
+        826.4
+      ],
+      [
+        "l_CLI62",
+        ">",
+        148.75
+      ]
+    ],
+    "class": "native",
+    "n_samples": 1,
+    "native_count": 0,
+    "invasive_count": 0,
+    "native_pct": 98.1,
+    "invasive_pct": 1.9
+  }
+]

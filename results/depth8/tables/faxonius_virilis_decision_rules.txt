@@ -1,0 +1,119 @@
+Decision Rules for Faxonius virilis
+============================================================
+Total leaves: 29
+
+Rule 1: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159 AND Probability of occurrence of R horizon [sd] (%) <= 9.6414 AND Mean temp. of driest quarter [min] (°C) <= -2.8 AND Dist. to basin outlet [max] (m) <= 925886.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 2: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159 AND Probability of occurrence of R horizon [sd] (%) <= 9.6414 AND Mean temp. of driest quarter [min] (°C) <= -2.8 AND Dist. to basin outlet [max] (m) > 925886.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 3: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159 AND Probability of occurrence of R horizon [sd] (%) <= 9.6414 AND Mean temp. of driest quarter [min] (°C) > -2.8 AND Segment downstream distance (between focal cell and the node or outlet) [mean] (–) <= 0.7356
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 4: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159 AND Probability of occurrence of R horizon [sd] (%) > 9.6414 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 1.6704
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 5: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159 AND Probability of occurrence of R horizon [sd] (%) > 9.6414 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 1.6704
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 6: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) > 32.4159 AND Segment upstream elevation difference (between focal cell and the init or node) [mean] (–) <= 0.0625
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 7: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) > 32.4159 AND Segment upstream elevation difference (between focal cell and the init or node) [mean] (–) > 0.0625
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 8: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 602967.0312 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) (%) <= 0.3782
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 9: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 602967.0312 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) (%) > 0.3782
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 34.4
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 11: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) > 25.65 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 34.4
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 12: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Probability of occurrence of R horizon [mean] (%) <= 23.6132
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 13: NATIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) > 996.617 AND Probability of occurrence of R horizon [mean] (%) > 23.6132
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 14: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) <= 266644000.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 15: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) <= 4605.0 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) > 266644000.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 16: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) <= 167788.6719 AND Mean temp. of wettest quarter [mean] (°C) <= 21.6821
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 17: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) <= 167788.6719 AND Mean temp. of wettest quarter [mean] (°C) > 21.6821
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 18: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 826.4 AND Topological dimension of streams (–) > 4605.0 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) > 167788.6719
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 19: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) <= 129.25
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 20: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079 AND Topological dimension of streams (–) <= 2615.5 AND Cell upstream gradient between focal cell and the next cell [max] (–) <= 52524.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 21: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079 AND Topological dimension of streams (–) <= 2615.5 AND Cell upstream gradient between focal cell and the next cell [max] (–) > 52524.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 22: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079 AND Topological dimension of streams (–) > 2615.5 AND Stream power index – a measure of the erosive power of flowing water (Moore et al., 1991) (–) <= 0.3205 AND Derived saturated water content (vol. frac.) [min] (v%) <= 37.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 23: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079 AND Topological dimension of streams (–) > 2615.5 AND Stream power index – a measure of the erosive power of flowing water (Moore et al., 1991) (–) <= 0.3205 AND Derived saturated water content (vol. frac.) [min] (v%) > 37.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 24: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079 AND Topological dimension of streams (–) > 2615.5 AND Stream power index – a measure of the erosive power of flowing water (Moore et al., 1991) (–) > 0.3205 AND Clay fraction by weight (<0.0002 mm) [max] (w%) <= 37.5
+  Samples: 1 (native: 99.8%, invasive: 0.2%)
+
+Rule 25: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) <= 3.8079 AND Topological dimension of streams (–) > 2615.5 AND Stream power index – a measure of the erosive power of flowing water (Moore et al., 1991) (–) > 0.3205 AND Clay fraction by weight (<0.0002 mm) [max] (w%) > 37.5
+  Samples: 1 (native: 85.6%, invasive: 14.4%)
+
+Rule 26: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 37.05 AND Clay fraction by weight (<0.0002 mm) [sd] (w%) > 3.8079
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 27: NATIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 37.05 AND Probability of occurrence of R horizon [max] (%) <= 7.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 28: INVASIVE
+  IF Dist. to basin outlet [max] (m) > 1332779.0 AND Temp. seasonality (SD × 100) [max] (°C/100) > 826.4 AND Precip. of warmest quarter [max] (kg/m²) > 129.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 37.05 AND Probability of occurrence of R horizon [max] (%) > 7.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 29: INVASIVE
+  IF Dist. to basin outlet [max] (m) <= 1332779.0 AND Temp. seasonality (SD × 100) [mean] (°C/100) <= 996.617 AND Mean temp. of driest quarter [min] (°C) <= 25.65 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 602967.0312 AND Available water capacity (vol. frac.) [mean] (v%) <= 32.4159 AND Probability of occurrence of R horizon [sd] (%) <= 9.6414 AND Mean temp. of driest quarter [min] (°C) > -2.8 AND Segment downstream distance (between focal cell and the node or outlet) [mean] (–) > 0.7356
+  Samples: 0 (native: 0.3%, invasive: 99.7%)

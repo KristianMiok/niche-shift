@@ -1,0 +1,239 @@
+Decision Rules for Procambarus clarkii
+============================================================
+Total leaves: 59
+
+Rule 1: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) <= 23.5 AND Precip. of driest quarter [max] (kg/m²) <= 255.1 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [sd] (cmolc/kg) <= 0.0606
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 2: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) <= 23.5 AND Precip. of driest quarter [max] (kg/m²) <= 255.1 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [sd] (cmolc/kg) > 0.0606
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) <= 23.5 AND Precip. of driest quarter [max] (kg/m²) > 255.1 AND Cell downstream elevation difference (between focal cell and the next cell) [sd] (–) <= 0.25
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 4: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) <= 23.5 AND Precip. of driest quarter [max] (kg/m²) > 255.1 AND Cell downstream elevation difference (between focal cell and the next cell) [sd] (–) > 0.25 AND Cell gradient [mean] (–) <= 22093.4956
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 5: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) <= 23.5 AND Precip. of driest quarter [max] (kg/m²) > 255.1 AND Cell downstream elevation difference (between focal cell and the next cell) [sd] (–) > 0.25 AND Cell gradient [mean] (–) > 22093.4956
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) > 23.5 AND Probability of occurrence of R horizon [mean] (%) <= 24.1625
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) > 23.5 AND Probability of occurrence of R horizon [mean] (%) > 24.1625 AND Mean temp. of driest quarter [min] (°C) <= 11.0 AND Precip. of warmest quarter [max] (kg/m²) <= 379.15
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 8: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) > 23.5 AND Probability of occurrence of R horizon [mean] (%) > 24.1625 AND Mean temp. of driest quarter [min] (°C) <= 11.0 AND Precip. of warmest quarter [max] (kg/m²) > 379.15
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 9: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) > 23.5 AND Probability of occurrence of R horizon [mean] (%) > 24.1625 AND Mean temp. of driest quarter [min] (°C) > 11.0 AND Mean temp. of wettest quarter [sd] (°C) <= 0.0223
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) <= 0.9665 AND Mean temp. of wettest quarter [max] (°C) > 23.5 AND Probability of occurrence of R horizon [mean] (%) > 24.1625 AND Mean temp. of driest quarter [min] (°C) > 11.0 AND Mean temp. of wettest quarter [sd] (°C) > 0.0223
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 11: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) > 0.9665 AND Clay fraction by weight (<0.0002 mm) [min] (w%) <= 32.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 12: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) > 0.9665 AND Clay fraction by weight (<0.0002 mm) [min] (w%) > 32.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 604.4
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 13: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) <= 258.85 AND Tree cover, needleleaved, evergreen   (%) > 0.9665 AND Clay fraction by weight (<0.0002 mm) [min] (w%) > 32.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 604.4
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 14: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) <= 6.2 AND Available water capacity (vol. frac.) [sd] (v%) <= 0.4193
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 15: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) <= 6.2 AND Available water capacity (vol. frac.) [sd] (v%) > 0.4193 AND Segment downstream elevation difference [mean] (–) <= 4.6875 AND Euclidean distance between focal grid cell and the stream network [sd] (m) <= 48.1841
+  Samples: 1 (native: 79.4%, invasive: 20.6%)
+
+Rule 16: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) <= 6.2 AND Available water capacity (vol. frac.) [sd] (v%) > 0.4193 AND Segment downstream elevation difference [mean] (–) <= 4.6875 AND Euclidean distance between focal grid cell and the stream network [sd] (m) > 48.1841
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 17: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) <= 6.2 AND Available water capacity (vol. frac.) [sd] (v%) > 0.4193 AND Segment downstream elevation difference [mean] (–) > 4.6875 AND Grassland (130) (%) <= 0.126
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 18: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) <= 6.2 AND Available water capacity (vol. frac.) [sd] (v%) > 0.4193 AND Segment downstream elevation difference [mean] (–) > 4.6875 AND Grassland (130) (%) > 0.126
+  Samples: 1 (native: 79.4%, invasive: 20.6%)
+
+Rule 19: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) > 6.2 AND Mean temp. of driest quarter [min] (°C) <= 21.9
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 20: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) > 6.2 AND Mean temp. of driest quarter [min] (°C) > 21.9 AND Derived saturated water content (vol. frac.) [sd] (v%) <= 0.4491 AND Probability of occurrence of R horizon [mean] (%) <= 8.3334
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 21: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) > 6.2 AND Mean temp. of driest quarter [min] (°C) > 21.9 AND Derived saturated water content (vol. frac.) [sd] (v%) > 0.4491 AND Cell stream course curvature of the focal cell [sd] (–) <= 138.6496
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 22: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) > 6.2 AND Mean temp. of driest quarter [min] (°C) > 21.9 AND Derived saturated water content (vol. frac.) [sd] (v%) > 0.4491 AND Cell stream course curvature of the focal cell [sd] (–) > 138.6496
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 23: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) <= 0.0138
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 24: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) > 0.0138 AND Precip. seasonality (CV) [min] (kg/m²) <= 12.6
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 25: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) > 0.0138 AND Precip. seasonality (CV) [min] (kg/m²) > 12.6 AND Silt fraction by weight (0.0002–0.05 mm) [sd] (w%) <= 1.7506 AND Soil acidity (WRB class-based) [sd] (pH) <= 0.4229
+  Samples: 1 (native: 96.9%, invasive: 3.1%)
+
+Rule 26: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) > 0.0138 AND Precip. seasonality (CV) [min] (kg/m²) > 12.6 AND Silt fraction by weight (0.0002–0.05 mm) [sd] (w%) <= 1.7506 AND Soil acidity (WRB class-based) [sd] (pH) > 0.4229
+  Samples: 1 (native: 56.3%, invasive: 43.7%)
+
+Rule 27: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) > 31.6 AND Long-term mean ann. flow (FLO1K, 1980-2010) [min] (m³/s) > 0.0138 AND Precip. seasonality (CV) [min] (kg/m²) > 12.6 AND Silt fraction by weight (0.0002–0.05 mm) [sd] (w%) > 1.7506
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 28: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) <= 2582.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 29: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) <= 159.05
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 30: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) <= 6922.5 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 17.25
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 31: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) <= 6922.5 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 17.25 AND Precip. of wettest month [min] (kg/m²) <= 109.25 AND Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m) <= 0.9487
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 32: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) <= 6922.5 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 17.25 AND Precip. of wettest month [min] (kg/m²) <= 109.25 AND Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m) > 0.9487
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 33: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) <= 6922.5 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 17.25 AND Precip. of wettest month [min] (kg/m²) > 109.25 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) > 7.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 34: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) > 6922.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 35: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) <= 15.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 36: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) <= 18.2 AND Mean temp. of wettest quarter [max] (°C) <= 22.45 AND Mean temp. of driest quarter [min] (°C) <= 6.65
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 37: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) <= 18.2 AND Mean temp. of wettest quarter [max] (°C) <= 22.45 AND Mean temp. of driest quarter [min] (°C) > 6.65 AND Precip. of warmest quarter [max] (kg/m²) <= 320.85
+  Samples: 1 (native: 99.2%, invasive: 0.8%)
+
+Rule 38: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) <= 18.2 AND Mean temp. of wettest quarter [max] (°C) <= 22.45 AND Mean temp. of driest quarter [min] (°C) > 6.65 AND Precip. of warmest quarter [max] (kg/m²) > 320.85
+  Samples: 1 (native: 71.1%, invasive: 28.9%)
+
+Rule 39: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) <= 18.2 AND Mean temp. of wettest quarter [max] (°C) > 22.45
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 40: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) > 18.2 AND Mean temp. of coldest quarter [min] (°C) <= 16.0 AND Ann. precip. [max] (kg/m²) <= 364.55
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 41: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) > 18.2 AND Mean temp. of coldest quarter [min] (°C) <= 16.0 AND Ann. precip. [max] (kg/m²) > 364.55 AND Available water capacity (vol. frac.) [mean] (v%) <= 14.0975
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 42: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) > 18.2 AND Mean temp. of coldest quarter [min] (°C) <= 16.0 AND Ann. precip. [max] (kg/m²) > 364.55 AND Available water capacity (vol. frac.) [mean] (v%) > 14.0975
+  Samples: 1 (native: 99.8%, invasive: 0.2%)
+
+Rule 43: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) > 18.2 AND Mean temp. of coldest quarter [min] (°C) > 16.0 AND Euclidean distance between focal grid cell and the stream network [mean] (m) <= 172.9464
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 44: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 124.5 AND Silt fraction by weight (0.0002–0.05 mm) [min] (w%) > 15.5 AND Ann. mean air temp. [max] (°C) > 18.2 AND Mean temp. of coldest quarter [min] (°C) > 16.0 AND Euclidean distance between focal grid cell and the stream network [mean] (m) > 172.9464
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 45: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 124.5 AND Length of the stream as straight line (m) <= 159.5931
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 46: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 39.05 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 124.5 AND Length of the stream as straight line (m) > 159.5931
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 47: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) <= 9.5 AND Topological dimension of streams (–) <= 2111.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 48: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) <= 9.5 AND Topological dimension of streams (–) > 2111.0 AND Grassland (130) (%) <= 0.0595
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 49: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) <= 9.5 AND Topological dimension of streams (–) > 2111.0 AND Grassland (130) (%) > 0.0595
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 50: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) <= 2238.0 AND Hack’s stream order (–) > 9.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 51: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) <= 67.6 AND Mean diurnal range (mean of monthly (max temp – min temp)) [max] (°C) <= 14.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 46.35 AND Coarse fragments by volume (>2 mm) [min] (v%) <= 2.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 52: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) <= 67.6 AND Mean diurnal range (mean of monthly (max temp – min temp)) [max] (°C) <= 14.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) <= 46.35 AND Coarse fragments by volume (>2 mm) [min] (v%) > 2.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 53: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) <= 67.6 AND Mean diurnal range (mean of monthly (max temp – min temp)) [max] (°C) <= 14.25 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 46.35
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 54: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) <= 67.6 AND Mean diurnal range (mean of monthly (max temp – min temp)) [max] (°C) > 14.25
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 55: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) > 67.6 AND Mean temp. of warmest quarter [max] (°C) <= 29.2
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 56: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) > 67.6 AND Mean temp. of warmest quarter [max] (°C) > 29.2 AND Coarse fragments by volume (>2 mm) [min] (v%) <= 3.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 57: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 26.5 AND Precip. seasonality (CV) [min] (kg/m²) > 39.05 AND Topological dimension of streams (–) > 2238.0 AND Precip. of wettest month [min] (kg/m²) > 67.6 AND Mean temp. of warmest quarter [max] (°C) > 29.2 AND Coarse fragments by volume (>2 mm) [min] (v%) > 3.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 58: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 822.75 AND Precip. of driest quarter [max] (kg/m²) > 258.85 AND Max temp. of warmest month [max] (°C) <= 31.6 AND Mean temp. of wettest quarter [max] (°C) > 6.2 AND Mean temp. of driest quarter [min] (°C) > 21.9 AND Derived saturated water content (vol. frac.) [sd] (v%) <= 0.4491 AND Probability of occurrence of R horizon [mean] (%) > 8.3334
+  Samples: 0 (native: 74.3%, invasive: 25.7%)
+
+Rule 59: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 26.5 AND Temp. seasonality (SD × 100) [max] (°C/100) > 822.75 AND Topological dimension of streams (–) > 2582.0 AND Precip. of driest quarter [max] (kg/m²) > 159.05 AND Topological dimension of streams (–) <= 6922.5 AND Isothermality (bio2 / bio7) (× 100) [min] (°C) > 17.25 AND Precip. of wettest month [min] (kg/m²) > 109.25 AND Sediment transportation index – a metric for describing the erosion and deposition of sediments (Mojaddadi et al., 2017) (–) <= 7.5
+  Samples: 0 (native: 99.3%, invasive: 0.7%)

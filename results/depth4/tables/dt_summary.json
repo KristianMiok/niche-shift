@@ -1,0 +1,837 @@
+{
+  "Procambarus clarkii": {
+    "species": "Procambarus clarkii",
+    "n_native": 2208,
+    "n_invasive": 8527,
+    "n_features": 195,
+    "max_depth": 4,
+    "actual_depth": 4,
+    "n_leaves": "15",
+    "cv_scores": {
+      "accuracy_mean": 0.9790405216581277,
+      "accuracy_std": 0.003667446611090738,
+      "f1_mean": 0.9866904854877451,
+      "f1_std": 0.002384920358965226,
+      "roc_auc_mean": 0.9898696815173988,
+      "roc_auc_std": 0.002840168016300741
+    },
+    "classification_report": {
+      "native": {
+        "precision": 0.9426336375488917,
+        "recall": 0.9823369565217391,
+        "f1-score": 0.9620758483033932,
+        "support": 2208.0
+      },
+      "invasive": {
+        "precision": 0.9953758596158406,
+        "recall": 0.984519760759939,
+        "f1-score": 0.9899180472849478,
+        "support": 8527.0
+      },
+      "accuracy": 0.984070796460177,
+      "macro avg": {
+        "precision": 0.9690047485823662,
+        "recall": 0.983428358640839,
+        "f1-score": 0.9759969477941706,
+        "support": 10735.0
+      },
+      "weighted avg": {
+        "precision": 0.9845277155707708,
+        "recall": 0.984070796460177,
+        "f1-score": 0.9841913984399293,
+        "support": 10735.0
+      }
+    },
+    "top_features": [
+      {
+        "variable": "l_CLI38",
+        "importance": 0.6676635443165952,
+        "cumulative": 0.6676635443165952,
+        "rank": 1
+      },
+      {
+        "variable": "l_CLI57",
+        "importance": 0.16299713402462623,
+        "cumulative": 0.8306606783412215,
+        "rank": 2
+      },
+      {
+        "variable": "l_CLI14",
+        "importance": 0.06789466546286159,
+        "cumulative": 0.8985553438040831,
+        "rank": 3
+      },
+      {
+        "variable": "l_TOP109",
+        "importance": 0.04350106592891992,
+        "cumulative": 0.942056409733003,
+        "rank": 4
+      },
+      {
+        "variable": "l_CLI49",
+        "importance": 0.017254541403615705,
+        "cumulative": 0.9593109511366187,
+        "rank": 5
+      },
+      {
+        "variable": "l_CLI66",
+        "importance": 0.01666640224824977,
+        "cumulative": 0.9759773533848685,
+        "rank": 6
+      },
+      {
+        "variable": "l_CLI18",
+        "importance": 0.00880762624567442,
+        "cumulative": 0.9847849796305429,
+        "rank": 7
+      },
+      {
+        "variable": "l_TOP102",
+        "importance": 0.007257134515013163,
+        "cumulative": 0.9920421141455561,
+        "rank": 8
+      },
+      {
+        "variable": "l_SOL17",
+        "importance": 0.00389358965220998,
+        "cumulative": 0.9959357037977661,
+        "rank": 9
+      },
+      {
+        "variable": "l_LAC7",
+        "importance": 0.003115644226929716,
+        "cumulative": 0.9990513480246958,
+        "rank": 10
+      },
+      {
+        "variable": "l_TOP107",
+        "importance": 0.0009486519752988311,
+        "cumulative": 0.9999999999999946,
+        "rank": 11
+      },
+      {
+        "variable": "l_CLI12",
+        "importance": 5.399765751996901e-15,
+        "cumulative": 1.0,
+        "rank": 12
+      },
+      {
+        "variable": "l_TOP140",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 13
+      },
+      {
+        "variable": "l_TOP137",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 14
+      },
+      {
+        "variable": "l_TOP136",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 15
+      },
+      {
+        "variable": "l_TOP138",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 16
+      },
+      {
+        "variable": "l_TOP135",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 17
+      },
+      {
+        "variable": "l_TOP139",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 18
+      },
+      {
+        "variable": "l_TOP14",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 19
+      },
+      {
+        "variable": "l_TOP15",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 20
+      }
+    ],
+    "n_rules": 15
+  },
+  "Faxonius limosus": {
+    "species": "Faxonius limosus",
+    "n_native": 382,
+    "n_invasive": 4089,
+    "n_features": 270,
+    "max_depth": 4,
+    "actual_depth": 4,
+    "n_leaves": "8",
+    "cv_scores": {
+      "accuracy_mean": 0.9993288590604028,
+      "accuracy_std": 0.0013422818791946512,
+      "f1_mean": 0.9996330275229358,
+      "f1_std": 0.0007339449541284181,
+      "roc_auc_mean": 0.9984397117488097,
+      "roc_auc_std": 0.003120576502380601
+    },
+    "classification_report": {
+      "native": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 382.0
+      },
+      "invasive": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4089.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4471.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4471.0
+      }
+    },
+    "top_features": [
+      {
+        "variable": "l_CLI25",
+        "importance": 0.8969768782600828,
+        "cumulative": 0.8969768782600828,
+        "rank": 1
+      },
+      {
+        "variable": "l_TOP102",
+        "importance": 0.08760581130639172,
+        "cumulative": 0.9845826895664744,
+        "rank": 2
+      },
+      {
+        "variable": "l_CLI61",
+        "importance": 0.008278770942601049,
+        "cumulative": 0.9928614605090755,
+        "rank": 3
+      },
+      {
+        "variable": "u_CLI15",
+        "importance": 0.005221861732370287,
+        "cumulative": 0.9980833222414458,
+        "rank": 4
+      },
+      {
+        "variable": "l_CLI60",
+        "importance": 0.0019166777585517426,
+        "cumulative": 0.9999999999999976,
+        "rank": 5
+      },
+      {
+        "variable": "l_TOP14",
+        "importance": 2.429946681629451e-15,
+        "cumulative": 1.0,
+        "rank": 6
+      },
+      {
+        "variable": "l_SOL18",
+        "importance": 1.5694252180561772e-17,
+        "cumulative": 1.0,
+        "rank": 7
+      },
+      {
+        "variable": "l_TOP90",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 8
+      },
+      {
+        "variable": "l_TOP9",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 9
+      },
+      {
+        "variable": "l_TOP89",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 10
+      },
+      {
+        "variable": "l_TOP85",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 11
+      },
+      {
+        "variable": "l_TOP92",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 12
+      },
+      {
+        "variable": "l_TOP83",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 13
+      },
+      {
+        "variable": "l_TOP79",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 14
+      },
+      {
+        "variable": "l_TOP78",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 15
+      },
+      {
+        "variable": "l_TOP76",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 16
+      },
+      {
+        "variable": "l_TOP75",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 17
+      },
+      {
+        "variable": "l_TOP74",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 18
+      },
+      {
+        "variable": "l_TOP73",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 19
+      },
+      {
+        "variable": "l_TOP91",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 20
+      }
+    ],
+    "n_rules": 8
+  },
+  "Pacifastacus leniusculus": {
+    "species": "Pacifastacus leniusculus",
+    "n_native": 117,
+    "n_invasive": 4459,
+    "n_features": 292,
+    "max_depth": 4,
+    "actual_depth": 4,
+    "n_leaves": "11",
+    "cv_scores": {
+      "accuracy_mean": 0.986449519173408,
+      "accuracy_std": 0.0062836089499637955,
+      "f1_mean": 0.993010485900828,
+      "f1_std": 0.0032585622269187486,
+      "roc_auc_mean": 0.9440755295092561,
+      "roc_auc_std": 0.029639174650356943
+    },
+    "classification_report": {
+      "native": {
+        "precision": 0.7905405405405406,
+        "recall": 1.0,
+        "f1-score": 0.8830188679245283,
+        "support": 117.0
+      },
+      "invasive": {
+        "precision": 1.0,
+        "recall": 0.9930477685579726,
+        "f1-score": 0.9965117587487341,
+        "support": 4459.0
+      },
+      "accuracy": 0.9932255244755245,
+      "macro avg": {
+        "precision": 0.8952702702702703,
+        "recall": 0.9965238842789863,
+        "f1-score": 0.9397653133366313,
+        "support": 4576.0
+      },
+      "weighted avg": {
+        "precision": 0.9946445024570025,
+        "recall": 0.9932255244755245,
+        "f1-score": 0.9936099518810697,
+        "support": 4576.0
+      }
+    },
+    "top_features": [
+      {
+        "variable": "l_CLI58",
+        "importance": 0.758261429238081,
+        "cumulative": 0.758261429238081,
+        "rank": 1
+      },
+      {
+        "variable": "l_CLI26",
+        "importance": 0.12127814210332181,
+        "cumulative": 0.8795395713414028,
+        "rank": 2
+      },
+      {
+        "variable": "l_CLI30",
+        "importance": 0.0364641132744579,
+        "cumulative": 0.9160036846158607,
+        "rank": 3
+      },
+      {
+        "variable": "l_SOL35",
+        "importance": 0.032921541719254446,
+        "cumulative": 0.9489252263351151,
+        "rank": 4
+      },
+      {
+        "variable": "u_SOL23",
+        "importance": 0.01717645545491767,
+        "cumulative": 0.9661016817900328,
+        "rank": 5
+      },
+      {
+        "variable": "u_CLI39",
+        "importance": 0.013046856955459613,
+        "cumulative": 0.9791485387454923,
+        "rank": 6
+      },
+      {
+        "variable": "u_LAC2",
+        "importance": 0.010590213632574974,
+        "cumulative": 0.9897387523780673,
+        "rank": 7
+      },
+      {
+        "variable": "l_SOL31",
+        "importance": 0.008921516391307394,
+        "cumulative": 0.9986602687693746,
+        "rank": 8
+      },
+      {
+        "variable": "l_SOL11",
+        "importance": 0.0013397312306249994,
+        "cumulative": 0.9999999999999997,
+        "rank": 9
+      },
+      {
+        "variable": "l_CLI16",
+        "importance": 1.0836030034035637e-16,
+        "cumulative": 0.9999999999999998,
+        "rank": 10
+      },
+      {
+        "variable": "l_CLI1",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 11
+      },
+      {
+        "variable": "l_TOP85",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 12
+      },
+      {
+        "variable": "l_TOP9",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 13
+      },
+      {
+        "variable": "l_TOP89",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 14
+      },
+      {
+        "variable": "l_TOP87",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 15
+      },
+      {
+        "variable": "l_TOP78",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 16
+      },
+      {
+        "variable": "l_TOP83",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 17
+      },
+      {
+        "variable": "l_TOP8",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 18
+      },
+      {
+        "variable": "l_TOP79",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 19
+      },
+      {
+        "variable": "l_TOP76",
+        "importance": 0.0,
+        "cumulative": 0.9999999999999998,
+        "rank": 20
+      }
+    ],
+    "n_rules": 11
+  },
+  "Faxonius virilis": {
+    "species": "Faxonius virilis",
+    "n_native": 1856,
+    "n_invasive": 500,
+    "n_features": 277,
+    "max_depth": 4,
+    "actual_depth": 4,
+    "n_leaves": "13",
+    "cv_scores": {
+      "accuracy_mean": 0.9741102594551801,
+      "accuracy_std": 0.0031050074075683227,
+      "f1_mean": 0.9406058803589741,
+      "f1_std": 0.00796007794508198,
+      "roc_auc_mean": 0.9721518925890502,
+      "roc_auc_std": 0.011622737208119741
+    },
+    "classification_report": {
+      "native": {
+        "precision": 0.9967231021299836,
+        "recall": 0.9832974137931034,
+        "f1-score": 0.9899647409818281,
+        "support": 1856.0
+      },
+      "invasive": {
+        "precision": 0.940952380952381,
+        "recall": 0.988,
+        "f1-score": 0.9639024390243902,
+        "support": 500.0
+      },
+      "accuracy": 0.984295415959253,
+      "macro avg": {
+        "precision": 0.9688377415411823,
+        "recall": 0.9856487068965517,
+        "f1-score": 0.9769335900031091,
+        "support": 2356.0
+      },
+      "weighted avg": {
+        "precision": 0.9848872105388115,
+        "recall": 0.984295415959253,
+        "f1-score": 0.9844336921793158,
+        "support": 2356.0
+      }
+    },
+    "top_features": [
+      {
+        "variable": "l_TOP30",
+        "importance": 0.6354382931267429,
+        "cumulative": 0.6354382931267429,
+        "rank": 1
+      },
+      {
+        "variable": "l_CLI14",
+        "importance": 0.20893235524720982,
+        "cumulative": 0.8443706483739528,
+        "rank": 2
+      },
+      {
+        "variable": "l_CLI50",
+        "importance": 0.07835042696803568,
+        "cumulative": 0.9227210753419886,
+        "rank": 3
+      },
+      {
+        "variable": "u_CLI15",
+        "importance": 0.026093004723274554,
+        "cumulative": 0.9488140800652631,
+        "rank": 4
+      },
+      {
+        "variable": "l_CLI9",
+        "importance": 0.015383986175162939,
+        "cumulative": 0.964198066240426,
+        "rank": 5
+      },
+      {
+        "variable": "l_CLI33",
+        "importance": 0.009660370795047052,
+        "cumulative": 0.973858437035473,
+        "rank": 6
+      },
+      {
+        "variable": "u_TOP39",
+        "importance": 0.008824557400509699,
+        "cumulative": 0.9826829944359827,
+        "rank": 7
+      },
+      {
+        "variable": "u_CLI11",
+        "importance": 0.007491378427923568,
+        "cumulative": 0.9901743728639063,
+        "rank": 8
+      },
+      {
+        "variable": "l_TOP109",
+        "importance": 0.005805903192748414,
+        "cumulative": 0.9959802760566547,
+        "rank": 9
+      },
+      {
+        "variable": "l_SOL45",
+        "importance": 0.002892845586010421,
+        "cumulative": 0.9988731216426652,
+        "rank": 10
+      },
+      {
+        "variable": "u_TOP110",
+        "importance": 0.0011268783573339719,
+        "cumulative": 0.9999999999999991,
+        "rank": 11
+      },
+      {
+        "variable": "u_TOP47",
+        "importance": 9.579304514821624e-16,
+        "cumulative": 1.0,
+        "rank": 12
+      },
+      {
+        "variable": "l_TOP86",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 13
+      },
+      {
+        "variable": "l_TOP85",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 14
+      },
+      {
+        "variable": "l_TOP83",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 15
+      },
+      {
+        "variable": "l_TOP79",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 16
+      },
+      {
+        "variable": "l_TOP87",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 17
+      },
+      {
+        "variable": "l_CLI1",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 18
+      },
+      {
+        "variable": "l_TOP89",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 19
+      },
+      {
+        "variable": "l_TOP78",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 20
+      }
+    ],
+    "n_rules": 13
+  },
+  "Faxonius rusticus": {
+    "species": "Faxonius rusticus",
+    "n_native": 1223,
+    "n_invasive": 670,
+    "n_features": 271,
+    "max_depth": 4,
+    "actual_depth": 4,
+    "n_leaves": "13",
+    "cv_scores": {
+      "accuracy_mean": 0.963025784925521,
+      "accuracy_std": 0.0068671696061365795,
+      "f1_mean": 0.9473676576174977,
+      "f1_std": 0.010134696303958074,
+      "roc_auc_mean": 0.9560200960736631,
+      "roc_auc_std": 0.01421206682492405
+    },
+    "classification_report": {
+      "native": {
+        "precision": 0.9812550937245313,
+        "recall": 0.9844644317252658,
+        "f1-score": 0.9828571428571429,
+        "support": 1223.0
+      },
+      "invasive": {
+        "precision": 0.9714714714714715,
+        "recall": 0.9656716417910448,
+        "f1-score": 0.968562874251497,
+        "support": 670.0
+      },
+      "accuracy": 0.9778129952456418,
+      "macro avg": {
+        "precision": 0.9763632825980014,
+        "recall": 0.9750680367581552,
+        "f1-score": 0.97571000855432,
+        "support": 1893.0
+      },
+      "weighted avg": {
+        "precision": 0.9777923219815043,
+        "recall": 0.9778129952456418,
+        "f1-score": 0.977797893007284,
+        "support": 1893.0
+      }
+    },
+    "top_features": [
+      {
+        "variable": "l_CLI21",
+        "importance": 0.4421322998516271,
+        "cumulative": 0.4421322998516271,
+        "rank": 1
+      },
+      {
+        "variable": "l_TOP109",
+        "importance": 0.4336713983897111,
+        "cumulative": 0.8758036982413382,
+        "rank": 2
+      },
+      {
+        "variable": "u_CLI59",
+        "importance": 0.0623124551114564,
+        "cumulative": 0.9381161533527946,
+        "rank": 3
+      },
+      {
+        "variable": "u_CLI11",
+        "importance": 0.02127350845072683,
+        "cumulative": 0.9593896618035215,
+        "rank": 4
+      },
+      {
+        "variable": "l_SOL11",
+        "importance": 0.01213197270648098,
+        "cumulative": 0.9715216345100025,
+        "rank": 5
+      },
+      {
+        "variable": "u_SOL11",
+        "importance": 0.007953981132236972,
+        "cumulative": 0.9794756156422395,
+        "rank": 6
+      },
+      {
+        "variable": "l_TOP140",
+        "importance": 0.006579755337989417,
+        "cumulative": 0.9860553709802289,
+        "rank": 7
+      },
+      {
+        "variable": "u_TOP59",
+        "importance": 0.006346492331856843,
+        "cumulative": 0.9924018633120857,
+        "rank": 8
+      },
+      {
+        "variable": "l_CLI17",
+        "importance": 0.004084802698088677,
+        "cumulative": 0.9964866660101743,
+        "rank": 9
+      },
+      {
+        "variable": "l_CLI36",
+        "importance": 0.0035133339898256576,
+        "cumulative": 1.0,
+        "rank": 10
+      },
+      {
+        "variable": "l_TOP36",
+        "importance": 5.494674941266605e-18,
+        "cumulative": 1.0,
+        "rank": 11
+      },
+      {
+        "variable": "l_TOP27",
+        "importance": 3.829572225686573e-18,
+        "cumulative": 1.0,
+        "rank": 12
+      },
+      {
+        "variable": "l_TOP9",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 13
+      },
+      {
+        "variable": "l_TOP79",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 14
+      },
+      {
+        "variable": "l_TOP8",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 15
+      },
+      {
+        "variable": "l_TOP76",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 16
+      },
+      {
+        "variable": "l_TOP83",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 17
+      },
+      {
+        "variable": "l_TOP75",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 18
+      },
+      {
+        "variable": "l_TOP85",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 19
+      },
+      {
+        "variable": "l_TOP74",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 20
+      }
+    ],
+    "n_rules": 13
+  }
+}

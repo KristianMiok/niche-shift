@@ -72,5 +72,3 @@ crayfish-niche-shift/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
-codebase.

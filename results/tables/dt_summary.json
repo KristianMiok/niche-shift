@@ -833,5 +833,172 @@
       }
     ],
     "n_rules": 20
+  },
+  "Procambarus acutus": {
+    "species": "Procambarus acutus",
+    "n_native": 2437,
+    "n_invasive": 50,
+    "n_features": 193,
+    "max_depth": 5,
+    "actual_depth": 2,
+    "n_leaves": "3",
+    "cv_scores": {
+      "accuracy_mean": 0.9995975855130783,
+      "accuracy_std": 0.0008048289738430635,
+      "f1_mean": 0.9904761904761905,
+      "f1_std": 0.019047619047619067,
+      "roc_auc_mean": 0.999794661190965,
+      "roc_auc_std": 0.00041067761806981015
+    },
+    "classification_report": {
+      "native": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2437.0
+      },
+      "invasive": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2487.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2487.0
+      }
+    },
+    "top_features": [
+      {
+        "variable": "l_CLI38",
+        "importance": 1.0,
+        "cumulative": 1.0,
+        "rank": 1
+      },
+      {
+        "variable": "l_CLI12",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 2
+      },
+      {
+        "variable": "l_TOP137",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 3
+      },
+      {
+        "variable": "l_TOP127",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 4
+      },
+      {
+        "variable": "l_TOP129",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 5
+      },
+      {
+        "variable": "l_TOP13",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 6
+      },
+      {
+        "variable": "l_TOP130",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 7
+      },
+      {
+        "variable": "l_TOP132",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 8
+      },
+      {
+        "variable": "l_TOP133",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 9
+      },
+      {
+        "variable": "l_TOP134",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 10
+      },
+      {
+        "variable": "l_TOP135",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 11
+      },
+      {
+        "variable": "l_TOP136",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 12
+      },
+      {
+        "variable": "l_TOP138",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 13
+      },
+      {
+        "variable": "l_TOP125",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 14
+      },
+      {
+        "variable": "l_TOP139",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 15
+      },
+      {
+        "variable": "l_TOP14",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 16
+      },
+      {
+        "variable": "l_TOP141",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 17
+      },
+      {
+        "variable": "l_TOP142",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 18
+      },
+      {
+        "variable": "l_TOP143",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 19
+      },
+      {
+        "variable": "l_TOP144",
+        "importance": 0.0,
+        "cumulative": 1.0,
+        "rank": 20
+      }
+    ],
+    "n_rules": 3
   }
 }

@@ -1,0 +1,1356 @@
+species,fold,variable,importance,type
+Faxonius rusticus,1,l_CLI1,0.013740323329735609,Climate
+Faxonius rusticus,1,l_CLI12,0.00029745716439574056,Climate
+Faxonius rusticus,1,l_CLI14,0.01986968981503442,Climate
+Faxonius rusticus,1,l_CLI16,0.0003146680404151015,Climate
+Faxonius rusticus,1,l_CLI17,0.0024618186095593146,Climate
+Faxonius rusticus,1,l_CLI20,0.0003157683015784986,Climate
+Faxonius rusticus,1,l_CLI21,0.05055203442912895,Climate
+Faxonius rusticus,1,l_CLI24,0.0002775012019170898,Climate
+Faxonius rusticus,1,l_CLI26,0.052346746281855226,Climate
+Faxonius rusticus,1,l_CLI28,0.0002185759973431383,Climate
+Faxonius rusticus,1,l_CLI30,0.0035249000325164865,Climate
+Faxonius rusticus,1,l_CLI32,0.00016142652157159326,Climate
+Faxonius rusticus,1,l_CLI33,0.04560435291476346,Climate
+Faxonius rusticus,1,l_CLI36,0.00029384315149354965,Climate
+Faxonius rusticus,1,l_CLI38,0.0020663505039265244,Climate
+Faxonius rusticus,1,l_CLI4,0.00019749904425558768,Climate
+Faxonius rusticus,1,l_CLI40,0.00012175428610563383,Climate
+Faxonius rusticus,1,l_CLI44,0.00018137071637009332,Climate
+Faxonius rusticus,1,l_CLI45,0.003163262709636154,Climate
+Faxonius rusticus,1,l_CLI49,0.0031940857700045178,Climate
+Faxonius rusticus,1,l_CLI52,0.0003453912894720069,Climate
+Faxonius rusticus,1,l_CLI57,0.04199730581919737,Climate
+Faxonius rusticus,1,l_CLI6,0.0033954764299644015,Climate
+Faxonius rusticus,1,l_CLI60,0.0002666764981282118,Climate
+Faxonius rusticus,1,l_CLI62,0.003372788436758257,Climate
+Faxonius rusticus,1,l_CLI65,0.015174916703612087,Climate
+Faxonius rusticus,1,l_CLI71,0.010333995742899766,Climate
+Faxonius rusticus,1,l_CLI72,0.00030517839677728526,Climate
+Faxonius rusticus,1,l_CLI73,0.015633355567323908,Climate
+Faxonius rusticus,1,l_CLI8,0.00036309142879206827,Climate
+Faxonius rusticus,1,l_CLI9,0.008440272298459445,Climate
+Faxonius rusticus,1,l_LAC1,0.0006962205836717918,Land Cover
+Faxonius rusticus,1,l_LAC10,0.0002115540646841357,Land Cover
+Faxonius rusticus,1,l_LAC11,3.946883272274783e-05,Land Cover
+Faxonius rusticus,1,l_LAC12,0.0,Land Cover
+Faxonius rusticus,1,l_LAC13,0.00015059085324075502,Land Cover
+Faxonius rusticus,1,l_LAC15,0.0,Land Cover
+Faxonius rusticus,1,l_LAC16,3.052436792287893e-05,Land Cover
+Faxonius rusticus,1,l_LAC18,6.58940630966752e-05,Land Cover
+Faxonius rusticus,1,l_LAC19,0.00024770782567843394,Land Cover
+Faxonius rusticus,1,l_LAC20,1.8143105406350703e-05,Land Cover
+Faxonius rusticus,1,l_LAC21,0.00017832534391869727,Land Cover
+Faxonius rusticus,1,l_LAC3,0.0002509143638761577,Land Cover
+Faxonius rusticus,1,l_LAC4,0.0002118488685036592,Land Cover
+Faxonius rusticus,1,l_LAC6,0.00021872962577795623,Land Cover
+Faxonius rusticus,1,l_LAC7,3.283198788635745e-05,Land Cover
+Faxonius rusticus,1,l_LAC8,7.221660465930563e-06,Land Cover
+Faxonius rusticus,1,l_LAC9,3.187123708271759e-06,Land Cover
+Faxonius rusticus,1,l_SOL1,0.00023408379435476605,Soil
+Faxonius rusticus,1,l_SOL10,0.008481485217165184,Soil
+Faxonius rusticus,1,l_SOL11,0.009750950828947124,Soil
+Faxonius rusticus,1,l_SOL12,0.0006214534113605294,Soil
+Faxonius rusticus,1,l_SOL13,0.007870270391490715,Soil
+Faxonius rusticus,1,l_SOL16,0.000491206707544441,Soil
+Faxonius rusticus,1,l_SOL17,0.003966380867037844,Soil
+Faxonius rusticus,1,l_SOL18,0.003602754766548913,Soil
+Faxonius rusticus,1,l_SOL19,0.004550785972989011,Soil
+Faxonius rusticus,1,l_SOL2,0.00022595510601677025,Soil
+Faxonius rusticus,1,l_SOL20,0.000529674676577397,Soil
+Faxonius rusticus,1,l_SOL21,0.001196457975126612,Soil
+Faxonius rusticus,1,l_SOL22,0.0020091104088597296,Soil
+Faxonius rusticus,1,l_SOL23,0.001937291752149509,Soil
+Faxonius rusticus,1,l_SOL24,0.00034700904530487645,Soil
+Faxonius rusticus,1,l_SOL25,0.0067556954865025534,Soil
+Faxonius rusticus,1,l_SOL26,0.009752249436237209,Soil
+Faxonius rusticus,1,l_SOL27,0.009848763385102694,Soil
+Faxonius rusticus,1,l_SOL28,0.0004490767107408602,Soil
+Faxonius rusticus,1,l_SOL29,0.007976573631155073,Soil
+Faxonius rusticus,1,l_SOL3,0.0005279111372297065,Soil
+Faxonius rusticus,1,l_SOL30,0.006497831639878692,Soil
+Faxonius rusticus,1,l_SOL31,0.010164666063313673,Soil
+Faxonius rusticus,1,l_SOL32,0.0003900797642862649,Soil
+Faxonius rusticus,1,l_SOL33,0.00028445344805098455,Soil
+Faxonius rusticus,1,l_SOL34,0.0006337599387248372,Soil
+Faxonius rusticus,1,l_SOL35,0.0004974013514841461,Soil
+Faxonius rusticus,1,l_SOL36,0.0005335468321384816,Soil
+Faxonius rusticus,1,l_SOL37,0.0005878990703933502,Soil
+Faxonius rusticus,1,l_SOL38,0.000574039657967498,Soil
+Faxonius rusticus,1,l_SOL39,0.0010318407033559226,Soil
+Faxonius rusticus,1,l_SOL4,0.00035856512604244914,Soil
+Faxonius rusticus,1,l_SOL40,0.0007919835084091516,Soil
+Faxonius rusticus,1,l_SOL42,0.0012637055989736447,Soil
+Faxonius rusticus,1,l_SOL44,0.0005016435753294231,Soil
+Faxonius rusticus,1,l_SOL45,0.00018546577417003613,Soil
+Faxonius rusticus,1,l_SOL46,0.00013567320277360552,Soil
+Faxonius rusticus,1,l_SOL47,0.00039369257403048223,Soil
+Faxonius rusticus,1,l_SOL48,0.00027683908549047003,Soil
+Faxonius rusticus,1,l_SOL5,0.0033364759814672397,Soil
+Faxonius rusticus,1,l_SOL53,0.00034331092660558495,Soil
+Faxonius rusticus,1,l_SOL54,5.082818902575423e-05,Soil
+Faxonius rusticus,1,l_SOL55,0.00013733627325010947,Soil
+Faxonius rusticus,1,l_SOL56,0.00035400170589292056,Soil
+Faxonius rusticus,1,l_SOL57,0.0011557746888948273,Soil
+Faxonius rusticus,1,l_SOL58,0.0010558544486089225,Soil
+Faxonius rusticus,1,l_SOL59,0.0014700859892225362,Soil
+Faxonius rusticus,1,l_SOL6,0.0036937527639162664,Soil
+Faxonius rusticus,1,l_SOL60,0.0006452127146156925,Soil
+Faxonius rusticus,1,l_SOL7,0.0066663254173588635,Soil
+Faxonius rusticus,1,l_SOL8,0.000456195483731301,Soil
+Faxonius rusticus,1,l_SOL9,0.008033495996339627,Soil
+Faxonius rusticus,1,l_TOP1,0.0006596610988559105,Topography
+Faxonius rusticus,1,l_TOP10,0.0005116262089374164,Topography
+Faxonius rusticus,1,l_TOP101,0.004346107803879841,Topography
+Faxonius rusticus,1,l_TOP102,0.0109583415273827,Topography
+Faxonius rusticus,1,l_TOP103,0.0005150285276184862,Topography
+Faxonius rusticus,1,l_TOP104,0.00034485754671302973,Topography
+Faxonius rusticus,1,l_TOP105,0.00019905451459560134,Topography
+Faxonius rusticus,1,l_TOP106,0.0002549988140994413,Topography
+Faxonius rusticus,1,l_TOP107,0.0033225788114456946,Topography
+Faxonius rusticus,1,l_TOP108,0.0005462898094595014,Topography
+Faxonius rusticus,1,l_TOP109,0.048729481254786496,Topography
+Faxonius rusticus,1,l_TOP11,0.0009500121578268476,Topography
+Faxonius rusticus,1,l_TOP111,0.00044466478351385926,Topography
+Faxonius rusticus,1,l_TOP112,0.00044656051089316765,Topography
+Faxonius rusticus,1,l_TOP113,0.0006405376851182797,Topography
+Faxonius rusticus,1,l_TOP116,0.007336113318266183,Topography
+Faxonius rusticus,1,l_TOP117,0.0004892509127048496,Topography
+Faxonius rusticus,1,l_TOP118,0.00031139169419077426,Topography
+Faxonius rusticus,1,l_TOP124,0.0012124403618801241,Topography
+Faxonius rusticus,1,l_TOP125,0.0005637109862641852,Topography
+Faxonius rusticus,1,l_TOP126,0.0007293812244789818,Topography
+Faxonius rusticus,1,l_TOP127,0.0004347846912895429,Topography
+Faxonius rusticus,1,l_TOP13,0.0001588588515923755,Topography
+Faxonius rusticus,1,l_TOP132,0.0005789632284711981,Topography
+Faxonius rusticus,1,l_TOP133,0.0001201629898530967,Topography
+Faxonius rusticus,1,l_TOP134,0.0005152888599954437,Topography
+Faxonius rusticus,1,l_TOP135,0.0006704248538915613,Topography
+Faxonius rusticus,1,l_TOP136,0.0005907554531589399,Topography
+Faxonius rusticus,1,l_TOP137,0.0005651317766797907,Topography
+Faxonius rusticus,1,l_TOP138,0.000718146171877683,Topography
+Faxonius rusticus,1,l_TOP139,0.0010991800605241635,Topography
+Faxonius rusticus,1,l_TOP14,0.0008295709283865768,Topography
+Faxonius rusticus,1,l_TOP140,0.0009349138804507787,Topography
+Faxonius rusticus,1,l_TOP141,0.0008117335861439269,Topography
+Faxonius rusticus,1,l_TOP142,0.0006666524925451525,Topography
+Faxonius rusticus,1,l_TOP143,0.0006738229683800906,Topography
+Faxonius rusticus,1,l_TOP144,0.0004831240348638138,Topography
+Faxonius rusticus,1,l_TOP16,0.0006489871318358949,Topography
+Faxonius rusticus,1,l_TOP17,3.550131068758479e-19,Topography
+Faxonius rusticus,1,l_TOP18,0.0004638606946746313,Topography
+Faxonius rusticus,1,l_TOP19,0.00041650146780798734,Topography
+Faxonius rusticus,1,l_TOP2,0.0005793548945376904,Topography
+Faxonius rusticus,1,l_TOP20,0.0005986347009506481,Topography
+Faxonius rusticus,1,l_TOP23,0.0005465978278582071,Topography
+Faxonius rusticus,1,l_TOP24,0.0005463418042945474,Topography
+Faxonius rusticus,1,l_TOP27,0.0005077488512558501,Topography
+Faxonius rusticus,1,l_TOP30,0.04477164479727546,Topography
+Faxonius rusticus,1,l_TOP36,0.0005171304239340709,Topography
+Faxonius rusticus,1,l_TOP38,0.0004890317837252267,Topography
+Faxonius rusticus,1,l_TOP39,0.00033639504800425494,Topography
+Faxonius rusticus,1,l_TOP40,0.0005157190046533922,Topography
+Faxonius rusticus,1,l_TOP41,3.844523751197326e-06,Topography
+Faxonius rusticus,1,l_TOP42,0.0004021768984044618,Topography
+Faxonius rusticus,1,l_TOP43,0.0012586904767962336,Topography
+Faxonius rusticus,1,l_TOP44,0.000636577223084846,Topography
+Faxonius rusticus,1,l_TOP45,8.153387117804578e-19,Topography
+Faxonius rusticus,1,l_TOP47,0.001793820123844269,Topography
+Faxonius rusticus,1,l_TOP48,0.0032259137473774884,Topography
+Faxonius rusticus,1,l_TOP49,0.00011306797601194342,Topography
+Faxonius rusticus,1,l_TOP51,0.0005713884526090753,Topography
+Faxonius rusticus,1,l_TOP52,0.0006902221615015148,Topography
+Faxonius rusticus,1,l_TOP59,0.0004777119474539993,Topography
+Faxonius rusticus,1,l_TOP6,0.0004576536653518126,Topography
+Faxonius rusticus,1,l_TOP60,0.0007663945166372862,Topography
+Faxonius rusticus,1,l_TOP61,0.00017894432754951095,Topography
+Faxonius rusticus,1,l_TOP62,0.0004535015285354804,Topography
+Faxonius rusticus,1,l_TOP63,0.0002982469512637837,Topography
+Faxonius rusticus,1,l_TOP64,0.00037561173360904263,Topography
+Faxonius rusticus,1,l_TOP65,0.00028301892857439127,Topography
+Faxonius rusticus,1,l_TOP66,0.00036937771203433454,Topography
+Faxonius rusticus,1,l_TOP68,0.0003792544556444116,Topography
+Faxonius rusticus,1,l_TOP7,0.0006978604897524271,Topography
+Faxonius rusticus,1,l_TOP70,0.00025305761747624407,Topography
+Faxonius rusticus,1,l_TOP72,0.0002130791101773805,Topography
+Faxonius rusticus,1,l_TOP73,0.00037508071579773865,Topography
+Faxonius rusticus,1,l_TOP74,0.00035997207998292226,Topography
+Faxonius rusticus,1,l_TOP75,0.000465378692407753,Topography
+Faxonius rusticus,1,l_TOP76,0.00036560732205635294,Topography
+Faxonius rusticus,1,l_TOP79,0.00025812495220961724,Topography
+Faxonius rusticus,1,l_TOP8,0.0007713939275470719,Topography
+Faxonius rusticus,1,l_TOP83,0.0004221068180414237,Topography
+Faxonius rusticus,1,l_TOP85,4.229791692708494e-05,Topography
+Faxonius rusticus,1,l_TOP86,0.0002814970045050289,Topography
+Faxonius rusticus,1,l_TOP87,0.0003535625561557945,Topography
+Faxonius rusticus,1,l_TOP88,0.0003660194295843393,Topography
+Faxonius rusticus,1,l_TOP89,6.026276247798578e-05,Topography
+Faxonius rusticus,1,l_TOP9,7.832036289701721e-05,Topography
+Faxonius rusticus,1,l_TOP90,0.0002474848621055907,Topography
+Faxonius rusticus,1,l_TOP91,0.00020423352652027777,Topography
+Faxonius rusticus,1,l_TOP92,0.0002203237562809833,Topography
+Faxonius rusticus,1,l_TOP93,0.000553935891975009,Topography
+Faxonius rusticus,1,l_TOP97,0.0017169549711590168,Topography
+Faxonius rusticus,1,l_TOP99,0.0004537038086250002,Topography
+Faxonius rusticus,1,u_CLI11,0.003890347797430281,Climate
+Faxonius rusticus,1,u_CLI15,0.011750436935184655,Climate
+Faxonius rusticus,1,u_CLI19,0.000951715290669621,Climate
+Faxonius rusticus,1,u_CLI23,0.0256034904661964,Climate
+Faxonius rusticus,1,u_CLI27,0.01576731694708364,Climate
+Faxonius rusticus,1,u_CLI3,0.009871121663814904,Climate
+Faxonius rusticus,1,u_CLI31,0.0019348872818841488,Climate
+Faxonius rusticus,1,u_CLI35,0.018507564746535664,Climate
+Faxonius rusticus,1,u_CLI39,0.002423364439060937,Climate
+Faxonius rusticus,1,u_CLI47,0.0013038880590995074,Climate
+Faxonius rusticus,1,u_CLI51,0.0019759435166630617,Climate
+Faxonius rusticus,1,u_CLI59,0.012971707836236104,Climate
+Faxonius rusticus,1,u_CLI63,0.0016818702596973682,Climate
+Faxonius rusticus,1,u_CLI67,0.006582342188554287,Climate
+Faxonius rusticus,1,u_CLI7,0.001304019661742713,Climate
+Faxonius rusticus,1,u_CLI71,0.004121540417917428,Climate
+Faxonius rusticus,1,u_CLI75,0.006562929900243499,Climate
+Faxonius rusticus,1,u_LAC1,0.0009298723283383839,Land Cover
+Faxonius rusticus,1,u_LAC10,0.0006686764171678964,Land Cover
+Faxonius rusticus,1,u_LAC11,0.00077041866580955,Land Cover
+Faxonius rusticus,1,u_LAC12,0.0002752836372523896,Land Cover
+Faxonius rusticus,1,u_LAC13,0.0003875302357292446,Land Cover
+Faxonius rusticus,1,u_LAC15,2.7223823578807884e-05,Land Cover
+Faxonius rusticus,1,u_LAC16,0.00040399243104279514,Land Cover
+Faxonius rusticus,1,u_LAC18,0.00013830937487409003,Land Cover
+Faxonius rusticus,1,u_LAC19,0.0002508554844341372,Land Cover
+Faxonius rusticus,1,u_LAC20,0.00015544941624370584,Land Cover
+Faxonius rusticus,1,u_LAC21,0.00015673491740261948,Land Cover
+Faxonius rusticus,1,u_LAC3,0.00038185475881384845,Land Cover
+Faxonius rusticus,1,u_LAC4,0.0005123980007236275,Land Cover
+Faxonius rusticus,1,u_LAC5,2.96901533974163e-19,Land Cover
+Faxonius rusticus,1,u_LAC6,0.0006065816896141067,Land Cover
+Faxonius rusticus,1,u_LAC7,0.0002804582951770058,Land Cover
+Faxonius rusticus,1,u_LAC8,0.00026689668991067354,Land Cover
+Faxonius rusticus,1,u_LAC9,0.000363605370102812,Land Cover
+Faxonius rusticus,1,u_SOL11,0.017136171736120788,Soil
+Faxonius rusticus,1,u_SOL15,0.01593499495645152,Soil
+Faxonius rusticus,1,u_SOL19,0.009529892544616118,Soil
+Faxonius rusticus,1,u_SOL23,0.0034367930117636973,Soil
+Faxonius rusticus,1,u_SOL27,0.01629121017294435,Soil
+Faxonius rusticus,1,u_SOL3,0.0008840356048514494,Soil
+Faxonius rusticus,1,u_SOL31,0.015504798840115437,Soil
+Faxonius rusticus,1,u_SOL35,0.001273004845635531,Soil
+Faxonius rusticus,1,u_SOL39,0.0010635685801411976,Soil
+Faxonius rusticus,1,u_SOL43,0.0024885610870981154,Soil
+Faxonius rusticus,1,u_SOL47,0.0008345683560649397,Soil
+Faxonius rusticus,1,u_SOL55,0.0004390259898423678,Soil
+Faxonius rusticus,1,u_SOL59,0.0009811669310856265,Soil
+Faxonius rusticus,1,u_SOL7,0.01000385648890927,Soil
+Faxonius rusticus,1,u_TOP103,0.0026366454468898662,Topography
+Faxonius rusticus,1,u_TOP110,0.0008665991357992092,Topography
+Faxonius rusticus,1,u_TOP111,0.0006392987447775859,Topography
+Faxonius rusticus,1,u_TOP112,0.0006769989969405873,Topography
+Faxonius rusticus,1,u_TOP113,0.0004759462195135812,Topography
+Faxonius rusticus,1,u_TOP114,0.03443629794732119,Topography
+Faxonius rusticus,1,u_TOP117,0.002380069081437777,Topography
+Faxonius rusticus,1,u_TOP122,0.002027086282507862,Topography
+Faxonius rusticus,1,u_TOP130,0.00025966581814158786,Topography
+Faxonius rusticus,1,u_TOP135,0.001551863596488167,Topography
+Faxonius rusticus,1,u_TOP139,0.00746642271256907,Topography
+Faxonius rusticus,1,u_TOP143,0.0016387600477033699,Topography
+Faxonius rusticus,1,u_TOP15,0.004799920814050404,Topography
+Faxonius rusticus,1,u_TOP19,0.0034719636388568986,Topography
+Faxonius rusticus,1,u_TOP27,0.0050938211936074574,Topography
+Faxonius rusticus,1,u_TOP3,0.004286860759071892,Topography
+Faxonius rusticus,1,u_TOP31,0.030027698594764726,Topography
+Faxonius rusticus,1,u_TOP35,0.0038071388228746216,Topography
+Faxonius rusticus,1,u_TOP39,0.008064703520299477,Topography
+Faxonius rusticus,1,u_TOP47,0.013330003841447871,Topography
+Faxonius rusticus,1,u_TOP51,0.001988902309328112,Topography
+Faxonius rusticus,1,u_TOP55,0.008618045849850032,Topography
+Faxonius rusticus,1,u_TOP59,0.0014939709782728278,Topography
+Faxonius rusticus,1,u_TOP63,0.0055005278997833995,Topography
+Faxonius rusticus,1,u_TOP67,0.003778438124086047,Topography
+Faxonius rusticus,1,u_TOP75,0.0017464794758434976,Topography
+Faxonius rusticus,1,u_TOP83,0.010988264551978728,Topography
+Faxonius rusticus,1,u_TOP91,0.0033896757384469694,Topography
+Faxonius rusticus,1,u_TOP95,0.0046565047252197615,Topography
+Faxonius rusticus,2,l_CLI1,0.011258039291871432,Climate
+Faxonius rusticus,2,l_CLI12,0.0004091701043762004,Climate
+Faxonius rusticus,2,l_CLI14,0.02348434787716959,Climate
+Faxonius rusticus,2,l_CLI16,0.00021870802678039078,Climate
+Faxonius rusticus,2,l_CLI17,0.0021152369377238577,Climate
+Faxonius rusticus,2,l_CLI20,0.00026565871989415963,Climate
+Faxonius rusticus,2,l_CLI21,0.044229825920174666,Climate
+Faxonius rusticus,2,l_CLI24,0.00035590686631377713,Climate
+Faxonius rusticus,2,l_CLI26,0.04893103614279437,Climate
+Faxonius rusticus,2,l_CLI28,0.00036619911319880395,Climate
+Faxonius rusticus,2,l_CLI30,0.002630388444892006,Climate
+Faxonius rusticus,2,l_CLI32,0.00022033160988170123,Climate
+Faxonius rusticus,2,l_CLI33,0.046801430204027106,Climate
+Faxonius rusticus,2,l_CLI36,0.0002280878188725884,Climate
+Faxonius rusticus,2,l_CLI38,0.0036593559213573376,Climate
+Faxonius rusticus,2,l_CLI4,0.00029614719948573785,Climate
+Faxonius rusticus,2,l_CLI40,0.0001540423391518089,Climate
+Faxonius rusticus,2,l_CLI44,0.000328395722744669,Climate
+Faxonius rusticus,2,l_CLI45,0.005749769845939014,Climate
+Faxonius rusticus,2,l_CLI49,0.003562898816045457,Climate
+Faxonius rusticus,2,l_CLI52,0.0003117154223297409,Climate
+Faxonius rusticus,2,l_CLI57,0.03635707431828954,Climate
+Faxonius rusticus,2,l_CLI6,0.0037376308604919017,Climate
+Faxonius rusticus,2,l_CLI60,0.00026494833440378514,Climate
+Faxonius rusticus,2,l_CLI62,0.003406879942390707,Climate
+Faxonius rusticus,2,l_CLI65,0.014710194785564788,Climate
+Faxonius rusticus,2,l_CLI71,0.009383571692955364,Climate
+Faxonius rusticus,2,l_CLI72,0.00040608355587827923,Climate
+Faxonius rusticus,2,l_CLI73,0.014668752846392,Climate
+Faxonius rusticus,2,l_CLI8,0.0002758084268088847,Climate
+Faxonius rusticus,2,l_CLI9,0.009491861932326434,Climate
+Faxonius rusticus,2,l_LAC1,0.0005471172794117174,Land Cover
+Faxonius rusticus,2,l_LAC10,0.00018678650495129672,Land Cover
+Faxonius rusticus,2,l_LAC11,2.307659645372861e-05,Land Cover
+Faxonius rusticus,2,l_LAC12,2.1169108978400665e-05,Land Cover
+Faxonius rusticus,2,l_LAC13,0.0001014551216776851,Land Cover
+Faxonius rusticus,2,l_LAC15,0.0,Land Cover
+Faxonius rusticus,2,l_LAC16,3.423064450645103e-05,Land Cover
+Faxonius rusticus,2,l_LAC18,9.059019400318752e-05,Land Cover
+Faxonius rusticus,2,l_LAC19,0.0004100117729307057,Land Cover
+Faxonius rusticus,2,l_LAC20,0.0,Land Cover
+Faxonius rusticus,2,l_LAC21,0.00023539213615046675,Land Cover
+Faxonius rusticus,2,l_LAC3,0.0001888094977548874,Land Cover
+Faxonius rusticus,2,l_LAC4,0.0001869304296131514,Land Cover
+Faxonius rusticus,2,l_LAC6,0.00034892189632406925,Land Cover
+Faxonius rusticus,2,l_LAC7,6.607781303960118e-05,Land Cover
+Faxonius rusticus,2,l_LAC8,4.0159858900189764e-19,Land Cover
+Faxonius rusticus,2,l_LAC9,3.110148493378288e-05,Land Cover
+Faxonius rusticus,2,l_SOL1,0.0004031094843155717,Soil
+Faxonius rusticus,2,l_SOL10,0.007676688667696468,Soil
+Faxonius rusticus,2,l_SOL11,0.009968074271247825,Soil
+Faxonius rusticus,2,l_SOL12,0.0007208810264114111,Soil
+Faxonius rusticus,2,l_SOL13,0.010848184877254082,Soil
+Faxonius rusticus,2,l_SOL16,0.0005446844134089089,Soil
+Faxonius rusticus,2,l_SOL17,0.005191374411110059,Soil
+Faxonius rusticus,2,l_SOL18,0.002311835858981944,Soil
+Faxonius rusticus,2,l_SOL19,0.005266795353348294,Soil
+Faxonius rusticus,2,l_SOL2,0.0003955168244078207,Soil
+Faxonius rusticus,2,l_SOL20,0.00047339524444530904,Soil
+Faxonius rusticus,2,l_SOL21,0.0010619429359159998,Soil
+Faxonius rusticus,2,l_SOL22,0.0011661707669617508,Soil
+Faxonius rusticus,2,l_SOL23,0.0029540011330239212,Soil
+Faxonius rusticus,2,l_SOL24,0.0005609352610098097,Soil
+Faxonius rusticus,2,l_SOL25,0.00357258358451823,Soil
+Faxonius rusticus,2,l_SOL26,0.004848081510700991,Soil
+Faxonius rusticus,2,l_SOL27,0.006903742543341969,Soil
+Faxonius rusticus,2,l_SOL28,0.00040699385213686934,Soil
+Faxonius rusticus,2,l_SOL29,0.00902588482681925,Soil
+Faxonius rusticus,2,l_SOL3,0.0009234797772685519,Soil
+Faxonius rusticus,2,l_SOL30,0.007882311547060102,Soil
+Faxonius rusticus,2,l_SOL31,0.0101758297892479,Soil
+Faxonius rusticus,2,l_SOL32,0.0003703660069671675,Soil
+Faxonius rusticus,2,l_SOL33,0.0002699594104491076,Soil
+Faxonius rusticus,2,l_SOL34,0.00030427237157318386,Soil
+Faxonius rusticus,2,l_SOL35,0.0005165041333475099,Soil
+Faxonius rusticus,2,l_SOL36,0.0003716932037963419,Soil
+Faxonius rusticus,2,l_SOL37,0.000410952046040616,Soil
+Faxonius rusticus,2,l_SOL38,0.0005686566859386442,Soil
+Faxonius rusticus,2,l_SOL39,0.001403960125905663,Soil
+Faxonius rusticus,2,l_SOL4,0.0003684608648748235,Soil
+Faxonius rusticus,2,l_SOL40,0.0005337543043629805,Soil
+Faxonius rusticus,2,l_SOL42,0.0010889319634910602,Soil
+Faxonius rusticus,2,l_SOL44,0.0004053141267649152,Soil
+Faxonius rusticus,2,l_SOL45,0.00017641175449563902,Soil
+Faxonius rusticus,2,l_SOL46,0.00014696744095672094,Soil
+Faxonius rusticus,2,l_SOL47,0.0004998788319533681,Soil
+Faxonius rusticus,2,l_SOL48,0.0003629309090496419,Soil
+Faxonius rusticus,2,l_SOL5,0.0036294413312480405,Soil
+Faxonius rusticus,2,l_SOL53,0.0002163559429548151,Soil
+Faxonius rusticus,2,l_SOL54,1.3878341466369652e-06,Soil
+Faxonius rusticus,2,l_SOL55,0.00011819795306145729,Soil
+Faxonius rusticus,2,l_SOL56,0.00023153107817558682,Soil
+Faxonius rusticus,2,l_SOL57,0.0012144556753100357,Soil
+Faxonius rusticus,2,l_SOL58,0.0010026834032998303,Soil
+Faxonius rusticus,2,l_SOL59,0.0012027766555809645,Soil
+Faxonius rusticus,2,l_SOL6,0.0051831059081754675,Soil
+Faxonius rusticus,2,l_SOL60,0.00044715563995233675,Soil
+Faxonius rusticus,2,l_SOL7,0.00677560102648444,Soil
+Faxonius rusticus,2,l_SOL8,0.00036143131819928685,Soil
+Faxonius rusticus,2,l_SOL9,0.005790446670051829,Soil
+Faxonius rusticus,2,l_TOP1,0.0006276639441413899,Topography
+Faxonius rusticus,2,l_TOP10,0.0004506015432052568,Topography
+Faxonius rusticus,2,l_TOP101,0.004956823322837107,Topography
+Faxonius rusticus,2,l_TOP102,0.006799240110805703,Topography
+Faxonius rusticus,2,l_TOP103,0.00042430002027459175,Topography
+Faxonius rusticus,2,l_TOP104,0.0003503984024703848,Topography
+Faxonius rusticus,2,l_TOP105,0.000372002858633171,Topography
+Faxonius rusticus,2,l_TOP106,0.000499959384277657,Topography
+Faxonius rusticus,2,l_TOP107,0.0024046773186832053,Topography
+Faxonius rusticus,2,l_TOP108,0.0007122518729125659,Topography
+Faxonius rusticus,2,l_TOP109,0.055843620513278215,Topography
+Faxonius rusticus,2,l_TOP11,0.0009186604639678854,Topography
+Faxonius rusticus,2,l_TOP111,0.0005242297329554809,Topography
+Faxonius rusticus,2,l_TOP112,0.000407760706818292,Topography
+Faxonius rusticus,2,l_TOP113,0.0006812367805820146,Topography
+Faxonius rusticus,2,l_TOP116,0.009802747720023647,Topography
+Faxonius rusticus,2,l_TOP117,0.000404067763124529,Topography
+Faxonius rusticus,2,l_TOP118,0.00018510421356513783,Topography
+Faxonius rusticus,2,l_TOP124,0.0016484413466584702,Topography
+Faxonius rusticus,2,l_TOP125,0.0006320579822153956,Topography
+Faxonius rusticus,2,l_TOP126,0.0007366621519307814,Topography
+Faxonius rusticus,2,l_TOP127,0.0005372982602288331,Topography
+Faxonius rusticus,2,l_TOP13,0.00016189097338981697,Topography
+Faxonius rusticus,2,l_TOP132,0.0007813733847097685,Topography
+Faxonius rusticus,2,l_TOP133,4.850957372266254e-05,Topography
+Faxonius rusticus,2,l_TOP134,0.0005955098928610787,Topography
+Faxonius rusticus,2,l_TOP135,0.0009816847345204794,Topography
+Faxonius rusticus,2,l_TOP136,0.0005896273921658815,Topography
+Faxonius rusticus,2,l_TOP137,0.00038741334386934784,Topography
+Faxonius rusticus,2,l_TOP138,0.0005994826368717917,Topography
+Faxonius rusticus,2,l_TOP139,0.0012829938990488409,Topography
+Faxonius rusticus,2,l_TOP14,0.0006013670875418501,Topography
+Faxonius rusticus,2,l_TOP140,0.0005417300894423478,Topography
+Faxonius rusticus,2,l_TOP141,0.0006614964085305976,Topography
+Faxonius rusticus,2,l_TOP142,0.0007010239239923582,Topography
+Faxonius rusticus,2,l_TOP143,0.000613625708531629,Topography
+Faxonius rusticus,2,l_TOP144,0.0006686025647229389,Topography
+Faxonius rusticus,2,l_TOP16,0.0006734114241592953,Topography
+Faxonius rusticus,2,l_TOP17,5.924706771322757e-06,Topography
+Faxonius rusticus,2,l_TOP18,0.0007584206753208263,Topography
+Faxonius rusticus,2,l_TOP19,0.0005454016030696654,Topography
+Faxonius rusticus,2,l_TOP2,0.0003768417650098731,Topography
+Faxonius rusticus,2,l_TOP20,0.0003561682027888458,Topography
+Faxonius rusticus,2,l_TOP23,0.0006876447760451363,Topography
+Faxonius rusticus,2,l_TOP24,0.0007005125448304248,Topography
+Faxonius rusticus,2,l_TOP27,0.0005604092558153356,Topography
+Faxonius rusticus,2,l_TOP30,0.05131544492918227,Topography
+Faxonius rusticus,2,l_TOP36,0.0003420810526769099,Topography
+Faxonius rusticus,2,l_TOP38,0.000345672300528069,Topography
+Faxonius rusticus,2,l_TOP39,0.0005725052444584096,Topography
+Faxonius rusticus,2,l_TOP40,0.0004343583103203168,Topography
+Faxonius rusticus,2,l_TOP41,0.0,Topography
+Faxonius rusticus,2,l_TOP42,0.0003167038733412068,Topography
+Faxonius rusticus,2,l_TOP43,0.0007793612966862211,Topography
+Faxonius rusticus,2,l_TOP44,0.000595118312748657,Topography
+Faxonius rusticus,2,l_TOP45,7.132753141522501e-19,Topography
+Faxonius rusticus,2,l_TOP47,0.0017445352034003191,Topography
+Faxonius rusticus,2,l_TOP48,0.0014560227901444026,Topography
+Faxonius rusticus,2,l_TOP49,0.00019625514408262885,Topography
+Faxonius rusticus,2,l_TOP51,0.0006271158590127219,Topography
+Faxonius rusticus,2,l_TOP52,0.0007373644686919157,Topography
+Faxonius rusticus,2,l_TOP59,0.0004472961520160111,Topography
+Faxonius rusticus,2,l_TOP6,0.00026473586042374223,Topography
+Faxonius rusticus,2,l_TOP60,0.0009248332217124699,Topography
+Faxonius rusticus,2,l_TOP61,0.0002380349240348534,Topography
+Faxonius rusticus,2,l_TOP62,0.00037577822873244434,Topography
+Faxonius rusticus,2,l_TOP63,0.00029394879831945594,Topography
+Faxonius rusticus,2,l_TOP64,0.0004165115832495697,Topography
+Faxonius rusticus,2,l_TOP65,0.0003766692911013997,Topography
+Faxonius rusticus,2,l_TOP66,0.0006285203880454204,Topography
+Faxonius rusticus,2,l_TOP68,0.00024513373986427344,Topography
+Faxonius rusticus,2,l_TOP7,0.0005676365603548738,Topography
+Faxonius rusticus,2,l_TOP70,0.00023604929748551973,Topography
+Faxonius rusticus,2,l_TOP72,0.00037993286064103634,Topography
+Faxonius rusticus,2,l_TOP73,0.0003755181289008011,Topography
+Faxonius rusticus,2,l_TOP74,0.0004609977277432605,Topography
+Faxonius rusticus,2,l_TOP75,0.0003879314300030284,Topography
+Faxonius rusticus,2,l_TOP76,0.0004495495193996526,Topography
+Faxonius rusticus,2,l_TOP79,0.00031900536077795344,Topography
+Faxonius rusticus,2,l_TOP8,0.0007597358497735735,Topography
+Faxonius rusticus,2,l_TOP83,0.0004470268666857433,Topography
+Faxonius rusticus,2,l_TOP85,7.07848329379307e-05,Topography
+Faxonius rusticus,2,l_TOP86,0.00026609405634384867,Topography
+Faxonius rusticus,2,l_TOP87,0.0003563754203693362,Topography
+Faxonius rusticus,2,l_TOP88,0.0001941250418384856,Topography
+Faxonius rusticus,2,l_TOP89,7.783213865136994e-05,Topography
+Faxonius rusticus,2,l_TOP9,6.847988183573184e-05,Topography
+Faxonius rusticus,2,l_TOP90,0.00021442380525331698,Topography
+Faxonius rusticus,2,l_TOP91,0.0002581881301636812,Topography
+Faxonius rusticus,2,l_TOP92,0.00046197892684750786,Topography
+Faxonius rusticus,2,l_TOP93,0.0008968307513992098,Topography
+Faxonius rusticus,2,l_TOP97,0.0011171385676593793,Topography
+Faxonius rusticus,2,l_TOP99,0.00033277420071072363,Topography
+Faxonius rusticus,2,u_CLI11,0.004208441842349532,Climate
+Faxonius rusticus,2,u_CLI15,0.009559567877536219,Climate
+Faxonius rusticus,2,u_CLI19,0.0014488208942378025,Climate
+Faxonius rusticus,2,u_CLI23,0.029520728534429604,Climate
+Faxonius rusticus,2,u_CLI27,0.014464474247417923,Climate
+Faxonius rusticus,2,u_CLI3,0.005737051422057924,Climate
+Faxonius rusticus,2,u_CLI31,0.0016528573949219335,Climate
+Faxonius rusticus,2,u_CLI35,0.025246007742312147,Climate
+Faxonius rusticus,2,u_CLI39,0.0015570912532462302,Climate
+Faxonius rusticus,2,u_CLI47,0.0022270197650713624,Climate
+Faxonius rusticus,2,u_CLI51,0.002337893484157963,Climate
+Faxonius rusticus,2,u_CLI59,0.021040138196345898,Climate
+Faxonius rusticus,2,u_CLI63,0.002022276262404282,Climate
+Faxonius rusticus,2,u_CLI67,0.0036769233599184036,Climate
+Faxonius rusticus,2,u_CLI7,0.0018221779519627238,Climate
+Faxonius rusticus,2,u_CLI71,0.004096848794814482,Climate
+Faxonius rusticus,2,u_CLI75,0.006818408792674561,Climate
+Faxonius rusticus,2,u_LAC1,0.0010766081484926862,Land Cover
+Faxonius rusticus,2,u_LAC10,0.0007966685578871075,Land Cover
+Faxonius rusticus,2,u_LAC11,0.000635663016201636,Land Cover
+Faxonius rusticus,2,u_LAC12,0.00019741447084721577,Land Cover
+Faxonius rusticus,2,u_LAC13,0.0007670090775428646,Land Cover
+Faxonius rusticus,2,u_LAC15,1.9571649021769134e-05,Land Cover
+Faxonius rusticus,2,u_LAC16,0.00018653032665164913,Land Cover
+Faxonius rusticus,2,u_LAC18,0.0001237095780919085,Land Cover
+Faxonius rusticus,2,u_LAC19,0.0005318391889070444,Land Cover
+Faxonius rusticus,2,u_LAC20,0.00041302315673968996,Land Cover
+Faxonius rusticus,2,u_LAC21,0.00026281535335335483,Land Cover
+Faxonius rusticus,2,u_LAC3,0.00037838058221993995,Land Cover
+Faxonius rusticus,2,u_LAC4,0.0003266134807357904,Land Cover
+Faxonius rusticus,2,u_LAC5,0.0,Land Cover
+Faxonius rusticus,2,u_LAC6,0.0008151362687223941,Land Cover
+Faxonius rusticus,2,u_LAC7,0.00018934213350148976,Land Cover
+Faxonius rusticus,2,u_LAC8,0.000274581812207089,Land Cover
+Faxonius rusticus,2,u_LAC9,0.00023282372932298257,Land Cover
+Faxonius rusticus,2,u_SOL11,0.021217585203745382,Soil
+Faxonius rusticus,2,u_SOL15,0.016411101075917537,Soil
+Faxonius rusticus,2,u_SOL19,0.01113555640480718,Soil
+Faxonius rusticus,2,u_SOL23,0.005061013514714304,Soil
+Faxonius rusticus,2,u_SOL27,0.014404304009380978,Soil
+Faxonius rusticus,2,u_SOL3,0.0008367513048317081,Soil
+Faxonius rusticus,2,u_SOL31,0.011554724797035109,Soil
+Faxonius rusticus,2,u_SOL35,0.0015378066936555072,Soil
+Faxonius rusticus,2,u_SOL39,0.0009245855040683073,Soil
+Faxonius rusticus,2,u_SOL43,0.00247994107973162,Soil
+Faxonius rusticus,2,u_SOL47,0.001144621299910906,Soil
+Faxonius rusticus,2,u_SOL55,0.0003663067205771129,Soil
+Faxonius rusticus,2,u_SOL59,0.0009946220547662832,Soil
+Faxonius rusticus,2,u_SOL7,0.010326877603943593,Soil
+Faxonius rusticus,2,u_TOP103,0.0041078691487165,Topography
+Faxonius rusticus,2,u_TOP110,0.0006001951506481128,Topography
+Faxonius rusticus,2,u_TOP111,0.00040189408289214847,Topography
+Faxonius rusticus,2,u_TOP112,0.0005795179760859699,Topography
+Faxonius rusticus,2,u_TOP113,0.0006576647676322916,Topography
+Faxonius rusticus,2,u_TOP114,0.026178733403950074,Topography
+Faxonius rusticus,2,u_TOP117,0.001879252373097313,Topography
+Faxonius rusticus,2,u_TOP122,0.002527113272342539,Topography
+Faxonius rusticus,2,u_TOP130,0.000271399811636719,Topography
+Faxonius rusticus,2,u_TOP135,0.0012007020243743978,Topography
+Faxonius rusticus,2,u_TOP139,0.0037027541929638462,Topography
+Faxonius rusticus,2,u_TOP143,0.0010710813236218372,Topography
+Faxonius rusticus,2,u_TOP15,0.004151789194915784,Topography
+Faxonius rusticus,2,u_TOP19,0.00415407295868461,Topography
+Faxonius rusticus,2,u_TOP27,0.0045940848911452245,Topography
+Faxonius rusticus,2,u_TOP3,0.004706734174177151,Topography
+Faxonius rusticus,2,u_TOP31,0.0322348121907655,Topography
+Faxonius rusticus,2,u_TOP35,0.0018354167647066416,Topography
+Faxonius rusticus,2,u_TOP39,0.007858256378035404,Topography
+Faxonius rusticus,2,u_TOP47,0.012890963931503853,Topography
+Faxonius rusticus,2,u_TOP51,0.0010042391044238466,Topography
+Faxonius rusticus,2,u_TOP55,0.01215363867665197,Topography
+Faxonius rusticus,2,u_TOP59,0.0016857295353259077,Topography
+Faxonius rusticus,2,u_TOP63,0.0032551884822176053,Topography
+Faxonius rusticus,2,u_TOP67,0.0038584015542906277,Topography
+Faxonius rusticus,2,u_TOP75,0.0017301289423533627,Topography
+Faxonius rusticus,2,u_TOP83,0.01443718662731182,Topography
+Faxonius rusticus,2,u_TOP91,0.0046230903106938516,Topography
+Faxonius rusticus,2,u_TOP95,0.0044072977330761745,Topography
+Faxonius rusticus,3,l_CLI1,0.012115396239958541,Climate
+Faxonius rusticus,3,l_CLI12,0.0003969606381215792,Climate
+Faxonius rusticus,3,l_CLI14,0.01964906556609331,Climate
+Faxonius rusticus,3,l_CLI16,0.0003952241707845733,Climate
+Faxonius rusticus,3,l_CLI17,0.002023510479026136,Climate
+Faxonius rusticus,3,l_CLI20,0.00046089286321595555,Climate
+Faxonius rusticus,3,l_CLI21,0.05455498426646772,Climate
+Faxonius rusticus,3,l_CLI24,0.0004935382146664546,Climate
+Faxonius rusticus,3,l_CLI26,0.04604114086545529,Climate
+Faxonius rusticus,3,l_CLI28,0.00032557373800328756,Climate
+Faxonius rusticus,3,l_CLI30,0.00271545129921507,Climate
+Faxonius rusticus,3,l_CLI32,0.00025633979754001126,Climate
+Faxonius rusticus,3,l_CLI33,0.03970481414473882,Climate
+Faxonius rusticus,3,l_CLI36,0.0004300152637574802,Climate
+Faxonius rusticus,3,l_CLI38,0.003245198207976262,Climate
+Faxonius rusticus,3,l_CLI4,0.0002858663874783151,Climate
+Faxonius rusticus,3,l_CLI40,0.0003219264188344646,Climate
+Faxonius rusticus,3,l_CLI44,0.00035189144372665704,Climate
+Faxonius rusticus,3,l_CLI45,0.003832850924886752,Climate
+Faxonius rusticus,3,l_CLI49,0.002433281202768221,Climate
+Faxonius rusticus,3,l_CLI52,0.0002560132794313631,Climate
+Faxonius rusticus,3,l_CLI57,0.03702349627932882,Climate
+Faxonius rusticus,3,l_CLI6,0.003842337229392646,Climate
+Faxonius rusticus,3,l_CLI60,0.00019451372069495508,Climate
+Faxonius rusticus,3,l_CLI62,0.0030736418327815115,Climate
+Faxonius rusticus,3,l_CLI65,0.016961713717009844,Climate
+Faxonius rusticus,3,l_CLI71,0.012606453125799945,Climate
+Faxonius rusticus,3,l_CLI72,0.000340575006071669,Climate
+Faxonius rusticus,3,l_CLI73,0.01671953136284367,Climate
+Faxonius rusticus,3,l_CLI8,0.0002446629381264672,Climate
+Faxonius rusticus,3,l_CLI9,0.01032697668406062,Climate
+Faxonius rusticus,3,l_LAC1,0.0003919127513420948,Land Cover
+Faxonius rusticus,3,l_LAC10,6.066513679332575e-05,Land Cover
+Faxonius rusticus,3,l_LAC11,7.060427726384969e-05,Land Cover
+Faxonius rusticus,3,l_LAC12,6.212240663536817e-19,Land Cover
+Faxonius rusticus,3,l_LAC13,0.00023870896458632633,Land Cover
+Faxonius rusticus,3,l_LAC15,0.0,Land Cover
+Faxonius rusticus,3,l_LAC16,5.186415002520402e-06,Land Cover
+Faxonius rusticus,3,l_LAC18,0.00014509694463878917,Land Cover
+Faxonius rusticus,3,l_LAC19,0.0002165882072337395,Land Cover
+Faxonius rusticus,3,l_LAC20,1.335475770798784e-18,Land Cover
+Faxonius rusticus,3,l_LAC21,0.0002655678964494995,Land Cover
+Faxonius rusticus,3,l_LAC3,0.00020677151519326762,Land Cover
+Faxonius rusticus,3,l_LAC4,0.00016560001733001504,Land Cover
+Faxonius rusticus,3,l_LAC6,0.0002882198430364829,Land Cover
+Faxonius rusticus,3,l_LAC7,5.903685598957642e-05,Land Cover
+Faxonius rusticus,3,l_LAC8,2.4495091494894853e-05,Land Cover
+Faxonius rusticus,3,l_LAC9,1.622296693403896e-05,Land Cover
+Faxonius rusticus,3,l_SOL1,0.000286295292274792,Soil
+Faxonius rusticus,3,l_SOL10,0.01063347258191525,Soil
+Faxonius rusticus,3,l_SOL11,0.012022924624130293,Soil
+Faxonius rusticus,3,l_SOL12,0.0005277810805605916,Soil
+Faxonius rusticus,3,l_SOL13,0.011356310297116427,Soil
+Faxonius rusticus,3,l_SOL16,0.00044410503329825237,Soil
+Faxonius rusticus,3,l_SOL17,0.0037720722132101366,Soil
+Faxonius rusticus,3,l_SOL18,0.002919189295928092,Soil
+Faxonius rusticus,3,l_SOL19,0.0043544872515552955,Soil
+Faxonius rusticus,3,l_SOL2,0.00013171155304238593,Soil
+Faxonius rusticus,3,l_SOL20,0.0005902471052932569,Soil
+Faxonius rusticus,3,l_SOL21,0.002654537355839811,Soil
+Faxonius rusticus,3,l_SOL22,0.0018800914064191242,Soil
+Faxonius rusticus,3,l_SOL23,0.003697991296552771,Soil
+Faxonius rusticus,3,l_SOL24,0.00045339197925557933,Soil
+Faxonius rusticus,3,l_SOL25,0.006480661732042908,Soil
+Faxonius rusticus,3,l_SOL26,0.010552652197765121,Soil
+Faxonius rusticus,3,l_SOL27,0.01322938817460123,Soil
+Faxonius rusticus,3,l_SOL28,0.0004447308636046312,Soil
+Faxonius rusticus,3,l_SOL29,0.0073217059094614085,Soil
+Faxonius rusticus,3,l_SOL3,0.0008344444477051086,Soil
+Faxonius rusticus,3,l_SOL30,0.006587295416700917,Soil
+Faxonius rusticus,3,l_SOL31,0.009934357562128706,Soil
+Faxonius rusticus,3,l_SOL32,0.0003726127632458748,Soil
+Faxonius rusticus,3,l_SOL33,0.00046582119435462956,Soil
+Faxonius rusticus,3,l_SOL34,0.0002772030576669004,Soil
+Faxonius rusticus,3,l_SOL35,0.0008045685633990923,Soil
+Faxonius rusticus,3,l_SOL36,0.0003369242188711869,Soil
+Faxonius rusticus,3,l_SOL37,0.0006793593360242067,Soil
+Faxonius rusticus,3,l_SOL38,0.000782471853504966,Soil
+Faxonius rusticus,3,l_SOL39,0.0011520928835242789,Soil
+Faxonius rusticus,3,l_SOL4,0.00024543667658557237,Soil
+Faxonius rusticus,3,l_SOL40,0.00032821259064798206,Soil
+Faxonius rusticus,3,l_SOL42,0.001867618458532149,Soil
+Faxonius rusticus,3,l_SOL44,0.00039077873034654105,Soil
+Faxonius rusticus,3,l_SOL45,0.0001759238172420213,Soil
+Faxonius rusticus,3,l_SOL46,0.00016425847600626373,Soil
+Faxonius rusticus,3,l_SOL47,0.0007843731366413502,Soil
+Faxonius rusticus,3,l_SOL48,0.0004560441181834562,Soil
+Faxonius rusticus,3,l_SOL5,0.005317153766461996,Soil
+Faxonius rusticus,3,l_SOL53,0.00026417880144727877,Soil
+Faxonius rusticus,3,l_SOL54,2.9010569650401833e-05,Soil
+Faxonius rusticus,3,l_SOL55,0.00027574100632948487,Soil
+Faxonius rusticus,3,l_SOL56,0.0002730140208644598,Soil
+Faxonius rusticus,3,l_SOL57,0.0006834266211139546,Soil
+Faxonius rusticus,3,l_SOL58,0.0012478733744506103,Soil
+Faxonius rusticus,3,l_SOL59,0.0010677939113732681,Soil
+Faxonius rusticus,3,l_SOL6,0.0032028919375327344,Soil
+Faxonius rusticus,3,l_SOL60,0.0004629810276982404,Soil
+Faxonius rusticus,3,l_SOL7,0.007432381204477931,Soil
+Faxonius rusticus,3,l_SOL8,0.000280882382141902,Soil
+Faxonius rusticus,3,l_SOL9,0.0066246497360015425,Soil
+Faxonius rusticus,3,l_TOP1,0.0005949626360695538,Topography
+Faxonius rusticus,3,l_TOP10,0.000453157311649197,Topography
+Faxonius rusticus,3,l_TOP101,0.0014968680666591662,Topography
+Faxonius rusticus,3,l_TOP102,0.012022867609994941,Topography
+Faxonius rusticus,3,l_TOP103,0.0004620191606518704,Topography
+Faxonius rusticus,3,l_TOP104,0.0004339155870323045,Topography
+Faxonius rusticus,3,l_TOP105,0.00027143718968260396,Topography
+Faxonius rusticus,3,l_TOP106,0.0007796186978700863,Topography
+Faxonius rusticus,3,l_TOP107,0.0022166552059104064,Topography
+Faxonius rusticus,3,l_TOP108,0.0005813903549423405,Topography
+Faxonius rusticus,3,l_TOP109,0.04480709804663654,Topography
+Faxonius rusticus,3,l_TOP11,0.0010385457916042707,Topography
+Faxonius rusticus,3,l_TOP111,0.0004517231333709771,Topography
+Faxonius rusticus,3,l_TOP112,0.0005377532257867393,Topography
+Faxonius rusticus,3,l_TOP113,0.0006733245046787717,Topography
+Faxonius rusticus,3,l_TOP116,0.007192481011756612,Topography
+Faxonius rusticus,3,l_TOP117,0.0004409001539461407,Topography
+Faxonius rusticus,3,l_TOP118,0.00021303746819271866,Topography
+Faxonius rusticus,3,l_TOP124,0.0011974832361381072,Topography
+Faxonius rusticus,3,l_TOP125,0.0008878992461009336,Topography
+Faxonius rusticus,3,l_TOP126,0.0006760419996131138,Topography
+Faxonius rusticus,3,l_TOP127,0.0004346187420694115,Topography
+Faxonius rusticus,3,l_TOP13,0.00013099924991168466,Topography
+Faxonius rusticus,3,l_TOP132,0.0008765769588193443,Topography
+Faxonius rusticus,3,l_TOP133,8.022615816769422e-05,Topography
+Faxonius rusticus,3,l_TOP134,0.0006023350987088539,Topography
+Faxonius rusticus,3,l_TOP135,0.0007970649713692951,Topography
+Faxonius rusticus,3,l_TOP136,0.0007507137804713247,Topography
+Faxonius rusticus,3,l_TOP137,0.0004780818005536836,Topography
+Faxonius rusticus,3,l_TOP138,0.0007720007929858433,Topography
+Faxonius rusticus,3,l_TOP139,0.00093556240359427,Topography
+Faxonius rusticus,3,l_TOP14,0.0008334130053250497,Topography
+Faxonius rusticus,3,l_TOP140,0.000989847523791661,Topography
+Faxonius rusticus,3,l_TOP141,0.0007228524877064488,Topography
+Faxonius rusticus,3,l_TOP142,0.0007206578196789545,Topography
+Faxonius rusticus,3,l_TOP143,0.000616619681909384,Topography
+Faxonius rusticus,3,l_TOP144,0.0005380910197556283,Topography
+Faxonius rusticus,3,l_TOP16,0.0005998400407122622,Topography
+Faxonius rusticus,3,l_TOP17,1.5354881319436248e-19,Topography
+Faxonius rusticus,3,l_TOP18,0.0002583435751780793,Topography
+Faxonius rusticus,3,l_TOP19,0.0004618338660020624,Topography
+Faxonius rusticus,3,l_TOP2,0.00048713944177225136,Topography
+Faxonius rusticus,3,l_TOP20,0.0005096977513397809,Topography
+Faxonius rusticus,3,l_TOP23,0.0007780012608891629,Topography
+Faxonius rusticus,3,l_TOP24,0.0006777542436631847,Topography
+Faxonius rusticus,3,l_TOP27,0.00039596581335324936,Topography
+Faxonius rusticus,3,l_TOP30,0.05824873683056566,Topography
+Faxonius rusticus,3,l_TOP36,0.00027200894969135004,Topography
+Faxonius rusticus,3,l_TOP38,0.0004390814657790772,Topography
+Faxonius rusticus,3,l_TOP39,0.000647395416119847,Topography
+Faxonius rusticus,3,l_TOP40,0.00046461141246650667,Topography
+Faxonius rusticus,3,l_TOP41,0.0,Topography
+Faxonius rusticus,3,l_TOP42,0.0004557150622612297,Topography
+Faxonius rusticus,3,l_TOP43,0.0007136061704887028,Topography
+Faxonius rusticus,3,l_TOP44,0.0009774894586247315,Topography
+Faxonius rusticus,3,l_TOP45,1.5905470698548892e-19,Topography
+Faxonius rusticus,3,l_TOP47,0.0016232336686905272,Topography
+Faxonius rusticus,3,l_TOP48,0.001983587687120197,Topography
+Faxonius rusticus,3,l_TOP49,0.00019073119389673797,Topography
+Faxonius rusticus,3,l_TOP51,0.00037844586846425774,Topography
+Faxonius rusticus,3,l_TOP52,0.0007663169202511868,Topography
+Faxonius rusticus,3,l_TOP59,0.0007533348794070379,Topography
+Faxonius rusticus,3,l_TOP6,0.0002882146721139415,Topography
+Faxonius rusticus,3,l_TOP60,0.0009225418674086397,Topography
+Faxonius rusticus,3,l_TOP61,0.0002432867803233495,Topography
+Faxonius rusticus,3,l_TOP62,0.000333393075537514,Topography
+Faxonius rusticus,3,l_TOP63,0.00038783119721619405,Topography
+Faxonius rusticus,3,l_TOP64,0.00028886719937786843,Topography
+Faxonius rusticus,3,l_TOP65,0.00018476198880693483,Topography
+Faxonius rusticus,3,l_TOP66,0.0004458400033510065,Topography
+Faxonius rusticus,3,l_TOP68,0.00028374814256341665,Topography
+Faxonius rusticus,3,l_TOP7,0.0007961443047632018,Topography
+Faxonius rusticus,3,l_TOP70,0.00034163602062450653,Topography
+Faxonius rusticus,3,l_TOP72,0.00041447576135464765,Topography
+Faxonius rusticus,3,l_TOP73,0.0002346056245407217,Topography
+Faxonius rusticus,3,l_TOP74,0.0003285661317547137,Topography
+Faxonius rusticus,3,l_TOP75,0.00047920867328634514,Topography
+Faxonius rusticus,3,l_TOP76,0.00026332902587688324,Topography
+Faxonius rusticus,3,l_TOP79,0.00035772088819385956,Topography
+Faxonius rusticus,3,l_TOP8,0.0006165666108990435,Topography
+Faxonius rusticus,3,l_TOP83,0.0003066492743488244,Topography
+Faxonius rusticus,3,l_TOP85,8.723523983848517e-05,Topography
+Faxonius rusticus,3,l_TOP86,0.00020426828381460608,Topography
+Faxonius rusticus,3,l_TOP87,0.0003264417380529253,Topography
+Faxonius rusticus,3,l_TOP88,0.0004133870034707503,Topography
+Faxonius rusticus,3,l_TOP89,0.0001419213506466278,Topography
+Faxonius rusticus,3,l_TOP9,9.824116861690411e-05,Topography
+Faxonius rusticus,3,l_TOP90,0.0003449450156404489,Topography
+Faxonius rusticus,3,l_TOP91,0.0005253557545108171,Topography
+Faxonius rusticus,3,l_TOP92,0.0003301014648627461,Topography
+Faxonius rusticus,3,l_TOP93,0.0007108855396506865,Topography
+Faxonius rusticus,3,l_TOP97,0.001505375413258916,Topography
+Faxonius rusticus,3,l_TOP99,0.0003759983582616076,Topography
+Faxonius rusticus,3,u_CLI11,0.004638396443199663,Climate
+Faxonius rusticus,3,u_CLI15,0.010651521637244985,Climate
+Faxonius rusticus,3,u_CLI19,0.0012644330463831618,Climate
+Faxonius rusticus,3,u_CLI23,0.03456060956933159,Climate
+Faxonius rusticus,3,u_CLI27,0.013621336858190699,Climate
+Faxonius rusticus,3,u_CLI3,0.0054618363596091015,Climate
+Faxonius rusticus,3,u_CLI31,0.0022425888271811437,Climate
+Faxonius rusticus,3,u_CLI35,0.024342325358361106,Climate
+Faxonius rusticus,3,u_CLI39,0.0017337152410785174,Climate
+Faxonius rusticus,3,u_CLI47,0.0016412950601118995,Climate
+Faxonius rusticus,3,u_CLI51,0.0016818834022709272,Climate
+Faxonius rusticus,3,u_CLI59,0.013255627885518435,Climate
+Faxonius rusticus,3,u_CLI63,0.0011976448488257771,Climate
+Faxonius rusticus,3,u_CLI67,0.004943593020786498,Climate
+Faxonius rusticus,3,u_CLI7,0.001522401106509776,Climate
+Faxonius rusticus,3,u_CLI71,0.004571209504847342,Climate
+Faxonius rusticus,3,u_CLI75,0.0064452784781755335,Climate
+Faxonius rusticus,3,u_LAC1,0.0005906855848797245,Land Cover
+Faxonius rusticus,3,u_LAC10,0.0003579564522191341,Land Cover
+Faxonius rusticus,3,u_LAC11,0.0006680793271680246,Land Cover
+Faxonius rusticus,3,u_LAC12,0.0002687623438111504,Land Cover
+Faxonius rusticus,3,u_LAC13,0.0004837608460245943,Land Cover
+Faxonius rusticus,3,u_LAC15,9.671170218168299e-05,Land Cover
+Faxonius rusticus,3,u_LAC16,0.0004457212116615269,Land Cover
+Faxonius rusticus,3,u_LAC18,0.00013734618579125892,Land Cover
+Faxonius rusticus,3,u_LAC19,0.00047500108117378494,Land Cover
+Faxonius rusticus,3,u_LAC20,0.00038978883569100247,Land Cover
+Faxonius rusticus,3,u_LAC21,0.00011871894360801063,Land Cover
+Faxonius rusticus,3,u_LAC3,0.000517831815812119,Land Cover
+Faxonius rusticus,3,u_LAC4,0.000688002690294867,Land Cover
+Faxonius rusticus,3,u_LAC5,0.0,Land Cover
+Faxonius rusticus,3,u_LAC6,0.0005358129333961891,Land Cover
+Faxonius rusticus,3,u_LAC7,0.00032754013424132425,Land Cover
+Faxonius rusticus,3,u_LAC8,0.0002991203821840795,Land Cover
+Faxonius rusticus,3,u_LAC9,0.00022501077590206597,Land Cover
+Faxonius rusticus,3,u_SOL11,0.012833649535430054,Soil
+Faxonius rusticus,3,u_SOL15,0.02164886232739486,Soil
+Faxonius rusticus,3,u_SOL19,0.005696488609677205,Soil
+Faxonius rusticus,3,u_SOL23,0.004531747025069015,Soil
+Faxonius rusticus,3,u_SOL27,0.01547648336412862,Soil
+Faxonius rusticus,3,u_SOL3,0.0006817906321123744,Soil
+Faxonius rusticus,3,u_SOL31,0.010432904436386625,Soil
+Faxonius rusticus,3,u_SOL35,0.0012616922626400495,Soil
+Faxonius rusticus,3,u_SOL39,0.0006311377358255819,Soil
+Faxonius rusticus,3,u_SOL43,0.003324834743627368,Soil
+Faxonius rusticus,3,u_SOL47,0.000946650750131136,Soil
+Faxonius rusticus,3,u_SOL55,0.00036082745971649424,Soil
+Faxonius rusticus,3,u_SOL59,0.001065650573604982,Soil
+Faxonius rusticus,3,u_SOL7,0.009222976462267574,Soil
+Faxonius rusticus,3,u_TOP103,0.002778711058721389,Topography
+Faxonius rusticus,3,u_TOP110,0.0012139646995738059,Topography
+Faxonius rusticus,3,u_TOP111,0.0005792445247784138,Topography
+Faxonius rusticus,3,u_TOP112,0.0005940802050132488,Topography
+Faxonius rusticus,3,u_TOP113,0.0006294088561631317,Topography
+Faxonius rusticus,3,u_TOP114,0.026471113257435314,Topography
+Faxonius rusticus,3,u_TOP117,0.0017738239387698094,Topography
+Faxonius rusticus,3,u_TOP122,0.0022056003591036733,Topography
+Faxonius rusticus,3,u_TOP130,0.0003062178473274148,Topography
+Faxonius rusticus,3,u_TOP135,0.0022098702594052074,Topography
+Faxonius rusticus,3,u_TOP139,0.007051968550778596,Topography
+Faxonius rusticus,3,u_TOP143,0.0011704779542285764,Topography
+Faxonius rusticus,3,u_TOP15,0.00569114459428103,Topography
+Faxonius rusticus,3,u_TOP19,0.0032963437832707674,Topography
+Faxonius rusticus,3,u_TOP27,0.003360672404941512,Topography
+Faxonius rusticus,3,u_TOP3,0.004311211246477531,Topography
+Faxonius rusticus,3,u_TOP31,0.02766199806204764,Topography
+Faxonius rusticus,3,u_TOP35,0.003244768809692742,Topography
+Faxonius rusticus,3,u_TOP39,0.007992917837043251,Topography
+Faxonius rusticus,3,u_TOP47,0.010850890509348088,Topography
+Faxonius rusticus,3,u_TOP51,0.0011626274901812407,Topography
+Faxonius rusticus,3,u_TOP55,0.013529381149065767,Topography
+Faxonius rusticus,3,u_TOP59,0.0008678227965189511,Topography
+Faxonius rusticus,3,u_TOP63,0.00503192120853734,Topography
+Faxonius rusticus,3,u_TOP67,0.005659122784711247,Topography
+Faxonius rusticus,3,u_TOP75,0.0009600883991765992,Topography
+Faxonius rusticus,3,u_TOP83,0.009599627404634988,Topography
+Faxonius rusticus,3,u_TOP91,0.002536595918850807,Topography
+Faxonius rusticus,3,u_TOP95,0.005033847499165886,Topography
+Faxonius rusticus,4,l_CLI1,0.014625266528015123,Climate
+Faxonius rusticus,4,l_CLI12,0.00036970545222646256,Climate
+Faxonius rusticus,4,l_CLI14,0.023553660858502214,Climate
+Faxonius rusticus,4,l_CLI16,0.0002322887636689951,Climate
+Faxonius rusticus,4,l_CLI17,0.002545071676763551,Climate
+Faxonius rusticus,4,l_CLI20,0.0002402233328009889,Climate
+Faxonius rusticus,4,l_CLI21,0.043188403172729976,Climate
+Faxonius rusticus,4,l_CLI24,0.00015135713888774364,Climate
+Faxonius rusticus,4,l_CLI26,0.04781115299146546,Climate
+Faxonius rusticus,4,l_CLI28,0.00011975485288881905,Climate
+Faxonius rusticus,4,l_CLI30,0.0028519738654047993,Climate
+Faxonius rusticus,4,l_CLI32,0.000166889665817427,Climate
+Faxonius rusticus,4,l_CLI33,0.048229458317973185,Climate
+Faxonius rusticus,4,l_CLI36,0.00023263144485883812,Climate
+Faxonius rusticus,4,l_CLI38,0.0020984735685940087,Climate
+Faxonius rusticus,4,l_CLI4,0.00013076291855097056,Climate
+Faxonius rusticus,4,l_CLI40,0.00026817185224896226,Climate
+Faxonius rusticus,4,l_CLI44,0.00017230658180522956,Climate
+Faxonius rusticus,4,l_CLI45,0.002757778727686319,Climate
+Faxonius rusticus,4,l_CLI49,0.0027964104576071545,Climate
+Faxonius rusticus,4,l_CLI52,0.0002885867314796931,Climate
+Faxonius rusticus,4,l_CLI57,0.03892982326186919,Climate
+Faxonius rusticus,4,l_CLI6,0.003001834180436031,Climate
+Faxonius rusticus,4,l_CLI60,0.00032517056691158295,Climate
+Faxonius rusticus,4,l_CLI62,0.00353422936246692,Climate
+Faxonius rusticus,4,l_CLI65,0.017899112720134842,Climate
+Faxonius rusticus,4,l_CLI71,0.009960901612563139,Climate
+Faxonius rusticus,4,l_CLI72,0.0003723128766286658,Climate
+Faxonius rusticus,4,l_CLI73,0.015092017924714778,Climate
+Faxonius rusticus,4,l_CLI8,0.0003554982472668287,Climate
+Faxonius rusticus,4,l_CLI9,0.010676589930910347,Climate
+Faxonius rusticus,4,l_LAC1,0.0003613786810035085,Land Cover
+Faxonius rusticus,4,l_LAC10,0.00025118926537211694,Land Cover
+Faxonius rusticus,4,l_LAC11,4.597263306676314e-05,Land Cover
+Faxonius rusticus,4,l_LAC12,1.3551319633890588e-05,Land Cover
+Faxonius rusticus,4,l_LAC13,9.47070455795681e-05,Land Cover
+Faxonius rusticus,4,l_LAC15,0.0,Land Cover
+Faxonius rusticus,4,l_LAC16,6.215483859098092e-05,Land Cover
+Faxonius rusticus,4,l_LAC18,6.0909778077177316e-05,Land Cover
+Faxonius rusticus,4,l_LAC19,0.00033123823151964235,Land Cover
+Faxonius rusticus,4,l_LAC20,4.85192806411412e-19,Land Cover
+Faxonius rusticus,4,l_LAC21,0.0003787842385554044,Land Cover
+Faxonius rusticus,4,l_LAC3,0.00031609056282587937,Land Cover
+Faxonius rusticus,4,l_LAC4,0.00015462701260092145,Land Cover
+Faxonius rusticus,4,l_LAC6,0.00020748110648739613,Land Cover
+Faxonius rusticus,4,l_LAC7,5.9778350453784505e-05,Land Cover
+Faxonius rusticus,4,l_LAC8,7.695048822430749e-19,Land Cover
+Faxonius rusticus,4,l_LAC9,3.8481288798972244e-05,Land Cover
+Faxonius rusticus,4,l_SOL1,0.0004562103582044463,Soil
+Faxonius rusticus,4,l_SOL10,0.006755417589170342,Soil
+Faxonius rusticus,4,l_SOL11,0.0068832551914582325,Soil
+Faxonius rusticus,4,l_SOL12,0.000477997305840458,Soil
+Faxonius rusticus,4,l_SOL13,0.009451668492057301,Soil
+Faxonius rusticus,4,l_SOL16,0.0004214157502867789,Soil
+Faxonius rusticus,4,l_SOL17,0.0036175643932758773,Soil
+Faxonius rusticus,4,l_SOL18,0.0031049495800555657,Soil
+Faxonius rusticus,4,l_SOL19,0.004308436790474656,Soil
+Faxonius rusticus,4,l_SOL2,0.00031430146620643756,Soil
+Faxonius rusticus,4,l_SOL20,0.0005861142446543258,Soil
+Faxonius rusticus,4,l_SOL21,0.0013244954398989681,Soil
+Faxonius rusticus,4,l_SOL22,0.0008859864244107356,Soil
+Faxonius rusticus,4,l_SOL23,0.0014263765584360362,Soil
+Faxonius rusticus,4,l_SOL24,0.0004773131519192849,Soil
+Faxonius rusticus,4,l_SOL25,0.0048581731031389986,Soil
+Faxonius rusticus,4,l_SOL26,0.008057581624419483,Soil
+Faxonius rusticus,4,l_SOL27,0.011450573863751768,Soil
+Faxonius rusticus,4,l_SOL28,0.00041884365465337395,Soil
+Faxonius rusticus,4,l_SOL29,0.010240142053106386,Soil
+Faxonius rusticus,4,l_SOL3,0.0007110482080376521,Soil
+Faxonius rusticus,4,l_SOL30,0.005383350882767549,Soil
+Faxonius rusticus,4,l_SOL31,0.010275911959439357,Soil
+Faxonius rusticus,4,l_SOL32,0.0003398130373513725,Soil
+Faxonius rusticus,4,l_SOL33,0.0001405129661753886,Soil
+Faxonius rusticus,4,l_SOL34,0.0002813684585767132,Soil
+Faxonius rusticus,4,l_SOL35,0.0008921676511641531,Soil
+Faxonius rusticus,4,l_SOL36,0.0004537181939392378,Soil
+Faxonius rusticus,4,l_SOL37,0.0005514442429548898,Soil
+Faxonius rusticus,4,l_SOL38,0.0006718911453812633,Soil
+Faxonius rusticus,4,l_SOL39,0.001156534944670946,Soil
+Faxonius rusticus,4,l_SOL4,0.00037076162709610616,Soil
+Faxonius rusticus,4,l_SOL40,0.00041987405685915073,Soil
+Faxonius rusticus,4,l_SOL42,0.0013946135216256564,Soil
+Faxonius rusticus,4,l_SOL44,0.00039610590422914854,Soil
+Faxonius rusticus,4,l_SOL45,0.00010309003486512459,Soil
+Faxonius rusticus,4,l_SOL46,7.997252830914155e-05,Soil
+Faxonius rusticus,4,l_SOL47,0.0003856136498247217,Soil
+Faxonius rusticus,4,l_SOL48,0.0002631886867516129,Soil
+Faxonius rusticus,4,l_SOL5,0.003229283719493795,Soil
+Faxonius rusticus,4,l_SOL53,0.00024319280535922545,Soil
+Faxonius rusticus,4,l_SOL54,7.901902676986147e-06,Soil
+Faxonius rusticus,4,l_SOL55,0.00018178043615228978,Soil
+Faxonius rusticus,4,l_SOL56,0.00028213924464456295,Soil
+Faxonius rusticus,4,l_SOL57,0.0011685182613676726,Soil
+Faxonius rusticus,4,l_SOL58,0.0010523546433164183,Soil
+Faxonius rusticus,4,l_SOL59,0.0013036872577144934,Soil
+Faxonius rusticus,4,l_SOL6,0.0035030666160752477,Soil
+Faxonius rusticus,4,l_SOL60,0.00042093643402062766,Soil
+Faxonius rusticus,4,l_SOL7,0.007846068982364738,Soil
+Faxonius rusticus,4,l_SOL8,0.0003085623437333244,Soil
+Faxonius rusticus,4,l_SOL9,0.008451180540853058,Soil
+Faxonius rusticus,4,l_TOP1,0.0004926784201091494,Topography
+Faxonius rusticus,4,l_TOP10,0.0004961140656621041,Topography
+Faxonius rusticus,4,l_TOP101,0.00489203226845451,Topography
+Faxonius rusticus,4,l_TOP102,0.009167368924667562,Topography
+Faxonius rusticus,4,l_TOP103,0.0007030299396589334,Topography
+Faxonius rusticus,4,l_TOP104,0.00048522407806387153,Topography
+Faxonius rusticus,4,l_TOP105,0.0001616431338723477,Topography
+Faxonius rusticus,4,l_TOP106,0.000573125353606856,Topography
+Faxonius rusticus,4,l_TOP107,0.0033573281159678383,Topography
+Faxonius rusticus,4,l_TOP108,0.0004590187625901194,Topography
+Faxonius rusticus,4,l_TOP109,0.051711401396066684,Topography
+Faxonius rusticus,4,l_TOP11,0.0009108545191079056,Topography
+Faxonius rusticus,4,l_TOP111,0.0005592162688557059,Topography
+Faxonius rusticus,4,l_TOP112,0.0005136446027046788,Topography
+Faxonius rusticus,4,l_TOP113,0.000478315170212874,Topography
+Faxonius rusticus,4,l_TOP116,0.011473242126604881,Topography
+Faxonius rusticus,4,l_TOP117,0.000393450390280443,Topography
+Faxonius rusticus,4,l_TOP118,0.0003134132110057246,Topography
+Faxonius rusticus,4,l_TOP124,0.001648737823299659,Topography
+Faxonius rusticus,4,l_TOP125,0.0005849551542411732,Topography
+Faxonius rusticus,4,l_TOP126,0.0006048454765278278,Topography
+Faxonius rusticus,4,l_TOP127,0.0005080423006559117,Topography
+Faxonius rusticus,4,l_TOP13,6.436307539181797e-05,Topography
+Faxonius rusticus,4,l_TOP132,0.0009791025577326788,Topography
+Faxonius rusticus,4,l_TOP133,6.331484919735741e-05,Topography
+Faxonius rusticus,4,l_TOP134,0.00042519077645259757,Topography
+Faxonius rusticus,4,l_TOP135,0.000529630123190258,Topography
+Faxonius rusticus,4,l_TOP136,0.00046287533704839393,Topography
+Faxonius rusticus,4,l_TOP137,0.0002961167322873273,Topography
+Faxonius rusticus,4,l_TOP138,0.0009822708352207165,Topography
+Faxonius rusticus,4,l_TOP139,0.0009265973730748356,Topography
+Faxonius rusticus,4,l_TOP14,0.0007708019309001911,Topography
+Faxonius rusticus,4,l_TOP140,0.0007368800800364777,Topography
+Faxonius rusticus,4,l_TOP141,0.0008283201946011734,Topography
+Faxonius rusticus,4,l_TOP142,0.0008257050901718709,Topography
+Faxonius rusticus,4,l_TOP143,0.000820758331492998,Topography
+Faxonius rusticus,4,l_TOP144,0.0005001740519354813,Topography
+Faxonius rusticus,4,l_TOP16,0.0005413016237071087,Topography
+Faxonius rusticus,4,l_TOP17,1.0089223631794093e-20,Topography
+Faxonius rusticus,4,l_TOP18,0.0004897615845389325,Topography
+Faxonius rusticus,4,l_TOP19,0.0007577486651762175,Topography
+Faxonius rusticus,4,l_TOP2,0.0004669268016536187,Topography
+Faxonius rusticus,4,l_TOP20,0.0005080133832879972,Topography
+Faxonius rusticus,4,l_TOP23,0.0008367320777661507,Topography
+Faxonius rusticus,4,l_TOP24,0.0007508593239872951,Topography
+Faxonius rusticus,4,l_TOP27,0.0004951281869385681,Topography
+Faxonius rusticus,4,l_TOP30,0.048207086895182084,Topography
+Faxonius rusticus,4,l_TOP36,0.0003536113091079296,Topography
+Faxonius rusticus,4,l_TOP38,0.0003799908089565445,Topography
+Faxonius rusticus,4,l_TOP39,0.0004352961691686468,Topography
+Faxonius rusticus,4,l_TOP40,0.00047481002673125343,Topography
+Faxonius rusticus,4,l_TOP41,0.0,Topography
+Faxonius rusticus,4,l_TOP42,0.0003679167717278209,Topography
+Faxonius rusticus,4,l_TOP43,0.0006291770903564507,Topography
+Faxonius rusticus,4,l_TOP44,0.0006880620588875114,Topography
+Faxonius rusticus,4,l_TOP45,1.3053851514954768e-18,Topography
+Faxonius rusticus,4,l_TOP47,0.0012941986418734807,Topography
+Faxonius rusticus,4,l_TOP48,0.0020557904108007867,Topography
+Faxonius rusticus,4,l_TOP49,0.00017559725174430112,Topography
+Faxonius rusticus,4,l_TOP51,0.0007578602344642885,Topography
+Faxonius rusticus,4,l_TOP52,0.0006289076119169189,Topography
+Faxonius rusticus,4,l_TOP59,0.0005982642003762589,Topography
+Faxonius rusticus,4,l_TOP6,0.00040066597783006597,Topography
+Faxonius rusticus,4,l_TOP60,0.001032540386096181,Topography
+Faxonius rusticus,4,l_TOP61,0.00017754829209667625,Topography
+Faxonius rusticus,4,l_TOP62,0.00033614093919276064,Topography
+Faxonius rusticus,4,l_TOP63,0.0004981333380438761,Topography
+Faxonius rusticus,4,l_TOP64,0.00018509864446939337,Topography
+Faxonius rusticus,4,l_TOP65,0.0005116815708488049,Topography
+Faxonius rusticus,4,l_TOP66,0.0005018868051677441,Topography
+Faxonius rusticus,4,l_TOP68,0.0005259339892234274,Topography
+Faxonius rusticus,4,l_TOP7,0.000866187023178866,Topography
+Faxonius rusticus,4,l_TOP70,0.0004758818001253409,Topography
+Faxonius rusticus,4,l_TOP72,0.00019256073365831846,Topography
+Faxonius rusticus,4,l_TOP73,0.0002704944972243703,Topography
+Faxonius rusticus,4,l_TOP74,0.0005463450566824533,Topography
+Faxonius rusticus,4,l_TOP75,0.0005182546792496619,Topography
+Faxonius rusticus,4,l_TOP76,0.00037451485688765187,Topography
+Faxonius rusticus,4,l_TOP79,0.0002549812722333519,Topography
+Faxonius rusticus,4,l_TOP8,0.001102608113812723,Topography
+Faxonius rusticus,4,l_TOP83,0.00019824070368956593,Topography
+Faxonius rusticus,4,l_TOP85,4.6508286393991316e-05,Topography
+Faxonius rusticus,4,l_TOP86,0.0002954587365850506,Topography
+Faxonius rusticus,4,l_TOP87,0.000529838643585578,Topography
+Faxonius rusticus,4,l_TOP88,0.0002607377816242256,Topography
+Faxonius rusticus,4,l_TOP89,1.2746472265113848e-05,Topography
+Faxonius rusticus,4,l_TOP9,2.0690175684628202e-05,Topography
+Faxonius rusticus,4,l_TOP90,0.00022218748390521144,Topography
+Faxonius rusticus,4,l_TOP91,0.00037302381796698,Topography
+Faxonius rusticus,4,l_TOP92,0.00022909793586402768,Topography
+Faxonius rusticus,4,l_TOP93,0.0008359230365844898,Topography
+Faxonius rusticus,4,l_TOP97,0.0015791009368965202,Topography
+Faxonius rusticus,4,l_TOP99,0.000431489587902463,Topography
+Faxonius rusticus,4,u_CLI11,0.0044124592796242436,Climate
+Faxonius rusticus,4,u_CLI15,0.00874192820358519,Climate
+Faxonius rusticus,4,u_CLI19,0.0014360984460753115,Climate
+Faxonius rusticus,4,u_CLI23,0.030020578096053012,Climate
+Faxonius rusticus,4,u_CLI27,0.011714803243928321,Climate
+Faxonius rusticus,4,u_CLI3,0.007233514428738956,Climate
+Faxonius rusticus,4,u_CLI31,0.0019221031459479977,Climate
+Faxonius rusticus,4,u_CLI35,0.02712340556001304,Climate
+Faxonius rusticus,4,u_CLI39,0.0013650681530807643,Climate
+Faxonius rusticus,4,u_CLI47,0.0011889207506978502,Climate
+Faxonius rusticus,4,u_CLI51,0.0013010091596520421,Climate
+Faxonius rusticus,4,u_CLI59,0.02122890989441572,Climate
+Faxonius rusticus,4,u_CLI63,0.0018235944058943576,Climate
+Faxonius rusticus,4,u_CLI67,0.004980313610441148,Climate
+Faxonius rusticus,4,u_CLI7,0.001571839568202394,Climate
+Faxonius rusticus,4,u_CLI71,0.0032297384398878777,Climate
+Faxonius rusticus,4,u_CLI75,0.005977080199175184,Climate
+Faxonius rusticus,4,u_LAC1,0.0006000675733130032,Land Cover
+Faxonius rusticus,4,u_LAC10,0.0006390180404785874,Land Cover
+Faxonius rusticus,4,u_LAC11,0.0012625030590564215,Land Cover
+Faxonius rusticus,4,u_LAC12,0.0002673566079861522,Land Cover
+Faxonius rusticus,4,u_LAC13,0.0005888077086468206,Land Cover
+Faxonius rusticus,4,u_LAC15,0.00011467146993592049,Land Cover
+Faxonius rusticus,4,u_LAC16,0.0008491556261052718,Land Cover
+Faxonius rusticus,4,u_LAC18,0.00010396750763199307,Land Cover
+Faxonius rusticus,4,u_LAC19,0.0004998831861513088,Land Cover
+Faxonius rusticus,4,u_LAC20,0.0002191912764834336,Land Cover
+Faxonius rusticus,4,u_LAC21,0.0002056591356400591,Land Cover
+Faxonius rusticus,4,u_LAC3,0.0003896051241187451,Land Cover
+Faxonius rusticus,4,u_LAC4,0.0005361871319561741,Land Cover
+Faxonius rusticus,4,u_LAC5,0.0,Land Cover
+Faxonius rusticus,4,u_LAC6,0.0009242833600855169,Land Cover
+Faxonius rusticus,4,u_LAC7,0.00025272752664574937,Land Cover
+Faxonius rusticus,4,u_LAC8,0.00020170673721984776,Land Cover
+Faxonius rusticus,4,u_LAC9,0.00017692846767917886,Land Cover
+Faxonius rusticus,4,u_SOL11,0.018456000321811702,Soil
+Faxonius rusticus,4,u_SOL15,0.018302145223524014,Soil
+Faxonius rusticus,4,u_SOL19,0.010488046236001658,Soil
+Faxonius rusticus,4,u_SOL23,0.003232163660863031,Soil
+Faxonius rusticus,4,u_SOL27,0.017415785236717992,Soil
+Faxonius rusticus,4,u_SOL3,0.001050234422259601,Soil
+Faxonius rusticus,4,u_SOL31,0.012006886155888234,Soil
+Faxonius rusticus,4,u_SOL35,0.0017769120965722808,Soil
+Faxonius rusticus,4,u_SOL39,0.000966084072338618,Soil
+Faxonius rusticus,4,u_SOL43,0.002253874066323703,Soil
+Faxonius rusticus,4,u_SOL47,0.0010703509125665782,Soil
+Faxonius rusticus,4,u_SOL55,0.0004706206952138323,Soil
+Faxonius rusticus,4,u_SOL59,0.0014058457729487015,Soil
+Faxonius rusticus,4,u_SOL7,0.008106295287048516,Soil
+Faxonius rusticus,4,u_TOP103,0.0017821813056912211,Topography
+Faxonius rusticus,4,u_TOP110,0.0005673738103765384,Topography
+Faxonius rusticus,4,u_TOP111,0.0005602840514679014,Topography
+Faxonius rusticus,4,u_TOP112,0.0006930793191006786,Topography
+Faxonius rusticus,4,u_TOP113,0.0003072416194319043,Topography
+Faxonius rusticus,4,u_TOP114,0.02722408139069688,Topography
+Faxonius rusticus,4,u_TOP117,0.0032899126794120694,Topography
+Faxonius rusticus,4,u_TOP122,0.0018672576812920403,Topography
+Faxonius rusticus,4,u_TOP130,0.00037370559879509044,Topography
+Faxonius rusticus,4,u_TOP135,0.001730512652294613,Topography
+Faxonius rusticus,4,u_TOP139,0.004098257204060575,Topography
+Faxonius rusticus,4,u_TOP143,0.0015134840382788858,Topography
+Faxonius rusticus,4,u_TOP15,0.005139449470859587,Topography
+Faxonius rusticus,4,u_TOP19,0.004506812871341311,Topography
+Faxonius rusticus,4,u_TOP27,0.005871231654503392,Topography
+Faxonius rusticus,4,u_TOP3,0.0030751548617475367,Topography
+Faxonius rusticus,4,u_TOP31,0.023500193382864278,Topography
+Faxonius rusticus,4,u_TOP35,0.0036168379695178275,Topography
+Faxonius rusticus,4,u_TOP39,0.008170487970203106,Topography
+Faxonius rusticus,4,u_TOP47,0.01286767847721803,Topography
+Faxonius rusticus,4,u_TOP51,0.0016536379964791272,Topography
+Faxonius rusticus,4,u_TOP55,0.013642117354047344,Topography
+Faxonius rusticus,4,u_TOP59,0.0016733806812152478,Topography
+Faxonius rusticus,4,u_TOP63,0.005469293462135051,Topography
+Faxonius rusticus,4,u_TOP67,0.004631489187995408,Topography
+Faxonius rusticus,4,u_TOP75,0.0017718182516841435,Topography
+Faxonius rusticus,4,u_TOP83,0.013947326961024924,Topography
+Faxonius rusticus,4,u_TOP91,0.0032996872014154654,Topography
+Faxonius rusticus,4,u_TOP95,0.0045117412062978925,Topography
+Faxonius rusticus,5,l_CLI1,0.013264231630043406,Climate
+Faxonius rusticus,5,l_CLI12,0.0004262353637678527,Climate
+Faxonius rusticus,5,l_CLI14,0.028607116136410336,Climate
+Faxonius rusticus,5,l_CLI16,0.00027408191565963294,Climate
+Faxonius rusticus,5,l_CLI17,0.0023765708823866795,Climate
+Faxonius rusticus,5,l_CLI20,0.00027043272732036466,Climate
+Faxonius rusticus,5,l_CLI21,0.03701771819545885,Climate
+Faxonius rusticus,5,l_CLI24,0.00016015587164804225,Climate
+Faxonius rusticus,5,l_CLI26,0.05523146448635892,Climate
+Faxonius rusticus,5,l_CLI28,0.00022395487492207829,Climate
+Faxonius rusticus,5,l_CLI30,0.0024819450725798576,Climate
+Faxonius rusticus,5,l_CLI32,0.00019815904816493046,Climate
+Faxonius rusticus,5,l_CLI33,0.042998933628925796,Climate
+Faxonius rusticus,5,l_CLI36,0.0004401719193315497,Climate
+Faxonius rusticus,5,l_CLI38,0.003152481759890831,Climate
+Faxonius rusticus,5,l_CLI4,0.0001826052773438705,Climate
+Faxonius rusticus,5,l_CLI40,0.0002386348450738421,Climate
+Faxonius rusticus,5,l_CLI44,0.0003138697548401081,Climate
+Faxonius rusticus,5,l_CLI45,0.0039903797115253435,Climate
+Faxonius rusticus,5,l_CLI49,0.002751059714838363,Climate
+Faxonius rusticus,5,l_CLI52,0.00022170758338275025,Climate
+Faxonius rusticus,5,l_CLI57,0.03776645053417395,Climate
+Faxonius rusticus,5,l_CLI6,0.003494320336192565,Climate
+Faxonius rusticus,5,l_CLI60,0.00025353241351446724,Climate
+Faxonius rusticus,5,l_CLI62,0.0024120052939618658,Climate
+Faxonius rusticus,5,l_CLI65,0.016235378549060393,Climate
+Faxonius rusticus,5,l_CLI71,0.010516580468969985,Climate
+Faxonius rusticus,5,l_CLI72,0.00033758311621779485,Climate
+Faxonius rusticus,5,l_CLI73,0.018658297405344984,Climate
+Faxonius rusticus,5,l_CLI8,0.00031945013255379984,Climate
+Faxonius rusticus,5,l_CLI9,0.010694175851478421,Climate
+Faxonius rusticus,5,l_LAC1,0.0005017458411726428,Land Cover
+Faxonius rusticus,5,l_LAC10,0.0002282480327259071,Land Cover
+Faxonius rusticus,5,l_LAC11,2.1107325562222593e-05,Land Cover
+Faxonius rusticus,5,l_LAC12,2.8008030372272887e-19,Land Cover
+Faxonius rusticus,5,l_LAC13,8.38320525820187e-05,Land Cover
+Faxonius rusticus,5,l_LAC15,0.0,Land Cover
+Faxonius rusticus,5,l_LAC16,3.199907281237521e-05,Land Cover
+Faxonius rusticus,5,l_LAC18,0.0001436974752935253,Land Cover
+Faxonius rusticus,5,l_LAC19,0.0003151979814277524,Land Cover
+Faxonius rusticus,5,l_LAC20,9.050589341904474e-06,Land Cover
+Faxonius rusticus,5,l_LAC21,0.00017936856515078433,Land Cover
+Faxonius rusticus,5,l_LAC3,0.00018668483218927892,Land Cover
+Faxonius rusticus,5,l_LAC4,0.0001412131927422836,Land Cover
+Faxonius rusticus,5,l_LAC6,0.0004453676873690643,Land Cover
+Faxonius rusticus,5,l_LAC7,3.121483217896663e-05,Land Cover
+Faxonius rusticus,5,l_LAC8,7.2441815499169995e-06,Land Cover
+Faxonius rusticus,5,l_LAC9,3.5089074536257126e-05,Land Cover
+Faxonius rusticus,5,l_SOL1,0.00023424845447751635,Soil
+Faxonius rusticus,5,l_SOL10,0.0059431100797465225,Soil
+Faxonius rusticus,5,l_SOL11,0.008647414259661687,Soil
+Faxonius rusticus,5,l_SOL12,0.0005292917482252915,Soil
+Faxonius rusticus,5,l_SOL13,0.007556072943942039,Soil
+Faxonius rusticus,5,l_SOL16,0.0006042648042649547,Soil
+Faxonius rusticus,5,l_SOL17,0.0036349560148605984,Soil
+Faxonius rusticus,5,l_SOL18,0.002701883397503434,Soil
+Faxonius rusticus,5,l_SOL19,0.004237734979896763,Soil
+Faxonius rusticus,5,l_SOL2,0.00022420098340478632,Soil
+Faxonius rusticus,5,l_SOL20,0.0004322911084266616,Soil
+Faxonius rusticus,5,l_SOL21,0.0010499091975111866,Soil
+Faxonius rusticus,5,l_SOL22,0.0012550357915266136,Soil
+Faxonius rusticus,5,l_SOL23,0.0022436480989648216,Soil
+Faxonius rusticus,5,l_SOL24,0.0004967238449107503,Soil
+Faxonius rusticus,5,l_SOL25,0.0060868363789519575,Soil
+Faxonius rusticus,5,l_SOL26,0.007061420877656374,Soil
+Faxonius rusticus,5,l_SOL27,0.009669332900432027,Soil
+Faxonius rusticus,5,l_SOL28,0.0005906406692436517,Soil
+Faxonius rusticus,5,l_SOL29,0.008716066476343657,Soil
+Faxonius rusticus,5,l_SOL3,0.0008059046138128432,Soil
+Faxonius rusticus,5,l_SOL30,0.005769072340805302,Soil
+Faxonius rusticus,5,l_SOL31,0.00883385418007361,Soil
+Faxonius rusticus,5,l_SOL32,0.0004128897757803615,Soil
+Faxonius rusticus,5,l_SOL33,0.00021108748135647163,Soil
+Faxonius rusticus,5,l_SOL34,0.0004071361990609283,Soil
+Faxonius rusticus,5,l_SOL35,0.0007008641241618564,Soil
+Faxonius rusticus,5,l_SOL36,0.00031113015317266895,Soil
+Faxonius rusticus,5,l_SOL37,0.0005819404854196254,Soil
+Faxonius rusticus,5,l_SOL38,0.0006590039513197389,Soil
+Faxonius rusticus,5,l_SOL39,0.0007730417703136862,Soil
+Faxonius rusticus,5,l_SOL4,0.00029130163871267655,Soil
+Faxonius rusticus,5,l_SOL40,0.0005263010417507115,Soil
+Faxonius rusticus,5,l_SOL42,0.0009095828992466917,Soil
+Faxonius rusticus,5,l_SOL44,0.0005579757310731152,Soil
+Faxonius rusticus,5,l_SOL45,0.00012288900482318793,Soil
+Faxonius rusticus,5,l_SOL46,0.00011575081805306956,Soil
+Faxonius rusticus,5,l_SOL47,0.0004785375769396974,Soil
+Faxonius rusticus,5,l_SOL48,0.00018828980816753876,Soil
+Faxonius rusticus,5,l_SOL5,0.004472383909939499,Soil
+Faxonius rusticus,5,l_SOL53,9.680365822563397e-05,Soil
+Faxonius rusticus,5,l_SOL54,1.1048193227547093e-05,Soil
+Faxonius rusticus,5,l_SOL55,6.58744525234931e-05,Soil
+Faxonius rusticus,5,l_SOL56,0.00010381362273802345,Soil
+Faxonius rusticus,5,l_SOL57,0.0012792786593566203,Soil
+Faxonius rusticus,5,l_SOL58,0.0010077827632749734,Soil
+Faxonius rusticus,5,l_SOL59,0.0012490803067418317,Soil
+Faxonius rusticus,5,l_SOL6,0.0031243018333756254,Soil
+Faxonius rusticus,5,l_SOL60,0.0004889035919247969,Soil
+Faxonius rusticus,5,l_SOL7,0.0066252469071432195,Soil
+Faxonius rusticus,5,l_SOL8,0.0003216085915871644,Soil
+Faxonius rusticus,5,l_SOL9,0.00824547517110532,Soil
+Faxonius rusticus,5,l_TOP1,0.0005702135044747016,Topography
+Faxonius rusticus,5,l_TOP10,0.00042721920210409497,Topography
+Faxonius rusticus,5,l_TOP101,0.004213815941002792,Topography
+Faxonius rusticus,5,l_TOP102,0.011708680192529802,Topography
+Faxonius rusticus,5,l_TOP103,0.0006309750036396361,Topography
+Faxonius rusticus,5,l_TOP104,0.0003496715322309262,Topography
+Faxonius rusticus,5,l_TOP105,0.00027641375025942987,Topography
+Faxonius rusticus,5,l_TOP106,0.0004398419363584409,Topography
+Faxonius rusticus,5,l_TOP107,0.002087676089973388,Topography
+Faxonius rusticus,5,l_TOP108,0.00077897166384151,Topography
+Faxonius rusticus,5,l_TOP109,0.055914021960512074,Topography
+Faxonius rusticus,5,l_TOP11,0.0008161200121713219,Topography
+Faxonius rusticus,5,l_TOP111,0.0006727193044521584,Topography
+Faxonius rusticus,5,l_TOP112,0.0003252083267059898,Topography
+Faxonius rusticus,5,l_TOP113,0.0010393711465180174,Topography
+Faxonius rusticus,5,l_TOP116,0.007977594720933338,Topography
+Faxonius rusticus,5,l_TOP117,0.0004655086675295765,Topography
+Faxonius rusticus,5,l_TOP118,0.00026447146641442955,Topography
+Faxonius rusticus,5,l_TOP124,0.0013447021687796542,Topography
+Faxonius rusticus,5,l_TOP125,0.0006677642338936659,Topography
+Faxonius rusticus,5,l_TOP126,0.0006616511474642785,Topography
+Faxonius rusticus,5,l_TOP127,0.00046987728863139965,Topography
+Faxonius rusticus,5,l_TOP13,0.00013532378974954958,Topography
+Faxonius rusticus,5,l_TOP132,0.0008140516590565703,Topography
+Faxonius rusticus,5,l_TOP133,5.059170993632963e-05,Topography
+Faxonius rusticus,5,l_TOP134,0.0004930651501439575,Topography
+Faxonius rusticus,5,l_TOP135,0.000684233529582531,Topography
+Faxonius rusticus,5,l_TOP136,0.0007445804519833892,Topography
+Faxonius rusticus,5,l_TOP137,0.00041695270778491786,Topography
+Faxonius rusticus,5,l_TOP138,0.000590672944601754,Topography
+Faxonius rusticus,5,l_TOP139,0.0008935611296461239,Topography
+Faxonius rusticus,5,l_TOP14,0.0008346913760115895,Topography
+Faxonius rusticus,5,l_TOP140,0.0005042670769013936,Topography
+Faxonius rusticus,5,l_TOP141,0.0004255168422730917,Topography
+Faxonius rusticus,5,l_TOP142,0.0004699002888424288,Topography
+Faxonius rusticus,5,l_TOP143,0.0007790954597157855,Topography
+Faxonius rusticus,5,l_TOP144,0.0004537218340885166,Topography
+Faxonius rusticus,5,l_TOP16,0.0008946762138714155,Topography
+Faxonius rusticus,5,l_TOP17,0.0,Topography
+Faxonius rusticus,5,l_TOP18,0.000390427361506039,Topography
+Faxonius rusticus,5,l_TOP19,0.00045127466868470905,Topography
+Faxonius rusticus,5,l_TOP2,0.0005517504668067215,Topography
+Faxonius rusticus,5,l_TOP20,0.0005597867816188873,Topography
+Faxonius rusticus,5,l_TOP23,0.0007186838793864616,Topography
+Faxonius rusticus,5,l_TOP24,0.0003926557120104711,Topography
+Faxonius rusticus,5,l_TOP27,0.0003234193367612621,Topography
+Faxonius rusticus,5,l_TOP30,0.05611525320709366,Topography
+Faxonius rusticus,5,l_TOP36,0.0005577052564901887,Topography
+Faxonius rusticus,5,l_TOP38,0.0003398694372443036,Topography
+Faxonius rusticus,5,l_TOP39,0.0004334574163324029,Topography
+Faxonius rusticus,5,l_TOP40,0.00035005418303353476,Topography
+Faxonius rusticus,5,l_TOP41,0.0,Topography
+Faxonius rusticus,5,l_TOP42,0.0005232050765547524,Topography
+Faxonius rusticus,5,l_TOP43,0.0006321601380910673,Topography
+Faxonius rusticus,5,l_TOP44,0.0009033642531516624,Topography
+Faxonius rusticus,5,l_TOP45,1.1788631094914457e-05,Topography
+Faxonius rusticus,5,l_TOP47,0.0011655182858835245,Topography
+Faxonius rusticus,5,l_TOP48,0.0019508447754017096,Topography
+Faxonius rusticus,5,l_TOP49,0.00012244123105094044,Topography
+Faxonius rusticus,5,l_TOP51,0.0005781439987865731,Topography
+Faxonius rusticus,5,l_TOP52,0.0006032153473217747,Topography
+Faxonius rusticus,5,l_TOP59,0.0005276154546158989,Topography
+Faxonius rusticus,5,l_TOP6,0.00041538356644844134,Topography
+Faxonius rusticus,5,l_TOP60,0.0006439577949522262,Topography
+Faxonius rusticus,5,l_TOP61,0.00020563940959424432,Topography
+Faxonius rusticus,5,l_TOP62,0.000343649744793154,Topography
+Faxonius rusticus,5,l_TOP63,0.0005108285586786143,Topography
+Faxonius rusticus,5,l_TOP64,0.00035724574099415255,Topography
+Faxonius rusticus,5,l_TOP65,0.0003912227465294868,Topography
+Faxonius rusticus,5,l_TOP66,0.0005851896163322703,Topography
+Faxonius rusticus,5,l_TOP68,0.0004902804666979111,Topography
+Faxonius rusticus,5,l_TOP7,0.0006320794260494361,Topography
+Faxonius rusticus,5,l_TOP70,0.0003160585879899176,Topography
+Faxonius rusticus,5,l_TOP72,0.00025210273954375396,Topography
+Faxonius rusticus,5,l_TOP73,0.00034357737118294307,Topography
+Faxonius rusticus,5,l_TOP74,0.0004257703508056959,Topography
+Faxonius rusticus,5,l_TOP75,0.000696737451692883,Topography
+Faxonius rusticus,5,l_TOP76,0.00020457508036817042,Topography
+Faxonius rusticus,5,l_TOP79,0.000307439150929355,Topography
+Faxonius rusticus,5,l_TOP8,0.0006426175425725742,Topography
+Faxonius rusticus,5,l_TOP83,0.0006075506160153812,Topography
+Faxonius rusticus,5,l_TOP85,3.884712184413595e-05,Topography
+Faxonius rusticus,5,l_TOP86,0.0001717304654569367,Topography
+Faxonius rusticus,5,l_TOP87,0.00035635982147535274,Topography
+Faxonius rusticus,5,l_TOP88,0.0002667450186659534,Topography
+Faxonius rusticus,5,l_TOP89,8.390988655346718e-05,Topography
+Faxonius rusticus,5,l_TOP9,6.231838664893269e-05,Topography
+Faxonius rusticus,5,l_TOP90,0.00011067408263590648,Topography
+Faxonius rusticus,5,l_TOP91,0.0003951093365138325,Topography
+Faxonius rusticus,5,l_TOP92,0.00024474414955918256,Topography
+Faxonius rusticus,5,l_TOP93,0.0007512077330024589,Topography
+Faxonius rusticus,5,l_TOP97,0.0019529234500084655,Topography
+Faxonius rusticus,5,l_TOP99,0.0006911585817182167,Topography
+Faxonius rusticus,5,u_CLI11,0.005866407561164872,Climate
+Faxonius rusticus,5,u_CLI15,0.0114914720049299,Climate
+Faxonius rusticus,5,u_CLI19,0.001228196956247789,Climate
+Faxonius rusticus,5,u_CLI23,0.03187073995334693,Climate
+Faxonius rusticus,5,u_CLI27,0.013518464837292068,Climate
+Faxonius rusticus,5,u_CLI3,0.004791531281310302,Climate
+Faxonius rusticus,5,u_CLI31,0.00219565341489732,Climate
+Faxonius rusticus,5,u_CLI35,0.02094066936563443,Climate
+Faxonius rusticus,5,u_CLI39,0.0014454391065859267,Climate
+Faxonius rusticus,5,u_CLI47,0.002053099937799476,Climate
+Faxonius rusticus,5,u_CLI51,0.001823564038335451,Climate
+Faxonius rusticus,5,u_CLI59,0.014972059815104495,Climate
+Faxonius rusticus,5,u_CLI63,0.0014539407561387208,Climate
+Faxonius rusticus,5,u_CLI67,0.007679640902678868,Climate
+Faxonius rusticus,5,u_CLI7,0.0018657115440681282,Climate
+Faxonius rusticus,5,u_CLI71,0.0024562813835104524,Climate
+Faxonius rusticus,5,u_CLI75,0.005846022165515613,Climate
+Faxonius rusticus,5,u_LAC1,0.001168373354146404,Land Cover
+Faxonius rusticus,5,u_LAC10,0.0005745804268709267,Land Cover
+Faxonius rusticus,5,u_LAC11,0.0010497277681435983,Land Cover
+Faxonius rusticus,5,u_LAC12,4.73453119439593e-05,Land Cover
+Faxonius rusticus,5,u_LAC13,0.0004563460315224808,Land Cover
+Faxonius rusticus,5,u_LAC15,0.00019423212298534442,Land Cover
+Faxonius rusticus,5,u_LAC16,9.32313521667483e-05,Land Cover
+Faxonius rusticus,5,u_LAC18,6.231016663748936e-05,Land Cover
+Faxonius rusticus,5,u_LAC19,0.0006050019557562939,Land Cover
+Faxonius rusticus,5,u_LAC20,0.0002589121954336731,Land Cover
+Faxonius rusticus,5,u_LAC21,0.0002298988935868682,Land Cover
+Faxonius rusticus,5,u_LAC3,0.00048043171158917986,Land Cover
+Faxonius rusticus,5,u_LAC4,0.0004294477788703958,Land Cover
+Faxonius rusticus,5,u_LAC5,1.2417489988919769e-20,Land Cover
+Faxonius rusticus,5,u_LAC6,0.0011343393715661653,Land Cover
+Faxonius rusticus,5,u_LAC7,0.00016726914084818853,Land Cover
+Faxonius rusticus,5,u_LAC8,0.00039627644487086984,Land Cover
+Faxonius rusticus,5,u_LAC9,0.00029162378719725993,Land Cover
+Faxonius rusticus,5,u_SOL11,0.02073043076796422,Soil
+Faxonius rusticus,5,u_SOL15,0.02069244036766187,Soil
+Faxonius rusticus,5,u_SOL19,0.010620151303889923,Soil
+Faxonius rusticus,5,u_SOL23,0.004745288982207319,Soil
+Faxonius rusticus,5,u_SOL27,0.009770801291265408,Soil
+Faxonius rusticus,5,u_SOL3,0.0010693138963401598,Soil
+Faxonius rusticus,5,u_SOL31,0.012957700225601958,Soil
+Faxonius rusticus,5,u_SOL35,0.0006008274861841489,Soil
+Faxonius rusticus,5,u_SOL39,0.000766021402290651,Soil
+Faxonius rusticus,5,u_SOL43,0.0025710987081024104,Soil
+Faxonius rusticus,5,u_SOL47,0.00078237459493298,Soil
+Faxonius rusticus,5,u_SOL55,0.0005089078059129597,Soil
+Faxonius rusticus,5,u_SOL59,0.0015903985068245019,Soil
+Faxonius rusticus,5,u_SOL7,0.0073246461985232835,Soil
+Faxonius rusticus,5,u_TOP103,0.003831522564394746,Topography
+Faxonius rusticus,5,u_TOP110,0.00038506852690434944,Topography
+Faxonius rusticus,5,u_TOP111,0.0003386101320121854,Topography
+Faxonius rusticus,5,u_TOP112,0.0006399085549606524,Topography
+Faxonius rusticus,5,u_TOP113,0.0005042801088178709,Topography
+Faxonius rusticus,5,u_TOP114,0.023892970223675758,Topography
+Faxonius rusticus,5,u_TOP117,0.0023477773138109374,Topography
+Faxonius rusticus,5,u_TOP122,0.0032196446455990077,Topography
+Faxonius rusticus,5,u_TOP130,0.00039719633650062684,Topography
+Faxonius rusticus,5,u_TOP135,0.0014493049948552685,Topography
+Faxonius rusticus,5,u_TOP139,0.006213225068927061,Topography
+Faxonius rusticus,5,u_TOP143,0.0016693413245994374,Topography
+Faxonius rusticus,5,u_TOP15,0.004567670762367667,Topography
+Faxonius rusticus,5,u_TOP19,0.006949970757980165,Topography
+Faxonius rusticus,5,u_TOP27,0.00406863351489152,Topography
+Faxonius rusticus,5,u_TOP3,0.0030046725466214277,Topography
+Faxonius rusticus,5,u_TOP31,0.029778570108534474,Topography
+Faxonius rusticus,5,u_TOP35,0.005263628237655268,Topography
+Faxonius rusticus,5,u_TOP39,0.008394610863270407,Topography
+Faxonius rusticus,5,u_TOP47,0.011066382169721157,Topography
+Faxonius rusticus,5,u_TOP51,0.0012076327353183168,Topography
+Faxonius rusticus,5,u_TOP55,0.013093293750751184,Topography
+Faxonius rusticus,5,u_TOP59,0.001510478894027856,Topography
+Faxonius rusticus,5,u_TOP63,0.004064172719655492,Topography
+Faxonius rusticus,5,u_TOP67,0.006425321648802983,Topography
+Faxonius rusticus,5,u_TOP75,0.0014880757940733576,Topography
+Faxonius rusticus,5,u_TOP83,0.00964248860817411,Topography
+Faxonius rusticus,5,u_TOP91,0.003556274559563807,Topography
+Faxonius rusticus,5,u_TOP95,0.004638984334214302,Topography

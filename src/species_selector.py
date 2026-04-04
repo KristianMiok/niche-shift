@@ -30,6 +30,7 @@ STUDY_SPECIES = [
     "Pacifastacus leniusculus",  # Native: 117,  Alien: 4459
     "Faxonius virilis",          # Native: 1856, Alien: 500
     "Faxonius rusticus",         # Native: 1223, Alien: 670
+ #   "Procambarus acutus",       # Native: 122,  Alien: 1200
 ]
 
 def apply_quality_filters(df: pd.DataFrame, config: dict) -> pd.DataFrame:

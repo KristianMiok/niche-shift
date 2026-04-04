@@ -1,0 +1,578 @@
+[
+  {
+    "species": "Procambarus clarkii",
+    "range": "native",
+    "n_presence": 2208,
+    "strategy_a_accuracy": 0.9375027543903702,
+    "strategy_a_auc": 0.9683334094747076,
+    "strategy_b_accuracy": 0.9393145026980214,
+    "strategy_b_auc": 0.9695814315980481,
+    "strategy_a_features": 186,
+    "strategy_b_features": 185,
+    "strategy_a_type_pct": {
+      "Climate": 91.4599728054244,
+      "Land Cover": 0.3256265613497741,
+      "Soil": 7.312611879010257,
+      "Topography": 0.9017887542155554
+    },
+    "strategy_b_type_pct": {
+      "Climate": 94.53953473084786,
+      "Land Cover": 0.2604550201315966,
+      "Soil": 5.200010249020529,
+      "Topography": 0.0
+    },
+    "top10_overlap_n": 4,
+    "top10_overlap_vars": [
+      "l_CLI34",
+      "l_CLI38",
+      "l_SOL15",
+      "l_SOL42"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI34: Mean temp. of driest quarter [max] (\u00b0C)",
+      "l_CLI38: Mean temp. of warmest quarter [max] (\u00b0C)",
+      "l_SOL15: Sand fraction by weight (0.05\u20132\u202fmm) [mean] (w%)",
+      "l_SOL42: Soil pH in H2O and KCl solution, multiplied by 10 (pH in H2O x 10) [max] (pH)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI38",
+      "l_SOL42",
+      "l_SOL47",
+      "l_CLI6",
+      "l_CLI34",
+      "l_TOP48",
+      "l_SOL15",
+      "l_SOL17",
+      "l_CLI30",
+      "l_CLI10"
+    ],
+    "strategy_b_top10": [
+      "l_CLI38",
+      "l_SOL42",
+      "l_SOL15",
+      "l_CLI2",
+      "l_CLI34",
+      "l_CLI58",
+      "l_CLI20",
+      "l_CLI13",
+      "l_SOL19",
+      "l_LAC19"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/procambarus_clarkii_native_strategy_compare.png"
+  },
+  {
+    "species": "Procambarus clarkii",
+    "range": "invasive",
+    "n_presence": 8527,
+    "strategy_a_accuracy": 0.8976193116800827,
+    "strategy_a_auc": 0.9430076830600344,
+    "strategy_b_accuracy": 0.8948633324478077,
+    "strategy_b_auc": 0.9314243113407225,
+    "strategy_a_features": 200,
+    "strategy_b_features": 196,
+    "strategy_a_type_pct": {
+      "Climate": 97.96246316449636,
+      "Land Cover": 0.0,
+      "Soil": 2.0375368355036527,
+      "Topography": 0.0
+    },
+    "strategy_b_type_pct": {
+      "Climate": 97.23197975357162,
+      "Land Cover": 0.0,
+      "Soil": 0.0,
+      "Topography": 2.768020246428386
+    },
+    "top10_overlap_n": 2,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI57"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI57: Precip. seasonality (CV) [min] (kg/m\u00b2)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI1",
+      "l_CLI14",
+      "l_CLI41",
+      "l_CLI57",
+      "l_SOL21",
+      "l_CLI19",
+      "l_CLI45",
+      "l_CLI69",
+      "l_TOP134",
+      "l_TOP135"
+    ],
+    "strategy_b_top10": [
+      "l_CLI71",
+      "l_CLI14",
+      "l_CLI2",
+      "l_CLI57",
+      "l_TOP116",
+      "l_CLI21",
+      "l_TOP139",
+      "l_CLI33",
+      "l_CLI9",
+      "l_CLI73"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/procambarus_clarkii_invasive_strategy_compare.png"
+  },
+  {
+    "species": "Faxonius limosus",
+    "range": "native",
+    "n_presence": 382,
+    "strategy_a_accuracy": 0.927984176126591,
+    "strategy_a_auc": 0.9163223549303883,
+    "strategy_b_accuracy": 0.9292913656690747,
+    "strategy_b_auc": 0.9274499046659711,
+    "strategy_a_features": 261,
+    "strategy_b_features": 260,
+    "strategy_a_type_pct": {
+      "Climate": 85.59871217074702,
+      "Land Cover": 0.0,
+      "Soil": 1.974184145904824,
+      "Topography": 12.427103683348157
+    },
+    "strategy_b_type_pct": {
+      "Climate": 85.27572604150299,
+      "Land Cover": 0.5440095284557508,
+      "Soil": 3.3554377807467053,
+      "Topography": 10.824826649294552
+    },
+    "top10_overlap_n": 3,
+    "top10_overlap_vars": [
+      "l_CLI34",
+      "l_CLI57",
+      "l_TOP114"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI34: Mean temp. of driest quarter [max] (\u00b0C)",
+      "l_CLI57: Precip. seasonality (CV) [min] (kg/m\u00b2)",
+      "l_TOP114: Distance to outlet (distance of current stream init from outlet) (m)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI57",
+      "l_CLI34",
+      "l_TOP114",
+      "l_CLI22",
+      "u_TOP114",
+      "l_TOP53",
+      "l_SOL4",
+      "l_TOP6",
+      "l_TOP130",
+      "u_TOP19"
+    ],
+    "strategy_b_top10": [
+      "l_CLI57",
+      "l_CLI34",
+      "l_TOP114",
+      "l_CLI26",
+      "u_SOL7",
+      "l_TOP68",
+      "l_CLI42",
+      "l_SOL37",
+      "u_TOP135",
+      "l_SOL10"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/faxonius_limosus_native_strategy_compare.png"
+  },
+  {
+    "species": "Faxonius limosus",
+    "range": "invasive",
+    "n_presence": 4089,
+    "strategy_a_accuracy": 0.826242420164046,
+    "strategy_a_auc": 0.8679679398798452,
+    "strategy_b_accuracy": 0.9048679183209588,
+    "strategy_b_auc": 0.9261751693661082,
+    "strategy_a_features": 197,
+    "strategy_b_features": 279,
+    "strategy_a_type_pct": {
+      "Climate": 32.33277587568633,
+      "Land Cover": 0.0,
+      "Soil": 0.09398787158581216,
+      "Topography": 67.57323625272787
+    },
+    "strategy_b_type_pct": {
+      "Climate": 16.379220584848603,
+      "Land Cover": 0.0,
+      "Soil": 0.0,
+      "Topography": 83.6207794151514
+    },
+    "top10_overlap_n": 4,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI33",
+      "l_TOP101",
+      "l_TOP102"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI33: Mean temp. of driest quarter [min] (\u00b0C)",
+      "l_TOP101: Cell upstream distance (between focal cell and next cell) [min] (\u2013)",
+      "l_TOP102: Cell upstream distance (between focal cell and next cell) [max] (\u2013)"
+    ],
+    "strategy_a_top10": [
+      "l_TOP102",
+      "l_CLI37",
+      "l_CLI1",
+      "l_CLI33",
+      "l_TOP101",
+      "l_CLI9",
+      "l_TOP126",
+      "l_CLI14",
+      "l_TOP108",
+      "l_CLI73"
+    ],
+    "strategy_b_top10": [
+      "l_TOP102",
+      "l_CLI22",
+      "l_CLI5",
+      "l_TOP116",
+      "l_TOP101",
+      "l_CLI2",
+      "l_CLI33",
+      "l_TOP23",
+      "l_CLI14",
+      "l_CLI18"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/faxonius_limosus_invasive_strategy_compare.png"
+  },
+  {
+    "species": "Pacifastacus leniusculus",
+    "range": "native",
+    "n_presence": 117,
+    "strategy_a_accuracy": 0.9274745605920444,
+    "strategy_a_auc": 0.9269927536231884,
+    "strategy_b_accuracy": 0.9145235892691952,
+    "strategy_b_auc": 0.9141619407687461,
+    "strategy_a_features": 182,
+    "strategy_b_features": 184,
+    "strategy_a_type_pct": {
+      "Climate": 88.99693171129161,
+      "Land Cover": 3.2501688262356008,
+      "Soil": 7.7528994624727785,
+      "Topography": 0.0
+    },
+    "strategy_b_type_pct": {
+      "Climate": 93.46184368822523,
+      "Land Cover": 1.6796521627704513,
+      "Soil": 4.858504149004312,
+      "Topography": 0.0
+    },
+    "top10_overlap_n": 0,
+    "top10_overlap_vars": [],
+    "top10_overlap_vars_readable": [],
+    "strategy_a_top10": [
+      "l_CLI70",
+      "l_SOL37",
+      "l_CLI33",
+      "l_LAC6",
+      "l_SOL39",
+      "l_CLI16",
+      "l_SOL23",
+      "l_SOL13",
+      "l_CLI6",
+      "l_TOP143"
+    ],
+    "strategy_b_top10": [
+      "l_CLI57",
+      "l_CLI30",
+      "l_CLI38",
+      "l_SOL10",
+      "l_CLI32",
+      "l_SOL40",
+      "l_LAC16",
+      "l_SOL20",
+      "l_CLI12",
+      "l_TOP137"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/pacifastacus_leniusculus_native_strategy_compare.png"
+  },
+  {
+    "species": "Pacifastacus leniusculus",
+    "range": "invasive",
+    "n_presence": 4459,
+    "strategy_a_accuracy": 0.8651054176339066,
+    "strategy_a_auc": 0.9228811860621267,
+    "strategy_b_accuracy": 0.9043517626613081,
+    "strategy_b_auc": 0.9279445486794318,
+    "strategy_a_features": 291,
+    "strategy_b_features": 285,
+    "strategy_a_type_pct": {
+      "Climate": 69.83995957165834,
+      "Land Cover": 0.0,
+      "Soil": 26.89359659176519,
+      "Topography": 3.266443836576474
+    },
+    "strategy_b_type_pct": {
+      "Climate": 83.44920935558075,
+      "Land Cover": 1.267005004527944,
+      "Soil": 5.1349954228070285,
+      "Topography": 10.148790217084285
+    },
+    "top10_overlap_n": 0,
+    "top10_overlap_vars": [],
+    "top10_overlap_vars_readable": [],
+    "strategy_a_top10": [
+      "l_CLI1",
+      "l_SOL23",
+      "l_CLI38",
+      "l_CLI14",
+      "u_TOP67",
+      "l_TOP116",
+      "l_CLI30",
+      "l_CLI19",
+      "l_CLI33",
+      "u_TOP27"
+    ],
+    "strategy_b_top10": [
+      "l_CLI18",
+      "l_TOP30",
+      "l_CLI70",
+      "l_CLI3",
+      "l_SOL21",
+      "l_CLI21",
+      "l_CLI26",
+      "u_LAC10",
+      "l_TOP101",
+      "u_TOP15"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/pacifastacus_leniusculus_invasive_strategy_compare.png"
+  },
+  {
+    "species": "Faxonius virilis",
+    "range": "native",
+    "n_presence": 1856,
+    "strategy_a_accuracy": 0.9046340870587297,
+    "strategy_a_auc": 0.9447340646889334,
+    "strategy_b_accuracy": 0.9202620686152517,
+    "strategy_b_auc": 0.949099240403565,
+    "strategy_a_features": 277,
+    "strategy_b_features": 280,
+    "strategy_a_type_pct": {
+      "Climate": 97.7789110150984,
+      "Land Cover": 0.7123839567254617,
+      "Soil": 0.8575004052710248,
+      "Topography": 0.6512046229051065
+    },
+    "strategy_b_type_pct": {
+      "Climate": 96.8220893489138,
+      "Land Cover": 0.8128390087566554,
+      "Soil": 0.3838406430239762,
+      "Topography": 1.9812309993055592
+    },
+    "top10_overlap_n": 5,
+    "top10_overlap_vars": [
+      "l_CLI26",
+      "l_CLI38",
+      "l_CLI58",
+      "l_CLI70",
+      "u_LAC19"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI26: Temp. ann. range (bio5 \u2013 bio6) [max] (\u00b0C)",
+      "l_CLI38: Mean temp. of warmest quarter [max] (\u00b0C)",
+      "l_CLI58: Precip. seasonality (CV) [max] (kg/m\u00b2)",
+      "l_CLI70: Precip. of warmest quarter [max] (kg/m\u00b2)",
+      "u_LAC19: Urban areas (190) (%)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI26",
+      "l_CLI58",
+      "l_CLI18",
+      "l_CLI38",
+      "l_CLI70",
+      "l_CLI6",
+      "l_CLI14",
+      "u_CLI15",
+      "l_SOL26",
+      "u_LAC19"
+    ],
+    "strategy_b_top10": [
+      "l_CLI26",
+      "l_CLI58",
+      "l_CLI38",
+      "l_CLI21",
+      "l_CLI70",
+      "l_CLI9",
+      "u_LAC19",
+      "u_TOP91",
+      "l_TOP30",
+      "l_CLI30"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/faxonius_virilis_native_strategy_compare.png"
+  },
+  {
+    "species": "Faxonius virilis",
+    "range": "invasive",
+    "n_presence": 500,
+    "strategy_a_accuracy": 0.9259999999999999,
+    "strategy_a_auc": 0.9332,
+    "strategy_b_accuracy": 0.817,
+    "strategy_b_auc": 0.8715800000000001,
+    "strategy_a_features": 277,
+    "strategy_b_features": 278,
+    "strategy_a_type_pct": {
+      "Climate": 78.56180236135067,
+      "Land Cover": 1.0197995040681922,
+      "Soil": 17.148762859650173,
+      "Topography": 3.26963527493097
+    },
+    "strategy_b_type_pct": {
+      "Climate": 64.9698902784028,
+      "Land Cover": 1.17241664343452,
+      "Soil": 12.80160878263073,
+      "Topography": 21.056084295531964
+    },
+    "top10_overlap_n": 3,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI57",
+      "l_SOL33"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI57: Precip. seasonality (CV) [min] (kg/m\u00b2)",
+      "l_SOL33: Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [min] (%)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI14",
+      "l_CLI57",
+      "l_SOL33",
+      "l_CLI7",
+      "l_SOL27",
+      "l_CLI41",
+      "l_TOP53",
+      "l_TOP124",
+      "u_TOP59",
+      "u_LAC16"
+    ],
+    "strategy_b_top10": [
+      "l_CLI25",
+      "l_TOP30",
+      "l_CLI9",
+      "l_SOL33",
+      "l_CLI66",
+      "l_CLI14",
+      "l_CLI73",
+      "l_CLI57",
+      "u_CLI19",
+      "l_CLI30"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/faxonius_virilis_invasive_strategy_compare.png"
+  },
+  {
+    "species": "Faxonius rusticus",
+    "range": "native",
+    "n_presence": 1223,
+    "strategy_a_accuracy": 0.9137423312883435,
+    "strategy_a_auc": 0.9085304005844559,
+    "strategy_b_accuracy": 0.937859020908977,
+    "strategy_b_auc": 0.9360105830221015,
+    "strategy_a_features": 273,
+    "strategy_b_features": 271,
+    "strategy_a_type_pct": {
+      "Climate": 87.5761137891816,
+      "Land Cover": 0.0,
+      "Soil": 2.4823465366345903,
+      "Topography": 9.941539674183803
+    },
+    "strategy_b_type_pct": {
+      "Climate": 88.7717116253382,
+      "Land Cover": 0.0,
+      "Soil": 1.21083539996671,
+      "Topography": 10.017452974695095
+    },
+    "top10_overlap_n": 2,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI18"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI18: Max temp. of warmest month [max] (\u00b0C)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI14",
+      "l_CLI18",
+      "l_CLI33",
+      "u_TOP31",
+      "l_CLI21",
+      "l_SOL57",
+      "l_SOL18",
+      "l_TOP135",
+      "l_TOP46",
+      "u_TOP114"
+    ],
+    "strategy_b_top10": [
+      "l_CLI26",
+      "l_CLI18",
+      "l_TOP109",
+      "l_CLI57",
+      "l_SOL55",
+      "l_CLI14",
+      "l_SOL58",
+      "u_TOP126",
+      "l_TOP27",
+      "u_CLI55"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/faxonius_rusticus_native_strategy_compare.png"
+  },
+  {
+    "species": "Faxonius rusticus",
+    "range": "invasive",
+    "n_presence": 670,
+    "strategy_a_accuracy": 0.9701492537313433,
+    "strategy_a_auc": 0.9696814435286256,
+    "strategy_b_accuracy": 0.9134328358208956,
+    "strategy_b_auc": 0.9133047449320563,
+    "strategy_a_features": 279,
+    "strategy_b_features": 273,
+    "strategy_a_type_pct": {
+      "Climate": 93.46345135742888,
+      "Land Cover": 0.0,
+      "Soil": 2.136229435683492,
+      "Topography": 4.400319206887629
+    },
+    "strategy_b_type_pct": {
+      "Climate": 88.27291333274931,
+      "Land Cover": 1.3808739919924458,
+      "Soil": 0.0,
+      "Topography": 10.346212675258244
+    },
+    "top10_overlap_n": 2,
+    "top10_overlap_vars": [
+      "l_CLI26",
+      "l_CLI57"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI26: Temp. ann. range (bio5 \u2013 bio6) [max] (\u00b0C)",
+      "l_CLI57: Precip. seasonality (CV) [min] (kg/m\u00b2)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI26",
+      "u_TOP31",
+      "u_TOP103",
+      "l_SOL42",
+      "u_CLI15",
+      "l_CLI67",
+      "l_CLI36",
+      "l_SOL31",
+      "l_CLI57",
+      "l_CLI28"
+    ],
+    "strategy_b_top10": [
+      "l_CLI26",
+      "l_CLI38",
+      "l_TOP109",
+      "l_TOP140",
+      "l_CLI33",
+      "l_LAC21",
+      "u_TOP135",
+      "l_CLI57",
+      "u_TOP7",
+      "l_CLI30"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/faxonius_rusticus_invasive_strategy_compare.png"
+  }
+]

@@ -1,0 +1,1386 @@
+species,fold,variable,importance,type
+Faxonius virilis,1,l_CLI1,0.004901197182252965,Climate
+Faxonius virilis,1,l_CLI12,0.00022101888691104487,Climate
+Faxonius virilis,1,l_CLI14,0.05039325178265609,Climate
+Faxonius virilis,1,l_CLI16,0.00020561920118411037,Climate
+Faxonius virilis,1,l_CLI17,0.007254801794054631,Climate
+Faxonius virilis,1,l_CLI20,0.00021711261735174228,Climate
+Faxonius virilis,1,l_CLI21,0.007736560689264674,Climate
+Faxonius virilis,1,l_CLI24,0.0016789673250788327,Climate
+Faxonius virilis,1,l_CLI26,0.03465722006318753,Climate
+Faxonius virilis,1,l_CLI28,0.00017536562471453593,Climate
+Faxonius virilis,1,l_CLI30,0.011143338497014578,Climate
+Faxonius virilis,1,l_CLI32,0.0002547238816533703,Climate
+Faxonius virilis,1,l_CLI33,0.027073449374928445,Climate
+Faxonius virilis,1,l_CLI36,0.0023906206358030257,Climate
+Faxonius virilis,1,l_CLI38,0.006339377249752084,Climate
+Faxonius virilis,1,l_CLI4,0.0009512474685606674,Climate
+Faxonius virilis,1,l_CLI40,0.000436741063130383,Climate
+Faxonius virilis,1,l_CLI44,0.0019212008405915624,Climate
+Faxonius virilis,1,l_CLI46,0.008276248555633595,Climate
+Faxonius virilis,1,l_CLI48,0.00043450360297594466,Climate
+Faxonius virilis,1,l_CLI5,0.0022996103734479858,Climate
+Faxonius virilis,1,l_CLI50,0.010678256165537275,Climate
+Faxonius virilis,1,l_CLI53,0.02118394738177442,Climate
+Faxonius virilis,1,l_CLI56,0.0006683924447882673,Climate
+Faxonius virilis,1,l_CLI58,0.04923657851137152,Climate
+Faxonius virilis,1,l_CLI60,0.0004569994772204299,Climate
+Faxonius virilis,1,l_CLI62,0.009869270412235388,Climate
+Faxonius virilis,1,l_CLI64,0.0003054269184739172,Climate
+Faxonius virilis,1,l_CLI70,0.010499488407757093,Climate
+Faxonius virilis,1,l_CLI72,0.0001556983746266871,Climate
+Faxonius virilis,1,l_CLI73,0.03547346123432266,Climate
+Faxonius virilis,1,l_CLI76,0.0007791194035552589,Climate
+Faxonius virilis,1,l_CLI8,0.00022017978851842065,Climate
+Faxonius virilis,1,l_CLI9,0.014605109629930267,Climate
+Faxonius virilis,1,l_LAC1,0.004197921788732917,Land Cover
+Faxonius virilis,1,l_LAC10,0.0004129615037603375,Land Cover
+Faxonius virilis,1,l_LAC11,7.984671965467209e-06,Land Cover
+Faxonius virilis,1,l_LAC12,0.003169664795461346,Land Cover
+Faxonius virilis,1,l_LAC13,0.00024727978542855736,Land Cover
+Faxonius virilis,1,l_LAC15,3.400821035070617e-05,Land Cover
+Faxonius virilis,1,l_LAC16,9.370746521993656e-05,Land Cover
+Faxonius virilis,1,l_LAC18,1.4953709027391269e-05,Land Cover
+Faxonius virilis,1,l_LAC19,0.00024672763190198714,Land Cover
+Faxonius virilis,1,l_LAC20,0.0,Land Cover
+Faxonius virilis,1,l_LAC21,4.335299833809281e-05,Land Cover
+Faxonius virilis,1,l_LAC3,6.568049325547521e-05,Land Cover
+Faxonius virilis,1,l_LAC4,0.00010412742762974948,Land Cover
+Faxonius virilis,1,l_LAC6,0.00022550011144777923,Land Cover
+Faxonius virilis,1,l_LAC7,0.00045183970858681747,Land Cover
+Faxonius virilis,1,l_LAC8,4.584321826373784e-05,Land Cover
+Faxonius virilis,1,l_LAC9,3.550425497206502e-05,Land Cover
+Faxonius virilis,1,l_SOL1,0.0013251948304623053,Soil
+Faxonius virilis,1,l_SOL10,0.0010004322684898305,Soil
+Faxonius virilis,1,l_SOL11,0.0012507011139147465,Soil
+Faxonius virilis,1,l_SOL12,0.00047846412372698905,Soil
+Faxonius virilis,1,l_SOL13,0.009347236978593548,Soil
+Faxonius virilis,1,l_SOL16,0.00042150064525515963,Soil
+Faxonius virilis,1,l_SOL18,0.02580876701258352,Soil
+Faxonius virilis,1,l_SOL2,0.0008198196110084987,Soil
+Faxonius virilis,1,l_SOL20,0.0003606390774729188,Soil
+Faxonius virilis,1,l_SOL21,0.040347194922078326,Soil
+Faxonius virilis,1,l_SOL24,0.0009876280762988446,Soil
+Faxonius virilis,1,l_SOL25,0.0017641963909491019,Soil
+Faxonius virilis,1,l_SOL26,0.0014545948330904402,Soil
+Faxonius virilis,1,l_SOL27,0.0057399017429574746,Soil
+Faxonius virilis,1,l_SOL28,0.0004481990689063721,Soil
+Faxonius virilis,1,l_SOL29,0.022345148770054214,Soil
+Faxonius virilis,1,l_SOL3,0.0016113245521098688,Soil
+Faxonius virilis,1,l_SOL30,0.008831773401188103,Soil
+Faxonius virilis,1,l_SOL31,0.017374286694831386,Soil
+Faxonius virilis,1,l_SOL32,0.0006367116594401108,Soil
+Faxonius virilis,1,l_SOL33,0.0008950778719396605,Soil
+Faxonius virilis,1,l_SOL36,0.0006469323928086586,Soil
+Faxonius virilis,1,l_SOL37,0.002825472650050152,Soil
+Faxonius virilis,1,l_SOL4,0.0005372182687203471,Soil
+Faxonius virilis,1,l_SOL40,0.00040292865711714617,Soil
+Faxonius virilis,1,l_SOL42,0.005789701743000843,Soil
+Faxonius virilis,1,l_SOL44,0.00035729605848375213,Soil
+Faxonius virilis,1,l_SOL45,0.0008290571782227794,Soil
+Faxonius virilis,1,l_SOL46,0.0008694290748595317,Soil
+Faxonius virilis,1,l_SOL47,0.0014255152061932745,Soil
+Faxonius virilis,1,l_SOL48,0.0002055296631362558,Soil
+Faxonius virilis,1,l_SOL49,0.0,Soil
+Faxonius virilis,1,l_SOL5,0.008830436976842814,Soil
+Faxonius virilis,1,l_SOL50,3.599201075617067e-05,Soil
+Faxonius virilis,1,l_SOL51,8.047281378868947e-06,Soil
+Faxonius virilis,1,l_SOL52,0.0,Soil
+Faxonius virilis,1,l_SOL53,9.214473419227957e-05,Soil
+Faxonius virilis,1,l_SOL54,8.5205450466771e-05,Soil
+Faxonius virilis,1,l_SOL55,0.0002792098730023082,Soil
+Faxonius virilis,1,l_SOL56,0.00017794654682753088,Soil
+Faxonius virilis,1,l_SOL57,0.0017752769785797993,Soil
+Faxonius virilis,1,l_SOL58,0.003687011701198572,Soil
+Faxonius virilis,1,l_SOL59,0.003318847897824133,Soil
+Faxonius virilis,1,l_SOL6,0.0027724967410659397,Soil
+Faxonius virilis,1,l_SOL60,0.0015932599539266186,Soil
+Faxonius virilis,1,l_SOL7,0.004566164585953347,Soil
+Faxonius virilis,1,l_SOL8,0.0006506365556823813,Soil
+Faxonius virilis,1,l_SOL9,0.0010816458839339456,Soil
+Faxonius virilis,1,l_TOP1,0.0006700860667350227,Topography
+Faxonius virilis,1,l_TOP10,0.001359096332908651,Topography
+Faxonius virilis,1,l_TOP101,0.00047112566435452595,Topography
+Faxonius virilis,1,l_TOP102,0.002677928020223729,Topography
+Faxonius virilis,1,l_TOP103,0.0002240008090025287,Topography
+Faxonius virilis,1,l_TOP104,0.00026059740581147936,Topography
+Faxonius virilis,1,l_TOP105,0.0006941859430791059,Topography
+Faxonius virilis,1,l_TOP106,0.0008422358902566306,Topography
+Faxonius virilis,1,l_TOP107,0.0002635327483100707,Topography
+Faxonius virilis,1,l_TOP108,0.0010033816203879676,Topography
+Faxonius virilis,1,l_TOP109,0.05163061548313232,Topography
+Faxonius virilis,1,l_TOP111,0.000448635104778045,Topography
+Faxonius virilis,1,l_TOP112,0.00024412312436997995,Topography
+Faxonius virilis,1,l_TOP116,0.005306667666795516,Topography
+Faxonius virilis,1,l_TOP118,0.0004129547337070327,Topography
+Faxonius virilis,1,l_TOP124,0.0005074814237589221,Topography
+Faxonius virilis,1,l_TOP125,0.0002472677369933147,Topography
+Faxonius virilis,1,l_TOP126,0.0003968355190716429,Topography
+Faxonius virilis,1,l_TOP127,0.00025382150470536956,Topography
+Faxonius virilis,1,l_TOP129,0.0003197318725353334,Topography
+Faxonius virilis,1,l_TOP13,0.00010587800287441149,Topography
+Faxonius virilis,1,l_TOP130,0.0003400436681984354,Topography
+Faxonius virilis,1,l_TOP131,0.0002703596146998624,Topography
+Faxonius virilis,1,l_TOP132,0.0010817454411040529,Topography
+Faxonius virilis,1,l_TOP133,0.00010932370734977094,Topography
+Faxonius virilis,1,l_TOP135,0.0006661062930977269,Topography
+Faxonius virilis,1,l_TOP137,0.00032154032033962087,Topography
+Faxonius virilis,1,l_TOP138,0.000393969518874735,Topography
+Faxonius virilis,1,l_TOP139,0.0003445740416059389,Topography
+Faxonius virilis,1,l_TOP14,0.0006999970205333055,Topography
+Faxonius virilis,1,l_TOP140,0.0005334496375531388,Topography
+Faxonius virilis,1,l_TOP141,0.0014645943447281905,Topography
+Faxonius virilis,1,l_TOP142,0.0007253949775284607,Topography
+Faxonius virilis,1,l_TOP143,0.0010795321968670288,Topography
+Faxonius virilis,1,l_TOP144,0.0006278608162808748,Topography
+Faxonius virilis,1,l_TOP15,0.000938448505733907,Topography
+Faxonius virilis,1,l_TOP16,0.0009463221406650696,Topography
+Faxonius virilis,1,l_TOP17,1.4436725075035632e-05,Topography
+Faxonius virilis,1,l_TOP18,0.00025381964060799896,Topography
+Faxonius virilis,1,l_TOP19,0.00046984722577424735,Topography
+Faxonius virilis,1,l_TOP2,0.00042674598232860466,Topography
+Faxonius virilis,1,l_TOP20,0.00040127439925169845,Topography
+Faxonius virilis,1,l_TOP21,0.0,Topography
+Faxonius virilis,1,l_TOP22,0.0007835082253673601,Topography
+Faxonius virilis,1,l_TOP23,0.0010034214057121262,Topography
+Faxonius virilis,1,l_TOP26,0.0004011335612857544,Topography
+Faxonius virilis,1,l_TOP27,0.00029869965974892024,Topography
+Faxonius virilis,1,l_TOP28,0.00037995577491519204,Topography
+Faxonius virilis,1,l_TOP30,0.07589272524521312,Topography
+Faxonius virilis,1,l_TOP36,0.0003081596474068552,Topography
+Faxonius virilis,1,l_TOP38,0.00019017116338003877,Topography
+Faxonius virilis,1,l_TOP39,0.00047365566883381105,Topography
+Faxonius virilis,1,l_TOP4,0.000886843414358992,Topography
+Faxonius virilis,1,l_TOP40,0.000252911094020021,Topography
+Faxonius virilis,1,l_TOP41,1.3292267224574289e-05,Topography
+Faxonius virilis,1,l_TOP42,0.0007203369354585292,Topography
+Faxonius virilis,1,l_TOP43,0.002026939702515272,Topography
+Faxonius virilis,1,l_TOP44,0.0017392651549493325,Topography
+Faxonius virilis,1,l_TOP45,2.873640746111327e-20,Topography
+Faxonius virilis,1,l_TOP48,0.001247142264268746,Topography
+Faxonius virilis,1,l_TOP49,0.000316050982652309,Topography
+Faxonius virilis,1,l_TOP51,0.0008009653185335575,Topography
+Faxonius virilis,1,l_TOP52,0.001308787425700975,Topography
+Faxonius virilis,1,l_TOP53,0.005758714814528897,Topography
+Faxonius virilis,1,l_TOP59,0.0018456555604963395,Topography
+Faxonius virilis,1,l_TOP6,0.0004731705006528335,Topography
+Faxonius virilis,1,l_TOP60,0.001802911880728649,Topography
+Faxonius virilis,1,l_TOP61,0.0004980902349707107,Topography
+Faxonius virilis,1,l_TOP62,0.0006496141185947518,Topography
+Faxonius virilis,1,l_TOP63,0.0007157394971942337,Topography
+Faxonius virilis,1,l_TOP64,0.0004577597283353029,Topography
+Faxonius virilis,1,l_TOP65,0.0003642163605612495,Topography
+Faxonius virilis,1,l_TOP66,0.0005006207907093069,Topography
+Faxonius virilis,1,l_TOP67,0.0008060560941361166,Topography
+Faxonius virilis,1,l_TOP68,0.0005325937731801715,Topography
+Faxonius virilis,1,l_TOP69,0.000272745140731062,Topography
+Faxonius virilis,1,l_TOP7,0.0007796320642600391,Topography
+Faxonius virilis,1,l_TOP70,0.0004587868432980235,Topography
+Faxonius virilis,1,l_TOP72,0.00041588607773080966,Topography
+Faxonius virilis,1,l_TOP73,0.00041653172977977143,Topography
+Faxonius virilis,1,l_TOP74,0.0010234361230004167,Topography
+Faxonius virilis,1,l_TOP75,0.00035382481207244724,Topography
+Faxonius virilis,1,l_TOP76,0.00038152348692250876,Topography
+Faxonius virilis,1,l_TOP78,0.00027604849653302963,Topography
+Faxonius virilis,1,l_TOP79,0.0003661426294729024,Topography
+Faxonius virilis,1,l_TOP83,0.000193152665996806,Topography
+Faxonius virilis,1,l_TOP85,0.0001709886433133724,Topography
+Faxonius virilis,1,l_TOP86,0.0002435223447445167,Topography
+Faxonius virilis,1,l_TOP87,0.0007356438763476271,Topography
+Faxonius virilis,1,l_TOP88,0.0005404924031864734,Topography
+Faxonius virilis,1,l_TOP89,3.7656008570335434e-05,Topography
+Faxonius virilis,1,l_TOP9,8.096016923231139e-05,Topography
+Faxonius virilis,1,l_TOP90,0.0006361810012769453,Topography
+Faxonius virilis,1,l_TOP91,0.0004323793718078444,Topography
+Faxonius virilis,1,l_TOP92,0.00033604038119307983,Topography
+Faxonius virilis,1,l_TOP93,0.0008121665527795177,Topography
+Faxonius virilis,1,l_TOP97,0.0006801907833340134,Topography
+Faxonius virilis,1,l_TOP99,0.0003022107623844252,Topography
+Faxonius virilis,1,u_CLI11,0.004666464205637805,Climate
+Faxonius virilis,1,u_CLI15,0.013549855536192347,Climate
+Faxonius virilis,1,u_CLI19,0.007179134036647838,Climate
+Faxonius virilis,1,u_CLI23,0.0028690786780493148,Climate
+Faxonius virilis,1,u_CLI27,0.009945317314538855,Climate
+Faxonius virilis,1,u_CLI3,0.0030376800907523536,Climate
+Faxonius virilis,1,u_CLI31,0.001871185819680216,Climate
+Faxonius virilis,1,u_CLI35,0.00559745290451275,Climate
+Faxonius virilis,1,u_CLI39,0.0035430049590171515,Climate
+Faxonius virilis,1,u_CLI47,0.001894381031952091,Climate
+Faxonius virilis,1,u_CLI51,0.0014165708185521243,Climate
+Faxonius virilis,1,u_CLI55,0.00511940127296821,Climate
+Faxonius virilis,1,u_CLI59,0.016632173908334404,Climate
+Faxonius virilis,1,u_CLI63,0.0012916432050148617,Climate
+Faxonius virilis,1,u_CLI7,0.0007652198795059256,Climate
+Faxonius virilis,1,u_CLI71,0.0024570070178414564,Climate
+Faxonius virilis,1,u_CLI75,0.007944517961557197,Climate
+Faxonius virilis,1,u_LAC1,0.003930246157525262,Land Cover
+Faxonius virilis,1,u_LAC10,0.0006234090007383422,Land Cover
+Faxonius virilis,1,u_LAC11,0.00015071554935070186,Land Cover
+Faxonius virilis,1,u_LAC12,0.0017902600646408794,Land Cover
+Faxonius virilis,1,u_LAC13,0.00046204661963948027,Land Cover
+Faxonius virilis,1,u_LAC15,0.00012288455489290202,Land Cover
+Faxonius virilis,1,u_LAC16,0.00010607540270175122,Land Cover
+Faxonius virilis,1,u_LAC18,7.196781987695597e-05,Land Cover
+Faxonius virilis,1,u_LAC19,0.00028262401989668926,Land Cover
+Faxonius virilis,1,u_LAC20,0.00010353961450061717,Land Cover
+Faxonius virilis,1,u_LAC21,0.0001690120707346421,Land Cover
+Faxonius virilis,1,u_LAC22,0.0,Land Cover
+Faxonius virilis,1,u_LAC3,0.0003019742513697169,Land Cover
+Faxonius virilis,1,u_LAC4,0.0002938022799675577,Land Cover
+Faxonius virilis,1,u_LAC6,0.0005490352067201526,Land Cover
+Faxonius virilis,1,u_LAC7,0.0011136430522003381,Land Cover
+Faxonius virilis,1,u_LAC8,0.00013830343194639835,Land Cover
+Faxonius virilis,1,u_LAC9,0.00031517381319011705,Land Cover
+Faxonius virilis,1,u_SOL11,0.0010848786036547794,Soil
+Faxonius virilis,1,u_SOL15,0.014869338258540926,Soil
+Faxonius virilis,1,u_SOL19,0.011198445506386512,Soil
+Faxonius virilis,1,u_SOL23,0.010378500457803804,Soil
+Faxonius virilis,1,u_SOL27,0.0010892218606866635,Soil
+Faxonius virilis,1,u_SOL3,0.0014734921915452847,Soil
+Faxonius virilis,1,u_SOL31,0.008764115578507101,Soil
+Faxonius virilis,1,u_SOL35,0.0010111217222431572,Soil
+Faxonius virilis,1,u_SOL39,0.002037604448654124,Soil
+Faxonius virilis,1,u_SOL43,0.0032221201344386917,Soil
+Faxonius virilis,1,u_SOL47,0.0018943706831285418,Soil
+Faxonius virilis,1,u_SOL51,6.919142042943767e-05,Soil
+Faxonius virilis,1,u_SOL55,0.0006715465889825062,Soil
+Faxonius virilis,1,u_SOL59,0.0035224932397852657,Soil
+Faxonius virilis,1,u_SOL7,0.006388254367223261,Soil
+Faxonius virilis,1,u_TOP103,0.001241135788373225,Topography
+Faxonius virilis,1,u_TOP110,0.000411934134380516,Topography
+Faxonius virilis,1,u_TOP111,0.00045621196335198124,Topography
+Faxonius virilis,1,u_TOP112,0.0006038485229255089,Topography
+Faxonius virilis,1,u_TOP113,0.00017989120074570573,Topography
+Faxonius virilis,1,u_TOP114,0.022789033546091172,Topography
+Faxonius virilis,1,u_TOP117,0.005416484181372016,Topography
+Faxonius virilis,1,u_TOP122,0.0009429338762138867,Topography
+Faxonius virilis,1,u_TOP126,0.0003314991863543547,Topography
+Faxonius virilis,1,u_TOP130,0.00028352972141534015,Topography
+Faxonius virilis,1,u_TOP135,0.0005666569896237164,Topography
+Faxonius virilis,1,u_TOP139,0.007643492838939384,Topography
+Faxonius virilis,1,u_TOP143,0.002738688978717445,Topography
+Faxonius virilis,1,u_TOP15,0.0023022928630018116,Topography
+Faxonius virilis,1,u_TOP19,0.000929593632338037,Topography
+Faxonius virilis,1,u_TOP27,0.0008001402041387909,Topography
+Faxonius virilis,1,u_TOP3,0.0016383214093008557,Topography
+Faxonius virilis,1,u_TOP31,0.019029580644338948,Topography
+Faxonius virilis,1,u_TOP35,0.0005229527985704147,Topography
+Faxonius virilis,1,u_TOP39,0.002440549695329444,Topography
+Faxonius virilis,1,u_TOP47,0.011449020853519216,Topography
+Faxonius virilis,1,u_TOP51,0.0019716105035444357,Topography
+Faxonius virilis,1,u_TOP55,0.0016286942930512675,Topography
+Faxonius virilis,1,u_TOP59,0.006952023903748206,Topography
+Faxonius virilis,1,u_TOP63,0.001814545788805953,Topography
+Faxonius virilis,1,u_TOP67,0.0026378589391420565,Topography
+Faxonius virilis,1,u_TOP75,0.00598289409870241,Topography
+Faxonius virilis,1,u_TOP83,0.00656371059193724,Topography
+Faxonius virilis,1,u_TOP91,0.008391166527037771,Topography
+Faxonius virilis,1,u_TOP95,0.0009320258425624098,Topography
+Faxonius virilis,2,l_CLI1,0.004104288274281924,Climate
+Faxonius virilis,2,l_CLI12,0.00039653267976489905,Climate
+Faxonius virilis,2,l_CLI14,0.06482690082047184,Climate
+Faxonius virilis,2,l_CLI16,0.0002878802980857611,Climate
+Faxonius virilis,2,l_CLI17,0.006011345181740163,Climate
+Faxonius virilis,2,l_CLI20,0.00026137305688689116,Climate
+Faxonius virilis,2,l_CLI21,0.008955645251196161,Climate
+Faxonius virilis,2,l_CLI24,0.0007869936972712036,Climate
+Faxonius virilis,2,l_CLI26,0.03946977238937955,Climate
+Faxonius virilis,2,l_CLI28,9.364761379133878e-05,Climate
+Faxonius virilis,2,l_CLI30,0.0078093696668154675,Climate
+Faxonius virilis,2,l_CLI32,0.0003879230317542021,Climate
+Faxonius virilis,2,l_CLI33,0.021731534739318423,Climate
+Faxonius virilis,2,l_CLI36,0.0018769426823734016,Climate
+Faxonius virilis,2,l_CLI38,0.004710406001833959,Climate
+Faxonius virilis,2,l_CLI4,0.0005364583502448645,Climate
+Faxonius virilis,2,l_CLI40,0.00031555898749408175,Climate
+Faxonius virilis,2,l_CLI44,0.0005632741456740382,Climate
+Faxonius virilis,2,l_CLI46,0.005932684226240454,Climate
+Faxonius virilis,2,l_CLI48,0.0002867274722585454,Climate
+Faxonius virilis,2,l_CLI5,0.0025680394325516757,Climate
+Faxonius virilis,2,l_CLI50,0.009195350197219036,Climate
+Faxonius virilis,2,l_CLI53,0.018244153740286123,Climate
+Faxonius virilis,2,l_CLI56,0.0009427985065695968,Climate
+Faxonius virilis,2,l_CLI58,0.05161808167022248,Climate
+Faxonius virilis,2,l_CLI60,0.00033591338013031,Climate
+Faxonius virilis,2,l_CLI62,0.008839287951934052,Climate
+Faxonius virilis,2,l_CLI64,0.0003457953828884902,Climate
+Faxonius virilis,2,l_CLI70,0.009061661649034849,Climate
+Faxonius virilis,2,l_CLI72,0.0001527181474245299,Climate
+Faxonius virilis,2,l_CLI73,0.03319023276871832,Climate
+Faxonius virilis,2,l_CLI76,0.0004912357008076409,Climate
+Faxonius virilis,2,l_CLI8,9.277452172697342e-05,Climate
+Faxonius virilis,2,l_CLI9,0.01528846618390217,Climate
+Faxonius virilis,2,l_LAC1,0.002757047492790141,Land Cover
+Faxonius virilis,2,l_LAC10,0.00022528916893318796,Land Cover
+Faxonius virilis,2,l_LAC11,3.9706602518517164e-05,Land Cover
+Faxonius virilis,2,l_LAC12,0.0024885665761546208,Land Cover
+Faxonius virilis,2,l_LAC13,0.0005286734613057572,Land Cover
+Faxonius virilis,2,l_LAC15,9.054759360696492e-05,Land Cover
+Faxonius virilis,2,l_LAC16,1.0139432186538624e-05,Land Cover
+Faxonius virilis,2,l_LAC18,4.236336325281657e-06,Land Cover
+Faxonius virilis,2,l_LAC19,0.00014493665637160181,Land Cover
+Faxonius virilis,2,l_LAC20,2.8896762189566834e-05,Land Cover
+Faxonius virilis,2,l_LAC21,9.116204322947212e-05,Land Cover
+Faxonius virilis,2,l_LAC3,9.37481656706734e-05,Land Cover
+Faxonius virilis,2,l_LAC4,0.00014446449121796254,Land Cover
+Faxonius virilis,2,l_LAC6,0.0001387633803620048,Land Cover
+Faxonius virilis,2,l_LAC7,0.0004032885842406516,Land Cover
+Faxonius virilis,2,l_LAC8,2.527046150680087e-05,Land Cover
+Faxonius virilis,2,l_LAC9,4.897680357633156e-05,Land Cover
+Faxonius virilis,2,l_SOL1,0.000917187395925236,Soil
+Faxonius virilis,2,l_SOL10,0.0013939437324691488,Soil
+Faxonius virilis,2,l_SOL11,0.0014343333601542232,Soil
+Faxonius virilis,2,l_SOL12,0.0008802900747556482,Soil
+Faxonius virilis,2,l_SOL13,0.011302185714388518,Soil
+Faxonius virilis,2,l_SOL16,0.0007242499250279943,Soil
+Faxonius virilis,2,l_SOL18,0.029304880615616938,Soil
+Faxonius virilis,2,l_SOL2,0.0010122997601715897,Soil
+Faxonius virilis,2,l_SOL20,0.0004415751118364334,Soil
+Faxonius virilis,2,l_SOL21,0.026689253562329138,Soil
+Faxonius virilis,2,l_SOL24,0.0006195857094137986,Soil
+Faxonius virilis,2,l_SOL25,0.0015692741276282455,Soil
+Faxonius virilis,2,l_SOL26,0.002962713862101693,Soil
+Faxonius virilis,2,l_SOL27,0.002025064876333109,Soil
+Faxonius virilis,2,l_SOL28,0.000643199210723379,Soil
+Faxonius virilis,2,l_SOL29,0.02434833852018383,Soil
+Faxonius virilis,2,l_SOL3,0.0014667196869669488,Soil
+Faxonius virilis,2,l_SOL30,0.007652908000312127,Soil
+Faxonius virilis,2,l_SOL31,0.02126223125662257,Soil
+Faxonius virilis,2,l_SOL32,0.0006542170484839579,Soil
+Faxonius virilis,2,l_SOL33,0.0008697571740555126,Soil
+Faxonius virilis,2,l_SOL36,0.0007298269466677193,Soil
+Faxonius virilis,2,l_SOL37,0.002206173895388408,Soil
+Faxonius virilis,2,l_SOL4,0.0004807319478791476,Soil
+Faxonius virilis,2,l_SOL40,0.0006394376405261618,Soil
+Faxonius virilis,2,l_SOL42,0.004489524707367913,Soil
+Faxonius virilis,2,l_SOL44,0.0005275239019880663,Soil
+Faxonius virilis,2,l_SOL45,0.0008052136781231216,Soil
+Faxonius virilis,2,l_SOL46,0.0009456596242911475,Soil
+Faxonius virilis,2,l_SOL47,0.0017205004864220034,Soil
+Faxonius virilis,2,l_SOL48,0.00020271726362692746,Soil
+Faxonius virilis,2,l_SOL49,0.0,Soil
+Faxonius virilis,2,l_SOL5,0.004588019950659435,Soil
+Faxonius virilis,2,l_SOL50,2.442230253877002e-05,Soil
+Faxonius virilis,2,l_SOL51,7.543093701449993e-05,Soil
+Faxonius virilis,2,l_SOL52,1.537419663941234e-05,Soil
+Faxonius virilis,2,l_SOL53,0.00021790247190128784,Soil
+Faxonius virilis,2,l_SOL54,6.958789251643556e-05,Soil
+Faxonius virilis,2,l_SOL55,0.00022693330206357862,Soil
+Faxonius virilis,2,l_SOL56,0.0002461880982603511,Soil
+Faxonius virilis,2,l_SOL57,0.0015743831545815088,Soil
+Faxonius virilis,2,l_SOL58,0.0025880621220376533,Soil
+Faxonius virilis,2,l_SOL59,0.0016721072281692465,Soil
+Faxonius virilis,2,l_SOL6,0.0025361652236892272,Soil
+Faxonius virilis,2,l_SOL60,0.0008584849636945148,Soil
+Faxonius virilis,2,l_SOL7,0.003351044981221622,Soil
+Faxonius virilis,2,l_SOL8,0.00044983041047139507,Soil
+Faxonius virilis,2,l_SOL9,0.0005877452891110578,Soil
+Faxonius virilis,2,l_TOP1,0.0005200717668015004,Topography
+Faxonius virilis,2,l_TOP10,0.000468596930818652,Topography
+Faxonius virilis,2,l_TOP101,0.0005603971041849231,Topography
+Faxonius virilis,2,l_TOP102,0.002839876127388496,Topography
+Faxonius virilis,2,l_TOP103,0.0002988329179205216,Topography
+Faxonius virilis,2,l_TOP104,0.00016425449425050653,Topography
+Faxonius virilis,2,l_TOP105,0.000488299749392471,Topography
+Faxonius virilis,2,l_TOP106,0.0005068098245403303,Topography
+Faxonius virilis,2,l_TOP107,0.00037230740656229045,Topography
+Faxonius virilis,2,l_TOP108,0.001274602196897862,Topography
+Faxonius virilis,2,l_TOP109,0.0499899040170103,Topography
+Faxonius virilis,2,l_TOP111,0.00034787588601581387,Topography
+Faxonius virilis,2,l_TOP112,0.00024275853736044733,Topography
+Faxonius virilis,2,l_TOP116,0.005223208898974405,Topography
+Faxonius virilis,2,l_TOP118,0.00019160364393008508,Topography
+Faxonius virilis,2,l_TOP124,0.0005665714297693943,Topography
+Faxonius virilis,2,l_TOP125,0.0003869064360039425,Topography
+Faxonius virilis,2,l_TOP126,0.0005179918898836758,Topography
+Faxonius virilis,2,l_TOP127,0.00020482356186106532,Topography
+Faxonius virilis,2,l_TOP129,0.00034424057799431815,Topography
+Faxonius virilis,2,l_TOP13,0.00015875082321116897,Topography
+Faxonius virilis,2,l_TOP130,0.00034615485322057996,Topography
+Faxonius virilis,2,l_TOP131,0.00032452067736872016,Topography
+Faxonius virilis,2,l_TOP132,0.0007786684535157683,Topography
+Faxonius virilis,2,l_TOP133,5.934733833266984e-05,Topography
+Faxonius virilis,2,l_TOP135,0.0008776208783035826,Topography
+Faxonius virilis,2,l_TOP137,0.00017011617981520255,Topography
+Faxonius virilis,2,l_TOP138,0.000628618102304813,Topography
+Faxonius virilis,2,l_TOP139,0.00043123390677227597,Topography
+Faxonius virilis,2,l_TOP14,0.0010117191188806808,Topography
+Faxonius virilis,2,l_TOP140,0.0007291741166339084,Topography
+Faxonius virilis,2,l_TOP141,0.0004598456792326747,Topography
+Faxonius virilis,2,l_TOP142,0.0004200035005848379,Topography
+Faxonius virilis,2,l_TOP143,0.0009540026766261837,Topography
+Faxonius virilis,2,l_TOP144,0.0004119160758438854,Topography
+Faxonius virilis,2,l_TOP15,0.0008263154768063269,Topography
+Faxonius virilis,2,l_TOP16,0.000731079030334207,Topography
+Faxonius virilis,2,l_TOP17,1.9882058536225902e-05,Topography
+Faxonius virilis,2,l_TOP18,0.0003601563949164848,Topography
+Faxonius virilis,2,l_TOP19,0.00043309712349151846,Topography
+Faxonius virilis,2,l_TOP2,0.0003280324340772181,Topography
+Faxonius virilis,2,l_TOP20,0.0003740042643816561,Topography
+Faxonius virilis,2,l_TOP21,9.87463748162165e-06,Topography
+Faxonius virilis,2,l_TOP22,0.0006841289589879108,Topography
+Faxonius virilis,2,l_TOP23,0.000706046794014622,Topography
+Faxonius virilis,2,l_TOP26,0.0003227832098609174,Topography
+Faxonius virilis,2,l_TOP27,0.00033177309915559974,Topography
+Faxonius virilis,2,l_TOP28,0.0003215647268869713,Topography
+Faxonius virilis,2,l_TOP30,0.06558337167865429,Topography
+Faxonius virilis,2,l_TOP36,0.00016515329308159257,Topography
+Faxonius virilis,2,l_TOP38,0.0005644187892415768,Topography
+Faxonius virilis,2,l_TOP39,0.00038035264274920535,Topography
+Faxonius virilis,2,l_TOP4,0.0007124827512354527,Topography
+Faxonius virilis,2,l_TOP40,0.00024519450398369886,Topography
+Faxonius virilis,2,l_TOP41,2.25746105880528e-05,Topography
+Faxonius virilis,2,l_TOP42,0.0010119789413509108,Topography
+Faxonius virilis,2,l_TOP43,0.0007570138567017726,Topography
+Faxonius virilis,2,l_TOP44,0.0004899834436994304,Topography
+Faxonius virilis,2,l_TOP45,7.535370199120163e-06,Topography
+Faxonius virilis,2,l_TOP48,0.0023195802754539807,Topography
+Faxonius virilis,2,l_TOP49,0.00018054675185666307,Topography
+Faxonius virilis,2,l_TOP51,0.0005000498441678271,Topography
+Faxonius virilis,2,l_TOP52,0.0007204723653230197,Topography
+Faxonius virilis,2,l_TOP53,0.006537975393120076,Topography
+Faxonius virilis,2,l_TOP59,0.0007237945762838311,Topography
+Faxonius virilis,2,l_TOP6,0.000312456455740684,Topography
+Faxonius virilis,2,l_TOP60,0.0009563076125102601,Topography
+Faxonius virilis,2,l_TOP61,0.0004466843929151272,Topography
+Faxonius virilis,2,l_TOP62,0.00044708250148167765,Topography
+Faxonius virilis,2,l_TOP63,0.00042735977806572663,Topography
+Faxonius virilis,2,l_TOP64,0.0003585488278769565,Topography
+Faxonius virilis,2,l_TOP65,0.0002543775745762404,Topography
+Faxonius virilis,2,l_TOP66,0.00028871477447602257,Topography
+Faxonius virilis,2,l_TOP67,0.0002993187626788642,Topography
+Faxonius virilis,2,l_TOP68,0.0002392395624957767,Topography
+Faxonius virilis,2,l_TOP69,0.0002210744733507338,Topography
+Faxonius virilis,2,l_TOP7,0.0006017641896428305,Topography
+Faxonius virilis,2,l_TOP70,0.0005444472656506079,Topography
+Faxonius virilis,2,l_TOP72,0.00033206009414129276,Topography
+Faxonius virilis,2,l_TOP73,0.0002780842932681938,Topography
+Faxonius virilis,2,l_TOP74,0.0005917605570362189,Topography
+Faxonius virilis,2,l_TOP75,0.0005255837760076823,Topography
+Faxonius virilis,2,l_TOP76,0.00036749025096970107,Topography
+Faxonius virilis,2,l_TOP78,0.0002515252323074161,Topography
+Faxonius virilis,2,l_TOP79,0.0001667292356912419,Topography
+Faxonius virilis,2,l_TOP83,0.00019987491675258767,Topography
+Faxonius virilis,2,l_TOP85,8.692042164015752e-05,Topography
+Faxonius virilis,2,l_TOP86,0.00028104496715222743,Topography
+Faxonius virilis,2,l_TOP87,0.0006026571793114966,Topography
+Faxonius virilis,2,l_TOP88,0.00036843075779845495,Topography
+Faxonius virilis,2,l_TOP89,0.00010421856065597444,Topography
+Faxonius virilis,2,l_TOP9,3.0834704513250394e-05,Topography
+Faxonius virilis,2,l_TOP90,0.0002594384131271828,Topography
+Faxonius virilis,2,l_TOP91,0.00039304536864087473,Topography
+Faxonius virilis,2,l_TOP92,0.000557240501251792,Topography
+Faxonius virilis,2,l_TOP93,0.0007649099357655306,Topography
+Faxonius virilis,2,l_TOP97,0.0010766169951595603,Topography
+Faxonius virilis,2,l_TOP99,0.00021812370169816832,Topography
+Faxonius virilis,2,u_CLI11,0.004380479957521335,Climate
+Faxonius virilis,2,u_CLI15,0.020302344230097084,Climate
+Faxonius virilis,2,u_CLI19,0.004810044380219851,Climate
+Faxonius virilis,2,u_CLI23,0.003451170961346112,Climate
+Faxonius virilis,2,u_CLI27,0.014293095762152071,Climate
+Faxonius virilis,2,u_CLI3,0.0025191506000003558,Climate
+Faxonius virilis,2,u_CLI31,0.0028383201773742213,Climate
+Faxonius virilis,2,u_CLI35,0.007103751453372854,Climate
+Faxonius virilis,2,u_CLI39,0.0025903609847017653,Climate
+Faxonius virilis,2,u_CLI47,0.0017253667572186965,Climate
+Faxonius virilis,2,u_CLI51,0.001254336331230365,Climate
+Faxonius virilis,2,u_CLI55,0.006974673049573871,Climate
+Faxonius virilis,2,u_CLI59,0.017223528609945544,Climate
+Faxonius virilis,2,u_CLI63,0.001059552614255111,Climate
+Faxonius virilis,2,u_CLI7,0.001084229338526579,Climate
+Faxonius virilis,2,u_CLI71,0.0020589562822363235,Climate
+Faxonius virilis,2,u_CLI75,0.010403196146999147,Climate
+Faxonius virilis,2,u_LAC1,0.004481949411353149,Land Cover
+Faxonius virilis,2,u_LAC10,0.0003555510949701019,Land Cover
+Faxonius virilis,2,u_LAC11,8.144377554940473e-05,Land Cover
+Faxonius virilis,2,u_LAC12,0.0018459733692979788,Land Cover
+Faxonius virilis,2,u_LAC13,0.00048768715044928605,Land Cover
+Faxonius virilis,2,u_LAC15,0.00016148496304507008,Land Cover
+Faxonius virilis,2,u_LAC16,5.92312713360074e-05,Land Cover
+Faxonius virilis,2,u_LAC18,6.419647097551321e-05,Land Cover
+Faxonius virilis,2,u_LAC19,0.00032462556000829076,Land Cover
+Faxonius virilis,2,u_LAC20,0.00010918852535988567,Land Cover
+Faxonius virilis,2,u_LAC21,0.00016658341489459667,Land Cover
+Faxonius virilis,2,u_LAC22,0.0,Land Cover
+Faxonius virilis,2,u_LAC3,0.0004486258427565152,Land Cover
+Faxonius virilis,2,u_LAC4,0.0004135824094691593,Land Cover
+Faxonius virilis,2,u_LAC6,0.0003010784238239922,Land Cover
+Faxonius virilis,2,u_LAC7,0.0006768571061669483,Land Cover
+Faxonius virilis,2,u_LAC8,5.573010664083507e-05,Land Cover
+Faxonius virilis,2,u_LAC9,0.0005990692338419831,Land Cover
+Faxonius virilis,2,u_SOL11,0.001568215994485035,Soil
+Faxonius virilis,2,u_SOL15,0.012931774603659596,Soil
+Faxonius virilis,2,u_SOL19,0.011173106427124414,Soil
+Faxonius virilis,2,u_SOL23,0.014852074031245608,Soil
+Faxonius virilis,2,u_SOL27,0.0007452428871823289,Soil
+Faxonius virilis,2,u_SOL3,0.0018953031396799127,Soil
+Faxonius virilis,2,u_SOL31,0.010749128767723723,Soil
+Faxonius virilis,2,u_SOL35,0.0005653328061921975,Soil
+Faxonius virilis,2,u_SOL39,0.0017082834484320507,Soil
+Faxonius virilis,2,u_SOL43,0.00449874424807538,Soil
+Faxonius virilis,2,u_SOL47,0.002029537270521693,Soil
+Faxonius virilis,2,u_SOL51,0.00017013957651645744,Soil
+Faxonius virilis,2,u_SOL55,0.0012519254243473618,Soil
+Faxonius virilis,2,u_SOL59,0.0029696490425560203,Soil
+Faxonius virilis,2,u_SOL7,0.00696934016180127,Soil
+Faxonius virilis,2,u_TOP103,0.0010533880985602187,Topography
+Faxonius virilis,2,u_TOP110,0.0004506462091804452,Topography
+Faxonius virilis,2,u_TOP111,0.0005015129717912719,Topography
+Faxonius virilis,2,u_TOP112,0.00047299678894741,Topography
+Faxonius virilis,2,u_TOP113,0.0003156620908676764,Topography
+Faxonius virilis,2,u_TOP114,0.027252202654712183,Topography
+Faxonius virilis,2,u_TOP117,0.007000316249814923,Topography
+Faxonius virilis,2,u_TOP122,0.002023343961348096,Topography
+Faxonius virilis,2,u_TOP126,0.00033212702715216814,Topography
+Faxonius virilis,2,u_TOP130,0.00023143472295346717,Topography
+Faxonius virilis,2,u_TOP135,0.0005374330162396993,Topography
+Faxonius virilis,2,u_TOP139,0.007580960712221372,Topography
+Faxonius virilis,2,u_TOP143,0.0020871913216169474,Topography
+Faxonius virilis,2,u_TOP15,0.00287087402464963,Topography
+Faxonius virilis,2,u_TOP19,0.0018935691367965135,Topography
+Faxonius virilis,2,u_TOP27,0.0017490205306252451,Topography
+Faxonius virilis,2,u_TOP3,0.0012497469290988102,Topography
+Faxonius virilis,2,u_TOP31,0.028777522237921363,Topography
+Faxonius virilis,2,u_TOP35,0.0008894765624127408,Topography
+Faxonius virilis,2,u_TOP39,0.0029924488184956935,Topography
+Faxonius virilis,2,u_TOP47,0.010301896323787038,Topography
+Faxonius virilis,2,u_TOP51,0.0020904127592556755,Topography
+Faxonius virilis,2,u_TOP55,0.0037189177216570414,Topography
+Faxonius virilis,2,u_TOP59,0.003382986308633937,Topography
+Faxonius virilis,2,u_TOP63,0.0024250156687730304,Topography
+Faxonius virilis,2,u_TOP67,0.0035474235141505386,Topography
+Faxonius virilis,2,u_TOP75,0.005026130420630338,Topography
+Faxonius virilis,2,u_TOP83,0.010461159023926978,Topography
+Faxonius virilis,2,u_TOP91,0.009434352608346812,Topography
+Faxonius virilis,2,u_TOP95,0.0010911257251694003,Topography
+Faxonius virilis,3,l_CLI1,0.005196532777442984,Climate
+Faxonius virilis,3,l_CLI12,0.0003685235786098487,Climate
+Faxonius virilis,3,l_CLI14,0.057032967077244125,Climate
+Faxonius virilis,3,l_CLI16,0.00017890994756888544,Climate
+Faxonius virilis,3,l_CLI17,0.005620512112474959,Climate
+Faxonius virilis,3,l_CLI20,0.0002900229344886316,Climate
+Faxonius virilis,3,l_CLI21,0.008658938623537952,Climate
+Faxonius virilis,3,l_CLI24,0.000975021050656226,Climate
+Faxonius virilis,3,l_CLI26,0.04276437548517945,Climate
+Faxonius virilis,3,l_CLI28,0.00013138477392532046,Climate
+Faxonius virilis,3,l_CLI30,0.010674490078970087,Climate
+Faxonius virilis,3,l_CLI32,0.00016585974199167586,Climate
+Faxonius virilis,3,l_CLI33,0.03278431186019982,Climate
+Faxonius virilis,3,l_CLI36,0.0012889090990914568,Climate
+Faxonius virilis,3,l_CLI38,0.00433560042303438,Climate
+Faxonius virilis,3,l_CLI4,0.0006087118422628669,Climate
+Faxonius virilis,3,l_CLI40,0.0006028710814496018,Climate
+Faxonius virilis,3,l_CLI44,0.0016651557706245435,Climate
+Faxonius virilis,3,l_CLI46,0.00898213951583084,Climate
+Faxonius virilis,3,l_CLI48,0.00036990369955350403,Climate
+Faxonius virilis,3,l_CLI5,0.002192415020886755,Climate
+Faxonius virilis,3,l_CLI50,0.013028937942879666,Climate
+Faxonius virilis,3,l_CLI53,0.01204150832663949,Climate
+Faxonius virilis,3,l_CLI56,0.00023798972892811565,Climate
+Faxonius virilis,3,l_CLI58,0.04116643671212895,Climate
+Faxonius virilis,3,l_CLI60,0.0004178966863104611,Climate
+Faxonius virilis,3,l_CLI62,0.01236264129376553,Climate
+Faxonius virilis,3,l_CLI64,0.00030098843508987876,Climate
+Faxonius virilis,3,l_CLI70,0.01173778851899979,Climate
+Faxonius virilis,3,l_CLI72,0.000299686408476116,Climate
+Faxonius virilis,3,l_CLI73,0.024403952855463658,Climate
+Faxonius virilis,3,l_CLI76,0.0011741240032285033,Climate
+Faxonius virilis,3,l_CLI8,0.00029446716037975215,Climate
+Faxonius virilis,3,l_CLI9,0.017311220191748702,Climate
+Faxonius virilis,3,l_LAC1,0.0041048414727325256,Land Cover
+Faxonius virilis,3,l_LAC10,0.00012722343236013168,Land Cover
+Faxonius virilis,3,l_LAC11,7.6209537438282856e-06,Land Cover
+Faxonius virilis,3,l_LAC12,0.002465660447603556,Land Cover
+Faxonius virilis,3,l_LAC13,0.0003071569264618206,Land Cover
+Faxonius virilis,3,l_LAC15,5.465851834598518e-05,Land Cover
+Faxonius virilis,3,l_LAC16,5.092052510967429e-05,Land Cover
+Faxonius virilis,3,l_LAC18,3.747256702894149e-05,Land Cover
+Faxonius virilis,3,l_LAC19,0.00013991523713255616,Land Cover
+Faxonius virilis,3,l_LAC20,7.486349728618281e-06,Land Cover
+Faxonius virilis,3,l_LAC21,0.0001960559377840214,Land Cover
+Faxonius virilis,3,l_LAC3,7.189473968628983e-05,Land Cover
+Faxonius virilis,3,l_LAC4,8.631333276673837e-05,Land Cover
+Faxonius virilis,3,l_LAC6,0.00021851646788441132,Land Cover
+Faxonius virilis,3,l_LAC7,0.00024313554710466106,Land Cover
+Faxonius virilis,3,l_LAC8,1.5001435419538315e-05,Land Cover
+Faxonius virilis,3,l_LAC9,0.00010887988545627357,Land Cover
+Faxonius virilis,3,l_SOL1,0.0009550445277310496,Soil
+Faxonius virilis,3,l_SOL10,0.0014929991233691524,Soil
+Faxonius virilis,3,l_SOL11,0.0012725650378150712,Soil
+Faxonius virilis,3,l_SOL12,0.000725037515543614,Soil
+Faxonius virilis,3,l_SOL13,0.016854747284877587,Soil
+Faxonius virilis,3,l_SOL16,0.0008884413585961087,Soil
+Faxonius virilis,3,l_SOL18,0.027138761229011796,Soil
+Faxonius virilis,3,l_SOL2,0.0009815173301697497,Soil
+Faxonius virilis,3,l_SOL20,0.0004856875782239452,Soil
+Faxonius virilis,3,l_SOL21,0.03762177434436491,Soil
+Faxonius virilis,3,l_SOL24,0.0013405793781237978,Soil
+Faxonius virilis,3,l_SOL25,0.001554288996879547,Soil
+Faxonius virilis,3,l_SOL26,0.0031292356337986396,Soil
+Faxonius virilis,3,l_SOL27,0.0028014604489633825,Soil
+Faxonius virilis,3,l_SOL28,0.0005252637584083015,Soil
+Faxonius virilis,3,l_SOL29,0.022556583186596906,Soil
+Faxonius virilis,3,l_SOL3,0.001338103399168741,Soil
+Faxonius virilis,3,l_SOL30,0.011096317325147322,Soil
+Faxonius virilis,3,l_SOL31,0.017015047493630905,Soil
+Faxonius virilis,3,l_SOL32,0.0004418434934352551,Soil
+Faxonius virilis,3,l_SOL33,0.0004980580957326304,Soil
+Faxonius virilis,3,l_SOL36,0.0007554011975093777,Soil
+Faxonius virilis,3,l_SOL37,0.0017872867289812724,Soil
+Faxonius virilis,3,l_SOL4,0.0004743223763750881,Soil
+Faxonius virilis,3,l_SOL40,0.00041573135620360017,Soil
+Faxonius virilis,3,l_SOL42,0.004136310236951632,Soil
+Faxonius virilis,3,l_SOL44,0.0005538066315205469,Soil
+Faxonius virilis,3,l_SOL45,0.0004212537799549961,Soil
+Faxonius virilis,3,l_SOL46,0.0005831164561523886,Soil
+Faxonius virilis,3,l_SOL47,0.0023748561005035138,Soil
+Faxonius virilis,3,l_SOL48,0.0001541110419275645,Soil
+Faxonius virilis,3,l_SOL49,7.332256436209892e-06,Soil
+Faxonius virilis,3,l_SOL5,0.0045167436136737,Soil
+Faxonius virilis,3,l_SOL50,4.279249012941326e-05,Soil
+Faxonius virilis,3,l_SOL51,5.567650221102852e-05,Soil
+Faxonius virilis,3,l_SOL52,1.051152794630188e-05,Soil
+Faxonius virilis,3,l_SOL53,0.00017155430770458133,Soil
+Faxonius virilis,3,l_SOL54,2.0592325344563846e-05,Soil
+Faxonius virilis,3,l_SOL55,0.00011695576299385827,Soil
+Faxonius virilis,3,l_SOL56,5.0257907182623256e-05,Soil
+Faxonius virilis,3,l_SOL57,0.0012345881037504629,Soil
+Faxonius virilis,3,l_SOL58,0.0029989383324824964,Soil
+Faxonius virilis,3,l_SOL59,0.0015653200670247187,Soil
+Faxonius virilis,3,l_SOL6,0.0014602132801154754,Soil
+Faxonius virilis,3,l_SOL60,0.0008156280844369622,Soil
+Faxonius virilis,3,l_SOL7,0.0052228983647153995,Soil
+Faxonius virilis,3,l_SOL8,0.0007653050867876759,Soil
+Faxonius virilis,3,l_SOL9,0.0008608868462498606,Soil
+Faxonius virilis,3,l_TOP1,0.0008495226780957905,Topography
+Faxonius virilis,3,l_TOP10,0.0007812397269518886,Topography
+Faxonius virilis,3,l_TOP101,0.00048273620465448487,Topography
+Faxonius virilis,3,l_TOP102,0.0032693560650405534,Topography
+Faxonius virilis,3,l_TOP103,0.0002976382593524271,Topography
+Faxonius virilis,3,l_TOP104,0.00018584499325861834,Topography
+Faxonius virilis,3,l_TOP105,0.0005483432746342173,Topography
+Faxonius virilis,3,l_TOP106,0.0004551803548387277,Topography
+Faxonius virilis,3,l_TOP107,0.00040174677305917876,Topography
+Faxonius virilis,3,l_TOP108,0.0006689608926579428,Topography
+Faxonius virilis,3,l_TOP109,0.05669657380221081,Topography
+Faxonius virilis,3,l_TOP111,0.00035411181077358867,Topography
+Faxonius virilis,3,l_TOP112,0.0003232731121987016,Topography
+Faxonius virilis,3,l_TOP116,0.006218932219419693,Topography
+Faxonius virilis,3,l_TOP118,0.0002663539324066256,Topography
+Faxonius virilis,3,l_TOP124,0.0005816136291739304,Topography
+Faxonius virilis,3,l_TOP125,0.0004241349140263442,Topography
+Faxonius virilis,3,l_TOP126,0.0005283566432579696,Topography
+Faxonius virilis,3,l_TOP127,0.00020761003487219194,Topography
+Faxonius virilis,3,l_TOP129,0.00031906055870033445,Topography
+Faxonius virilis,3,l_TOP13,8.711752442537915e-05,Topography
+Faxonius virilis,3,l_TOP130,0.0003129277653523198,Topography
+Faxonius virilis,3,l_TOP131,0.00030011380405646926,Topography
+Faxonius virilis,3,l_TOP132,0.0006688276374464179,Topography
+Faxonius virilis,3,l_TOP133,5.0004804709072344e-05,Topography
+Faxonius virilis,3,l_TOP135,0.0005870495629783582,Topography
+Faxonius virilis,3,l_TOP137,0.0002898800827057718,Topography
+Faxonius virilis,3,l_TOP138,0.0006420513629346203,Topography
+Faxonius virilis,3,l_TOP139,0.0007075866527690967,Topography
+Faxonius virilis,3,l_TOP14,0.00046261261157984617,Topography
+Faxonius virilis,3,l_TOP140,0.0005412955789753395,Topography
+Faxonius virilis,3,l_TOP141,0.0007717982142569344,Topography
+Faxonius virilis,3,l_TOP142,0.00048112200079937793,Topography
+Faxonius virilis,3,l_TOP143,0.001198896161180288,Topography
+Faxonius virilis,3,l_TOP144,0.0006215679986448153,Topography
+Faxonius virilis,3,l_TOP15,0.0013785461183119354,Topography
+Faxonius virilis,3,l_TOP16,0.0010271642351400278,Topography
+Faxonius virilis,3,l_TOP17,6.299868194948227e-19,Topography
+Faxonius virilis,3,l_TOP18,0.0004896823584991743,Topography
+Faxonius virilis,3,l_TOP19,0.0004007239201298938,Topography
+Faxonius virilis,3,l_TOP2,0.00036025464323785167,Topography
+Faxonius virilis,3,l_TOP20,0.00032669229627194476,Topography
+Faxonius virilis,3,l_TOP21,6.206789441717103e-06,Topography
+Faxonius virilis,3,l_TOP22,0.0007455512667428074,Topography
+Faxonius virilis,3,l_TOP23,0.0007656482249181634,Topography
+Faxonius virilis,3,l_TOP26,0.0002516557266437699,Topography
+Faxonius virilis,3,l_TOP27,0.00038335575397919195,Topography
+Faxonius virilis,3,l_TOP28,0.0003069319521914994,Topography
+Faxonius virilis,3,l_TOP30,0.05771446565451803,Topography
+Faxonius virilis,3,l_TOP36,0.0002337721196747728,Topography
+Faxonius virilis,3,l_TOP38,0.00033171993516661733,Topography
+Faxonius virilis,3,l_TOP39,0.00035750782810424156,Topography
+Faxonius virilis,3,l_TOP4,0.0005418478812550248,Topography
+Faxonius virilis,3,l_TOP40,0.0002567155570530113,Topography
+Faxonius virilis,3,l_TOP41,6.8756883194641535e-06,Topography
+Faxonius virilis,3,l_TOP42,0.0008245732761123135,Topography
+Faxonius virilis,3,l_TOP43,0.001332213216519553,Topography
+Faxonius virilis,3,l_TOP44,0.0008430888553723499,Topography
+Faxonius virilis,3,l_TOP45,3.6677059605691315e-05,Topography
+Faxonius virilis,3,l_TOP48,0.001570672137479534,Topography
+Faxonius virilis,3,l_TOP49,0.00024016670120144672,Topography
+Faxonius virilis,3,l_TOP51,0.0007428953192248107,Topography
+Faxonius virilis,3,l_TOP52,0.0007921725276274488,Topography
+Faxonius virilis,3,l_TOP53,0.004396396124526613,Topography
+Faxonius virilis,3,l_TOP59,0.0013013778528675002,Topography
+Faxonius virilis,3,l_TOP6,0.00037852532643827257,Topography
+Faxonius virilis,3,l_TOP60,0.001065134625374723,Topography
+Faxonius virilis,3,l_TOP61,0.0003501894023011217,Topography
+Faxonius virilis,3,l_TOP62,0.00039085651097041423,Topography
+Faxonius virilis,3,l_TOP63,0.0008368055156100447,Topography
+Faxonius virilis,3,l_TOP64,0.000300353464609267,Topography
+Faxonius virilis,3,l_TOP65,0.00037703483025027,Topography
+Faxonius virilis,3,l_TOP66,0.0005854544648805165,Topography
+Faxonius virilis,3,l_TOP67,0.0005878512847129698,Topography
+Faxonius virilis,3,l_TOP68,0.0002398827329057264,Topography
+Faxonius virilis,3,l_TOP69,0.0002155473728408559,Topography
+Faxonius virilis,3,l_TOP7,0.0007484557454107081,Topography
+Faxonius virilis,3,l_TOP70,0.0005400240080084789,Topography
+Faxonius virilis,3,l_TOP72,0.0003578958064165477,Topography
+Faxonius virilis,3,l_TOP73,0.00021153693017273846,Topography
+Faxonius virilis,3,l_TOP74,0.0007051532627935714,Topography
+Faxonius virilis,3,l_TOP75,0.0005482277125429289,Topography
+Faxonius virilis,3,l_TOP76,0.0003481744600798275,Topography
+Faxonius virilis,3,l_TOP78,0.00022712551588183002,Topography
+Faxonius virilis,3,l_TOP79,0.00026065583265430595,Topography
+Faxonius virilis,3,l_TOP83,0.00031618770123556565,Topography
+Faxonius virilis,3,l_TOP85,0.0002444107025806068,Topography
+Faxonius virilis,3,l_TOP86,0.00037078812084888384,Topography
+Faxonius virilis,3,l_TOP87,0.00040697327362484845,Topography
+Faxonius virilis,3,l_TOP88,0.000310081808193471,Topography
+Faxonius virilis,3,l_TOP89,0.00010124181771400517,Topography
+Faxonius virilis,3,l_TOP9,2.120536026801579e-05,Topography
+Faxonius virilis,3,l_TOP90,0.0005980636995789936,Topography
+Faxonius virilis,3,l_TOP91,0.0003513393048451439,Topography
+Faxonius virilis,3,l_TOP92,0.0004010325982881736,Topography
+Faxonius virilis,3,l_TOP93,0.0006272199332198139,Topography
+Faxonius virilis,3,l_TOP97,0.0009853919335161816,Topography
+Faxonius virilis,3,l_TOP99,0.0003452615803230388,Topography
+Faxonius virilis,3,u_CLI11,0.003489932943034593,Climate
+Faxonius virilis,3,u_CLI15,0.019506426682356862,Climate
+Faxonius virilis,3,u_CLI19,0.004752790173107612,Climate
+Faxonius virilis,3,u_CLI23,0.0037716980815712007,Climate
+Faxonius virilis,3,u_CLI27,0.006201043876329503,Climate
+Faxonius virilis,3,u_CLI3,0.0028498392378767663,Climate
+Faxonius virilis,3,u_CLI31,0.0015828470171925953,Climate
+Faxonius virilis,3,u_CLI35,0.008252894758395744,Climate
+Faxonius virilis,3,u_CLI39,0.0031991344167506073,Climate
+Faxonius virilis,3,u_CLI47,0.001657976631634629,Climate
+Faxonius virilis,3,u_CLI51,0.0019178627871706162,Climate
+Faxonius virilis,3,u_CLI55,0.005734476779082113,Climate
+Faxonius virilis,3,u_CLI59,0.0195636079039801,Climate
+Faxonius virilis,3,u_CLI63,0.0016011267590642214,Climate
+Faxonius virilis,3,u_CLI7,0.0008451801869399051,Climate
+Faxonius virilis,3,u_CLI71,0.0018488890089259438,Climate
+Faxonius virilis,3,u_CLI75,0.009124635537996226,Climate
+Faxonius virilis,3,u_LAC1,0.004235079379856498,Land Cover
+Faxonius virilis,3,u_LAC10,0.00029027222379819336,Land Cover
+Faxonius virilis,3,u_LAC11,0.0001770866110467788,Land Cover
+Faxonius virilis,3,u_LAC12,0.0016933061017924897,Land Cover
+Faxonius virilis,3,u_LAC13,0.0006323206480768538,Land Cover
+Faxonius virilis,3,u_LAC15,0.0001349276542820883,Land Cover
+Faxonius virilis,3,u_LAC16,0.0002424097768769093,Land Cover
+Faxonius virilis,3,u_LAC18,0.00020437764961835374,Land Cover
+Faxonius virilis,3,u_LAC19,0.0004703024920848794,Land Cover
+Faxonius virilis,3,u_LAC20,0.0001290390252286548,Land Cover
+Faxonius virilis,3,u_LAC21,0.00024577271675511593,Land Cover
+Faxonius virilis,3,u_LAC22,9.915791870144971e-06,Land Cover
+Faxonius virilis,3,u_LAC3,0.0002678919549858093,Land Cover
+Faxonius virilis,3,u_LAC4,0.0002465619992020035,Land Cover
+Faxonius virilis,3,u_LAC6,0.0005118958652949771,Land Cover
+Faxonius virilis,3,u_LAC7,0.0010551174840675863,Land Cover
+Faxonius virilis,3,u_LAC8,0.00018572440199082185,Land Cover
+Faxonius virilis,3,u_LAC9,0.00036915176224763206,Land Cover
+Faxonius virilis,3,u_SOL11,0.001270692033692503,Soil
+Faxonius virilis,3,u_SOL15,0.019422478623582286,Soil
+Faxonius virilis,3,u_SOL19,0.017600650182642195,Soil
+Faxonius virilis,3,u_SOL23,0.018297098456546625,Soil
+Faxonius virilis,3,u_SOL27,0.0010779694077105205,Soil
+Faxonius virilis,3,u_SOL3,0.0014106875672815044,Soil
+Faxonius virilis,3,u_SOL31,0.010263371465960834,Soil
+Faxonius virilis,3,u_SOL35,0.0006727759800748883,Soil
+Faxonius virilis,3,u_SOL39,0.001594250550891052,Soil
+Faxonius virilis,3,u_SOL43,0.0024875473481134032,Soil
+Faxonius virilis,3,u_SOL47,0.0013903167338026798,Soil
+Faxonius virilis,3,u_SOL51,0.00014555286961075333,Soil
+Faxonius virilis,3,u_SOL55,0.0011649711222641989,Soil
+Faxonius virilis,3,u_SOL59,0.003273507713798719,Soil
+Faxonius virilis,3,u_SOL7,0.005403104574080461,Soil
+Faxonius virilis,3,u_TOP103,0.0008891281078293686,Topography
+Faxonius virilis,3,u_TOP110,0.0003992920631537354,Topography
+Faxonius virilis,3,u_TOP111,0.0003698835842663954,Topography
+Faxonius virilis,3,u_TOP112,0.0006144314024184256,Topography
+Faxonius virilis,3,u_TOP113,0.0003255330503955706,Topography
+Faxonius virilis,3,u_TOP114,0.018316375893183114,Topography
+Faxonius virilis,3,u_TOP117,0.005476848984054125,Topography
+Faxonius virilis,3,u_TOP122,0.001815547575634857,Topography
+Faxonius virilis,3,u_TOP126,0.00031633620406928064,Topography
+Faxonius virilis,3,u_TOP130,0.0002474849720094817,Topography
+Faxonius virilis,3,u_TOP135,0.00039992530027939237,Topography
+Faxonius virilis,3,u_TOP139,0.008411214738098789,Topography
+Faxonius virilis,3,u_TOP143,0.0015335670172892538,Topography
+Faxonius virilis,3,u_TOP15,0.0017887479803119991,Topography
+Faxonius virilis,3,u_TOP19,0.0011218640815214781,Topography
+Faxonius virilis,3,u_TOP27,0.0010985202948882674,Topography
+Faxonius virilis,3,u_TOP3,0.0019557731244390676,Topography
+Faxonius virilis,3,u_TOP31,0.025184865152548672,Topography
+Faxonius virilis,3,u_TOP35,0.0007348885737989572,Topography
+Faxonius virilis,3,u_TOP39,0.0034361493820242836,Topography
+Faxonius virilis,3,u_TOP47,0.009040975672308804,Topography
+Faxonius virilis,3,u_TOP51,0.003134859770087611,Topography
+Faxonius virilis,3,u_TOP55,0.0034301367473743394,Topography
+Faxonius virilis,3,u_TOP59,0.004330666223432926,Topography
+Faxonius virilis,3,u_TOP63,0.003146041854993702,Topography
+Faxonius virilis,3,u_TOP67,0.003071353737719554,Topography
+Faxonius virilis,3,u_TOP75,0.006075509573689233,Topography
+Faxonius virilis,3,u_TOP83,0.008923117482179388,Topography
+Faxonius virilis,3,u_TOP91,0.00712103959262875,Topography
+Faxonius virilis,3,u_TOP95,0.0007166597709412451,Topography
+Faxonius virilis,4,l_CLI1,0.003830343936675787,Climate
+Faxonius virilis,4,l_CLI12,0.0005504069781359447,Climate
+Faxonius virilis,4,l_CLI14,0.051589628849578704,Climate
+Faxonius virilis,4,l_CLI16,0.0002479114307041682,Climate
+Faxonius virilis,4,l_CLI17,0.006651977764602688,Climate
+Faxonius virilis,4,l_CLI20,0.000602203690152849,Climate
+Faxonius virilis,4,l_CLI21,0.009181636996092604,Climate
+Faxonius virilis,4,l_CLI24,0.0004953581378588613,Climate
+Faxonius virilis,4,l_CLI26,0.04133884013808079,Climate
+Faxonius virilis,4,l_CLI28,0.00015666127936107916,Climate
+Faxonius virilis,4,l_CLI30,0.009356879024411653,Climate
+Faxonius virilis,4,l_CLI32,0.00025723506603150315,Climate
+Faxonius virilis,4,l_CLI33,0.02908817863308949,Climate
+Faxonius virilis,4,l_CLI36,0.0007091071388767192,Climate
+Faxonius virilis,4,l_CLI38,0.006368941004771424,Climate
+Faxonius virilis,4,l_CLI4,0.0008756212843343017,Climate
+Faxonius virilis,4,l_CLI40,0.0005951064843911604,Climate
+Faxonius virilis,4,l_CLI44,0.000903259008954841,Climate
+Faxonius virilis,4,l_CLI46,0.006835959024948387,Climate
+Faxonius virilis,4,l_CLI48,0.00042643673418813366,Climate
+Faxonius virilis,4,l_CLI5,0.002741618385037881,Climate
+Faxonius virilis,4,l_CLI50,0.009132474038881502,Climate
+Faxonius virilis,4,l_CLI53,0.01608652684214432,Climate
+Faxonius virilis,4,l_CLI56,0.0006245363044322672,Climate
+Faxonius virilis,4,l_CLI58,0.053911840510985236,Climate
+Faxonius virilis,4,l_CLI60,0.0006487459386816487,Climate
+Faxonius virilis,4,l_CLI62,0.00918312047505154,Climate
+Faxonius virilis,4,l_CLI64,0.000365374080373368,Climate
+Faxonius virilis,4,l_CLI70,0.012223513782797209,Climate
+Faxonius virilis,4,l_CLI72,0.00029232917478129894,Climate
+Faxonius virilis,4,l_CLI73,0.02855873254897096,Climate
+Faxonius virilis,4,l_CLI76,0.0008039916743211994,Climate
+Faxonius virilis,4,l_CLI8,0.0004204213144427719,Climate
+Faxonius virilis,4,l_CLI9,0.013623814500203876,Climate
+Faxonius virilis,4,l_LAC1,0.0035398465092923662,Land Cover
+Faxonius virilis,4,l_LAC10,0.00013129331306833926,Land Cover
+Faxonius virilis,4,l_LAC11,1.2789135351767635e-05,Land Cover
+Faxonius virilis,4,l_LAC12,0.0034209886163593926,Land Cover
+Faxonius virilis,4,l_LAC13,0.00021304477049554612,Land Cover
+Faxonius virilis,4,l_LAC15,2.7034706899705912e-06,Land Cover
+Faxonius virilis,4,l_LAC16,5.92809239195949e-05,Land Cover
+Faxonius virilis,4,l_LAC18,5.056755785249775e-06,Land Cover
+Faxonius virilis,4,l_LAC19,0.0001792092581582544,Land Cover
+Faxonius virilis,4,l_LAC20,1.2205357924277569e-05,Land Cover
+Faxonius virilis,4,l_LAC21,0.00012990564634417597,Land Cover
+Faxonius virilis,4,l_LAC3,7.268420885545836e-05,Land Cover
+Faxonius virilis,4,l_LAC4,0.00011191291463496306,Land Cover
+Faxonius virilis,4,l_LAC6,9.354375119195571e-05,Land Cover
+Faxonius virilis,4,l_LAC7,0.00045603456722963015,Land Cover
+Faxonius virilis,4,l_LAC8,1.1884575227507283e-05,Land Cover
+Faxonius virilis,4,l_LAC9,5.9763816230894496e-05,Land Cover
+Faxonius virilis,4,l_SOL1,0.0009778245231069683,Soil
+Faxonius virilis,4,l_SOL10,0.001415085246135682,Soil
+Faxonius virilis,4,l_SOL11,0.0015427688727111836,Soil
+Faxonius virilis,4,l_SOL12,0.000861357045686451,Soil
+Faxonius virilis,4,l_SOL13,0.01490981214706281,Soil
+Faxonius virilis,4,l_SOL16,0.0009222270766316871,Soil
+Faxonius virilis,4,l_SOL18,0.023021202959886744,Soil
+Faxonius virilis,4,l_SOL2,0.0005243224068349799,Soil
+Faxonius virilis,4,l_SOL20,0.0005479709483535681,Soil
+Faxonius virilis,4,l_SOL21,0.03914644064905702,Soil
+Faxonius virilis,4,l_SOL24,0.000884569581759747,Soil
+Faxonius virilis,4,l_SOL25,0.0024214853049026055,Soil
+Faxonius virilis,4,l_SOL26,0.003290638201971116,Soil
+Faxonius virilis,4,l_SOL27,0.0030334923938758088,Soil
+Faxonius virilis,4,l_SOL28,0.0006972203686430245,Soil
+Faxonius virilis,4,l_SOL29,0.028679002121427592,Soil
+Faxonius virilis,4,l_SOL3,0.0016397724409529437,Soil
+Faxonius virilis,4,l_SOL30,0.011180171405740694,Soil
+Faxonius virilis,4,l_SOL31,0.019394744888431854,Soil
+Faxonius virilis,4,l_SOL32,0.000669512351964517,Soil
+Faxonius virilis,4,l_SOL33,0.0003233860555660036,Soil
+Faxonius virilis,4,l_SOL36,0.0005084454405182105,Soil
+Faxonius virilis,4,l_SOL37,0.0024578040605928823,Soil
+Faxonius virilis,4,l_SOL4,0.00027040053561743394,Soil
+Faxonius virilis,4,l_SOL40,0.0007417308419571954,Soil
+Faxonius virilis,4,l_SOL42,0.003653691394382887,Soil
+Faxonius virilis,4,l_SOL44,0.0004956327981686071,Soil
+Faxonius virilis,4,l_SOL45,0.0008191171529965137,Soil
+Faxonius virilis,4,l_SOL46,0.0016334613151087792,Soil
+Faxonius virilis,4,l_SOL47,0.0020886130739919168,Soil
+Faxonius virilis,4,l_SOL48,0.00018689934035974928,Soil
+Faxonius virilis,4,l_SOL49,0.0,Soil
+Faxonius virilis,4,l_SOL5,0.003849278182014337,Soil
+Faxonius virilis,4,l_SOL50,1.6654638700900382e-05,Soil
+Faxonius virilis,4,l_SOL51,3.340347093597386e-05,Soil
+Faxonius virilis,4,l_SOL52,1.481786400257386e-05,Soil
+Faxonius virilis,4,l_SOL53,0.00019074056995619943,Soil
+Faxonius virilis,4,l_SOL54,5.677296545397755e-05,Soil
+Faxonius virilis,4,l_SOL55,0.00019139609654555284,Soil
+Faxonius virilis,4,l_SOL56,0.00022756195116496587,Soil
+Faxonius virilis,4,l_SOL57,0.0011677604479147401,Soil
+Faxonius virilis,4,l_SOL58,0.0021395495597886583,Soil
+Faxonius virilis,4,l_SOL59,0.0016003825836878214,Soil
+Faxonius virilis,4,l_SOL6,0.0026015393573646907,Soil
+Faxonius virilis,4,l_SOL60,0.0010965086089646213,Soil
+Faxonius virilis,4,l_SOL7,0.007112906455171103,Soil
+Faxonius virilis,4,l_SOL8,0.0007884780104382439,Soil
+Faxonius virilis,4,l_SOL9,0.0012774090640300093,Soil
+Faxonius virilis,4,l_TOP1,0.0012856942255600752,Topography
+Faxonius virilis,4,l_TOP10,0.0005303034248037059,Topography
+Faxonius virilis,4,l_TOP101,0.0006385372019763338,Topography
+Faxonius virilis,4,l_TOP102,0.003946229581199996,Topography
+Faxonius virilis,4,l_TOP103,0.0003071173379563833,Topography
+Faxonius virilis,4,l_TOP104,0.00032628226870173063,Topography
+Faxonius virilis,4,l_TOP105,0.0010042818691768018,Topography
+Faxonius virilis,4,l_TOP106,0.00043852385671694057,Topography
+Faxonius virilis,4,l_TOP107,0.00032217997541841755,Topography
+Faxonius virilis,4,l_TOP108,0.001612020679393461,Topography
+Faxonius virilis,4,l_TOP109,0.05644755153614348,Topography
+Faxonius virilis,4,l_TOP111,0.00042764999734372746,Topography
+Faxonius virilis,4,l_TOP112,0.000325667632324031,Topography
+Faxonius virilis,4,l_TOP116,0.00634213945208836,Topography
+Faxonius virilis,4,l_TOP118,0.0003408360964039056,Topography
+Faxonius virilis,4,l_TOP124,0.0008640069769524213,Topography
+Faxonius virilis,4,l_TOP125,0.0004482072864999247,Topography
+Faxonius virilis,4,l_TOP126,0.0004592593219503611,Topography
+Faxonius virilis,4,l_TOP127,0.0003736241306251185,Topography
+Faxonius virilis,4,l_TOP129,0.00034173959558967125,Topography
+Faxonius virilis,4,l_TOP13,9.506703002436859e-05,Topography
+Faxonius virilis,4,l_TOP130,0.0005182534720118184,Topography
+Faxonius virilis,4,l_TOP131,0.0003148194659792704,Topography
+Faxonius virilis,4,l_TOP132,0.000631524813533221,Topography
+Faxonius virilis,4,l_TOP133,2.5383580092987606e-05,Topography
+Faxonius virilis,4,l_TOP135,0.0005934573588851501,Topography
+Faxonius virilis,4,l_TOP137,0.0003158311079808663,Topography
+Faxonius virilis,4,l_TOP138,0.0007084483837976302,Topography
+Faxonius virilis,4,l_TOP139,0.00039746291463074165,Topography
+Faxonius virilis,4,l_TOP14,0.0008931656540203078,Topography
+Faxonius virilis,4,l_TOP140,0.0005859058128296285,Topography
+Faxonius virilis,4,l_TOP141,0.0014775532690990383,Topography
+Faxonius virilis,4,l_TOP142,0.0006249665616074095,Topography
+Faxonius virilis,4,l_TOP143,0.001168533293872296,Topography
+Faxonius virilis,4,l_TOP144,0.0006337934303261429,Topography
+Faxonius virilis,4,l_TOP15,0.0014675829532357814,Topography
+Faxonius virilis,4,l_TOP16,0.0008061275693990436,Topography
+Faxonius virilis,4,l_TOP17,0.0,Topography
+Faxonius virilis,4,l_TOP18,0.00039418170898052117,Topography
+Faxonius virilis,4,l_TOP19,0.0003279967353617688,Topography
+Faxonius virilis,4,l_TOP2,0.0006382718706789706,Topography
+Faxonius virilis,4,l_TOP20,0.0003342996556831065,Topography
+Faxonius virilis,4,l_TOP21,0.0,Topography
+Faxonius virilis,4,l_TOP22,0.0009665201591445284,Topography
+Faxonius virilis,4,l_TOP23,0.0008105828943594511,Topography
+Faxonius virilis,4,l_TOP26,0.0002653570265265986,Topography
+Faxonius virilis,4,l_TOP27,0.00021546895101180697,Topography
+Faxonius virilis,4,l_TOP28,0.0003200409811633159,Topography
+Faxonius virilis,4,l_TOP30,0.08207188798779744,Topography
+Faxonius virilis,4,l_TOP36,0.00024545436270986885,Topography
+Faxonius virilis,4,l_TOP38,0.00035283048288467836,Topography
+Faxonius virilis,4,l_TOP39,0.0005353474717598763,Topography
+Faxonius virilis,4,l_TOP4,0.0003846397167989671,Topography
+Faxonius virilis,4,l_TOP40,0.0005459887690050372,Topography
+Faxonius virilis,4,l_TOP41,0.0,Topography
+Faxonius virilis,4,l_TOP42,0.0005340224216094003,Topography
+Faxonius virilis,4,l_TOP43,0.0015537466354949643,Topography
+Faxonius virilis,4,l_TOP44,0.0008743505121436442,Topography
+Faxonius virilis,4,l_TOP45,1.1389428392014798e-18,Topography
+Faxonius virilis,4,l_TOP48,0.0013760231015247845,Topography
+Faxonius virilis,4,l_TOP49,0.00012071282318975893,Topography
+Faxonius virilis,4,l_TOP51,0.0018555803307165081,Topography
+Faxonius virilis,4,l_TOP52,0.0012981907788992418,Topography
+Faxonius virilis,4,l_TOP53,0.005553972765112106,Topography
+Faxonius virilis,4,l_TOP59,0.0014607259988080343,Topography
+Faxonius virilis,4,l_TOP6,0.0003497482160969899,Topography
+Faxonius virilis,4,l_TOP60,0.0019599736867194095,Topography
+Faxonius virilis,4,l_TOP61,0.0004264093237075293,Topography
+Faxonius virilis,4,l_TOP62,0.0007275851686535669,Topography
+Faxonius virilis,4,l_TOP63,0.000489506578105801,Topography
+Faxonius virilis,4,l_TOP64,0.00046662715267687185,Topography
+Faxonius virilis,4,l_TOP65,0.0004396222636488044,Topography
+Faxonius virilis,4,l_TOP66,0.0005529943464596792,Topography
+Faxonius virilis,4,l_TOP67,0.0008580750362277814,Topography
+Faxonius virilis,4,l_TOP68,0.0004694904765813957,Topography
+Faxonius virilis,4,l_TOP69,0.00025013058169206815,Topography
+Faxonius virilis,4,l_TOP7,0.0006207390916895058,Topography
+Faxonius virilis,4,l_TOP70,0.0005235499399694279,Topography
+Faxonius virilis,4,l_TOP72,0.0004089285446001339,Topography
+Faxonius virilis,4,l_TOP73,0.0002649733989284456,Topography
+Faxonius virilis,4,l_TOP74,0.0010553920835279205,Topography
+Faxonius virilis,4,l_TOP75,0.0007036117956102667,Topography
+Faxonius virilis,4,l_TOP76,0.0005452720228655751,Topography
+Faxonius virilis,4,l_TOP78,0.0005717800760832905,Topography
+Faxonius virilis,4,l_TOP79,0.00026054844844700077,Topography
+Faxonius virilis,4,l_TOP83,0.00048591825858163614,Topography
+Faxonius virilis,4,l_TOP85,5.931894175664072e-05,Topography
+Faxonius virilis,4,l_TOP86,0.0003867902489665358,Topography
+Faxonius virilis,4,l_TOP87,0.0005531305704365138,Topography
+Faxonius virilis,4,l_TOP88,0.0003881884556024461,Topography
+Faxonius virilis,4,l_TOP89,0.00014575942888090044,Topography
+Faxonius virilis,4,l_TOP9,3.8413112650882166e-05,Topography
+Faxonius virilis,4,l_TOP90,0.0005998483819927172,Topography
+Faxonius virilis,4,l_TOP91,0.0005079861273713652,Topography
+Faxonius virilis,4,l_TOP92,0.0004554949040876313,Topography
+Faxonius virilis,4,l_TOP93,0.0005530204898212903,Topography
+Faxonius virilis,4,l_TOP97,0.0009466950720183071,Topography
+Faxonius virilis,4,l_TOP99,0.0002484813924798991,Topography
+Faxonius virilis,4,u_CLI11,0.005137859951240257,Climate
+Faxonius virilis,4,u_CLI15,0.01719081316302386,Climate
+Faxonius virilis,4,u_CLI19,0.0030747335024090016,Climate
+Faxonius virilis,4,u_CLI23,0.003010611985347157,Climate
+Faxonius virilis,4,u_CLI27,0.009512974426768307,Climate
+Faxonius virilis,4,u_CLI3,0.0029619944809908673,Climate
+Faxonius virilis,4,u_CLI31,0.0023881760153338853,Climate
+Faxonius virilis,4,u_CLI35,0.0055565289813175045,Climate
+Faxonius virilis,4,u_CLI39,0.002422365270015063,Climate
+Faxonius virilis,4,u_CLI47,0.0014871920826036074,Climate
+Faxonius virilis,4,u_CLI51,0.0019289184401143859,Climate
+Faxonius virilis,4,u_CLI55,0.006244876465138184,Climate
+Faxonius virilis,4,u_CLI59,0.01492148843457113,Climate
+Faxonius virilis,4,u_CLI63,0.0015298920630595477,Climate
+Faxonius virilis,4,u_CLI7,0.0009179040241030657,Climate
+Faxonius virilis,4,u_CLI71,0.0019857496582195463,Climate
+Faxonius virilis,4,u_CLI75,0.007102109607466081,Climate
+Faxonius virilis,4,u_LAC1,0.002127940892437979,Land Cover
+Faxonius virilis,4,u_LAC10,0.0002680162896707891,Land Cover
+Faxonius virilis,4,u_LAC11,0.00019059255562166362,Land Cover
+Faxonius virilis,4,u_LAC12,0.0010598145517406415,Land Cover
+Faxonius virilis,4,u_LAC13,0.0005441889623007924,Land Cover
+Faxonius virilis,4,u_LAC15,0.00021462719433432143,Land Cover
+Faxonius virilis,4,u_LAC16,0.00011598720693834118,Land Cover
+Faxonius virilis,4,u_LAC18,0.00013094158691706414,Land Cover
+Faxonius virilis,4,u_LAC19,0.00031971537415619836,Land Cover
+Faxonius virilis,4,u_LAC20,0.00016446145531043044,Land Cover
+Faxonius virilis,4,u_LAC21,0.00014060148736644065,Land Cover
+Faxonius virilis,4,u_LAC22,1.7202445886158906e-05,Land Cover
+Faxonius virilis,4,u_LAC3,0.00018389223366344464,Land Cover
+Faxonius virilis,4,u_LAC4,0.00044022538183438825,Land Cover
+Faxonius virilis,4,u_LAC6,0.00037776191974892004,Land Cover
+Faxonius virilis,4,u_LAC7,0.0008154913297989158,Land Cover
+Faxonius virilis,4,u_LAC8,7.447211977778006e-05,Land Cover
+Faxonius virilis,4,u_LAC9,0.0003036769252361038,Land Cover
+Faxonius virilis,4,u_SOL11,0.0017259068689758203,Soil
+Faxonius virilis,4,u_SOL15,0.012495007496745763,Soil
+Faxonius virilis,4,u_SOL19,0.014170416814447138,Soil
+Faxonius virilis,4,u_SOL23,0.009972472738553518,Soil
+Faxonius virilis,4,u_SOL27,0.0008868537317782019,Soil
+Faxonius virilis,4,u_SOL3,0.0012674227119816228,Soil
+Faxonius virilis,4,u_SOL31,0.010737291680860963,Soil
+Faxonius virilis,4,u_SOL35,0.0006671399707234865,Soil
+Faxonius virilis,4,u_SOL39,0.002023263633780823,Soil
+Faxonius virilis,4,u_SOL43,0.0018447585016640937,Soil
+Faxonius virilis,4,u_SOL47,0.0017803788599201709,Soil
+Faxonius virilis,4,u_SOL51,0.0001713123576020525,Soil
+Faxonius virilis,4,u_SOL55,0.0016491916652401563,Soil
+Faxonius virilis,4,u_SOL59,0.0032866453291438046,Soil
+Faxonius virilis,4,u_SOL7,0.00864209663377609,Soil
+Faxonius virilis,4,u_TOP103,0.0014012073028899252,Topography
+Faxonius virilis,4,u_TOP110,0.00034276566210682117,Topography
+Faxonius virilis,4,u_TOP111,0.0003409665583910237,Topography
+Faxonius virilis,4,u_TOP112,0.0005145821487298219,Topography
+Faxonius virilis,4,u_TOP113,0.00028176900931148037,Topography
+Faxonius virilis,4,u_TOP114,0.015881218952832923,Topography
+Faxonius virilis,4,u_TOP117,0.0057481244879923725,Topography
+Faxonius virilis,4,u_TOP122,0.0015983244121730974,Topography
+Faxonius virilis,4,u_TOP126,0.0003335620068041642,Topography
+Faxonius virilis,4,u_TOP130,0.0002179187074345459,Topography
+Faxonius virilis,4,u_TOP135,0.0005312979989498228,Topography
+Faxonius virilis,4,u_TOP139,0.010014764486347883,Topography
+Faxonius virilis,4,u_TOP143,0.0028324493019825704,Topography
+Faxonius virilis,4,u_TOP15,0.002499214437272333,Topography
+Faxonius virilis,4,u_TOP19,0.00117918038138592,Topography
+Faxonius virilis,4,u_TOP27,0.0009189174592194632,Topography
+Faxonius virilis,4,u_TOP3,0.0020073060850526073,Topography
+Faxonius virilis,4,u_TOP31,0.017111287538856414,Topography
+Faxonius virilis,4,u_TOP35,0.0008879847258921964,Topography
+Faxonius virilis,4,u_TOP39,0.0025902753951733298,Topography
+Faxonius virilis,4,u_TOP47,0.00978176008499985,Topography
+Faxonius virilis,4,u_TOP51,0.0018997972106983873,Topography
+Faxonius virilis,4,u_TOP55,0.0021220257441698083,Topography
+Faxonius virilis,4,u_TOP59,0.0034847436701076007,Topography
+Faxonius virilis,4,u_TOP63,0.0012555459273046626,Topography
+Faxonius virilis,4,u_TOP67,0.0015836136394232227,Topography
+Faxonius virilis,4,u_TOP75,0.0048351861527548366,Topography
+Faxonius virilis,4,u_TOP83,0.006472492474893603,Topography
+Faxonius virilis,4,u_TOP91,0.0069894162306169,Topography
+Faxonius virilis,4,u_TOP95,0.0012735749324867195,Topography
+Faxonius virilis,5,l_CLI1,0.004076222992634209,Climate
+Faxonius virilis,5,l_CLI12,0.00047238658472220125,Climate
+Faxonius virilis,5,l_CLI14,0.048150145181060165,Climate
+Faxonius virilis,5,l_CLI16,0.00027665042276409085,Climate
+Faxonius virilis,5,l_CLI17,0.006777804771167861,Climate
+Faxonius virilis,5,l_CLI20,0.0005041099764849148,Climate
+Faxonius virilis,5,l_CLI21,0.008425131945073829,Climate
+Faxonius virilis,5,l_CLI24,0.0013438368410877888,Climate
+Faxonius virilis,5,l_CLI26,0.03718402377699641,Climate
+Faxonius virilis,5,l_CLI28,0.0001465771254355957,Climate
+Faxonius virilis,5,l_CLI30,0.013298164678064994,Climate
+Faxonius virilis,5,l_CLI32,0.0002984285469348776,Climate
+Faxonius virilis,5,l_CLI33,0.02564868659681238,Climate
+Faxonius virilis,5,l_CLI36,0.0011391933747179164,Climate
+Faxonius virilis,5,l_CLI38,0.005916452165099111,Climate
+Faxonius virilis,5,l_CLI4,0.00035536675461196935,Climate
+Faxonius virilis,5,l_CLI40,0.00037804103468101915,Climate
+Faxonius virilis,5,l_CLI44,0.0013585481996510457,Climate
+Faxonius virilis,5,l_CLI46,0.007407094515376932,Climate
+Faxonius virilis,5,l_CLI48,0.0003127590618286845,Climate
+Faxonius virilis,5,l_CLI5,0.00182093953535414,Climate
+Faxonius virilis,5,l_CLI50,0.011473179884302508,Climate
+Faxonius virilis,5,l_CLI53,0.011827331521008648,Climate
+Faxonius virilis,5,l_CLI56,0.0004743611429191636,Climate
+Faxonius virilis,5,l_CLI58,0.03840342488001326,Climate
+Faxonius virilis,5,l_CLI60,0.0006074258796767278,Climate
+Faxonius virilis,5,l_CLI62,0.00957805876068908,Climate
+Faxonius virilis,5,l_CLI64,0.000253121059559187,Climate
+Faxonius virilis,5,l_CLI70,0.008209700463575397,Climate
+Faxonius virilis,5,l_CLI72,0.00020990715471326808,Climate
+Faxonius virilis,5,l_CLI73,0.027421221380174592,Climate
+Faxonius virilis,5,l_CLI76,0.0009722658769515892,Climate
+Faxonius virilis,5,l_CLI8,0.00016360185008932782,Climate
+Faxonius virilis,5,l_CLI9,0.016815529845075238,Climate
+Faxonius virilis,5,l_LAC1,0.0027841828943530387,Land Cover
+Faxonius virilis,5,l_LAC10,4.193284477906524e-05,Land Cover
+Faxonius virilis,5,l_LAC11,1.2773099291966724e-05,Land Cover
+Faxonius virilis,5,l_LAC12,0.002815814854142538,Land Cover
+Faxonius virilis,5,l_LAC13,0.00029844946281834057,Land Cover
+Faxonius virilis,5,l_LAC15,7.096635740932724e-05,Land Cover
+Faxonius virilis,5,l_LAC16,8.943292661481912e-05,Land Cover
+Faxonius virilis,5,l_LAC18,2.1185851614253185e-18,Land Cover
+Faxonius virilis,5,l_LAC19,0.0003213343408560228,Land Cover
+Faxonius virilis,5,l_LAC20,7.086594526077895e-06,Land Cover
+Faxonius virilis,5,l_LAC21,0.00011335612392205409,Land Cover
+Faxonius virilis,5,l_LAC3,0.0001353348639169645,Land Cover
+Faxonius virilis,5,l_LAC4,0.0001339558883571272,Land Cover
+Faxonius virilis,5,l_LAC6,0.00031629404568851,Land Cover
+Faxonius virilis,5,l_LAC7,0.0003294560737704423,Land Cover
+Faxonius virilis,5,l_LAC8,2.246176045293021e-05,Land Cover
+Faxonius virilis,5,l_LAC9,8.454936673838913e-05,Land Cover
+Faxonius virilis,5,l_SOL1,0.001399316340793805,Soil
+Faxonius virilis,5,l_SOL10,0.0011888935560384526,Soil
+Faxonius virilis,5,l_SOL11,0.001504637363236641,Soil
+Faxonius virilis,5,l_SOL12,0.0009558420315612535,Soil
+Faxonius virilis,5,l_SOL13,0.014781765641660841,Soil
+Faxonius virilis,5,l_SOL16,0.0008029806638021005,Soil
+Faxonius virilis,5,l_SOL18,0.027765191805592736,Soil
+Faxonius virilis,5,l_SOL2,0.0005891047331249771,Soil
+Faxonius virilis,5,l_SOL20,0.0003452301019540875,Soil
+Faxonius virilis,5,l_SOL21,0.031406495514388934,Soil
+Faxonius virilis,5,l_SOL24,0.0012083414705666047,Soil
+Faxonius virilis,5,l_SOL25,0.0021129285468348114,Soil
+Faxonius virilis,5,l_SOL26,0.002691659380957563,Soil
+Faxonius virilis,5,l_SOL27,0.0025003849900501847,Soil
+Faxonius virilis,5,l_SOL28,0.001167195363057061,Soil
+Faxonius virilis,5,l_SOL29,0.022535593061904172,Soil
+Faxonius virilis,5,l_SOL3,0.002124905383537355,Soil
+Faxonius virilis,5,l_SOL30,0.01254718730016545,Soil
+Faxonius virilis,5,l_SOL31,0.017040163158466026,Soil
+Faxonius virilis,5,l_SOL32,0.0007256031696792519,Soil
+Faxonius virilis,5,l_SOL33,0.0007573797769344048,Soil
+Faxonius virilis,5,l_SOL36,0.0004304999638692034,Soil
+Faxonius virilis,5,l_SOL37,0.0025140541997488676,Soil
+Faxonius virilis,5,l_SOL4,0.0003093635954432227,Soil
+Faxonius virilis,5,l_SOL40,0.0009973458992015031,Soil
+Faxonius virilis,5,l_SOL42,0.005386156562931508,Soil
+Faxonius virilis,5,l_SOL44,0.0006458465907024072,Soil
+Faxonius virilis,5,l_SOL45,0.0004392951420768327,Soil
+Faxonius virilis,5,l_SOL46,0.0009271061567582365,Soil
+Faxonius virilis,5,l_SOL47,0.0016993422992107226,Soil
+Faxonius virilis,5,l_SOL48,0.0001855379235677728,Soil
+Faxonius virilis,5,l_SOL49,0.0,Soil
+Faxonius virilis,5,l_SOL5,0.0033124440164917367,Soil
+Faxonius virilis,5,l_SOL50,8.857361865276344e-06,Soil
+Faxonius virilis,5,l_SOL51,3.409917833022088e-05,Soil
+Faxonius virilis,5,l_SOL52,7.092673046781202e-06,Soil
+Faxonius virilis,5,l_SOL53,0.0001247463602910821,Soil
+Faxonius virilis,5,l_SOL54,6.564079040268167e-05,Soil
+Faxonius virilis,5,l_SOL55,0.00015705342379411237,Soil
+Faxonius virilis,5,l_SOL56,0.00010447776263045726,Soil
+Faxonius virilis,5,l_SOL57,0.0011373236167927054,Soil
+Faxonius virilis,5,l_SOL58,0.0027035831821320675,Soil
+Faxonius virilis,5,l_SOL59,0.0018132378892382391,Soil
+Faxonius virilis,5,l_SOL6,0.0015587396445938381,Soil
+Faxonius virilis,5,l_SOL60,0.0010147515536412621,Soil
+Faxonius virilis,5,l_SOL7,0.0040540910489359075,Soil
+Faxonius virilis,5,l_SOL8,0.0008252729103299749,Soil
+Faxonius virilis,5,l_SOL9,0.0009066292119260594,Soil
+Faxonius virilis,5,l_TOP1,0.001008817616139594,Topography
+Faxonius virilis,5,l_TOP10,0.0008600823716194145,Topography
+Faxonius virilis,5,l_TOP101,0.0005938635648988182,Topography
+Faxonius virilis,5,l_TOP102,0.002771375442752627,Topography
+Faxonius virilis,5,l_TOP103,0.00028765857168590515,Topography
+Faxonius virilis,5,l_TOP104,0.0002686817540249783,Topography
+Faxonius virilis,5,l_TOP105,0.0004786844956594712,Topography
+Faxonius virilis,5,l_TOP106,0.00046698840624109935,Topography
+Faxonius virilis,5,l_TOP107,0.0005240154142769772,Topography
+Faxonius virilis,5,l_TOP108,0.000572953454648044,Topography
+Faxonius virilis,5,l_TOP109,0.07790597104072976,Topography
+Faxonius virilis,5,l_TOP111,0.00034827504896131,Topography
+Faxonius virilis,5,l_TOP112,0.0002191097886145862,Topography
+Faxonius virilis,5,l_TOP116,0.006965190867866495,Topography
+Faxonius virilis,5,l_TOP118,0.00037750726735556967,Topography
+Faxonius virilis,5,l_TOP124,0.0006289581099219483,Topography
+Faxonius virilis,5,l_TOP125,0.00048517269817498145,Topography
+Faxonius virilis,5,l_TOP126,0.0004216640634935408,Topography
+Faxonius virilis,5,l_TOP127,0.00038690057534354025,Topography
+Faxonius virilis,5,l_TOP129,0.0003665124941256963,Topography
+Faxonius virilis,5,l_TOP13,0.00018769181353417888,Topography
+Faxonius virilis,5,l_TOP130,0.0003952888093828988,Topography
+Faxonius virilis,5,l_TOP131,0.0002778064720387049,Topography
+Faxonius virilis,5,l_TOP132,0.001016605942245385,Topography
+Faxonius virilis,5,l_TOP133,0.00017134378647434115,Topography
+Faxonius virilis,5,l_TOP135,0.000548372463462045,Topography
+Faxonius virilis,5,l_TOP137,0.0004025128430582356,Topography
+Faxonius virilis,5,l_TOP138,0.00043858417858250686,Topography
+Faxonius virilis,5,l_TOP139,0.0005472520808952734,Topography
+Faxonius virilis,5,l_TOP14,0.0012843704254316794,Topography
+Faxonius virilis,5,l_TOP140,0.00045793605252616743,Topography
+Faxonius virilis,5,l_TOP141,0.0007749157276514558,Topography
+Faxonius virilis,5,l_TOP142,0.000370255187828063,Topography
+Faxonius virilis,5,l_TOP143,0.0009192367439292389,Topography
+Faxonius virilis,5,l_TOP144,0.0005706680342769113,Topography
+Faxonius virilis,5,l_TOP15,0.001447002402135956,Topography
+Faxonius virilis,5,l_TOP16,0.0005266587136979367,Topography
+Faxonius virilis,5,l_TOP17,1.7082439042524423e-05,Topography
+Faxonius virilis,5,l_TOP18,0.0005404622109065631,Topography
+Faxonius virilis,5,l_TOP19,0.00043269413290027375,Topography
+Faxonius virilis,5,l_TOP2,0.0003691264843936499,Topography
+Faxonius virilis,5,l_TOP20,0.0003458440728540832,Topography
+Faxonius virilis,5,l_TOP21,1.5290024505206906e-05,Topography
+Faxonius virilis,5,l_TOP22,0.0006437199960835068,Topography
+Faxonius virilis,5,l_TOP23,0.0007381416631564504,Topography
+Faxonius virilis,5,l_TOP26,0.00029759835895530254,Topography
+Faxonius virilis,5,l_TOP27,0.0002531641393978234,Topography
+Faxonius virilis,5,l_TOP28,0.0003013700142745046,Topography
+Faxonius virilis,5,l_TOP30,0.07243163344522809,Topography
+Faxonius virilis,5,l_TOP36,0.00015788176112027107,Topography
+Faxonius virilis,5,l_TOP38,0.00040433367265563686,Topography
+Faxonius virilis,5,l_TOP39,0.00028305657194596775,Topography
+Faxonius virilis,5,l_TOP4,0.0006322193157297098,Topography
+Faxonius virilis,5,l_TOP40,0.00031885844329862105,Topography
+Faxonius virilis,5,l_TOP41,4.74403630190894e-06,Topography
+Faxonius virilis,5,l_TOP42,0.0007830783843996045,Topography
+Faxonius virilis,5,l_TOP43,0.0010164749847129126,Topography
+Faxonius virilis,5,l_TOP44,0.0007026916405760107,Topography
+Faxonius virilis,5,l_TOP45,1.380023163862478e-05,Topography
+Faxonius virilis,5,l_TOP48,0.001360746750670145,Topography
+Faxonius virilis,5,l_TOP49,0.00015618548475095447,Topography
+Faxonius virilis,5,l_TOP51,0.000855905210779038,Topography
+Faxonius virilis,5,l_TOP52,0.0008765848068852535,Topography
+Faxonius virilis,5,l_TOP53,0.005279022880812696,Topography
+Faxonius virilis,5,l_TOP59,0.0008850808172230649,Topography
+Faxonius virilis,5,l_TOP6,0.0005180290717084297,Topography
+Faxonius virilis,5,l_TOP60,0.0010281741128680957,Topography
+Faxonius virilis,5,l_TOP61,0.00036134804335458744,Topography
+Faxonius virilis,5,l_TOP62,0.0008637796826090898,Topography
+Faxonius virilis,5,l_TOP63,0.0006501465705368812,Topography
+Faxonius virilis,5,l_TOP64,0.0005631576258295547,Topography
+Faxonius virilis,5,l_TOP65,0.00031597003564949166,Topography
+Faxonius virilis,5,l_TOP66,0.0005696883986851312,Topography
+Faxonius virilis,5,l_TOP67,0.0005239041066656742,Topography
+Faxonius virilis,5,l_TOP68,0.0003742467284369215,Topography
+Faxonius virilis,5,l_TOP69,0.00016053408549715194,Topography
+Faxonius virilis,5,l_TOP7,0.0005101212211460424,Topography
+Faxonius virilis,5,l_TOP70,0.0006666024091304379,Topography
+Faxonius virilis,5,l_TOP72,0.00041529671215035133,Topography
+Faxonius virilis,5,l_TOP73,0.00024645657118002985,Topography
+Faxonius virilis,5,l_TOP74,0.0009303384483705093,Topography
+Faxonius virilis,5,l_TOP75,0.0008931175036884468,Topography
+Faxonius virilis,5,l_TOP76,0.0008182947589184906,Topography
+Faxonius virilis,5,l_TOP78,0.0002792065682866629,Topography
+Faxonius virilis,5,l_TOP79,0.00025763925090514957,Topography
+Faxonius virilis,5,l_TOP83,0.0002588607748084215,Topography
+Faxonius virilis,5,l_TOP85,0.00013294824657397681,Topography
+Faxonius virilis,5,l_TOP86,0.0013515467461172226,Topography
+Faxonius virilis,5,l_TOP87,0.0008419859384980915,Topography
+Faxonius virilis,5,l_TOP88,0.00036185712731598554,Topography
+Faxonius virilis,5,l_TOP89,3.712046159938664e-05,Topography
+Faxonius virilis,5,l_TOP9,8.520149641417752e-05,Topography
+Faxonius virilis,5,l_TOP90,0.0008554110626194118,Topography
+Faxonius virilis,5,l_TOP91,0.00045844415525044273,Topography
+Faxonius virilis,5,l_TOP92,0.00044708540026546667,Topography
+Faxonius virilis,5,l_TOP93,0.0006604542349995097,Topography
+Faxonius virilis,5,l_TOP97,0.0010626060706519236,Topography
+Faxonius virilis,5,l_TOP99,0.0002612803570358805,Topography
+Faxonius virilis,5,u_CLI11,0.0031599520298410807,Climate
+Faxonius virilis,5,u_CLI15,0.01747751874509206,Climate
+Faxonius virilis,5,u_CLI19,0.0041440463712210975,Climate
+Faxonius virilis,5,u_CLI23,0.0030790936049927054,Climate
+Faxonius virilis,5,u_CLI27,0.0164378006902653,Climate
+Faxonius virilis,5,u_CLI3,0.003211067217953205,Climate
+Faxonius virilis,5,u_CLI31,0.0025191212377787733,Climate
+Faxonius virilis,5,u_CLI35,0.005901675605602973,Climate
+Faxonius virilis,5,u_CLI39,0.0032029878283939524,Climate
+Faxonius virilis,5,u_CLI47,0.002050188268610015,Climate
+Faxonius virilis,5,u_CLI51,0.0018920068768089402,Climate
+Faxonius virilis,5,u_CLI55,0.003616288439975621,Climate
+Faxonius virilis,5,u_CLI59,0.01613914209562746,Climate
+Faxonius virilis,5,u_CLI63,0.0014880366578259444,Climate
+Faxonius virilis,5,u_CLI7,0.0009108462233642118,Climate
+Faxonius virilis,5,u_CLI71,0.002268443306127556,Climate
+Faxonius virilis,5,u_CLI75,0.009064468593763033,Climate
+Faxonius virilis,5,u_LAC1,0.004029802672349018,Land Cover
+Faxonius virilis,5,u_LAC10,0.000469269721860116,Land Cover
+Faxonius virilis,5,u_LAC11,0.0001170232026618481,Land Cover
+Faxonius virilis,5,u_LAC12,0.000982977356391738,Land Cover
+Faxonius virilis,5,u_LAC13,0.0005898534259812258,Land Cover
+Faxonius virilis,5,u_LAC15,0.0001365956474340525,Land Cover
+Faxonius virilis,5,u_LAC16,9.493273915511592e-05,Land Cover
+Faxonius virilis,5,u_LAC18,0.00012539324209874175,Land Cover
+Faxonius virilis,5,u_LAC19,0.0005367773035640836,Land Cover
+Faxonius virilis,5,u_LAC20,0.00012402278443910325,Land Cover
+Faxonius virilis,5,u_LAC21,0.00024453053271748505,Land Cover
+Faxonius virilis,5,u_LAC22,0.0,Land Cover
+Faxonius virilis,5,u_LAC3,0.0003937973981820111,Land Cover
+Faxonius virilis,5,u_LAC4,0.0002789172446211009,Land Cover
+Faxonius virilis,5,u_LAC6,0.0005384015433194954,Land Cover
+Faxonius virilis,5,u_LAC7,0.0015418651051893073,Land Cover
+Faxonius virilis,5,u_LAC8,9.948830948468982e-05,Land Cover
+Faxonius virilis,5,u_LAC9,0.00021132365650447843,Land Cover
+Faxonius virilis,5,u_SOL11,0.001470595897925977,Soil
+Faxonius virilis,5,u_SOL15,0.014100888425837774,Soil
+Faxonius virilis,5,u_SOL19,0.013620334982487796,Soil
+Faxonius virilis,5,u_SOL23,0.012585350628346677,Soil
+Faxonius virilis,5,u_SOL27,0.0008402176856056469,Soil
+Faxonius virilis,5,u_SOL3,0.0011414353674628265,Soil
+Faxonius virilis,5,u_SOL31,0.008851827831973318,Soil
+Faxonius virilis,5,u_SOL35,0.0007706753898255278,Soil
+Faxonius virilis,5,u_SOL39,0.002666019411127304,Soil
+Faxonius virilis,5,u_SOL43,0.003999190633691259,Soil
+Faxonius virilis,5,u_SOL47,0.002525960053742985,Soil
+Faxonius virilis,5,u_SOL51,0.00020057940180622,Soil
+Faxonius virilis,5,u_SOL55,0.00131277764539984,Soil
+Faxonius virilis,5,u_SOL59,0.00384221391929545,Soil
+Faxonius virilis,5,u_SOL7,0.0059334988880235945,Soil
+Faxonius virilis,5,u_TOP103,0.001321598125827605,Topography
+Faxonius virilis,5,u_TOP110,0.00044696460681570055,Topography
+Faxonius virilis,5,u_TOP111,0.0004734135567352833,Topography
+Faxonius virilis,5,u_TOP112,0.0007282570257253553,Topography
+Faxonius virilis,5,u_TOP113,0.0004045511862483875,Topography
+Faxonius virilis,5,u_TOP114,0.020922690259997923,Topography
+Faxonius virilis,5,u_TOP117,0.004896913807939039,Topography
+Faxonius virilis,5,u_TOP122,0.0010523590865261648,Topography
+Faxonius virilis,5,u_TOP126,0.00043662660798726634,Topography
+Faxonius virilis,5,u_TOP130,0.0002611294106431986,Topography
+Faxonius virilis,5,u_TOP135,0.0005102518145103333,Topography
+Faxonius virilis,5,u_TOP139,0.012767815893257395,Topography
+Faxonius virilis,5,u_TOP143,0.0021955702789706543,Topography
+Faxonius virilis,5,u_TOP15,0.0022610364980265546,Topography
+Faxonius virilis,5,u_TOP19,0.0012500116229592218,Topography
+Faxonius virilis,5,u_TOP27,0.0008014544064360494,Topography
+Faxonius virilis,5,u_TOP3,0.0018356271022331864,Topography
+Faxonius virilis,5,u_TOP31,0.02398279290167566,Topography
+Faxonius virilis,5,u_TOP35,0.00060749780134896,Topography
+Faxonius virilis,5,u_TOP39,0.0026740236998323338,Topography
+Faxonius virilis,5,u_TOP47,0.015830170028776736,Topography
+Faxonius virilis,5,u_TOP51,0.0020887633594678504,Topography
+Faxonius virilis,5,u_TOP55,0.0038116000157326084,Topography
+Faxonius virilis,5,u_TOP59,0.002575083099395082,Topography
+Faxonius virilis,5,u_TOP63,0.0025933085621887486,Topography
+Faxonius virilis,5,u_TOP67,0.0017298651471986698,Topography
+Faxonius virilis,5,u_TOP75,0.005624095130336215,Topography
+Faxonius virilis,5,u_TOP83,0.005712570315303569,Topography
+Faxonius virilis,5,u_TOP91,0.0073648112328603774,Topography
+Faxonius virilis,5,u_TOP95,0.0009569313074382895,Topography

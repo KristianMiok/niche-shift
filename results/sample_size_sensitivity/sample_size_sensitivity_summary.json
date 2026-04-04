@@ -1,0 +1,28 @@
+{
+  "benchmark_species": "Procambarus clarkii",
+  "target_native_n": 117,
+  "repetitions": 100,
+  "full_data_type_pct": {
+    "Climate": 58.54813047879646,
+    "Land Cover": 0.9140453885556911,
+    "Soil": 24.651209020644437,
+    "Topography": 15.886615112003424
+  },
+  "full_data_top10": [
+    "l_CLI38",
+    "l_CLI2",
+    "l_CLI70",
+    "l_CLI57",
+    "l_CLI18",
+    "l_TOP102",
+    "l_SOL26",
+    "l_CLI30",
+    "l_CLI14",
+    "l_SOL25"
+  ],
+  "downsampled_accuracy_mean": 0.9947848474016239,
+  "downsampled_accuracy_sd": 0.0006913360141935078,
+  "downsampled_auc_mean": 0.9956546784587048,
+  "downsampled_auc_sd": 0.0030619782870632307,
+  "mean_top10_overlap_with_full": 8.75
+}

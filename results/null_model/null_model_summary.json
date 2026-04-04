@@ -1,0 +1,30 @@
+{
+  "rf_gini_climate_minus_topography": {
+    "observed_statistic": 41.20248497810225,
+    "permutation_mean": -0.7540541487590492,
+    "permutation_sd": 21.80155564884833,
+    "p_one_sided": 0.001,
+    "p_two_sided": 0.001
+  },
+  "rf_gini_climate_to_topography_ratio": {
+    "observed_statistic": 3.207209643433939,
+    "permutation_mean": -0.0601633395881484,
+    "permutation_sd": 1.7098117845372762,
+    "p_one_sided": 0.1,
+    "p_two_sided": 0.1
+  },
+  "rf_shap_climate_minus_topography": {
+    "observed_statistic": 41.945309835418996,
+    "permutation_mean": -0.629604731896827,
+    "permutation_sd": 22.276732324496486,
+    "p_one_sided": 0.001,
+    "p_two_sided": 0.001
+  },
+  "rf_shap_climate_to_topography_ratio": {
+    "observed_statistic": 3.242778096008075,
+    "permutation_mean": -0.05397505395745302,
+    "permutation_sd": 1.7111333866032503,
+    "p_one_sided": 0.1,
+    "p_two_sided": 0.1
+  }
+}

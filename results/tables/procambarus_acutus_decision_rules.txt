@@ -1,0 +1,15 @@
+Decision Rules for Procambarus acutus
+============================================================
+Total leaves: 3
+
+Rule 1: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 18.4 AND Mean temp. of warmest quarter [max] (°C) <= 16.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: INVASIVE
+  IF Mean temp. of warmest quarter [max] (°C) <= 18.4 AND Mean temp. of warmest quarter [max] (°C) > 16.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 3: NATIVE
+  IF Mean temp. of warmest quarter [max] (°C) > 18.4
+  Samples: 1 (native: 100.0%, invasive: 0.0%)

@@ -1,0 +1,976 @@
+species,fold,variable,importance,type
+Procambarus clarkii,1,l_CLI12,0.00035414876543873885,Climate
+Procambarus clarkii,1,l_CLI14,0.03415118049244432,Climate
+Procambarus clarkii,1,l_CLI16,0.0004089591047994903,Climate
+Procambarus clarkii,1,l_CLI18,0.061687653475243534,Climate
+Procambarus clarkii,1,l_CLI2,0.0735906381446515,Climate
+Procambarus clarkii,1,l_CLI20,0.0003369361695284469,Climate
+Procambarus clarkii,1,l_CLI21,0.016787248525805633,Climate
+Procambarus clarkii,1,l_CLI24,0.0035034301765373725,Climate
+Procambarus clarkii,1,l_CLI26,0.016065119620137885,Climate
+Procambarus clarkii,1,l_CLI28,0.00026730757974522155,Climate
+Procambarus clarkii,1,l_CLI30,0.032153262516042024,Climate
+Procambarus clarkii,1,l_CLI32,0.0004028058831126229,Climate
+Procambarus clarkii,1,l_CLI33,0.018225719429287128,Climate
+Procambarus clarkii,1,l_CLI36,0.0010034817475572167,Climate
+Procambarus clarkii,1,l_CLI38,0.0885268885647847,Climate
+Procambarus clarkii,1,l_CLI4,0.000685806164271563,Climate
+Procambarus clarkii,1,l_CLI40,0.00027631858313568276,Climate
+Procambarus clarkii,1,l_CLI41,0.017160352635625185,Climate
+Procambarus clarkii,1,l_CLI44,0.0033827968108842894,Climate
+Procambarus clarkii,1,l_CLI46,0.022841846579601713,Climate
+Procambarus clarkii,1,l_CLI48,0.000347720893370493,Climate
+Procambarus clarkii,1,l_CLI49,0.016231365856462173,Climate
+Procambarus clarkii,1,l_CLI56,0.0006554258868415242,Climate
+Procambarus clarkii,1,l_CLI57,0.05645956819306604,Climate
+Procambarus clarkii,1,l_CLI6,0.00963552611820514,Climate
+Procambarus clarkii,1,l_CLI60,0.0002848556986908312,Climate
+Procambarus clarkii,1,l_CLI64,0.00038986011289269943,Climate
+Procambarus clarkii,1,l_CLI66,0.03284091511637723,Climate
+Procambarus clarkii,1,l_CLI70,0.04830908996539062,Climate
+Procambarus clarkii,1,l_CLI72,0.00048644283646113984,Climate
+Procambarus clarkii,1,l_CLI75,0.010174659186491882,Climate
+Procambarus clarkii,1,l_CLI76,0.000547553738738461,Climate
+Procambarus clarkii,1,l_CLI8,0.00012996532325057773,Climate
+Procambarus clarkii,1,l_CLI9,0.017023645269009187,Climate
+Procambarus clarkii,1,l_LAC1,0.0003391544752849733,Land Cover
+Procambarus clarkii,1,l_LAC10,7.92994505904902e-05,Land Cover
+Procambarus clarkii,1,l_LAC11,1.1068282446100104e-06,Land Cover
+Procambarus clarkii,1,l_LAC12,0.0002753819417504674,Land Cover
+Procambarus clarkii,1,l_LAC13,0.0006656784613246313,Land Cover
+Procambarus clarkii,1,l_LAC15,9.086912043415027e-05,Land Cover
+Procambarus clarkii,1,l_LAC16,0.001712090635252143,Land Cover
+Procambarus clarkii,1,l_LAC17,5.826429683529081e-07,Land Cover
+Procambarus clarkii,1,l_LAC18,0.00011174713546632224,Land Cover
+Procambarus clarkii,1,l_LAC19,0.00030153221646211437,Land Cover
+Procambarus clarkii,1,l_LAC2,0.002597183876686101,Land Cover
+Procambarus clarkii,1,l_LAC20,1.8760290959028887e-05,Land Cover
+Procambarus clarkii,1,l_LAC21,0.0001313364179998677,Land Cover
+Procambarus clarkii,1,l_LAC3,4.9328407731206856e-05,Land Cover
+Procambarus clarkii,1,l_LAC4,0.00014442997829965348,Land Cover
+Procambarus clarkii,1,l_LAC5,7.088813450166138e-05,Land Cover
+Procambarus clarkii,1,l_LAC6,0.00021209014708994587,Land Cover
+Procambarus clarkii,1,l_LAC7,0.0008755770915225659,Land Cover
+Procambarus clarkii,1,l_LAC8,0.0001392736613244726,Land Cover
+Procambarus clarkii,1,l_LAC9,0.0001542783339636014,Land Cover
+Procambarus clarkii,1,l_SOL1,0.01377896800819155,Soil
+Procambarus clarkii,1,l_SOL10,0.003360628819210511,Soil
+Procambarus clarkii,1,l_SOL12,0.00037934566877465795,Soil
+Procambarus clarkii,1,l_SOL14,0.006549683540802708,Soil
+Procambarus clarkii,1,l_SOL16,0.0003793442310234063,Soil
+Procambarus clarkii,1,l_SOL17,0.007146537873264618,Soil
+Procambarus clarkii,1,l_SOL2,0.017487714026000085,Soil
+Procambarus clarkii,1,l_SOL20,0.0004119159128097738,Soil
+Procambarus clarkii,1,l_SOL21,0.03502722466295827,Soil
+Procambarus clarkii,1,l_SOL24,0.00294639935613136,Soil
+Procambarus clarkii,1,l_SOL25,0.03181632183529972,Soil
+Procambarus clarkii,1,l_SOL26,0.03465304972996539,Soil
+Procambarus clarkii,1,l_SOL28,0.0005605449500419077,Soil
+Procambarus clarkii,1,l_SOL29,0.003145677911416589,Soil
+Procambarus clarkii,1,l_SOL3,0.019674477215027936,Soil
+Procambarus clarkii,1,l_SOL30,0.003788272295373602,Soil
+Procambarus clarkii,1,l_SOL31,0.005004950664585764,Soil
+Procambarus clarkii,1,l_SOL32,0.0007188711903471564,Soil
+Procambarus clarkii,1,l_SOL33,0.001378444504940208,Soil
+Procambarus clarkii,1,l_SOL35,0.003934557439597404,Soil
+Procambarus clarkii,1,l_SOL36,0.0015046004696966462,Soil
+Procambarus clarkii,1,l_SOL37,0.0016711458282873115,Soil
+Procambarus clarkii,1,l_SOL38,0.0010237241108962591,Soil
+Procambarus clarkii,1,l_SOL39,0.002419021795512865,Soil
+Procambarus clarkii,1,l_SOL4,0.0004061998316586047,Soil
+Procambarus clarkii,1,l_SOL40,0.0005074255020275449,Soil
+Procambarus clarkii,1,l_SOL42,0.005164951279477695,Soil
+Procambarus clarkii,1,l_SOL44,0.0004624177764383055,Soil
+Procambarus clarkii,1,l_SOL45,0.0014191368986351365,Soil
+Procambarus clarkii,1,l_SOL46,0.0012768885245153139,Soil
+Procambarus clarkii,1,l_SOL47,0.002333835326731423,Soil
+Procambarus clarkii,1,l_SOL48,0.00025030305596573666,Soil
+Procambarus clarkii,1,l_SOL49,7.234063559806995e-05,Soil
+Procambarus clarkii,1,l_SOL5,0.0033706066387377415,Soil
+Procambarus clarkii,1,l_SOL50,0.00015018531767493353,Soil
+Procambarus clarkii,1,l_SOL51,0.00015220806620883586,Soil
+Procambarus clarkii,1,l_SOL52,0.00013747808341085777,Soil
+Procambarus clarkii,1,l_SOL53,0.0010664296522568224,Soil
+Procambarus clarkii,1,l_SOL54,0.00026823613129248983,Soil
+Procambarus clarkii,1,l_SOL55,0.0014242465789964635,Soil
+Procambarus clarkii,1,l_SOL56,0.0011387573804209775,Soil
+Procambarus clarkii,1,l_SOL57,0.001115003429325834,Soil
+Procambarus clarkii,1,l_SOL58,0.002941968441665507,Soil
+Procambarus clarkii,1,l_SOL59,0.0018849715186552974,Soil
+Procambarus clarkii,1,l_SOL6,0.003591132652238603,Soil
+Procambarus clarkii,1,l_SOL60,0.00047413532132399523,Soil
+Procambarus clarkii,1,l_SOL7,0.005567092375904402,Soil
+Procambarus clarkii,1,l_SOL8,0.0003927736247201106,Soil
+Procambarus clarkii,1,l_SOL9,0.0035453688359664325,Soil
+Procambarus clarkii,1,l_TOP10,0.0014435903374826256,Topography
+Procambarus clarkii,1,l_TOP101,0.015229218051589177,Topography
+Procambarus clarkii,1,l_TOP102,0.05274003728162777,Topography
+Procambarus clarkii,1,l_TOP103,0.0005044100527467871,Topography
+Procambarus clarkii,1,l_TOP104,0.002459871338083722,Topography
+Procambarus clarkii,1,l_TOP105,0.00025488632971545883,Topography
+Procambarus clarkii,1,l_TOP106,0.00027611314811293834,Topography
+Procambarus clarkii,1,l_TOP107,0.0003316819965148147,Topography
+Procambarus clarkii,1,l_TOP108,0.0002898028168538436,Topography
+Procambarus clarkii,1,l_TOP109,0.013869718931287989,Topography
+Procambarus clarkii,1,l_TOP111,0.0003420577022657834,Topography
+Procambarus clarkii,1,l_TOP112,0.0005208294955381156,Topography
+Procambarus clarkii,1,l_TOP116,0.0035729569312665647,Topography
+Procambarus clarkii,1,l_TOP118,0.00016897233635160193,Topography
+Procambarus clarkii,1,l_TOP119,0.0002517754432513436,Topography
+Procambarus clarkii,1,l_TOP124,0.0018381278817433857,Topography
+Procambarus clarkii,1,l_TOP125,0.0005075561952938988,Topography
+Procambarus clarkii,1,l_TOP126,0.000680276549231924,Topography
+Procambarus clarkii,1,l_TOP127,0.0002837557879145052,Topography
+Procambarus clarkii,1,l_TOP128,0.0023950062421016455,Topography
+Procambarus clarkii,1,l_TOP129,0.0006089542762195963,Topography
+Procambarus clarkii,1,l_TOP130,0.0006630153354122111,Topography
+Procambarus clarkii,1,l_TOP131,0.0003264483337604251,Topography
+Procambarus clarkii,1,l_TOP132,0.00041236166730762103,Topography
+Procambarus clarkii,1,l_TOP133,2.9834849010506514e-05,Topography
+Procambarus clarkii,1,l_TOP134,0.0003943167871914993,Topography
+Procambarus clarkii,1,l_TOP135,0.000386756998982498,Topography
+Procambarus clarkii,1,l_TOP136,0.00038589767018032764,Topography
+Procambarus clarkii,1,l_TOP137,0.00027350325029589125,Topography
+Procambarus clarkii,1,l_TOP138,0.0005182301838991662,Topography
+Procambarus clarkii,1,l_TOP139,0.0007178702335994237,Topography
+Procambarus clarkii,1,l_TOP14,0.0023422606885928304,Topography
+Procambarus clarkii,1,l_TOP140,0.0006486950909533905,Topography
+Procambarus clarkii,1,l_TOP141,0.003551294768015456,Topography
+Procambarus clarkii,1,l_TOP142,0.00046868542787169,Topography
+Procambarus clarkii,1,l_TOP143,0.0004495111172712548,Topography
+Procambarus clarkii,1,l_TOP144,0.00046052276219346556,Topography
+Procambarus clarkii,1,l_TOP15,0.0013359423028135194,Topography
+Procambarus clarkii,1,l_TOP16,0.0018820933705237484,Topography
+Procambarus clarkii,1,l_TOP17,9.926728328304235e-20,Topography
+Procambarus clarkii,1,l_TOP18,0.00045959506639659984,Topography
+Procambarus clarkii,1,l_TOP19,0.0003742897083465361,Topography
+Procambarus clarkii,1,l_TOP2,0.0013016386086922948,Topography
+Procambarus clarkii,1,l_TOP20,0.0003425849231372383,Topography
+Procambarus clarkii,1,l_TOP21,5.693185595803959e-19,Topography
+Procambarus clarkii,1,l_TOP22,0.0005634748233913369,Topography
+Procambarus clarkii,1,l_TOP23,0.0004987669770259043,Topography
+Procambarus clarkii,1,l_TOP24,0.0005149807068422952,Topography
+Procambarus clarkii,1,l_TOP27,0.00034508943957312186,Topography
+Procambarus clarkii,1,l_TOP28,0.00035276524496119093,Topography
+Procambarus clarkii,1,l_TOP3,0.0006115467240263603,Topography
+Procambarus clarkii,1,l_TOP32,0.0004380871992464111,Topography
+Procambarus clarkii,1,l_TOP38,0.0003313820500310377,Topography
+Procambarus clarkii,1,l_TOP39,0.00028840096609216505,Topography
+Procambarus clarkii,1,l_TOP4,0.0009963669661571537,Topography
+Procambarus clarkii,1,l_TOP40,0.000357710995277669,Topography
+Procambarus clarkii,1,l_TOP41,4.650600750532306e-20,Topography
+Procambarus clarkii,1,l_TOP42,0.0017148030684775932,Topography
+Procambarus clarkii,1,l_TOP43,0.0007336382228764317,Topography
+Procambarus clarkii,1,l_TOP44,0.0009688388960894527,Topography
+Procambarus clarkii,1,l_TOP45,1.3199094889366596e-19,Topography
+Procambarus clarkii,1,l_TOP47,0.0017004294504402542,Topography
+Procambarus clarkii,1,l_TOP48,0.0014654775807248382,Topography
+Procambarus clarkii,1,l_TOP49,7.399504321162391e-05,Topography
+Procambarus clarkii,1,l_TOP5,0.0021237279006362394,Topography
+Procambarus clarkii,1,l_TOP51,0.0005150853836324241,Topography
+Procambarus clarkii,1,l_TOP52,0.001940686325654977,Topography
+Procambarus clarkii,1,l_TOP53,0.0033569381064959274,Topography
+Procambarus clarkii,1,l_TOP59,0.000711049685208665,Topography
+Procambarus clarkii,1,l_TOP6,0.00044529874153991975,Topography
+Procambarus clarkii,1,l_TOP60,0.002328812921726134,Topography
+Procambarus clarkii,1,l_TOP63,0.00029764539259870965,Topography
+Procambarus clarkii,1,l_TOP64,0.00027997744129286303,Topography
+Procambarus clarkii,1,l_TOP65,0.00016025861996223268,Topography
+Procambarus clarkii,1,l_TOP66,0.0003474633669972742,Topography
+Procambarus clarkii,1,l_TOP67,0.0002540070919097195,Topography
+Procambarus clarkii,1,l_TOP68,0.0002470286046548083,Topography
+Procambarus clarkii,1,l_TOP69,0.00011061389501730031,Topography
+Procambarus clarkii,1,l_TOP71,0.0003266587241262018,Topography
+Procambarus clarkii,1,l_TOP73,0.0001449989805582712,Topography
+Procambarus clarkii,1,l_TOP74,0.0002882890693485121,Topography
+Procambarus clarkii,1,l_TOP75,0.0003277797694725075,Topography
+Procambarus clarkii,1,l_TOP76,0.0003325833690463847,Topography
+Procambarus clarkii,1,l_TOP79,0.00018596500595777508,Topography
+Procambarus clarkii,1,l_TOP83,0.000294339636746438,Topography
+Procambarus clarkii,1,l_TOP89,6.785579197109728e-05,Topography
+Procambarus clarkii,1,l_TOP9,9.121333034201875e-05,Topography
+Procambarus clarkii,1,l_TOP90,0.000195104830583182,Topography
+Procambarus clarkii,1,l_TOP91,0.0002999117930687162,Topography
+Procambarus clarkii,1,l_TOP92,0.00019803591925096828,Topography
+Procambarus clarkii,1,l_TOP93,0.012452856121748486,Topography
+Procambarus clarkii,1,l_TOP97,0.01225051222462489,Topography
+Procambarus clarkii,2,l_CLI12,0.000487944988403839,Climate
+Procambarus clarkii,2,l_CLI14,0.03598058796427179,Climate
+Procambarus clarkii,2,l_CLI16,0.00031621816248780446,Climate
+Procambarus clarkii,2,l_CLI18,0.051527418271050576,Climate
+Procambarus clarkii,2,l_CLI2,0.07747021791800544,Climate
+Procambarus clarkii,2,l_CLI20,0.00021353945681994182,Climate
+Procambarus clarkii,2,l_CLI21,0.015748378288263115,Climate
+Procambarus clarkii,2,l_CLI24,0.002384128736833281,Climate
+Procambarus clarkii,2,l_CLI26,0.014797613786196233,Climate
+Procambarus clarkii,2,l_CLI28,0.00023261435204790284,Climate
+Procambarus clarkii,2,l_CLI30,0.03831814729634968,Climate
+Procambarus clarkii,2,l_CLI32,0.00034646646444617116,Climate
+Procambarus clarkii,2,l_CLI33,0.019795647074605363,Climate
+Procambarus clarkii,2,l_CLI36,0.0008191894788784396,Climate
+Procambarus clarkii,2,l_CLI38,0.08348075203696993,Climate
+Procambarus clarkii,2,l_CLI4,0.0008997359821664208,Climate
+Procambarus clarkii,2,l_CLI40,0.00036449415409442026,Climate
+Procambarus clarkii,2,l_CLI41,0.01993669013708236,Climate
+Procambarus clarkii,2,l_CLI44,0.0022440827923971393,Climate
+Procambarus clarkii,2,l_CLI46,0.023042976351200523,Climate
+Procambarus clarkii,2,l_CLI48,0.00033805426961125516,Climate
+Procambarus clarkii,2,l_CLI49,0.01871589822477572,Climate
+Procambarus clarkii,2,l_CLI56,0.000495776013313242,Climate
+Procambarus clarkii,2,l_CLI57,0.0518687530605941,Climate
+Procambarus clarkii,2,l_CLI6,0.00908274331853634,Climate
+Procambarus clarkii,2,l_CLI60,0.00041635638875387083,Climate
+Procambarus clarkii,2,l_CLI64,0.0003169375359364776,Climate
+Procambarus clarkii,2,l_CLI66,0.039129648477952424,Climate
+Procambarus clarkii,2,l_CLI70,0.04519132439768668,Climate
+Procambarus clarkii,2,l_CLI72,0.0006086724294486339,Climate
+Procambarus clarkii,2,l_CLI75,0.011851600685816498,Climate
+Procambarus clarkii,2,l_CLI76,0.0005781970391050533,Climate
+Procambarus clarkii,2,l_CLI8,0.00015982564895793982,Climate
+Procambarus clarkii,2,l_CLI9,0.017023279350890527,Climate
+Procambarus clarkii,2,l_LAC1,0.0003837763051531542,Land Cover
+Procambarus clarkii,2,l_LAC10,0.00010735020086345802,Land Cover
+Procambarus clarkii,2,l_LAC11,2.216999652911535e-19,Land Cover
+Procambarus clarkii,2,l_LAC12,0.00031831107231450887,Land Cover
+Procambarus clarkii,2,l_LAC13,0.0008278900934878417,Land Cover
+Procambarus clarkii,2,l_LAC15,7.419438966801455e-05,Land Cover
+Procambarus clarkii,2,l_LAC16,0.002003049349843622,Land Cover
+Procambarus clarkii,2,l_LAC17,3.1408493595410555e-06,Land Cover
+Procambarus clarkii,2,l_LAC18,8.972666948184492e-05,Land Cover
+Procambarus clarkii,2,l_LAC19,0.0003057867678404817,Land Cover
+Procambarus clarkii,2,l_LAC2,0.0022336118621693116,Land Cover
+Procambarus clarkii,2,l_LAC20,1.1733507032529514e-05,Land Cover
+Procambarus clarkii,2,l_LAC21,0.00020316990744838638,Land Cover
+Procambarus clarkii,2,l_LAC3,2.9781100780673552e-05,Land Cover
+Procambarus clarkii,2,l_LAC4,0.000128570568793557,Land Cover
+Procambarus clarkii,2,l_LAC5,0.0002632952521712741,Land Cover
+Procambarus clarkii,2,l_LAC6,0.00017388037373022944,Land Cover
+Procambarus clarkii,2,l_LAC7,0.0009981040357703672,Land Cover
+Procambarus clarkii,2,l_LAC8,0.00012670091820063251,Land Cover
+Procambarus clarkii,2,l_LAC9,0.00013829378992481065,Land Cover
+Procambarus clarkii,2,l_SOL1,0.02071491268778007,Soil
+Procambarus clarkii,2,l_SOL10,0.003531146048847645,Soil
+Procambarus clarkii,2,l_SOL12,0.00044339518923022027,Soil
+Procambarus clarkii,2,l_SOL14,0.00744845383073479,Soil
+Procambarus clarkii,2,l_SOL16,0.00043497396012629705,Soil
+Procambarus clarkii,2,l_SOL17,0.006741366174538747,Soil
+Procambarus clarkii,2,l_SOL2,0.015623896058174236,Soil
+Procambarus clarkii,2,l_SOL20,0.0003501856110044714,Soil
+Procambarus clarkii,2,l_SOL21,0.033959750833087186,Soil
+Procambarus clarkii,2,l_SOL24,0.004854719866150253,Soil
+Procambarus clarkii,2,l_SOL25,0.03497997661610708,Soil
+Procambarus clarkii,2,l_SOL26,0.04249824664929591,Soil
+Procambarus clarkii,2,l_SOL28,0.0005567324223866132,Soil
+Procambarus clarkii,2,l_SOL29,0.003615256735716921,Soil
+Procambarus clarkii,2,l_SOL3,0.016724248433889432,Soil
+Procambarus clarkii,2,l_SOL30,0.0025894755790682074,Soil
+Procambarus clarkii,2,l_SOL31,0.004448960208700587,Soil
+Procambarus clarkii,2,l_SOL32,0.000530310986071527,Soil
+Procambarus clarkii,2,l_SOL33,0.001184449647247474,Soil
+Procambarus clarkii,2,l_SOL35,0.0034316726792681354,Soil
+Procambarus clarkii,2,l_SOL36,0.0016294319966541923,Soil
+Procambarus clarkii,2,l_SOL37,0.0016717584550073655,Soil
+Procambarus clarkii,2,l_SOL38,0.0009755619395404895,Soil
+Procambarus clarkii,2,l_SOL39,0.001831831843877745,Soil
+Procambarus clarkii,2,l_SOL4,0.00044409866938685945,Soil
+Procambarus clarkii,2,l_SOL40,0.000622731106601263,Soil
+Procambarus clarkii,2,l_SOL42,0.004991147714156414,Soil
+Procambarus clarkii,2,l_SOL44,0.0005421807925841133,Soil
+Procambarus clarkii,2,l_SOL45,0.0021229936828000497,Soil
+Procambarus clarkii,2,l_SOL46,0.0011821671740746026,Soil
+Procambarus clarkii,2,l_SOL47,0.001902852973454704,Soil
+Procambarus clarkii,2,l_SOL48,0.00022206663736980156,Soil
+Procambarus clarkii,2,l_SOL49,7.320872126625657e-05,Soil
+Procambarus clarkii,2,l_SOL5,0.002953366311945045,Soil
+Procambarus clarkii,2,l_SOL50,0.0004258785496218932,Soil
+Procambarus clarkii,2,l_SOL51,0.00028644919552709233,Soil
+Procambarus clarkii,2,l_SOL52,0.00024650343574094557,Soil
+Procambarus clarkii,2,l_SOL53,0.0012980374758503554,Soil
+Procambarus clarkii,2,l_SOL54,0.00020623576621358616,Soil
+Procambarus clarkii,2,l_SOL55,0.0016838456180930318,Soil
+Procambarus clarkii,2,l_SOL56,0.0024696075166835783,Soil
+Procambarus clarkii,2,l_SOL57,0.0013369794921451227,Soil
+Procambarus clarkii,2,l_SOL58,0.002814207804075352,Soil
+Procambarus clarkii,2,l_SOL59,0.002189192609784679,Soil
+Procambarus clarkii,2,l_SOL6,0.0027423989795792446,Soil
+Procambarus clarkii,2,l_SOL60,0.0007859013384169557,Soil
+Procambarus clarkii,2,l_SOL7,0.004378234912665188,Soil
+Procambarus clarkii,2,l_SOL8,0.0005301100231989817,Soil
+Procambarus clarkii,2,l_SOL9,0.003152735529290853,Soil
+Procambarus clarkii,2,l_TOP10,0.001220196506972953,Topography
+Procambarus clarkii,2,l_TOP101,0.01195607499165399,Topography
+Procambarus clarkii,2,l_TOP102,0.04895990244776756,Topography
+Procambarus clarkii,2,l_TOP103,0.000665235045006682,Topography
+Procambarus clarkii,2,l_TOP104,0.0017652544245917421,Topography
+Procambarus clarkii,2,l_TOP105,0.00016362387259245947,Topography
+Procambarus clarkii,2,l_TOP106,0.00016013022129074257,Topography
+Procambarus clarkii,2,l_TOP107,0.0003227310240900764,Topography
+Procambarus clarkii,2,l_TOP108,0.00022155371658931855,Topography
+Procambarus clarkii,2,l_TOP109,0.012220512068304058,Topography
+Procambarus clarkii,2,l_TOP111,0.000496485359944637,Topography
+Procambarus clarkii,2,l_TOP112,0.0004475780093650479,Topography
+Procambarus clarkii,2,l_TOP116,0.004269833328378878,Topography
+Procambarus clarkii,2,l_TOP118,0.0001956086873432058,Topography
+Procambarus clarkii,2,l_TOP119,0.0002930451979134247,Topography
+Procambarus clarkii,2,l_TOP124,0.002054520894973001,Topography
+Procambarus clarkii,2,l_TOP125,0.0006474502896998024,Topography
+Procambarus clarkii,2,l_TOP126,0.0006396159505411848,Topography
+Procambarus clarkii,2,l_TOP127,0.00032386327323492554,Topography
+Procambarus clarkii,2,l_TOP128,0.002250602983571797,Topography
+Procambarus clarkii,2,l_TOP129,0.0005951633788410825,Topography
+Procambarus clarkii,2,l_TOP130,0.0006331657131384154,Topography
+Procambarus clarkii,2,l_TOP131,0.0003149793219554569,Topography
+Procambarus clarkii,2,l_TOP132,0.0003069124577110397,Topography
+Procambarus clarkii,2,l_TOP133,2.7750043325507912e-05,Topography
+Procambarus clarkii,2,l_TOP134,0.00031956770576976054,Topography
+Procambarus clarkii,2,l_TOP135,0.00039976839633679227,Topography
+Procambarus clarkii,2,l_TOP136,0.00033413612989133,Topography
+Procambarus clarkii,2,l_TOP137,0.00025691259962616684,Topography
+Procambarus clarkii,2,l_TOP138,0.0005265895561743411,Topography
+Procambarus clarkii,2,l_TOP139,0.0010508332363282624,Topography
+Procambarus clarkii,2,l_TOP14,0.002366336025218033,Topography
+Procambarus clarkii,2,l_TOP140,0.0005732363548997591,Topography
+Procambarus clarkii,2,l_TOP141,0.0045445785722709525,Topography
+Procambarus clarkii,2,l_TOP142,0.00032055980921502696,Topography
+Procambarus clarkii,2,l_TOP143,0.00042641077133412624,Topography
+Procambarus clarkii,2,l_TOP144,0.00033055383552105575,Topography
+Procambarus clarkii,2,l_TOP15,0.0007557755290398891,Topography
+Procambarus clarkii,2,l_TOP16,0.0013256562373466544,Topography
+Procambarus clarkii,2,l_TOP17,5.881845126320171e-19,Topography
+Procambarus clarkii,2,l_TOP18,0.0005041773954946332,Topography
+Procambarus clarkii,2,l_TOP19,0.0004234541025881441,Topography
+Procambarus clarkii,2,l_TOP2,0.000633080265672951,Topography
+Procambarus clarkii,2,l_TOP20,0.000520223631645576,Topography
+Procambarus clarkii,2,l_TOP21,0.0,Topography
+Procambarus clarkii,2,l_TOP22,0.00035633156696406374,Topography
+Procambarus clarkii,2,l_TOP23,0.00046333268615176854,Topography
+Procambarus clarkii,2,l_TOP24,0.00038167510616393566,Topography
+Procambarus clarkii,2,l_TOP27,0.000284736525893915,Topography
+Procambarus clarkii,2,l_TOP28,0.00033631530602805203,Topography
+Procambarus clarkii,2,l_TOP3,0.000744142885109286,Topography
+Procambarus clarkii,2,l_TOP32,0.00044180602963221193,Topography
+Procambarus clarkii,2,l_TOP38,0.00032735405863696423,Topography
+Procambarus clarkii,2,l_TOP39,0.0004806460415736552,Topography
+Procambarus clarkii,2,l_TOP4,0.0011365772576226337,Topography
+Procambarus clarkii,2,l_TOP40,0.00037269124618085877,Topography
+Procambarus clarkii,2,l_TOP41,0.0,Topography
+Procambarus clarkii,2,l_TOP42,0.0009690172586878839,Topography
+Procambarus clarkii,2,l_TOP43,0.0012585222866361699,Topography
+Procambarus clarkii,2,l_TOP44,0.00102898933711462,Topography
+Procambarus clarkii,2,l_TOP45,4.150450677573898e-17,Topography
+Procambarus clarkii,2,l_TOP47,0.0015763516942613137,Topography
+Procambarus clarkii,2,l_TOP48,0.0012963232289698238,Topography
+Procambarus clarkii,2,l_TOP49,0.00010805373044131734,Topography
+Procambarus clarkii,2,l_TOP5,0.0013812624701623538,Topography
+Procambarus clarkii,2,l_TOP51,0.0007963418541876288,Topography
+Procambarus clarkii,2,l_TOP52,0.0014445315324022835,Topography
+Procambarus clarkii,2,l_TOP53,0.0045725349609748575,Topography
+Procambarus clarkii,2,l_TOP59,0.0007863093458218877,Topography
+Procambarus clarkii,2,l_TOP6,0.0007540800072948641,Topography
+Procambarus clarkii,2,l_TOP60,0.0018454016514519354,Topography
+Procambarus clarkii,2,l_TOP63,0.0002908715826125067,Topography
+Procambarus clarkii,2,l_TOP64,0.0002981999516445891,Topography
+Procambarus clarkii,2,l_TOP65,0.0001964671238867902,Topography
+Procambarus clarkii,2,l_TOP66,0.000292324487264045,Topography
+Procambarus clarkii,2,l_TOP67,0.00029744738182357883,Topography
+Procambarus clarkii,2,l_TOP68,0.00028194720101285345,Topography
+Procambarus clarkii,2,l_TOP69,0.00010453837666914537,Topography
+Procambarus clarkii,2,l_TOP71,0.0002887139572840682,Topography
+Procambarus clarkii,2,l_TOP73,0.0001362261873406566,Topography
+Procambarus clarkii,2,l_TOP74,0.0004202363984554773,Topography
+Procambarus clarkii,2,l_TOP75,0.0003023572572454495,Topography
+Procambarus clarkii,2,l_TOP76,0.00030277962230364095,Topography
+Procambarus clarkii,2,l_TOP79,0.00028145867602264585,Topography
+Procambarus clarkii,2,l_TOP83,0.00029469632240758544,Topography
+Procambarus clarkii,2,l_TOP89,3.6085415337317955e-05,Topography
+Procambarus clarkii,2,l_TOP9,0.00013049221631584556,Topography
+Procambarus clarkii,2,l_TOP90,0.00034289842968414467,Topography
+Procambarus clarkii,2,l_TOP91,0.000364822009168039,Topography
+Procambarus clarkii,2,l_TOP92,0.00024221920918950215,Topography
+Procambarus clarkii,2,l_TOP93,0.00881137569700027,Topography
+Procambarus clarkii,2,l_TOP97,0.013398751034782023,Topography
+Procambarus clarkii,3,l_CLI12,0.0004098362608188833,Climate
+Procambarus clarkii,3,l_CLI14,0.0393823889023377,Climate
+Procambarus clarkii,3,l_CLI16,0.00032126582908122196,Climate
+Procambarus clarkii,3,l_CLI18,0.06103443919438329,Climate
+Procambarus clarkii,3,l_CLI2,0.07060469474684732,Climate
+Procambarus clarkii,3,l_CLI20,0.0005792014596625233,Climate
+Procambarus clarkii,3,l_CLI21,0.015365923854520566,Climate
+Procambarus clarkii,3,l_CLI24,0.004335579825650772,Climate
+Procambarus clarkii,3,l_CLI26,0.010742637734950437,Climate
+Procambarus clarkii,3,l_CLI28,0.00034616719560781075,Climate
+Procambarus clarkii,3,l_CLI30,0.03529015778066788,Climate
+Procambarus clarkii,3,l_CLI32,0.00040054615057398714,Climate
+Procambarus clarkii,3,l_CLI33,0.01853459972140066,Climate
+Procambarus clarkii,3,l_CLI36,0.0007024931951627117,Climate
+Procambarus clarkii,3,l_CLI38,0.0891195937283596,Climate
+Procambarus clarkii,3,l_CLI4,0.00109257275184875,Climate
+Procambarus clarkii,3,l_CLI40,0.0003955721523405569,Climate
+Procambarus clarkii,3,l_CLI41,0.019376257231313684,Climate
+Procambarus clarkii,3,l_CLI44,0.004286173303422284,Climate
+Procambarus clarkii,3,l_CLI46,0.020242475845238656,Climate
+Procambarus clarkii,3,l_CLI48,0.000375375333921553,Climate
+Procambarus clarkii,3,l_CLI49,0.014388820430800937,Climate
+Procambarus clarkii,3,l_CLI56,0.0006133547881027536,Climate
+Procambarus clarkii,3,l_CLI57,0.052382663051154826,Climate
+Procambarus clarkii,3,l_CLI6,0.009692227485668408,Climate
+Procambarus clarkii,3,l_CLI60,0.0002424505541039079,Climate
+Procambarus clarkii,3,l_CLI64,0.00047326981074118286,Climate
+Procambarus clarkii,3,l_CLI66,0.037337178098960054,Climate
+Procambarus clarkii,3,l_CLI70,0.04435619908755549,Climate
+Procambarus clarkii,3,l_CLI72,0.0005273295675641838,Climate
+Procambarus clarkii,3,l_CLI75,0.011494544740056158,Climate
+Procambarus clarkii,3,l_CLI76,0.0005496961271600907,Climate
+Procambarus clarkii,3,l_CLI8,0.00025487083358939063,Climate
+Procambarus clarkii,3,l_CLI9,0.016627869236223565,Climate
+Procambarus clarkii,3,l_LAC1,0.0002750551754604567,Land Cover
+Procambarus clarkii,3,l_LAC10,8.651801876829837e-05,Land Cover
+Procambarus clarkii,3,l_LAC11,2.459415371240014e-19,Land Cover
+Procambarus clarkii,3,l_LAC12,0.0002790027197190836,Land Cover
+Procambarus clarkii,3,l_LAC13,0.0009159397128864409,Land Cover
+Procambarus clarkii,3,l_LAC15,6.692012068075627e-05,Land Cover
+Procambarus clarkii,3,l_LAC16,0.001921205921441244,Land Cover
+Procambarus clarkii,3,l_LAC17,6.902212614585512e-06,Land Cover
+Procambarus clarkii,3,l_LAC18,0.0001522426956076383,Land Cover
+Procambarus clarkii,3,l_LAC19,0.0004261205958225822,Land Cover
+Procambarus clarkii,3,l_LAC2,0.002638103237741123,Land Cover
+Procambarus clarkii,3,l_LAC20,2.4781490791396482e-05,Land Cover
+Procambarus clarkii,3,l_LAC21,0.00017385841392852737,Land Cover
+Procambarus clarkii,3,l_LAC3,6.110255784151659e-05,Land Cover
+Procambarus clarkii,3,l_LAC4,0.00013864068540002597,Land Cover
+Procambarus clarkii,3,l_LAC5,0.00019248040231788384,Land Cover
+Procambarus clarkii,3,l_LAC6,0.00019823890541303843,Land Cover
+Procambarus clarkii,3,l_LAC7,0.0008859221460987292,Land Cover
+Procambarus clarkii,3,l_LAC8,0.00014567103560834504,Land Cover
+Procambarus clarkii,3,l_LAC9,8.723306159091437e-05,Land Cover
+Procambarus clarkii,3,l_SOL1,0.01828162943613963,Soil
+Procambarus clarkii,3,l_SOL10,0.003983496314325173,Soil
+Procambarus clarkii,3,l_SOL12,0.0004666158656512959,Soil
+Procambarus clarkii,3,l_SOL14,0.006503991565553929,Soil
+Procambarus clarkii,3,l_SOL16,0.00035109475575141846,Soil
+Procambarus clarkii,3,l_SOL17,0.005714626154067879,Soil
+Procambarus clarkii,3,l_SOL2,0.014152968530368463,Soil
+Procambarus clarkii,3,l_SOL20,0.0003860824761500442,Soil
+Procambarus clarkii,3,l_SOL21,0.029117575087508604,Soil
+Procambarus clarkii,3,l_SOL24,0.003764979902893082,Soil
+Procambarus clarkii,3,l_SOL25,0.039528022732689926,Soil
+Procambarus clarkii,3,l_SOL26,0.044181786094084505,Soil
+Procambarus clarkii,3,l_SOL28,0.0005103824697923167,Soil
+Procambarus clarkii,3,l_SOL29,0.0030460784277700813,Soil
+Procambarus clarkii,3,l_SOL3,0.019006404355037386,Soil
+Procambarus clarkii,3,l_SOL30,0.003184799587412422,Soil
+Procambarus clarkii,3,l_SOL31,0.004103649796818564,Soil
+Procambarus clarkii,3,l_SOL32,0.000923816342565002,Soil
+Procambarus clarkii,3,l_SOL33,0.0013135434931014856,Soil
+Procambarus clarkii,3,l_SOL35,0.002622882599167077,Soil
+Procambarus clarkii,3,l_SOL36,0.0016710341205113007,Soil
+Procambarus clarkii,3,l_SOL37,0.002026877161936145,Soil
+Procambarus clarkii,3,l_SOL38,0.0012547087523513425,Soil
+Procambarus clarkii,3,l_SOL39,0.002172423637335653,Soil
+Procambarus clarkii,3,l_SOL4,0.00041290094129267565,Soil
+Procambarus clarkii,3,l_SOL40,0.000603271705569735,Soil
+Procambarus clarkii,3,l_SOL42,0.004526457202618037,Soil
+Procambarus clarkii,3,l_SOL44,0.0004820989868502702,Soil
+Procambarus clarkii,3,l_SOL45,0.0018303601564582897,Soil
+Procambarus clarkii,3,l_SOL46,0.0010639887736877249,Soil
+Procambarus clarkii,3,l_SOL47,0.002451071990013581,Soil
+Procambarus clarkii,3,l_SOL48,0.00019241994123575512,Soil
+Procambarus clarkii,3,l_SOL49,8.799526468145754e-05,Soil
+Procambarus clarkii,3,l_SOL5,0.003810791473155306,Soil
+Procambarus clarkii,3,l_SOL50,0.0001973475349504619,Soil
+Procambarus clarkii,3,l_SOL51,0.00018072792252399954,Soil
+Procambarus clarkii,3,l_SOL52,0.00010881990060297699,Soil
+Procambarus clarkii,3,l_SOL53,0.0023380625936576848,Soil
+Procambarus clarkii,3,l_SOL54,0.00033021270537183497,Soil
+Procambarus clarkii,3,l_SOL55,0.002191455927185786,Soil
+Procambarus clarkii,3,l_SOL56,0.0011718820239428863,Soil
+Procambarus clarkii,3,l_SOL57,0.0012660961144041526,Soil
+Procambarus clarkii,3,l_SOL58,0.0020204756963185253,Soil
+Procambarus clarkii,3,l_SOL59,0.0018839378123496951,Soil
+Procambarus clarkii,3,l_SOL6,0.0032006514332926154,Soil
+Procambarus clarkii,3,l_SOL60,0.0003908297873398407,Soil
+Procambarus clarkii,3,l_SOL7,0.0052523625471708165,Soil
+Procambarus clarkii,3,l_SOL8,0.0005612980020135798,Soil
+Procambarus clarkii,3,l_SOL9,0.0039820741717665935,Soil
+Procambarus clarkii,3,l_TOP10,0.0011590065023104053,Topography
+Procambarus clarkii,3,l_TOP101,0.014155808723215292,Topography
+Procambarus clarkii,3,l_TOP102,0.052312556399529204,Topography
+Procambarus clarkii,3,l_TOP103,0.0007567950373042315,Topography
+Procambarus clarkii,3,l_TOP104,0.001225353940037702,Topography
+Procambarus clarkii,3,l_TOP105,0.00012381037478613759,Topography
+Procambarus clarkii,3,l_TOP106,0.00017150342648765705,Topography
+Procambarus clarkii,3,l_TOP107,0.00034075389793309464,Topography
+Procambarus clarkii,3,l_TOP108,0.000281490149015672,Topography
+Procambarus clarkii,3,l_TOP109,0.012422114461327889,Topography
+Procambarus clarkii,3,l_TOP111,0.00036873666339121814,Topography
+Procambarus clarkii,3,l_TOP112,0.00046537047730537616,Topography
+Procambarus clarkii,3,l_TOP116,0.004542287207710054,Topography
+Procambarus clarkii,3,l_TOP118,0.00019219040178746247,Topography
+Procambarus clarkii,3,l_TOP119,0.00038918421812566775,Topography
+Procambarus clarkii,3,l_TOP124,0.0019656736707563626,Topography
+Procambarus clarkii,3,l_TOP125,0.0006752179941337405,Topography
+Procambarus clarkii,3,l_TOP126,0.0007561986952885519,Topography
+Procambarus clarkii,3,l_TOP127,0.00031957800233999023,Topography
+Procambarus clarkii,3,l_TOP128,0.0022974036299285524,Topography
+Procambarus clarkii,3,l_TOP129,0.0005327891103676002,Topography
+Procambarus clarkii,3,l_TOP130,0.0007227481333032831,Topography
+Procambarus clarkii,3,l_TOP131,0.0002880430199119977,Topography
+Procambarus clarkii,3,l_TOP132,0.00035720896246027904,Topography
+Procambarus clarkii,3,l_TOP133,4.625738684177767e-05,Topography
+Procambarus clarkii,3,l_TOP134,0.0003317972116761934,Topography
+Procambarus clarkii,3,l_TOP135,0.00046195174099969075,Topography
+Procambarus clarkii,3,l_TOP136,0.00040802220654502833,Topography
+Procambarus clarkii,3,l_TOP137,0.00035128990854879904,Topography
+Procambarus clarkii,3,l_TOP138,0.0006718802494850324,Topography
+Procambarus clarkii,3,l_TOP139,0.0006511903275272593,Topography
+Procambarus clarkii,3,l_TOP14,0.0019785794294848043,Topography
+Procambarus clarkii,3,l_TOP140,0.0007038657355133915,Topography
+Procambarus clarkii,3,l_TOP141,0.002774648004237474,Topography
+Procambarus clarkii,3,l_TOP142,0.000344937156988089,Topography
+Procambarus clarkii,3,l_TOP143,0.0005254078760482176,Topography
+Procambarus clarkii,3,l_TOP144,0.0003061384325606543,Topography
+Procambarus clarkii,3,l_TOP15,0.0020521249674919895,Topography
+Procambarus clarkii,3,l_TOP16,0.0011893349379820868,Topography
+Procambarus clarkii,3,l_TOP17,2.3000354211201597e-06,Topography
+Procambarus clarkii,3,l_TOP18,0.0005228836869848676,Topography
+Procambarus clarkii,3,l_TOP19,0.0005014504282823314,Topography
+Procambarus clarkii,3,l_TOP2,0.0007244397233932282,Topography
+Procambarus clarkii,3,l_TOP20,0.0004121010090796666,Topography
+Procambarus clarkii,3,l_TOP21,2.3521773552595776e-18,Topography
+Procambarus clarkii,3,l_TOP22,0.00044367652975908236,Topography
+Procambarus clarkii,3,l_TOP23,0.00034096569674593307,Topography
+Procambarus clarkii,3,l_TOP24,0.0004405984708362737,Topography
+Procambarus clarkii,3,l_TOP27,0.0003291959607871991,Topography
+Procambarus clarkii,3,l_TOP28,0.0003573718821377378,Topography
+Procambarus clarkii,3,l_TOP3,0.0011965040979493471,Topography
+Procambarus clarkii,3,l_TOP32,0.00039297187242500115,Topography
+Procambarus clarkii,3,l_TOP38,0.0003756634033554838,Topography
+Procambarus clarkii,3,l_TOP39,0.00036600674671976013,Topography
+Procambarus clarkii,3,l_TOP4,0.001486362206877895,Topography
+Procambarus clarkii,3,l_TOP40,0.0003373190809539562,Topography
+Procambarus clarkii,3,l_TOP41,1.0872501660710898e-18,Topography
+Procambarus clarkii,3,l_TOP42,0.0010936384667940523,Topography
+Procambarus clarkii,3,l_TOP43,0.0008912086640609057,Topography
+Procambarus clarkii,3,l_TOP44,0.0012875590908905273,Topography
+Procambarus clarkii,3,l_TOP45,5.793140684403047e-07,Topography
+Procambarus clarkii,3,l_TOP47,0.0013809895234095965,Topography
+Procambarus clarkii,3,l_TOP48,0.0014969709168198152,Topography
+Procambarus clarkii,3,l_TOP49,0.00010590656679451007,Topography
+Procambarus clarkii,3,l_TOP5,0.0014643266875505024,Topography
+Procambarus clarkii,3,l_TOP51,0.0008268258486832649,Topography
+Procambarus clarkii,3,l_TOP52,0.0010032601077714282,Topography
+Procambarus clarkii,3,l_TOP53,0.0048037255016310275,Topography
+Procambarus clarkii,3,l_TOP59,0.0009593864090171005,Topography
+Procambarus clarkii,3,l_TOP6,0.00036602401641215587,Topography
+Procambarus clarkii,3,l_TOP60,0.0024643028715437662,Topography
+Procambarus clarkii,3,l_TOP63,0.0003022617794187643,Topography
+Procambarus clarkii,3,l_TOP64,0.0002932703498748426,Topography
+Procambarus clarkii,3,l_TOP65,0.0001843032026186006,Topography
+Procambarus clarkii,3,l_TOP66,0.00032770303280072957,Topography
+Procambarus clarkii,3,l_TOP67,0.00033708324118992444,Topography
+Procambarus clarkii,3,l_TOP68,0.00026934228104057004,Topography
+Procambarus clarkii,3,l_TOP69,0.00010351999784727614,Topography
+Procambarus clarkii,3,l_TOP71,0.00026998810006538705,Topography
+Procambarus clarkii,3,l_TOP73,0.0001402271877010051,Topography
+Procambarus clarkii,3,l_TOP74,0.00046183591812054184,Topography
+Procambarus clarkii,3,l_TOP75,0.0003242159670611478,Topography
+Procambarus clarkii,3,l_TOP76,0.00027132885889460755,Topography
+Procambarus clarkii,3,l_TOP79,0.0002591018836590647,Topography
+Procambarus clarkii,3,l_TOP83,0.0002666791218239697,Topography
+Procambarus clarkii,3,l_TOP89,5.6302224983636245e-05,Topography
+Procambarus clarkii,3,l_TOP9,7.655621690184898e-05,Topography
+Procambarus clarkii,3,l_TOP90,0.00017599692065732673,Topography
+Procambarus clarkii,3,l_TOP91,0.00023647201256210652,Topography
+Procambarus clarkii,3,l_TOP92,0.000269197464566636,Topography
+Procambarus clarkii,3,l_TOP93,0.007781169023261155,Topography
+Procambarus clarkii,3,l_TOP97,0.0122382563401456,Topography
+Procambarus clarkii,4,l_CLI12,0.0003302512821006173,Climate
+Procambarus clarkii,4,l_CLI14,0.039243519768729,Climate
+Procambarus clarkii,4,l_CLI16,0.0003798182087331595,Climate
+Procambarus clarkii,4,l_CLI18,0.04748760096640398,Climate
+Procambarus clarkii,4,l_CLI2,0.0748141795574016,Climate
+Procambarus clarkii,4,l_CLI20,0.0005289959194226987,Climate
+Procambarus clarkii,4,l_CLI21,0.016231022562326423,Climate
+Procambarus clarkii,4,l_CLI24,0.0035140245687103615,Climate
+Procambarus clarkii,4,l_CLI26,0.013477836656273492,Climate
+Procambarus clarkii,4,l_CLI28,0.00033127387751723524,Climate
+Procambarus clarkii,4,l_CLI30,0.03545759989213066,Climate
+Procambarus clarkii,4,l_CLI32,0.00038495010404988286,Climate
+Procambarus clarkii,4,l_CLI33,0.014523531966084515,Climate
+Procambarus clarkii,4,l_CLI36,0.001013480295544101,Climate
+Procambarus clarkii,4,l_CLI38,0.08614059723782713,Climate
+Procambarus clarkii,4,l_CLI4,0.00046275342110156854,Climate
+Procambarus clarkii,4,l_CLI40,0.0003815569673878315,Climate
+Procambarus clarkii,4,l_CLI41,0.018184440109778387,Climate
+Procambarus clarkii,4,l_CLI44,0.002677662405003442,Climate
+Procambarus clarkii,4,l_CLI46,0.015524239749314944,Climate
+Procambarus clarkii,4,l_CLI48,0.0003151275208849106,Climate
+Procambarus clarkii,4,l_CLI49,0.016266421999841997,Climate
+Procambarus clarkii,4,l_CLI56,0.00045045261279148287,Climate
+Procambarus clarkii,4,l_CLI57,0.05501460933147334,Climate
+Procambarus clarkii,4,l_CLI6,0.0073651160333332985,Climate
+Procambarus clarkii,4,l_CLI60,0.00044138378264532035,Climate
+Procambarus clarkii,4,l_CLI64,0.000482769671764229,Climate
+Procambarus clarkii,4,l_CLI66,0.038361633801152935,Climate
+Procambarus clarkii,4,l_CLI70,0.04814909793274648,Climate
+Procambarus clarkii,4,l_CLI72,0.0005055101024969424,Climate
+Procambarus clarkii,4,l_CLI75,0.012396562721488608,Climate
+Procambarus clarkii,4,l_CLI76,0.0004856078004666413,Climate
+Procambarus clarkii,4,l_CLI8,0.00016298638312255313,Climate
+Procambarus clarkii,4,l_CLI9,0.017569706929102605,Climate
+Procambarus clarkii,4,l_LAC1,0.0003424350342209668,Land Cover
+Procambarus clarkii,4,l_LAC10,0.00011419738096963024,Land Cover
+Procambarus clarkii,4,l_LAC11,1.6172569707063928e-06,Land Cover
+Procambarus clarkii,4,l_LAC12,0.0004272645087913299,Land Cover
+Procambarus clarkii,4,l_LAC13,0.0004961806553247637,Land Cover
+Procambarus clarkii,4,l_LAC15,8.480797212714926e-05,Land Cover
+Procambarus clarkii,4,l_LAC16,0.0017525272695856685,Land Cover
+Procambarus clarkii,4,l_LAC17,2.2705234792334104e-06,Land Cover
+Procambarus clarkii,4,l_LAC18,0.00011042035712076223,Land Cover
+Procambarus clarkii,4,l_LAC19,0.0003182946250419974,Land Cover
+Procambarus clarkii,4,l_LAC2,0.002677920393641016,Land Cover
+Procambarus clarkii,4,l_LAC20,5.831767195583563e-05,Land Cover
+Procambarus clarkii,4,l_LAC21,0.0001930066232372758,Land Cover
+Procambarus clarkii,4,l_LAC3,4.213874676526039e-05,Land Cover
+Procambarus clarkii,4,l_LAC4,0.00012745441611561898,Land Cover
+Procambarus clarkii,4,l_LAC5,6.038761336878258e-05,Land Cover
+Procambarus clarkii,4,l_LAC6,0.00024816086617032756,Land Cover
+Procambarus clarkii,4,l_LAC7,0.0014675092723183993,Land Cover
+Procambarus clarkii,4,l_LAC8,0.00013887821841790144,Land Cover
+Procambarus clarkii,4,l_LAC9,0.0001382237487012474,Land Cover
+Procambarus clarkii,4,l_SOL1,0.01930604192446886,Soil
+Procambarus clarkii,4,l_SOL10,0.003302611266276751,Soil
+Procambarus clarkii,4,l_SOL12,0.0004585767951352978,Soil
+Procambarus clarkii,4,l_SOL14,0.008191975760616178,Soil
+Procambarus clarkii,4,l_SOL16,0.0004430857022121057,Soil
+Procambarus clarkii,4,l_SOL17,0.006423994661376354,Soil
+Procambarus clarkii,4,l_SOL2,0.016961553330233546,Soil
+Procambarus clarkii,4,l_SOL20,0.0004108652149860547,Soil
+Procambarus clarkii,4,l_SOL21,0.03825436292061772,Soil
+Procambarus clarkii,4,l_SOL24,0.0035859152886315404,Soil
+Procambarus clarkii,4,l_SOL25,0.030399893044637843,Soil
+Procambarus clarkii,4,l_SOL26,0.034215313733587174,Soil
+Procambarus clarkii,4,l_SOL28,0.0004692479604449835,Soil
+Procambarus clarkii,4,l_SOL29,0.003277485141692551,Soil
+Procambarus clarkii,4,l_SOL3,0.018224003638461404,Soil
+Procambarus clarkii,4,l_SOL30,0.002731825913366737,Soil
+Procambarus clarkii,4,l_SOL31,0.004279465901797398,Soil
+Procambarus clarkii,4,l_SOL32,0.0007356176815324062,Soil
+Procambarus clarkii,4,l_SOL33,0.001188015280846505,Soil
+Procambarus clarkii,4,l_SOL35,0.0035505639311208034,Soil
+Procambarus clarkii,4,l_SOL36,0.0018617684446234513,Soil
+Procambarus clarkii,4,l_SOL37,0.002551639636125675,Soil
+Procambarus clarkii,4,l_SOL38,0.0011351956609652032,Soil
+Procambarus clarkii,4,l_SOL39,0.0016571393505134242,Soil
+Procambarus clarkii,4,l_SOL4,0.0003610701424084714,Soil
+Procambarus clarkii,4,l_SOL40,0.0005283448541054292,Soil
+Procambarus clarkii,4,l_SOL42,0.004114074480751132,Soil
+Procambarus clarkii,4,l_SOL44,0.0005427715555277889,Soil
+Procambarus clarkii,4,l_SOL45,0.0015903448416270485,Soil
+Procambarus clarkii,4,l_SOL46,0.0011918059899293674,Soil
+Procambarus clarkii,4,l_SOL47,0.002563338162535196,Soil
+Procambarus clarkii,4,l_SOL48,0.00016853382936131463,Soil
+Procambarus clarkii,4,l_SOL49,6.742261763038657e-05,Soil
+Procambarus clarkii,4,l_SOL5,0.0030630392203424674,Soil
+Procambarus clarkii,4,l_SOL50,0.00010069485144117822,Soil
+Procambarus clarkii,4,l_SOL51,0.00018453162863349775,Soil
+Procambarus clarkii,4,l_SOL52,0.0001548459433299099,Soil
+Procambarus clarkii,4,l_SOL53,0.0019199061064885514,Soil
+Procambarus clarkii,4,l_SOL54,0.0002459570960726349,Soil
+Procambarus clarkii,4,l_SOL55,0.0013149787936679775,Soil
+Procambarus clarkii,4,l_SOL56,0.001121699781556684,Soil
+Procambarus clarkii,4,l_SOL57,0.0010632591937054965,Soil
+Procambarus clarkii,4,l_SOL58,0.0019031541187532555,Soil
+Procambarus clarkii,4,l_SOL59,0.0016206090901927923,Soil
+Procambarus clarkii,4,l_SOL6,0.0030845279831100848,Soil
+Procambarus clarkii,4,l_SOL60,0.0006478518918263066,Soil
+Procambarus clarkii,4,l_SOL7,0.0050850590952476035,Soil
+Procambarus clarkii,4,l_SOL8,0.0004786078464018128,Soil
+Procambarus clarkii,4,l_SOL9,0.0032374373994746588,Soil
+Procambarus clarkii,4,l_TOP10,0.0009421757971709424,Topography
+Procambarus clarkii,4,l_TOP101,0.016638662887479484,Topography
+Procambarus clarkii,4,l_TOP102,0.06684205442532049,Topography
+Procambarus clarkii,4,l_TOP103,0.0005697463072255451,Topography
+Procambarus clarkii,4,l_TOP104,0.0016251773163971485,Topography
+Procambarus clarkii,4,l_TOP105,0.00018223218344727706,Topography
+Procambarus clarkii,4,l_TOP106,0.00030874189481586,Topography
+Procambarus clarkii,4,l_TOP107,0.0003415750698663429,Topography
+Procambarus clarkii,4,l_TOP108,0.0002921416099355733,Topography
+Procambarus clarkii,4,l_TOP109,0.012492884094515431,Topography
+Procambarus clarkii,4,l_TOP111,0.00042561234257348197,Topography
+Procambarus clarkii,4,l_TOP112,0.00041714126824399163,Topography
+Procambarus clarkii,4,l_TOP116,0.004495221373132186,Topography
+Procambarus clarkii,4,l_TOP118,0.00013767667994695176,Topography
+Procambarus clarkii,4,l_TOP119,0.00027744166614867427,Topography
+Procambarus clarkii,4,l_TOP124,0.0017236791072907489,Topography
+Procambarus clarkii,4,l_TOP125,0.0006440831492374686,Topography
+Procambarus clarkii,4,l_TOP126,0.0006311614994242576,Topography
+Procambarus clarkii,4,l_TOP127,0.00034227395551381676,Topography
+Procambarus clarkii,4,l_TOP128,0.003071309694827914,Topography
+Procambarus clarkii,4,l_TOP129,0.0006147627333955836,Topography
+Procambarus clarkii,4,l_TOP130,0.0006559804137567811,Topography
+Procambarus clarkii,4,l_TOP131,0.00027322122394184893,Topography
+Procambarus clarkii,4,l_TOP132,0.00036684650177847857,Topography
+Procambarus clarkii,4,l_TOP133,5.206087041696124e-05,Topography
+Procambarus clarkii,4,l_TOP134,0.0003967399578883754,Topography
+Procambarus clarkii,4,l_TOP135,0.00046292628527803357,Topography
+Procambarus clarkii,4,l_TOP136,0.0003448569722247779,Topography
+Procambarus clarkii,4,l_TOP137,0.0004058398679364383,Topography
+Procambarus clarkii,4,l_TOP138,0.0005360733277544847,Topography
+Procambarus clarkii,4,l_TOP139,0.0010988854397247052,Topography
+Procambarus clarkii,4,l_TOP14,0.0028886657630954955,Topography
+Procambarus clarkii,4,l_TOP140,0.0006585225575231463,Topography
+Procambarus clarkii,4,l_TOP141,0.0034307483665291664,Topography
+Procambarus clarkii,4,l_TOP142,0.0003881360095254655,Topography
+Procambarus clarkii,4,l_TOP143,0.0004072600926103426,Topography
+Procambarus clarkii,4,l_TOP144,0.000376853687617713,Topography
+Procambarus clarkii,4,l_TOP15,0.0014061380234768332,Topography
+Procambarus clarkii,4,l_TOP16,0.0023851058070720943,Topography
+Procambarus clarkii,4,l_TOP17,1.5806634177735038e-19,Topography
+Procambarus clarkii,4,l_TOP18,0.00048423976811457723,Topography
+Procambarus clarkii,4,l_TOP19,0.0004557210156094126,Topography
+Procambarus clarkii,4,l_TOP2,0.0012357002600089718,Topography
+Procambarus clarkii,4,l_TOP20,0.00039726792104826297,Topography
+Procambarus clarkii,4,l_TOP21,1.553765116385953e-18,Topography
+Procambarus clarkii,4,l_TOP22,0.0004336596760454172,Topography
+Procambarus clarkii,4,l_TOP23,0.0005583210970523519,Topography
+Procambarus clarkii,4,l_TOP24,0.0005025492188082878,Topography
+Procambarus clarkii,4,l_TOP27,0.00026597808992736237,Topography
+Procambarus clarkii,4,l_TOP28,0.0003315988322395745,Topography
+Procambarus clarkii,4,l_TOP3,0.0011824868678312118,Topography
+Procambarus clarkii,4,l_TOP32,0.00044227906217093665,Topography
+Procambarus clarkii,4,l_TOP38,0.00043240805935482353,Topography
+Procambarus clarkii,4,l_TOP39,0.0004095239058237436,Topography
+Procambarus clarkii,4,l_TOP4,0.002611939818895108,Topography
+Procambarus clarkii,4,l_TOP40,0.00037864512839200725,Topography
+Procambarus clarkii,4,l_TOP41,8.908922367810814e-20,Topography
+Procambarus clarkii,4,l_TOP42,0.000881693277598732,Topography
+Procambarus clarkii,4,l_TOP43,0.0009047104369490451,Topography
+Procambarus clarkii,4,l_TOP44,0.0016707942499846248,Topography
+Procambarus clarkii,4,l_TOP45,1.6792425135574848e-18,Topography
+Procambarus clarkii,4,l_TOP47,0.0010074807942497906,Topography
+Procambarus clarkii,4,l_TOP48,0.0018977387399467058,Topography
+Procambarus clarkii,4,l_TOP49,9.517098061863451e-05,Topography
+Procambarus clarkii,4,l_TOP5,0.001830245457888112,Topography
+Procambarus clarkii,4,l_TOP51,0.0009347088569985692,Topography
+Procambarus clarkii,4,l_TOP52,0.0013652319688165768,Topography
+Procambarus clarkii,4,l_TOP53,0.0037919077961912663,Topography
+Procambarus clarkii,4,l_TOP59,0.0010103383806696201,Topography
+Procambarus clarkii,4,l_TOP6,0.0007497153525636588,Topography
+Procambarus clarkii,4,l_TOP60,0.0021086562607770185,Topography
+Procambarus clarkii,4,l_TOP63,0.00023937881541620558,Topography
+Procambarus clarkii,4,l_TOP64,0.00026628035866313454,Topography
+Procambarus clarkii,4,l_TOP65,0.0001372508261221881,Topography
+Procambarus clarkii,4,l_TOP66,0.00032227714921935377,Topography
+Procambarus clarkii,4,l_TOP67,0.00036513814461775883,Topography
+Procambarus clarkii,4,l_TOP68,0.00037316389514642826,Topography
+Procambarus clarkii,4,l_TOP69,8.056169593070825e-05,Topography
+Procambarus clarkii,4,l_TOP71,0.00035894129793084795,Topography
+Procambarus clarkii,4,l_TOP73,0.00015103457387553748,Topography
+Procambarus clarkii,4,l_TOP74,0.00044831748852101964,Topography
+Procambarus clarkii,4,l_TOP75,0.0003419190783350812,Topography
+Procambarus clarkii,4,l_TOP76,0.0003056490009333753,Topography
+Procambarus clarkii,4,l_TOP79,0.0002701622417614261,Topography
+Procambarus clarkii,4,l_TOP83,0.00026463276322131687,Topography
+Procambarus clarkii,4,l_TOP89,3.988426449148362e-05,Topography
+Procambarus clarkii,4,l_TOP9,6.384461834046173e-05,Topography
+Procambarus clarkii,4,l_TOP90,0.00018137293492988856,Topography
+Procambarus clarkii,4,l_TOP91,0.00024729111852749616,Topography
+Procambarus clarkii,4,l_TOP92,0.00030971474735421464,Topography
+Procambarus clarkii,4,l_TOP93,0.007070698214754888,Topography
+Procambarus clarkii,4,l_TOP97,0.012412799281405285,Topography
+Procambarus clarkii,5,l_CLI12,0.0003169165288960559,Climate
+Procambarus clarkii,5,l_CLI14,0.03538660694267481,Climate
+Procambarus clarkii,5,l_CLI16,0.0003214269479648451,Climate
+Procambarus clarkii,5,l_CLI18,0.053547757515659225,Climate
+Procambarus clarkii,5,l_CLI2,0.07300140664304153,Climate
+Procambarus clarkii,5,l_CLI20,0.0005051797130636587,Climate
+Procambarus clarkii,5,l_CLI21,0.013701572996048026,Climate
+Procambarus clarkii,5,l_CLI24,0.0017916849364597478,Climate
+Procambarus clarkii,5,l_CLI26,0.012555046297099505,Climate
+Procambarus clarkii,5,l_CLI28,0.00024046598101876956,Climate
+Procambarus clarkii,5,l_CLI30,0.04023334621747015,Climate
+Procambarus clarkii,5,l_CLI32,0.00042015607782801647,Climate
+Procambarus clarkii,5,l_CLI33,0.01828149116593736,Climate
+Procambarus clarkii,5,l_CLI36,0.0007196415082916468,Climate
+Procambarus clarkii,5,l_CLI38,0.09337102368372452,Climate
+Procambarus clarkii,5,l_CLI4,0.0006522210960720848,Climate
+Procambarus clarkii,5,l_CLI40,0.0004220799787045752,Climate
+Procambarus clarkii,5,l_CLI41,0.02083915235295178,Climate
+Procambarus clarkii,5,l_CLI44,0.0034254460187290096,Climate
+Procambarus clarkii,5,l_CLI46,0.017995842408977593,Climate
+Procambarus clarkii,5,l_CLI48,0.000326896333391209,Climate
+Procambarus clarkii,5,l_CLI49,0.01503212805037693,Climate
+Procambarus clarkii,5,l_CLI56,0.0007837296811977532,Climate
+Procambarus clarkii,5,l_CLI57,0.056940847205384656,Climate
+Procambarus clarkii,5,l_CLI6,0.008770836308442552,Climate
+Procambarus clarkii,5,l_CLI60,0.0004518914317607819,Climate
+Procambarus clarkii,5,l_CLI64,0.00039748802748412087,Climate
+Procambarus clarkii,5,l_CLI66,0.03150248415302733,Climate
+Procambarus clarkii,5,l_CLI70,0.05058123567106397,Climate
+Procambarus clarkii,5,l_CLI72,0.0006653366007645804,Climate
+Procambarus clarkii,5,l_CLI75,0.009922080500441733,Climate
+Procambarus clarkii,5,l_CLI76,0.0006059056708774317,Climate
+Procambarus clarkii,5,l_CLI8,0.0001707926967503585,Climate
+Procambarus clarkii,5,l_CLI9,0.017118635634479185,Climate
+Procambarus clarkii,5,l_LAC1,0.00027691278505578186,Land Cover
+Procambarus clarkii,5,l_LAC10,9.515859263952525e-05,Land Cover
+Procambarus clarkii,5,l_LAC11,6.932487505172945e-19,Land Cover
+Procambarus clarkii,5,l_LAC12,0.00021761916257269137,Land Cover
+Procambarus clarkii,5,l_LAC13,0.0005558900099525647,Land Cover
+Procambarus clarkii,5,l_LAC15,3.12743015524468e-05,Land Cover
+Procambarus clarkii,5,l_LAC16,0.0014407369455097226,Land Cover
+Procambarus clarkii,5,l_LAC17,6.485809956218194e-06,Land Cover
+Procambarus clarkii,5,l_LAC18,9.25847185492297e-05,Land Cover
+Procambarus clarkii,5,l_LAC19,0.0003484469681265029,Land Cover
+Procambarus clarkii,5,l_LAC2,0.003127392709064604,Land Cover
+Procambarus clarkii,5,l_LAC20,2.529216208362895e-05,Land Cover
+Procambarus clarkii,5,l_LAC21,0.00015405379356368774,Land Cover
+Procambarus clarkii,5,l_LAC3,5.00761915325471e-05,Land Cover
+Procambarus clarkii,5,l_LAC4,0.00013503698343927595,Land Cover
+Procambarus clarkii,5,l_LAC5,0.00010736949284849102,Land Cover
+Procambarus clarkii,5,l_LAC6,0.0001455498210377269,Land Cover
+Procambarus clarkii,5,l_LAC7,0.0009832482136318864,Land Cover
+Procambarus clarkii,5,l_LAC8,0.00022747451408076968,Land Cover
+Procambarus clarkii,5,l_LAC9,0.00014301025588380574,Land Cover
+Procambarus clarkii,5,l_SOL1,0.023777408054503638,Soil
+Procambarus clarkii,5,l_SOL10,0.0036322043296079408,Soil
+Procambarus clarkii,5,l_SOL12,0.00037573824523332104,Soil
+Procambarus clarkii,5,l_SOL14,0.007098143027603627,Soil
+Procambarus clarkii,5,l_SOL16,0.0004187853960958588,Soil
+Procambarus clarkii,5,l_SOL17,0.006809914918955299,Soil
+Procambarus clarkii,5,l_SOL2,0.017508297218239512,Soil
+Procambarus clarkii,5,l_SOL20,0.00036515704495841537,Soil
+Procambarus clarkii,5,l_SOL21,0.03177239082050265,Soil
+Procambarus clarkii,5,l_SOL24,0.004053201953008927,Soil
+Procambarus clarkii,5,l_SOL25,0.03619790402589283,Soil
+Procambarus clarkii,5,l_SOL26,0.036250212738186,Soil
+Procambarus clarkii,5,l_SOL28,0.0004854629722306159,Soil
+Procambarus clarkii,5,l_SOL29,0.0028394104429764113,Soil
+Procambarus clarkii,5,l_SOL3,0.01971412895883282,Soil
+Procambarus clarkii,5,l_SOL30,0.002776299052602782,Soil
+Procambarus clarkii,5,l_SOL31,0.0036193081225804145,Soil
+Procambarus clarkii,5,l_SOL32,0.0007904186545591432,Soil
+Procambarus clarkii,5,l_SOL33,0.0006801974777634056,Soil
+Procambarus clarkii,5,l_SOL35,0.004304450435193944,Soil
+Procambarus clarkii,5,l_SOL36,0.001918161465211037,Soil
+Procambarus clarkii,5,l_SOL37,0.0018560389897192351,Soil
+Procambarus clarkii,5,l_SOL38,0.0013918902846480861,Soil
+Procambarus clarkii,5,l_SOL39,0.002691350819201583,Soil
+Procambarus clarkii,5,l_SOL4,0.000388607332804147,Soil
+Procambarus clarkii,5,l_SOL40,0.0006306537670553069,Soil
+Procambarus clarkii,5,l_SOL42,0.0036843513255556655,Soil
+Procambarus clarkii,5,l_SOL44,0.0004651546395672979,Soil
+Procambarus clarkii,5,l_SOL45,0.0012678830666469235,Soil
+Procambarus clarkii,5,l_SOL46,0.0015701922444666487,Soil
+Procambarus clarkii,5,l_SOL47,0.0019830830814450535,Soil
+Procambarus clarkii,5,l_SOL48,0.00021006757247818384,Soil
+Procambarus clarkii,5,l_SOL49,5.281633294687583e-05,Soil
+Procambarus clarkii,5,l_SOL5,0.0035128389774009327,Soil
+Procambarus clarkii,5,l_SOL50,0.0002181765216600348,Soil
+Procambarus clarkii,5,l_SOL51,0.00015165947746395727,Soil
+Procambarus clarkii,5,l_SOL52,0.00017592579384004628,Soil
+Procambarus clarkii,5,l_SOL53,0.0013382475983486082,Soil
+Procambarus clarkii,5,l_SOL54,0.00023110990524720926,Soil
+Procambarus clarkii,5,l_SOL55,0.0013160315904758113,Soil
+Procambarus clarkii,5,l_SOL56,0.0008655149110460466,Soil
+Procambarus clarkii,5,l_SOL57,0.0008051671069556035,Soil
+Procambarus clarkii,5,l_SOL58,0.0022206701200789924,Soil
+Procambarus clarkii,5,l_SOL59,0.0017223355896101044,Soil
+Procambarus clarkii,5,l_SOL6,0.0031821548041858086,Soil
+Procambarus clarkii,5,l_SOL60,0.0008984917204666211,Soil
+Procambarus clarkii,5,l_SOL7,0.005492817835311134,Soil
+Procambarus clarkii,5,l_SOL8,0.00044876724625188627,Soil
+Procambarus clarkii,5,l_SOL9,0.0036355219315220857,Soil
+Procambarus clarkii,5,l_TOP10,0.001555470044559516,Topography
+Procambarus clarkii,5,l_TOP101,0.012719727629604613,Topography
+Procambarus clarkii,5,l_TOP102,0.05637050157131814,Topography
+Procambarus clarkii,5,l_TOP103,0.0006809729001322695,Topography
+Procambarus clarkii,5,l_TOP104,0.0011236291463940324,Topography
+Procambarus clarkii,5,l_TOP105,0.00021185241841293644,Topography
+Procambarus clarkii,5,l_TOP106,0.000240920383119057,Topography
+Procambarus clarkii,5,l_TOP107,0.00044929635685618156,Topography
+Procambarus clarkii,5,l_TOP108,0.00024178660736197155,Topography
+Procambarus clarkii,5,l_TOP109,0.012679807814338697,Topography
+Procambarus clarkii,5,l_TOP111,0.00039588516577266313,Topography
+Procambarus clarkii,5,l_TOP112,0.0004440183335912686,Topography
+Procambarus clarkii,5,l_TOP116,0.004881158060941111,Topography
+Procambarus clarkii,5,l_TOP118,0.0001610031320910473,Topography
+Procambarus clarkii,5,l_TOP119,0.00027283921190773814,Topography
+Procambarus clarkii,5,l_TOP124,0.002526478169676435,Topography
+Procambarus clarkii,5,l_TOP125,0.0005653785480908414,Topography
+Procambarus clarkii,5,l_TOP126,0.0006404937119479648,Topography
+Procambarus clarkii,5,l_TOP127,0.0003441263155618469,Topography
+Procambarus clarkii,5,l_TOP128,0.0020620440952194693,Topography
+Procambarus clarkii,5,l_TOP129,0.0005541509767784178,Topography
+Procambarus clarkii,5,l_TOP130,0.0006853298961272628,Topography
+Procambarus clarkii,5,l_TOP131,0.0003094779339002291,Topography
+Procambarus clarkii,5,l_TOP132,0.0004051799923388207,Topography
+Procambarus clarkii,5,l_TOP133,2.11361157344587e-05,Topography
+Procambarus clarkii,5,l_TOP134,0.0003789715304230374,Topography
+Procambarus clarkii,5,l_TOP135,0.0004279485592437987,Topography
+Procambarus clarkii,5,l_TOP136,0.0004091067174050053,Topography
+Procambarus clarkii,5,l_TOP137,0.0002763320808619582,Topography
+Procambarus clarkii,5,l_TOP138,0.00048408629970036343,Topography
+Procambarus clarkii,5,l_TOP139,0.0007533863507740773,Topography
+Procambarus clarkii,5,l_TOP14,0.0016628441687216787,Topography
+Procambarus clarkii,5,l_TOP140,0.0005545201315281053,Topography
+Procambarus clarkii,5,l_TOP141,0.0027341261795301927,Topography
+Procambarus clarkii,5,l_TOP142,0.00040258494248181963,Topography
+Procambarus clarkii,5,l_TOP143,0.0006223513478429609,Topography
+Procambarus clarkii,5,l_TOP144,0.00037943742227347204,Topography
+Procambarus clarkii,5,l_TOP15,0.0013972493767865077,Topography
+Procambarus clarkii,5,l_TOP16,0.001083447589834134,Topography
+Procambarus clarkii,5,l_TOP17,4.39129724786829e-19,Topography
+Procambarus clarkii,5,l_TOP18,0.000487413007561848,Topography
+Procambarus clarkii,5,l_TOP19,0.00043265368699431904,Topography
+Procambarus clarkii,5,l_TOP2,0.0013086915081718708,Topography
+Procambarus clarkii,5,l_TOP20,0.0004654766400404562,Topography
+Procambarus clarkii,5,l_TOP21,1.7098375447348862e-06,Topography
+Procambarus clarkii,5,l_TOP22,0.00039312403827138575,Topography
+Procambarus clarkii,5,l_TOP23,0.0004598356439685923,Topography
+Procambarus clarkii,5,l_TOP24,0.00042333494373031203,Topography
+Procambarus clarkii,5,l_TOP27,0.00029927978692053276,Topography
+Procambarus clarkii,5,l_TOP28,0.00030987764434376336,Topography
+Procambarus clarkii,5,l_TOP3,0.000857510819072349,Topography
+Procambarus clarkii,5,l_TOP32,0.0004339529345109595,Topography
+Procambarus clarkii,5,l_TOP38,0.0004073600628106416,Topography
+Procambarus clarkii,5,l_TOP39,0.00034951384119388915,Topography
+Procambarus clarkii,5,l_TOP4,0.00204467098189928,Topography
+Procambarus clarkii,5,l_TOP40,0.0003308275913890075,Topography
+Procambarus clarkii,5,l_TOP41,1.333560276510283e-18,Topography
+Procambarus clarkii,5,l_TOP42,0.0014295012827307448,Topography
+Procambarus clarkii,5,l_TOP43,0.0015238729381187317,Topography
+Procambarus clarkii,5,l_TOP44,0.0010709522923341983,Topography
+Procambarus clarkii,5,l_TOP45,1.0275213245916024e-19,Topography
+Procambarus clarkii,5,l_TOP47,0.0008231198416568338,Topography
+Procambarus clarkii,5,l_TOP48,0.0009807495627553553,Topography
+Procambarus clarkii,5,l_TOP49,0.00011351091047751169,Topography
+Procambarus clarkii,5,l_TOP5,0.0024079487196581543,Topography
+Procambarus clarkii,5,l_TOP51,0.0006248954093582652,Topography
+Procambarus clarkii,5,l_TOP52,0.001377569986996325,Topography
+Procambarus clarkii,5,l_TOP53,0.004635828785655436,Topography
+Procambarus clarkii,5,l_TOP59,0.0011133739933517513,Topography
+Procambarus clarkii,5,l_TOP6,0.0005531574908535927,Topography
+Procambarus clarkii,5,l_TOP60,0.0016236360131525551,Topography
+Procambarus clarkii,5,l_TOP63,0.0002987077028094913,Topography
+Procambarus clarkii,5,l_TOP64,0.00028670393341574923,Topography
+Procambarus clarkii,5,l_TOP65,0.0001611182900029782,Topography
+Procambarus clarkii,5,l_TOP66,0.00031875658801944006,Topography
+Procambarus clarkii,5,l_TOP67,0.00033920652481270267,Topography
+Procambarus clarkii,5,l_TOP68,0.0002757938023905259,Topography
+Procambarus clarkii,5,l_TOP69,9.395459237254357e-05,Topography
+Procambarus clarkii,5,l_TOP71,0.00026324767293033833,Topography
+Procambarus clarkii,5,l_TOP73,0.0001982098145495465,Topography
+Procambarus clarkii,5,l_TOP74,0.0004525925121585232,Topography
+Procambarus clarkii,5,l_TOP75,0.0003389908053571197,Topography
+Procambarus clarkii,5,l_TOP76,0.0003932405324889984,Topography
+Procambarus clarkii,5,l_TOP79,0.0003081839404338252,Topography
+Procambarus clarkii,5,l_TOP83,0.0002255899252685633,Topography
+Procambarus clarkii,5,l_TOP89,6.949076274852432e-05,Topography
+Procambarus clarkii,5,l_TOP9,6.20635228404702e-05,Topography
+Procambarus clarkii,5,l_TOP90,0.00015017922907510783,Topography
+Procambarus clarkii,5,l_TOP91,0.00025417325618597934,Topography
+Procambarus clarkii,5,l_TOP92,0.0002442092631267325,Topography
+Procambarus clarkii,5,l_TOP93,0.00810132915936999,Topography
+Procambarus clarkii,5,l_TOP97,0.010814768396660148,Topography

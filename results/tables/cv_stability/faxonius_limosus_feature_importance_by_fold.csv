@@ -1,0 +1,1351 @@
+species,fold,variable,importance,type
+Faxonius limosus,1,l_CLI12,2.412741447622581e-06,Climate
+Faxonius limosus,1,l_CLI13,0.08118220568727358,Climate
+Faxonius limosus,1,l_CLI16,9.025933018956204e-06,Climate
+Faxonius limosus,1,l_CLI19,0.05246648843807459,Climate
+Faxonius limosus,1,l_CLI2,0.0007307742132089219,Climate
+Faxonius limosus,1,l_CLI20,5.767289634194655e-05,Climate
+Faxonius limosus,1,l_CLI22,0.0182536583873209,Climate
+Faxonius limosus,1,l_CLI24,2.113580273353554e-05,Climate
+Faxonius limosus,1,l_CLI25,0.09224901656815736,Climate
+Faxonius limosus,1,l_CLI28,0.0001008190925838802,Climate
+Faxonius limosus,1,l_CLI30,0.03957248566689662,Climate
+Faxonius limosus,1,l_CLI32,2.9972505173369703e-05,Climate
+Faxonius limosus,1,l_CLI33,0.03558894161166666,Climate
+Faxonius limosus,1,l_CLI36,2.9000906642130607e-05,Climate
+Faxonius limosus,1,l_CLI4,6.21240788285526e-05,Climate
+Faxonius limosus,1,l_CLI40,5.159192330778459e-05,Climate
+Faxonius limosus,1,l_CLI42,0.009192370979778581,Climate
+Faxonius limosus,1,l_CLI44,6.26297081356557e-05,Climate
+Faxonius limosus,1,l_CLI45,0.03991134031180207,Climate
+Faxonius limosus,1,l_CLI49,0.03557895136911906,Climate
+Faxonius limosus,1,l_CLI5,0.04002949572031978,Climate
+Faxonius limosus,1,l_CLI52,0.00011066240306428474,Climate
+Faxonius limosus,1,l_CLI56,7.212780023731268e-05,Climate
+Faxonius limosus,1,l_CLI57,0.008815834293782607,Climate
+Faxonius limosus,1,l_CLI60,0.00015032457306840894,Climate
+Faxonius limosus,1,l_CLI61,0.045744389367927546,Climate
+Faxonius limosus,1,l_CLI65,0.03257878122000382,Climate
+Faxonius limosus,1,l_CLI69,0.070526043964324,Climate
+Faxonius limosus,1,l_CLI72,3.773115057483105e-05,Climate
+Faxonius limosus,1,l_CLI73,0.015399442901240425,Climate
+Faxonius limosus,1,l_CLI76,6.373492386120689e-05,Climate
+Faxonius limosus,1,l_CLI8,2.436545133862236e-05,Climate
+Faxonius limosus,1,l_CLI9,0.023078210714771064,Climate
+Faxonius limosus,1,l_LAC1,0.0029625698308095444,Land Cover
+Faxonius limosus,1,l_LAC10,5.025576046627991e-06,Land Cover
+Faxonius limosus,1,l_LAC11,3.5011421214434417e-06,Land Cover
+Faxonius limosus,1,l_LAC12,0.0,Land Cover
+Faxonius limosus,1,l_LAC13,1.5949690388157442e-05,Land Cover
+Faxonius limosus,1,l_LAC15,6.688045921156356e-18,Land Cover
+Faxonius limosus,1,l_LAC16,0.00013815784031979733,Land Cover
+Faxonius limosus,1,l_LAC18,9.703315835319868e-18,Land Cover
+Faxonius limosus,1,l_LAC19,1.7839577562091716e-05,Land Cover
+Faxonius limosus,1,l_LAC2,0.0,Land Cover
+Faxonius limosus,1,l_LAC20,0.0,Land Cover
+Faxonius limosus,1,l_LAC21,2.3465924943265994e-05,Land Cover
+Faxonius limosus,1,l_LAC3,0.00027398001400283297,Land Cover
+Faxonius limosus,1,l_LAC4,0.0003354875164030347,Land Cover
+Faxonius limosus,1,l_LAC6,0.00014562856154578472,Land Cover
+Faxonius limosus,1,l_LAC7,7.577421328477923e-05,Land Cover
+Faxonius limosus,1,l_LAC8,1.315939948846934e-17,Land Cover
+Faxonius limosus,1,l_LAC9,8.325899252659577e-06,Land Cover
+Faxonius limosus,1,l_SOL1,0.005909850634409124,Soil
+Faxonius limosus,1,l_SOL10,0.0007031332909664285,Soil
+Faxonius limosus,1,l_SOL12,2.1425342535372986e-05,Soil
+Faxonius limosus,1,l_SOL13,0.00023932845829073695,Soil
+Faxonius limosus,1,l_SOL16,6.420063206983444e-05,Soil
+Faxonius limosus,1,l_SOL18,0.0001644610199610232,Soil
+Faxonius limosus,1,l_SOL2,0.006399061615520344,Soil
+Faxonius limosus,1,l_SOL20,7.154539766768109e-05,Soil
+Faxonius limosus,1,l_SOL21,0.000608176685537377,Soil
+Faxonius limosus,1,l_SOL24,8.612360602664135e-05,Soil
+Faxonius limosus,1,l_SOL25,0.0014755020046683717,Soil
+Faxonius limosus,1,l_SOL26,0.0037750759543028647,Soil
+Faxonius limosus,1,l_SOL27,0.0021892085010085413,Soil
+Faxonius limosus,1,l_SOL28,0.00010620204209482318,Soil
+Faxonius limosus,1,l_SOL29,0.001675387272179476,Soil
+Faxonius limosus,1,l_SOL3,0.01178917864365158,Soil
+Faxonius limosus,1,l_SOL30,0.0022343981770863003,Soil
+Faxonius limosus,1,l_SOL31,0.0017752896734615244,Soil
+Faxonius limosus,1,l_SOL32,9.469612661547698e-05,Soil
+Faxonius limosus,1,l_SOL33,3.5802468620821015e-05,Soil
+Faxonius limosus,1,l_SOL35,0.00032501087332793366,Soil
+Faxonius limosus,1,l_SOL36,6.843782993810967e-05,Soil
+Faxonius limosus,1,l_SOL37,0.00013869230288734543,Soil
+Faxonius limosus,1,l_SOL38,0.00021408017219633468,Soil
+Faxonius limosus,1,l_SOL39,0.0004630618051104277,Soil
+Faxonius limosus,1,l_SOL4,1.2103281334054153e-06,Soil
+Faxonius limosus,1,l_SOL40,0.00010926586451338234,Soil
+Faxonius limosus,1,l_SOL42,0.01011387725339213,Soil
+Faxonius limosus,1,l_SOL44,0.00011908182542241294,Soil
+Faxonius limosus,1,l_SOL45,0.0057745555667050846,Soil
+Faxonius limosus,1,l_SOL46,0.0021024874836131574,Soil
+Faxonius limosus,1,l_SOL47,0.00278729873304829,Soil
+Faxonius limosus,1,l_SOL48,3.30805773319372e-05,Soil
+Faxonius limosus,1,l_SOL50,0.0,Soil
+Faxonius limosus,1,l_SOL51,1.6098894640053763e-20,Soil
+Faxonius limosus,1,l_SOL52,3.940285423177593e-17,Soil
+Faxonius limosus,1,l_SOL53,6.78709612167712e-06,Soil
+Faxonius limosus,1,l_SOL54,2.411802659452591e-06,Soil
+Faxonius limosus,1,l_SOL55,7.364018622984379e-06,Soil
+Faxonius limosus,1,l_SOL56,7.707536283401053e-05,Soil
+Faxonius limosus,1,l_SOL57,0.00016051131451273818,Soil
+Faxonius limosus,1,l_SOL58,8.227854502631721e-05,Soil
+Faxonius limosus,1,l_SOL59,7.247933419828182e-05,Soil
+Faxonius limosus,1,l_SOL6,0.00023473432210625416,Soil
+Faxonius limosus,1,l_SOL60,0.00011578606880417887,Soil
+Faxonius limosus,1,l_SOL7,0.002698089859009729,Soil
+Faxonius limosus,1,l_SOL8,2.626554023879463e-05,Soil
+Faxonius limosus,1,l_SOL9,0.0006556534909527527,Soil
+Faxonius limosus,1,l_TOP1,0.0001484583788649034,Topography
+Faxonius limosus,1,l_TOP10,0.00012543668763233907,Topography
+Faxonius limosus,1,l_TOP101,0.017715603936158217,Topography
+Faxonius limosus,1,l_TOP102,0.06598099830200035,Topography
+Faxonius limosus,1,l_TOP103,0.0007837950036157868,Topography
+Faxonius limosus,1,l_TOP104,0.00019741342924808238,Topography
+Faxonius limosus,1,l_TOP105,0.0004020132991316351,Topography
+Faxonius limosus,1,l_TOP106,0.0004482769221415523,Topography
+Faxonius limosus,1,l_TOP107,5.905694473173594e-05,Topography
+Faxonius limosus,1,l_TOP108,0.0005047740661837063,Topography
+Faxonius limosus,1,l_TOP111,8.786250329084564e-05,Topography
+Faxonius limosus,1,l_TOP112,7.891650206724507e-05,Topography
+Faxonius limosus,1,l_TOP113,0.0008133728527361437,Topography
+Faxonius limosus,1,l_TOP118,0.00015079050844979744,Topography
+Faxonius limosus,1,l_TOP119,8.375174574650081e-05,Topography
+Faxonius limosus,1,l_TOP12,5.21747208282114e-05,Topography
+Faxonius limosus,1,l_TOP124,0.0010506106529949133,Topography
+Faxonius limosus,1,l_TOP125,7.259313453348166e-05,Topography
+Faxonius limosus,1,l_TOP126,7.439045777250672e-05,Topography
+Faxonius limosus,1,l_TOP127,7.252106718298078e-05,Topography
+Faxonius limosus,1,l_TOP13,0.00010506916893844412,Topography
+Faxonius limosus,1,l_TOP132,0.00023991949683662287,Topography
+Faxonius limosus,1,l_TOP133,7.312372874121175e-06,Topography
+Faxonius limosus,1,l_TOP134,0.00010226776977623067,Topography
+Faxonius limosus,1,l_TOP135,6.841727347133265e-05,Topography
+Faxonius limosus,1,l_TOP136,8.250366443601067e-05,Topography
+Faxonius limosus,1,l_TOP137,0.00010970281897018312,Topography
+Faxonius limosus,1,l_TOP138,4.745721769263022e-05,Topography
+Faxonius limosus,1,l_TOP139,0.00014722690099754578,Topography
+Faxonius limosus,1,l_TOP14,8.531667610426874e-05,Topography
+Faxonius limosus,1,l_TOP140,0.0002009425759893468,Topography
+Faxonius limosus,1,l_TOP141,6.705627636647646e-05,Topography
+Faxonius limosus,1,l_TOP142,0.00027528927879175765,Topography
+Faxonius limosus,1,l_TOP143,0.00019352844667647198,Topography
+Faxonius limosus,1,l_TOP144,0.00040868464592534466,Topography
+Faxonius limosus,1,l_TOP15,0.00012212043088529842,Topography
+Faxonius limosus,1,l_TOP16,7.443831738056528e-05,Topography
+Faxonius limosus,1,l_TOP17,5.3472523345382364e-18,Topography
+Faxonius limosus,1,l_TOP18,3.0339450118845e-05,Topography
+Faxonius limosus,1,l_TOP19,0.00015031025670382523,Topography
+Faxonius limosus,1,l_TOP2,4.436744677243702e-05,Topography
+Faxonius limosus,1,l_TOP20,7.08673419394023e-05,Topography
+Faxonius limosus,1,l_TOP21,1.747381069486111e-17,Topography
+Faxonius limosus,1,l_TOP23,0.0003442729943035601,Topography
+Faxonius limosus,1,l_TOP26,7.950590732567476e-05,Topography
+Faxonius limosus,1,l_TOP27,3.137440515830986e-05,Topography
+Faxonius limosus,1,l_TOP28,6.582484761619652e-05,Topography
+Faxonius limosus,1,l_TOP29,0.009104554498738138,Topography
+Faxonius limosus,1,l_TOP32,0.00010332254457153049,Topography
+Faxonius limosus,1,l_TOP38,6.231094692809974e-05,Topography
+Faxonius limosus,1,l_TOP39,2.263562995926827e-05,Topography
+Faxonius limosus,1,l_TOP4,6.140275074931691e-05,Topography
+Faxonius limosus,1,l_TOP40,1.6867253889216372e-05,Topography
+Faxonius limosus,1,l_TOP41,9.841243203233183e-19,Topography
+Faxonius limosus,1,l_TOP42,4.712111923841859e-05,Topography
+Faxonius limosus,1,l_TOP43,8.684506754485222e-05,Topography
+Faxonius limosus,1,l_TOP44,7.67897651399235e-05,Topography
+Faxonius limosus,1,l_TOP45,7.07699286324491e-18,Topography
+Faxonius limosus,1,l_TOP47,8.976236863794515e-05,Topography
+Faxonius limosus,1,l_TOP48,0.00016018954606359306,Topography
+Faxonius limosus,1,l_TOP49,5.113283439010268e-06,Topography
+Faxonius limosus,1,l_TOP51,0.0001285398271682887,Topography
+Faxonius limosus,1,l_TOP52,0.00011545802941638459,Topography
+Faxonius limosus,1,l_TOP53,0.001064985236552232,Topography
+Faxonius limosus,1,l_TOP59,6.88771538187062e-05,Topography
+Faxonius limosus,1,l_TOP6,9.119684365907835e-05,Topography
+Faxonius limosus,1,l_TOP60,2.9295837040865053e-05,Topography
+Faxonius limosus,1,l_TOP65,0.00023038917796368898,Topography
+Faxonius limosus,1,l_TOP66,9.770968232317169e-05,Topography
+Faxonius limosus,1,l_TOP67,0.0005902542294321072,Topography
+Faxonius limosus,1,l_TOP68,0.0001143344160356739,Topography
+Faxonius limosus,1,l_TOP69,2.303769320609657e-05,Topography
+Faxonius limosus,1,l_TOP7,0.00011888463301755203,Topography
+Faxonius limosus,1,l_TOP70,0.00022127790260555698,Topography
+Faxonius limosus,1,l_TOP73,1.4407096753348954e-05,Topography
+Faxonius limosus,1,l_TOP74,0.0004428446357385047,Topography
+Faxonius limosus,1,l_TOP75,0.00025209272007711825,Topography
+Faxonius limosus,1,l_TOP76,0.0001908668634413968,Topography
+Faxonius limosus,1,l_TOP78,3.553402917258149e-05,Topography
+Faxonius limosus,1,l_TOP79,2.5761671498943834e-05,Topography
+Faxonius limosus,1,l_TOP83,6.214123493309078e-05,Topography
+Faxonius limosus,1,l_TOP85,6.560768552228752e-05,Topography
+Faxonius limosus,1,l_TOP89,4.6788354763550256e-05,Topography
+Faxonius limosus,1,l_TOP9,9.275304933049546e-06,Topography
+Faxonius limosus,1,l_TOP90,0.0001771818726398908,Topography
+Faxonius limosus,1,l_TOP91,2.5589452747068184e-05,Topography
+Faxonius limosus,1,l_TOP92,1.9708971465905026e-05,Topography
+Faxonius limosus,1,l_TOP93,0.006414421573000154,Topography
+Faxonius limosus,1,l_TOP97,0.013596340001427131,Topography
+Faxonius limosus,1,l_TOP99,0.00011663094271428007,Topography
+Faxonius limosus,1,u_CLI11,0.007351395505006437,Climate
+Faxonius limosus,1,u_CLI15,0.02122072053161343,Climate
+Faxonius limosus,1,u_CLI19,0.010568867106768371,Climate
+Faxonius limosus,1,u_CLI23,0.00197846444598732,Climate
+Faxonius limosus,1,u_CLI27,0.018357386526211317,Climate
+Faxonius limosus,1,u_CLI3,0.000368338108025891,Climate
+Faxonius limosus,1,u_CLI31,0.005039340763408188,Climate
+Faxonius limosus,1,u_CLI35,0.0043781380535736015,Climate
+Faxonius limosus,1,u_CLI43,0.001845935720249975,Climate
+Faxonius limosus,1,u_CLI47,0.0072359347243909685,Climate
+Faxonius limosus,1,u_CLI59,0.0024999454362202465,Climate
+Faxonius limosus,1,u_CLI63,0.002999663435995355,Climate
+Faxonius limosus,1,u_CLI67,0.005584586030331259,Climate
+Faxonius limosus,1,u_CLI7,0.00830826731118955,Climate
+Faxonius limosus,1,u_CLI71,0.01761681770210394,Climate
+Faxonius limosus,1,u_CLI75,0.002206245380822902,Climate
+Faxonius limosus,1,u_LAC1,0.001029503077576452,Land Cover
+Faxonius limosus,1,u_LAC10,4.816165839242328e-05,Land Cover
+Faxonius limosus,1,u_LAC11,2.278859550311547e-06,Land Cover
+Faxonius limosus,1,u_LAC12,5.2066576264312127e-05,Land Cover
+Faxonius limosus,1,u_LAC13,6.730582892900491e-05,Land Cover
+Faxonius limosus,1,u_LAC15,0.00015362486563023776,Land Cover
+Faxonius limosus,1,u_LAC16,0.0003373041846457383,Land Cover
+Faxonius limosus,1,u_LAC18,6.254999608000812e-06,Land Cover
+Faxonius limosus,1,u_LAC19,6.412199932384436e-05,Land Cover
+Faxonius limosus,1,u_LAC2,7.154177227741825e-18,Land Cover
+Faxonius limosus,1,u_LAC20,6.90010056136228e-05,Land Cover
+Faxonius limosus,1,u_LAC21,0.00015255247784379627,Land Cover
+Faxonius limosus,1,u_LAC22,2.4583679363632316e-06,Land Cover
+Faxonius limosus,1,u_LAC3,0.002871537573681512,Land Cover
+Faxonius limosus,1,u_LAC4,0.0009436119653428414,Land Cover
+Faxonius limosus,1,u_LAC6,0.00034205587584671006,Land Cover
+Faxonius limosus,1,u_LAC7,0.0001982095842836757,Land Cover
+Faxonius limosus,1,u_LAC8,1.228603665262118e-05,Land Cover
+Faxonius limosus,1,u_LAC9,1.3924580402016681e-05,Land Cover
+Faxonius limosus,1,u_SOL11,0.0003187678276255906,Soil
+Faxonius limosus,1,u_SOL15,8.941953727293086e-05,Soil
+Faxonius limosus,1,u_SOL19,9.196953788079894e-05,Soil
+Faxonius limosus,1,u_SOL23,0.0004736786202951981,Soil
+Faxonius limosus,1,u_SOL27,0.0034966697105662044,Soil
+Faxonius limosus,1,u_SOL3,0.006748212892476425,Soil
+Faxonius limosus,1,u_SOL31,0.0009198513684117939,Soil
+Faxonius limosus,1,u_SOL35,0.000686098591833819,Soil
+Faxonius limosus,1,u_SOL39,0.00014617792884532535,Soil
+Faxonius limosus,1,u_SOL43,0.00258182205057682,Soil
+Faxonius limosus,1,u_SOL47,0.0016654655843422884,Soil
+Faxonius limosus,1,u_SOL51,7.175869653558639e-06,Soil
+Faxonius limosus,1,u_SOL55,4.262631785570685e-05,Soil
+Faxonius limosus,1,u_SOL59,0.00012416463410755258,Soil
+Faxonius limosus,1,u_SOL7,0.0007904641669357234,Soil
+Faxonius limosus,1,u_TOP103,0.007328507225263986,Topography
+Faxonius limosus,1,u_TOP11,0.0012070088282194803,Topography
+Faxonius limosus,1,u_TOP110,0.00011403774970394384,Topography
+Faxonius limosus,1,u_TOP111,6.333923051941126e-05,Topography
+Faxonius limosus,1,u_TOP112,7.307709648096415e-05,Topography
+Faxonius limosus,1,u_TOP113,6.914303791319209e-05,Topography
+Faxonius limosus,1,u_TOP114,0.002183597708272856,Topography
+Faxonius limosus,1,u_TOP117,6.959083911033554e-05,Topography
+Faxonius limosus,1,u_TOP122,0.00039066853672935497,Topography
+Faxonius limosus,1,u_TOP126,1.899289275954355e-05,Topography
+Faxonius limosus,1,u_TOP135,2.548139482371556e-05,Topography
+Faxonius limosus,1,u_TOP139,0.0001862667430302414,Topography
+Faxonius limosus,1,u_TOP143,0.00020158480359072233,Topography
+Faxonius limosus,1,u_TOP15,0.0006724964277380524,Topography
+Faxonius limosus,1,u_TOP19,0.0004599012184820784,Topography
+Faxonius limosus,1,u_TOP23,0.0005128071101583994,Topography
+Faxonius limosus,1,u_TOP27,0.00015620573521179013,Topography
+Faxonius limosus,1,u_TOP31,0.0020151534599620827,Topography
+Faxonius limosus,1,u_TOP35,0.0008209925844817996,Topography
+Faxonius limosus,1,u_TOP39,2.5748266673359276e-05,Topography
+Faxonius limosus,1,u_TOP47,0.00017687306107057806,Topography
+Faxonius limosus,1,u_TOP51,0.0003027376308442326,Topography
+Faxonius limosus,1,u_TOP55,0.00041443976039037616,Topography
+Faxonius limosus,1,u_TOP59,0.00012973049916596387,Topography
+Faxonius limosus,1,u_TOP63,0.00014071110845425463,Topography
+Faxonius limosus,1,u_TOP67,0.0004750417075986404,Topography
+Faxonius limosus,1,u_TOP7,0.0009651500253069549,Topography
+Faxonius limosus,1,u_TOP71,5.645721800605292e-05,Topography
+Faxonius limosus,1,u_TOP79,0.0006671281115993305,Topography
+Faxonius limosus,1,u_TOP91,4.616048043032207e-05,Topography
+Faxonius limosus,1,u_TOP99,4.1729614489629454e-05,Topography
+Faxonius limosus,2,l_CLI12,3.5218128202151464e-05,Climate
+Faxonius limosus,2,l_CLI13,0.08717624634778436,Climate
+Faxonius limosus,2,l_CLI16,5.5942550202853724e-05,Climate
+Faxonius limosus,2,l_CLI19,0.029231281095569748,Climate
+Faxonius limosus,2,l_CLI2,0.0012508339007013824,Climate
+Faxonius limosus,2,l_CLI20,2.3419267695788436e-05,Climate
+Faxonius limosus,2,l_CLI22,0.027023590111294012,Climate
+Faxonius limosus,2,l_CLI24,2.352086740894964e-05,Climate
+Faxonius limosus,2,l_CLI25,0.10398626270931828,Climate
+Faxonius limosus,2,l_CLI28,1.9342945438471508e-05,Climate
+Faxonius limosus,2,l_CLI30,0.044883574006418056,Climate
+Faxonius limosus,2,l_CLI32,2.3322669730928215e-05,Climate
+Faxonius limosus,2,l_CLI33,0.023087305751545606,Climate
+Faxonius limosus,2,l_CLI36,5.5937017136625936e-05,Climate
+Faxonius limosus,2,l_CLI4,1.062298970732745e-05,Climate
+Faxonius limosus,2,l_CLI40,2.4440529045001526e-05,Climate
+Faxonius limosus,2,l_CLI42,0.007562287748843858,Climate
+Faxonius limosus,2,l_CLI44,3.32278282485679e-05,Climate
+Faxonius limosus,2,l_CLI45,0.04619891057100839,Climate
+Faxonius limosus,2,l_CLI49,0.042852739038761904,Climate
+Faxonius limosus,2,l_CLI5,0.030484913825567894,Climate
+Faxonius limosus,2,l_CLI52,0.00011803545260056945,Climate
+Faxonius limosus,2,l_CLI56,4.9390011193080886e-05,Climate
+Faxonius limosus,2,l_CLI57,0.006431795959297541,Climate
+Faxonius limosus,2,l_CLI60,0.00010868355143444273,Climate
+Faxonius limosus,2,l_CLI61,0.03993101755148807,Climate
+Faxonius limosus,2,l_CLI65,0.02757424057209704,Climate
+Faxonius limosus,2,l_CLI69,0.08610611740408115,Climate
+Faxonius limosus,2,l_CLI72,5.4379726917787305e-05,Climate
+Faxonius limosus,2,l_CLI73,0.01146885457455655,Climate
+Faxonius limosus,2,l_CLI76,5.4628758167112824e-05,Climate
+Faxonius limosus,2,l_CLI8,6.62238094173206e-05,Climate
+Faxonius limosus,2,l_CLI9,0.025543420595781876,Climate
+Faxonius limosus,2,l_LAC1,0.0019479209967922218,Land Cover
+Faxonius limosus,2,l_LAC10,4.701226552386829e-06,Land Cover
+Faxonius limosus,2,l_LAC11,2.7803454037851385e-17,Land Cover
+Faxonius limosus,2,l_LAC12,2.490247894815097e-19,Land Cover
+Faxonius limosus,2,l_LAC13,2.8869117572730964e-05,Land Cover
+Faxonius limosus,2,l_LAC15,0.0,Land Cover
+Faxonius limosus,2,l_LAC16,5.081715595993897e-05,Land Cover
+Faxonius limosus,2,l_LAC18,1.0960143554903262e-05,Land Cover
+Faxonius limosus,2,l_LAC19,7.907728591972223e-05,Land Cover
+Faxonius limosus,2,l_LAC2,5.996571515849703e-18,Land Cover
+Faxonius limosus,2,l_LAC20,0.0,Land Cover
+Faxonius limosus,2,l_LAC21,9.015697854505749e-06,Land Cover
+Faxonius limosus,2,l_LAC3,0.0004854921528199218,Land Cover
+Faxonius limosus,2,l_LAC4,0.00031488494487039663,Land Cover
+Faxonius limosus,2,l_LAC6,8.121579290896364e-05,Land Cover
+Faxonius limosus,2,l_LAC7,2.7269428765119603e-05,Land Cover
+Faxonius limosus,2,l_LAC8,2.513855169791462e-05,Land Cover
+Faxonius limosus,2,l_LAC9,1.241143875511114e-06,Land Cover
+Faxonius limosus,2,l_SOL1,0.007790753911431044,Soil
+Faxonius limosus,2,l_SOL10,0.00044297466720114666,Soil
+Faxonius limosus,2,l_SOL12,0.00013956082994333611,Soil
+Faxonius limosus,2,l_SOL13,0.00037485478722221156,Soil
+Faxonius limosus,2,l_SOL16,3.255415686058985e-05,Soil
+Faxonius limosus,2,l_SOL18,9.042086092076045e-05,Soil
+Faxonius limosus,2,l_SOL2,0.002508018280046818,Soil
+Faxonius limosus,2,l_SOL20,4.180083547978101e-05,Soil
+Faxonius limosus,2,l_SOL21,0.0005326473859499596,Soil
+Faxonius limosus,2,l_SOL24,0.00011689040516100341,Soil
+Faxonius limosus,2,l_SOL25,0.001954556278955601,Soil
+Faxonius limosus,2,l_SOL26,0.0039709808152149995,Soil
+Faxonius limosus,2,l_SOL27,0.0016819430428178775,Soil
+Faxonius limosus,2,l_SOL28,3.988785537351399e-05,Soil
+Faxonius limosus,2,l_SOL29,0.0009165629177438209,Soil
+Faxonius limosus,2,l_SOL3,0.007827390581865283,Soil
+Faxonius limosus,2,l_SOL30,0.0004567950680876638,Soil
+Faxonius limosus,2,l_SOL31,0.0008208884621467043,Soil
+Faxonius limosus,2,l_SOL32,8.278047103921679e-05,Soil
+Faxonius limosus,2,l_SOL33,0.00027183099983126745,Soil
+Faxonius limosus,2,l_SOL35,0.0005338394638866742,Soil
+Faxonius limosus,2,l_SOL36,0.0004213786522229832,Soil
+Faxonius limosus,2,l_SOL37,9.492719956752171e-05,Soil
+Faxonius limosus,2,l_SOL38,0.0002841233867226696,Soil
+Faxonius limosus,2,l_SOL39,0.0005867470533338059,Soil
+Faxonius limosus,2,l_SOL4,3.1830961664078785e-05,Soil
+Faxonius limosus,2,l_SOL40,7.531478433071855e-05,Soil
+Faxonius limosus,2,l_SOL42,0.012752290701595611,Soil
+Faxonius limosus,2,l_SOL44,1.3997594364756529e-05,Soil
+Faxonius limosus,2,l_SOL45,0.004589389443432142,Soil
+Faxonius limosus,2,l_SOL46,0.0006801130886030223,Soil
+Faxonius limosus,2,l_SOL47,0.004356304352819333,Soil
+Faxonius limosus,2,l_SOL48,2.8297397675015917e-05,Soil
+Faxonius limosus,2,l_SOL50,2.6822505347539816e-18,Soil
+Faxonius limosus,2,l_SOL51,3.729086883461664e-18,Soil
+Faxonius limosus,2,l_SOL52,4.9065254550112694e-18,Soil
+Faxonius limosus,2,l_SOL53,3.0159613009012543e-05,Soil
+Faxonius limosus,2,l_SOL54,9.863265378813002e-06,Soil
+Faxonius limosus,2,l_SOL55,3.277634293325774e-05,Soil
+Faxonius limosus,2,l_SOL56,4.25567350539892e-05,Soil
+Faxonius limosus,2,l_SOL57,0.00023169244481694687,Soil
+Faxonius limosus,2,l_SOL58,5.975619082477294e-05,Soil
+Faxonius limosus,2,l_SOL59,0.00014827625432583256,Soil
+Faxonius limosus,2,l_SOL6,0.00045913673499156155,Soil
+Faxonius limosus,2,l_SOL60,4.602760801250008e-05,Soil
+Faxonius limosus,2,l_SOL7,0.002024155635301365,Soil
+Faxonius limosus,2,l_SOL8,5.252225279971259e-06,Soil
+Faxonius limosus,2,l_SOL9,0.0004640337266979906,Soil
+Faxonius limosus,2,l_TOP1,8.041251013293449e-05,Topography
+Faxonius limosus,2,l_TOP10,7.226011525544072e-05,Topography
+Faxonius limosus,2,l_TOP101,0.018826966636342722,Topography
+Faxonius limosus,2,l_TOP102,0.05652805666539307,Topography
+Faxonius limosus,2,l_TOP103,0.0006938040493300404,Topography
+Faxonius limosus,2,l_TOP104,0.0010853491497199766,Topography
+Faxonius limosus,2,l_TOP105,0.0007378485939790405,Topography
+Faxonius limosus,2,l_TOP106,0.00032129866860555474,Topography
+Faxonius limosus,2,l_TOP107,0.00026615683193195223,Topography
+Faxonius limosus,2,l_TOP108,0.00047231117241506524,Topography
+Faxonius limosus,2,l_TOP111,9.035617406637203e-05,Topography
+Faxonius limosus,2,l_TOP112,0.0001295088597763289,Topography
+Faxonius limosus,2,l_TOP113,0.00026902299822061294,Topography
+Faxonius limosus,2,l_TOP118,0.0001255653605532004,Topography
+Faxonius limosus,2,l_TOP119,0.00010527877426765447,Topography
+Faxonius limosus,2,l_TOP12,9.36624163147519e-05,Topography
+Faxonius limosus,2,l_TOP124,0.000826594642449459,Topography
+Faxonius limosus,2,l_TOP125,9.815739860529503e-05,Topography
+Faxonius limosus,2,l_TOP126,0.00010087464106126112,Topography
+Faxonius limosus,2,l_TOP127,6.362573359839396e-05,Topography
+Faxonius limosus,2,l_TOP13,0.00012473512954069946,Topography
+Faxonius limosus,2,l_TOP132,3.7832130627177396e-05,Topography
+Faxonius limosus,2,l_TOP133,2.4745028918117246e-06,Topography
+Faxonius limosus,2,l_TOP134,6.373536892518944e-05,Topography
+Faxonius limosus,2,l_TOP135,0.00011986334012218844,Topography
+Faxonius limosus,2,l_TOP136,6.397724378076965e-05,Topography
+Faxonius limosus,2,l_TOP137,6.2171295696579e-05,Topography
+Faxonius limosus,2,l_TOP138,6.19168554480648e-05,Topography
+Faxonius limosus,2,l_TOP139,7.584936306383096e-05,Topography
+Faxonius limosus,2,l_TOP14,0.00012093187093059079,Topography
+Faxonius limosus,2,l_TOP140,0.00010063793706974568,Topography
+Faxonius limosus,2,l_TOP141,5.316259143988928e-05,Topography
+Faxonius limosus,2,l_TOP142,9.350563886531333e-05,Topography
+Faxonius limosus,2,l_TOP143,9.361807271055037e-05,Topography
+Faxonius limosus,2,l_TOP144,0.0005197191655915189,Topography
+Faxonius limosus,2,l_TOP15,0.0003104346174210502,Topography
+Faxonius limosus,2,l_TOP16,0.00010965112756044006,Topography
+Faxonius limosus,2,l_TOP17,2.5033237599972654e-18,Topography
+Faxonius limosus,2,l_TOP18,2.2497020523601043e-05,Topography
+Faxonius limosus,2,l_TOP19,2.3658009092846965e-05,Topography
+Faxonius limosus,2,l_TOP2,8.228103811174928e-05,Topography
+Faxonius limosus,2,l_TOP20,8.184445318153941e-05,Topography
+Faxonius limosus,2,l_TOP21,2.908068680342612e-17,Topography
+Faxonius limosus,2,l_TOP23,0.00045160074125792627,Topography
+Faxonius limosus,2,l_TOP26,2.381892955435086e-05,Topography
+Faxonius limosus,2,l_TOP27,6.338692027892187e-05,Topography
+Faxonius limosus,2,l_TOP28,7.338761542166478e-05,Topography
+Faxonius limosus,2,l_TOP29,0.010926158620271034,Topography
+Faxonius limosus,2,l_TOP32,5.555620763862438e-05,Topography
+Faxonius limosus,2,l_TOP38,5.726245209070684e-05,Topography
+Faxonius limosus,2,l_TOP39,1.2518122030893251e-05,Topography
+Faxonius limosus,2,l_TOP4,0.00014464569366476297,Topography
+Faxonius limosus,2,l_TOP40,6.71667848428314e-05,Topography
+Faxonius limosus,2,l_TOP41,0.0,Topography
+Faxonius limosus,2,l_TOP42,5.829681469992068e-05,Topography
+Faxonius limosus,2,l_TOP43,0.00012661259554016223,Topography
+Faxonius limosus,2,l_TOP44,8.518844401724991e-05,Topography
+Faxonius limosus,2,l_TOP45,9.318988424573377e-19,Topography
+Faxonius limosus,2,l_TOP47,0.000263709955908973,Topography
+Faxonius limosus,2,l_TOP48,0.0001747352878901952,Topography
+Faxonius limosus,2,l_TOP49,4.094240386734976e-05,Topography
+Faxonius limosus,2,l_TOP51,0.00014373680534840019,Topography
+Faxonius limosus,2,l_TOP52,2.7504403061232495e-05,Topography
+Faxonius limosus,2,l_TOP53,0.0007815619021437606,Topography
+Faxonius limosus,2,l_TOP59,5.445948131763281e-05,Topography
+Faxonius limosus,2,l_TOP6,2.752405598207285e-05,Topography
+Faxonius limosus,2,l_TOP60,3.462748823423443e-05,Topography
+Faxonius limosus,2,l_TOP65,0.00010382015821145965,Topography
+Faxonius limosus,2,l_TOP66,0.0003240836506388704,Topography
+Faxonius limosus,2,l_TOP67,0.0005016334776763726,Topography
+Faxonius limosus,2,l_TOP68,0.00012028122992959892,Topography
+Faxonius limosus,2,l_TOP69,7.883889615845234e-05,Topography
+Faxonius limosus,2,l_TOP7,8.877536110609541e-05,Topography
+Faxonius limosus,2,l_TOP70,6.248630793081001e-05,Topography
+Faxonius limosus,2,l_TOP73,0.0001140622512222414,Topography
+Faxonius limosus,2,l_TOP74,0.0005543283120697442,Topography
+Faxonius limosus,2,l_TOP75,0.0005097748952439299,Topography
+Faxonius limosus,2,l_TOP76,0.00025313363440932467,Topography
+Faxonius limosus,2,l_TOP78,9.97528973743822e-05,Topography
+Faxonius limosus,2,l_TOP79,0.00028847926051696175,Topography
+Faxonius limosus,2,l_TOP83,5.6493300592850445e-05,Topography
+Faxonius limosus,2,l_TOP85,0.0001047019143102824,Topography
+Faxonius limosus,2,l_TOP89,3.388738349147919e-05,Topography
+Faxonius limosus,2,l_TOP9,1.0533624075404482e-07,Topography
+Faxonius limosus,2,l_TOP90,0.00034301151982229843,Topography
+Faxonius limosus,2,l_TOP91,0.0009682651336634493,Topography
+Faxonius limosus,2,l_TOP92,5.861906743487769e-05,Topography
+Faxonius limosus,2,l_TOP93,0.007082481393047013,Topography
+Faxonius limosus,2,l_TOP97,0.013563618416595223,Topography
+Faxonius limosus,2,l_TOP99,3.983401898460994e-05,Topography
+Faxonius limosus,2,u_CLI11,0.0054348831430941795,Climate
+Faxonius limosus,2,u_CLI15,0.02636989958108034,Climate
+Faxonius limosus,2,u_CLI19,0.01352026180316919,Climate
+Faxonius limosus,2,u_CLI23,0.004383119833157217,Climate
+Faxonius limosus,2,u_CLI27,0.02614999661132909,Climate
+Faxonius limosus,2,u_CLI3,0.00019398330665475256,Climate
+Faxonius limosus,2,u_CLI31,0.006636595990747268,Climate
+Faxonius limosus,2,u_CLI35,0.004058276430994636,Climate
+Faxonius limosus,2,u_CLI43,0.0007701296712044952,Climate
+Faxonius limosus,2,u_CLI47,0.0034616662204117227,Climate
+Faxonius limosus,2,u_CLI59,0.0020764194520739667,Climate
+Faxonius limosus,2,u_CLI63,0.002288992370340229,Climate
+Faxonius limosus,2,u_CLI67,0.0029259276453216607,Climate
+Faxonius limosus,2,u_CLI7,0.012277478769594823,Climate
+Faxonius limosus,2,u_CLI71,0.01383900173263031,Climate
+Faxonius limosus,2,u_CLI75,0.0022802433805414824,Climate
+Faxonius limosus,2,u_LAC1,0.0012205006269907445,Land Cover
+Faxonius limosus,2,u_LAC10,0.0001737140025396599,Land Cover
+Faxonius limosus,2,u_LAC11,7.165952390691962e-06,Land Cover
+Faxonius limosus,2,u_LAC12,5.588245602835574e-05,Land Cover
+Faxonius limosus,2,u_LAC13,4.9044720435057734e-05,Land Cover
+Faxonius limosus,2,u_LAC15,0.00013933447454525185,Land Cover
+Faxonius limosus,2,u_LAC16,0.0006816107791195473,Land Cover
+Faxonius limosus,2,u_LAC18,2.0760835475845626e-17,Land Cover
+Faxonius limosus,2,u_LAC19,7.243025683751815e-05,Land Cover
+Faxonius limosus,2,u_LAC2,2.2602469830880152e-05,Land Cover
+Faxonius limosus,2,u_LAC20,0.00012369271680360544,Land Cover
+Faxonius limosus,2,u_LAC21,4.655744603352671e-05,Land Cover
+Faxonius limosus,2,u_LAC22,1.8258958340903396e-05,Land Cover
+Faxonius limosus,2,u_LAC3,0.0025119544944008777,Land Cover
+Faxonius limosus,2,u_LAC4,0.0008275990758518283,Land Cover
+Faxonius limosus,2,u_LAC6,0.0001296515806256758,Land Cover
+Faxonius limosus,2,u_LAC7,0.0002941042778627029,Land Cover
+Faxonius limosus,2,u_LAC8,4.599902910816195e-05,Land Cover
+Faxonius limosus,2,u_LAC9,5.641621558860361e-05,Land Cover
+Faxonius limosus,2,u_SOL11,0.0003950604733168567,Soil
+Faxonius limosus,2,u_SOL15,2.7947161258442172e-05,Soil
+Faxonius limosus,2,u_SOL19,9.798436302284734e-05,Soil
+Faxonius limosus,2,u_SOL23,0.00022795218567748976,Soil
+Faxonius limosus,2,u_SOL27,0.004875296318316197,Soil
+Faxonius limosus,2,u_SOL3,0.005076936617713077,Soil
+Faxonius limosus,2,u_SOL31,0.0007952247101652792,Soil
+Faxonius limosus,2,u_SOL35,0.0007263533722580838,Soil
+Faxonius limosus,2,u_SOL39,9.401430315735764e-05,Soil
+Faxonius limosus,2,u_SOL43,0.0020698660190730423,Soil
+Faxonius limosus,2,u_SOL47,0.002178657425193235,Soil
+Faxonius limosus,2,u_SOL51,6.078745558594542e-05,Soil
+Faxonius limosus,2,u_SOL55,5.7768490893675494e-05,Soil
+Faxonius limosus,2,u_SOL59,0.00014700877633542364,Soil
+Faxonius limosus,2,u_SOL7,0.0005674906925603781,Soil
+Faxonius limosus,2,u_TOP103,0.006981907101009876,Topography
+Faxonius limosus,2,u_TOP11,0.0017244590712466089,Topography
+Faxonius limosus,2,u_TOP110,2.6015301497016095e-05,Topography
+Faxonius limosus,2,u_TOP111,4.1634528097590846e-05,Topography
+Faxonius limosus,2,u_TOP112,2.7614418946507003e-05,Topography
+Faxonius limosus,2,u_TOP113,0.00010998690886942207,Topography
+Faxonius limosus,2,u_TOP114,0.00260258975811212,Topography
+Faxonius limosus,2,u_TOP117,0.0002546142028934266,Topography
+Faxonius limosus,2,u_TOP122,0.0006558089154168714,Topography
+Faxonius limosus,2,u_TOP126,0.0001264874715527929,Topography
+Faxonius limosus,2,u_TOP135,1.551486017444988e-05,Topography
+Faxonius limosus,2,u_TOP139,0.00020273662632870387,Topography
+Faxonius limosus,2,u_TOP143,7.549936748906213e-05,Topography
+Faxonius limosus,2,u_TOP15,0.0007986823208388488,Topography
+Faxonius limosus,2,u_TOP19,0.0005699845128645504,Topography
+Faxonius limosus,2,u_TOP23,0.0006434757938174752,Topography
+Faxonius limosus,2,u_TOP27,0.0006301228657694253,Topography
+Faxonius limosus,2,u_TOP31,0.0038266270737854265,Topography
+Faxonius limosus,2,u_TOP35,0.0008705859225012507,Topography
+Faxonius limosus,2,u_TOP39,5.196209801443202e-05,Topography
+Faxonius limosus,2,u_TOP47,0.00044356793083163287,Topography
+Faxonius limosus,2,u_TOP51,0.0001446153091955273,Topography
+Faxonius limosus,2,u_TOP55,0.0008070724613615468,Topography
+Faxonius limosus,2,u_TOP59,0.00010440688931225328,Topography
+Faxonius limosus,2,u_TOP63,0.00030269601706900737,Topography
+Faxonius limosus,2,u_TOP67,0.000952347132854558,Topography
+Faxonius limosus,2,u_TOP7,0.0005879926997148911,Topography
+Faxonius limosus,2,u_TOP71,0.00011110547567044826,Topography
+Faxonius limosus,2,u_TOP79,0.0006253310561051247,Topography
+Faxonius limosus,2,u_TOP91,0.00013110925751075517,Topography
+Faxonius limosus,2,u_TOP99,4.256012864988961e-05,Topography
+Faxonius limosus,3,l_CLI12,2.7592326005407653e-05,Climate
+Faxonius limosus,3,l_CLI13,0.07414861545811048,Climate
+Faxonius limosus,3,l_CLI16,1.2799650209037027e-05,Climate
+Faxonius limosus,3,l_CLI19,0.03976004378151736,Climate
+Faxonius limosus,3,l_CLI2,0.001848109475089117,Climate
+Faxonius limosus,3,l_CLI20,8.65032887139234e-05,Climate
+Faxonius limosus,3,l_CLI22,0.02751724115078285,Climate
+Faxonius limosus,3,l_CLI24,8.816974947284085e-05,Climate
+Faxonius limosus,3,l_CLI25,0.08592464687735789,Climate
+Faxonius limosus,3,l_CLI28,2.730862848328262e-05,Climate
+Faxonius limosus,3,l_CLI30,0.0377798859740475,Climate
+Faxonius limosus,3,l_CLI32,2.6300477668307786e-05,Climate
+Faxonius limosus,3,l_CLI33,0.03566586525886488,Climate
+Faxonius limosus,3,l_CLI36,6.345662710820957e-05,Climate
+Faxonius limosus,3,l_CLI4,4.582541281874777e-05,Climate
+Faxonius limosus,3,l_CLI40,5.427219617243406e-05,Climate
+Faxonius limosus,3,l_CLI42,0.01850066548283589,Climate
+Faxonius limosus,3,l_CLI44,0.00010048139169020467,Climate
+Faxonius limosus,3,l_CLI45,0.04326814866363094,Climate
+Faxonius limosus,3,l_CLI49,0.032439816068615485,Climate
+Faxonius limosus,3,l_CLI5,0.04003201012276385,Climate
+Faxonius limosus,3,l_CLI52,2.5878563274941347e-05,Climate
+Faxonius limosus,3,l_CLI56,0.00011859590280849452,Climate
+Faxonius limosus,3,l_CLI57,0.007541249520887864,Climate
+Faxonius limosus,3,l_CLI60,0.00015024205655398104,Climate
+Faxonius limosus,3,l_CLI61,0.049906754704581544,Climate
+Faxonius limosus,3,l_CLI65,0.041010010319737146,Climate
+Faxonius limosus,3,l_CLI69,0.04914751958801355,Climate
+Faxonius limosus,3,l_CLI72,0.00013876188228744985,Climate
+Faxonius limosus,3,l_CLI73,0.011451797760369632,Climate
+Faxonius limosus,3,l_CLI76,7.516722640963107e-05,Climate
+Faxonius limosus,3,l_CLI8,9.372520003282154e-05,Climate
+Faxonius limosus,3,l_CLI9,0.025100719088406147,Climate
+Faxonius limosus,3,l_LAC1,0.0019661578504703257,Land Cover
+Faxonius limosus,3,l_LAC10,2.9798138560504126e-05,Land Cover
+Faxonius limosus,3,l_LAC11,3.272007499202648e-19,Land Cover
+Faxonius limosus,3,l_LAC12,1.2189146789717596e-06,Land Cover
+Faxonius limosus,3,l_LAC13,5.472032861171218e-05,Land Cover
+Faxonius limosus,3,l_LAC15,1.938775156184415e-18,Land Cover
+Faxonius limosus,3,l_LAC16,0.00020078547574403757,Land Cover
+Faxonius limosus,3,l_LAC18,3.5441431318588126e-06,Land Cover
+Faxonius limosus,3,l_LAC19,7.122192146994774e-05,Land Cover
+Faxonius limosus,3,l_LAC2,3.6334870005828386e-06,Land Cover
+Faxonius limosus,3,l_LAC20,2.4415859446573986e-18,Land Cover
+Faxonius limosus,3,l_LAC21,5.543872988349024e-05,Land Cover
+Faxonius limosus,3,l_LAC3,0.0008096923619254336,Land Cover
+Faxonius limosus,3,l_LAC4,0.00027887368154223537,Land Cover
+Faxonius limosus,3,l_LAC6,8.482082037250936e-05,Land Cover
+Faxonius limosus,3,l_LAC7,2.498525611546468e-05,Land Cover
+Faxonius limosus,3,l_LAC8,1.0271001789266559e-05,Land Cover
+Faxonius limosus,3,l_LAC9,1.4027119870141782e-05,Land Cover
+Faxonius limosus,3,l_SOL1,0.004312897147969496,Soil
+Faxonius limosus,3,l_SOL10,0.00038685394637933876,Soil
+Faxonius limosus,3,l_SOL12,6.804043272024408e-05,Soil
+Faxonius limosus,3,l_SOL13,0.0009919008937871788,Soil
+Faxonius limosus,3,l_SOL16,0.00014191033892927725,Soil
+Faxonius limosus,3,l_SOL18,0.00043472467257592713,Soil
+Faxonius limosus,3,l_SOL2,0.004876048236217285,Soil
+Faxonius limosus,3,l_SOL20,0.00010848982754166315,Soil
+Faxonius limosus,3,l_SOL21,0.00014083459405541098,Soil
+Faxonius limosus,3,l_SOL24,6.118460901072233e-05,Soil
+Faxonius limosus,3,l_SOL25,0.0010481255706457143,Soil
+Faxonius limosus,3,l_SOL26,0.004247724045736901,Soil
+Faxonius limosus,3,l_SOL27,0.002249809359335345,Soil
+Faxonius limosus,3,l_SOL28,0.00010917116630690442,Soil
+Faxonius limosus,3,l_SOL29,0.001530904661975062,Soil
+Faxonius limosus,3,l_SOL3,0.008155730729024766,Soil
+Faxonius limosus,3,l_SOL30,0.0012147672738776684,Soil
+Faxonius limosus,3,l_SOL31,0.0014816070770172112,Soil
+Faxonius limosus,3,l_SOL32,9.131787101935942e-05,Soil
+Faxonius limosus,3,l_SOL33,0.00013071295225132527,Soil
+Faxonius limosus,3,l_SOL35,0.0005938712520830555,Soil
+Faxonius limosus,3,l_SOL36,0.00013363572632908705,Soil
+Faxonius limosus,3,l_SOL37,0.0001892941484544603,Soil
+Faxonius limosus,3,l_SOL38,9.834755321151674e-05,Soil
+Faxonius limosus,3,l_SOL39,0.00020995999424730833,Soil
+Faxonius limosus,3,l_SOL4,4.898635103206498e-05,Soil
+Faxonius limosus,3,l_SOL40,0.00012671158935872504,Soil
+Faxonius limosus,3,l_SOL42,0.013245725666217399,Soil
+Faxonius limosus,3,l_SOL44,7.364097211734641e-05,Soil
+Faxonius limosus,3,l_SOL45,0.004234350191708105,Soil
+Faxonius limosus,3,l_SOL46,0.0019112866389182895,Soil
+Faxonius limosus,3,l_SOL47,0.0037751022922948717,Soil
+Faxonius limosus,3,l_SOL48,7.093763266733427e-05,Soil
+Faxonius limosus,3,l_SOL50,0.0,Soil
+Faxonius limosus,3,l_SOL51,5.592795390471309e-19,Soil
+Faxonius limosus,3,l_SOL52,0.0,Soil
+Faxonius limosus,3,l_SOL53,2.4131643041811327e-05,Soil
+Faxonius limosus,3,l_SOL54,1.2669407648336844e-17,Soil
+Faxonius limosus,3,l_SOL55,1.8117456044180412e-05,Soil
+Faxonius limosus,3,l_SOL56,4.528789075308009e-05,Soil
+Faxonius limosus,3,l_SOL57,0.00016989575626879502,Soil
+Faxonius limosus,3,l_SOL58,0.00018207075200346912,Soil
+Faxonius limosus,3,l_SOL59,0.0001796793131994035,Soil
+Faxonius limosus,3,l_SOL6,0.0002568849468027756,Soil
+Faxonius limosus,3,l_SOL60,0.0001050685982435516,Soil
+Faxonius limosus,3,l_SOL7,0.0006451956511161707,Soil
+Faxonius limosus,3,l_SOL8,1.522692685102697e-05,Soil
+Faxonius limosus,3,l_SOL9,0.00033487175358194076,Soil
+Faxonius limosus,3,l_TOP1,0.0001803679593691771,Topography
+Faxonius limosus,3,l_TOP10,9.972210451762449e-05,Topography
+Faxonius limosus,3,l_TOP101,0.019948731362842684,Topography
+Faxonius limosus,3,l_TOP102,0.05805804385742548,Topography
+Faxonius limosus,3,l_TOP103,0.0004395300231909315,Topography
+Faxonius limosus,3,l_TOP104,0.0013597036611124958,Topography
+Faxonius limosus,3,l_TOP105,0.0007850661532704633,Topography
+Faxonius limosus,3,l_TOP106,1.0766437199719895e-05,Topography
+Faxonius limosus,3,l_TOP107,0.00027357425568581064,Topography
+Faxonius limosus,3,l_TOP108,0.0012007129714800473,Topography
+Faxonius limosus,3,l_TOP111,5.824774353235296e-05,Topography
+Faxonius limosus,3,l_TOP112,0.0001646109803325257,Topography
+Faxonius limosus,3,l_TOP113,0.00032002478343024827,Topography
+Faxonius limosus,3,l_TOP118,0.00010985283500830072,Topography
+Faxonius limosus,3,l_TOP119,0.0004697466996309752,Topography
+Faxonius limosus,3,l_TOP12,0.0001715430179317989,Topography
+Faxonius limosus,3,l_TOP124,0.001615077900378866,Topography
+Faxonius limosus,3,l_TOP125,0.00012859661936400282,Topography
+Faxonius limosus,3,l_TOP126,0.00010015419763861183,Topography
+Faxonius limosus,3,l_TOP127,9.409915637409342e-05,Topography
+Faxonius limosus,3,l_TOP13,2.370956297792436e-05,Topography
+Faxonius limosus,3,l_TOP132,4.199890446626327e-05,Topography
+Faxonius limosus,3,l_TOP133,1.1301514804839001e-06,Topography
+Faxonius limosus,3,l_TOP134,0.0001083825086067384,Topography
+Faxonius limosus,3,l_TOP135,0.00016103930693538705,Topography
+Faxonius limosus,3,l_TOP136,7.001777265434914e-05,Topography
+Faxonius limosus,3,l_TOP137,3.2518603890404e-05,Topography
+Faxonius limosus,3,l_TOP138,0.00011252039674683877,Topography
+Faxonius limosus,3,l_TOP139,0.00020806111554162545,Topography
+Faxonius limosus,3,l_TOP14,0.00019205430796508224,Topography
+Faxonius limosus,3,l_TOP140,6.612986639634252e-05,Topography
+Faxonius limosus,3,l_TOP141,7.156849867012778e-05,Topography
+Faxonius limosus,3,l_TOP142,9.440864457451938e-05,Topography
+Faxonius limosus,3,l_TOP143,0.00012158171358674193,Topography
+Faxonius limosus,3,l_TOP144,0.0004967832303486202,Topography
+Faxonius limosus,3,l_TOP15,0.00016903940438132913,Topography
+Faxonius limosus,3,l_TOP16,0.0001561529088290501,Topography
+Faxonius limosus,3,l_TOP17,1.921418287657718e-17,Topography
+Faxonius limosus,3,l_TOP18,5.1161049234992745e-05,Topography
+Faxonius limosus,3,l_TOP19,8.306061371164186e-05,Topography
+Faxonius limosus,3,l_TOP2,9.461056075177497e-05,Topography
+Faxonius limosus,3,l_TOP20,7.802061174762352e-05,Topography
+Faxonius limosus,3,l_TOP21,5.91836761473596e-19,Topography
+Faxonius limosus,3,l_TOP23,0.00029033808056456664,Topography
+Faxonius limosus,3,l_TOP26,3.3906710783853775e-05,Topography
+Faxonius limosus,3,l_TOP27,4.085472604202157e-05,Topography
+Faxonius limosus,3,l_TOP28,3.102470102894607e-05,Topography
+Faxonius limosus,3,l_TOP29,0.008073881302244923,Topography
+Faxonius limosus,3,l_TOP32,8.776560983308689e-05,Topography
+Faxonius limosus,3,l_TOP38,6.567399721351461e-05,Topography
+Faxonius limosus,3,l_TOP39,6.284575966055542e-05,Topography
+Faxonius limosus,3,l_TOP4,0.00011412284496511323,Topography
+Faxonius limosus,3,l_TOP40,7.192974658588751e-05,Topography
+Faxonius limosus,3,l_TOP41,1.0228343112638066e-18,Topography
+Faxonius limosus,3,l_TOP42,6.724544578236608e-05,Topography
+Faxonius limosus,3,l_TOP43,0.00010694076973214853,Topography
+Faxonius limosus,3,l_TOP44,4.275732862922556e-05,Topography
+Faxonius limosus,3,l_TOP45,0.0,Topography
+Faxonius limosus,3,l_TOP47,6.861319059081525e-05,Topography
+Faxonius limosus,3,l_TOP48,0.00016820791214357294,Topography
+Faxonius limosus,3,l_TOP49,5.3896824951306004e-05,Topography
+Faxonius limosus,3,l_TOP51,0.00013598974043840781,Topography
+Faxonius limosus,3,l_TOP52,5.807752451722144e-05,Topography
+Faxonius limosus,3,l_TOP53,0.001132868152111102,Topography
+Faxonius limosus,3,l_TOP59,0.00021656926950316808,Topography
+Faxonius limosus,3,l_TOP6,8.931888216436761e-05,Topography
+Faxonius limosus,3,l_TOP60,0.0001336099700663412,Topography
+Faxonius limosus,3,l_TOP65,0.0004161043623893159,Topography
+Faxonius limosus,3,l_TOP66,0.0004262894852786668,Topography
+Faxonius limosus,3,l_TOP67,0.0005692733227197192,Topography
+Faxonius limosus,3,l_TOP68,0.00013769058785707667,Topography
+Faxonius limosus,3,l_TOP69,3.9975869453283285e-05,Topography
+Faxonius limosus,3,l_TOP7,0.00023635650953026302,Topography
+Faxonius limosus,3,l_TOP70,0.00018433914766989505,Topography
+Faxonius limosus,3,l_TOP73,8.749902666273868e-05,Topography
+Faxonius limosus,3,l_TOP74,0.00037338783474959246,Topography
+Faxonius limosus,3,l_TOP75,0.0003460548886638945,Topography
+Faxonius limosus,3,l_TOP76,0.0002299310194501464,Topography
+Faxonius limosus,3,l_TOP78,2.4785511376485066e-05,Topography
+Faxonius limosus,3,l_TOP79,7.150589758612839e-05,Topography
+Faxonius limosus,3,l_TOP83,6.642256801409848e-05,Topography
+Faxonius limosus,3,l_TOP85,0.00012671986688042076,Topography
+Faxonius limosus,3,l_TOP89,0.00015191449952942725,Topography
+Faxonius limosus,3,l_TOP9,2.242281834112876e-05,Topography
+Faxonius limosus,3,l_TOP90,0.00017533051103681865,Topography
+Faxonius limosus,3,l_TOP91,0.0003474174776764276,Topography
+Faxonius limosus,3,l_TOP92,2.8757340446185267e-05,Topography
+Faxonius limosus,3,l_TOP93,0.008923294008234314,Topography
+Faxonius limosus,3,l_TOP97,0.014091386441483358,Topography
+Faxonius limosus,3,l_TOP99,4.073486820435909e-05,Topography
+Faxonius limosus,3,u_CLI11,0.005522356443870701,Climate
+Faxonius limosus,3,u_CLI15,0.021337880789449083,Climate
+Faxonius limosus,3,u_CLI19,0.007848815916764184,Climate
+Faxonius limosus,3,u_CLI23,0.004154827641057256,Climate
+Faxonius limosus,3,u_CLI27,0.025775286530062617,Climate
+Faxonius limosus,3,u_CLI3,0.0005908743560718639,Climate
+Faxonius limosus,3,u_CLI31,0.009876695045111896,Climate
+Faxonius limosus,3,u_CLI35,0.00474755866607889,Climate
+Faxonius limosus,3,u_CLI43,0.0015879499341321596,Climate
+Faxonius limosus,3,u_CLI47,0.007706339025096034,Climate
+Faxonius limosus,3,u_CLI59,0.0004369676380502783,Climate
+Faxonius limosus,3,u_CLI63,0.0067613422885576995,Climate
+Faxonius limosus,3,u_CLI67,0.00862810324218052,Climate
+Faxonius limosus,3,u_CLI7,0.015454319762606793,Climate
+Faxonius limosus,3,u_CLI71,0.013356391969791987,Climate
+Faxonius limosus,3,u_CLI75,0.0021598879513185054,Climate
+Faxonius limosus,3,u_LAC1,0.00078868516070207,Land Cover
+Faxonius limosus,3,u_LAC10,0.00011445811862656152,Land Cover
+Faxonius limosus,3,u_LAC11,8.66902124003856e-18,Land Cover
+Faxonius limosus,3,u_LAC12,9.230568666564174e-05,Land Cover
+Faxonius limosus,3,u_LAC13,4.6887236229453066e-05,Land Cover
+Faxonius limosus,3,u_LAC15,2.4599420360091085e-05,Land Cover
+Faxonius limosus,3,u_LAC16,0.0008597583149916691,Land Cover
+Faxonius limosus,3,u_LAC18,1.0065017992073205e-05,Land Cover
+Faxonius limosus,3,u_LAC19,4.1099437675820866e-05,Land Cover
+Faxonius limosus,3,u_LAC2,6.9287570734263325e-18,Land Cover
+Faxonius limosus,3,u_LAC20,2.921659077375073e-05,Land Cover
+Faxonius limosus,3,u_LAC21,6.9940386155015895e-06,Land Cover
+Faxonius limosus,3,u_LAC22,0.0,Land Cover
+Faxonius limosus,3,u_LAC3,0.0014779932028269702,Land Cover
+Faxonius limosus,3,u_LAC4,0.0021620186909242748,Land Cover
+Faxonius limosus,3,u_LAC6,0.0005745656095923966,Land Cover
+Faxonius limosus,3,u_LAC7,0.00013742185653176116,Land Cover
+Faxonius limosus,3,u_LAC8,0.0,Land Cover
+Faxonius limosus,3,u_LAC9,0.00018817469126135154,Land Cover
+Faxonius limosus,3,u_SOL11,0.000318251660140323,Soil
+Faxonius limosus,3,u_SOL15,0.00033613343624167404,Soil
+Faxonius limosus,3,u_SOL19,0.0004944381141990853,Soil
+Faxonius limosus,3,u_SOL23,0.0003558690883269262,Soil
+Faxonius limosus,3,u_SOL27,0.00425431334179148,Soil
+Faxonius limosus,3,u_SOL3,0.006427930924549108,Soil
+Faxonius limosus,3,u_SOL31,0.0010253729135029771,Soil
+Faxonius limosus,3,u_SOL35,0.0009851640923945822,Soil
+Faxonius limosus,3,u_SOL39,9.265588215690473e-05,Soil
+Faxonius limosus,3,u_SOL43,0.00571195580536497,Soil
+Faxonius limosus,3,u_SOL47,0.001285940875824795,Soil
+Faxonius limosus,3,u_SOL51,1.8851299379658074e-05,Soil
+Faxonius limosus,3,u_SOL55,8.514196301826141e-05,Soil
+Faxonius limosus,3,u_SOL59,0.0003545877664655665,Soil
+Faxonius limosus,3,u_SOL7,0.000857788127465664,Soil
+Faxonius limosus,3,u_TOP103,0.008466526786230263,Topography
+Faxonius limosus,3,u_TOP11,0.00014286036368677584,Topography
+Faxonius limosus,3,u_TOP110,2.4269590263156143e-06,Topography
+Faxonius limosus,3,u_TOP111,3.0269512410165962e-05,Topography
+Faxonius limosus,3,u_TOP112,0.00020763520713888624,Topography
+Faxonius limosus,3,u_TOP113,4.626846566055443e-05,Topography
+Faxonius limosus,3,u_TOP114,0.002385755756618757,Topography
+Faxonius limosus,3,u_TOP117,0.00023154424695410612,Topography
+Faxonius limosus,3,u_TOP122,0.00049173609676152,Topography
+Faxonius limosus,3,u_TOP126,1.4742999539142918e-05,Topography
+Faxonius limosus,3,u_TOP135,7.2013299877413245e-06,Topography
+Faxonius limosus,3,u_TOP139,9.836937841516102e-05,Topography
+Faxonius limosus,3,u_TOP143,0.00021963681209698048,Topography
+Faxonius limosus,3,u_TOP15,0.0006428588287392329,Topography
+Faxonius limosus,3,u_TOP19,0.00018797841934264779,Topography
+Faxonius limosus,3,u_TOP23,0.0008839568771674054,Topography
+Faxonius limosus,3,u_TOP27,0.0006815365642172632,Topography
+Faxonius limosus,3,u_TOP31,0.0030957749331412105,Topography
+Faxonius limosus,3,u_TOP35,0.00043221789462976354,Topography
+Faxonius limosus,3,u_TOP39,0.00026908460778229373,Topography
+Faxonius limosus,3,u_TOP47,0.0004824165124395635,Topography
+Faxonius limosus,3,u_TOP51,0.0002886107458710099,Topography
+Faxonius limosus,3,u_TOP55,0.0007068021595187444,Topography
+Faxonius limosus,3,u_TOP59,0.0001972237699427623,Topography
+Faxonius limosus,3,u_TOP63,0.0006360772713886663,Topography
+Faxonius limosus,3,u_TOP67,0.0004468694169469812,Topography
+Faxonius limosus,3,u_TOP7,0.0011054471157322832,Topography
+Faxonius limosus,3,u_TOP71,0.00023588439113040474,Topography
+Faxonius limosus,3,u_TOP79,0.0010216370039194437,Topography
+Faxonius limosus,3,u_TOP91,0.00019985948103730698,Topography
+Faxonius limosus,3,u_TOP99,0.0004919945123235167,Topography
+Faxonius limosus,4,l_CLI12,1.4979218237571754e-05,Climate
+Faxonius limosus,4,l_CLI13,0.09847650813847678,Climate
+Faxonius limosus,4,l_CLI16,2.243271654804911e-05,Climate
+Faxonius limosus,4,l_CLI19,0.038898714551473375,Climate
+Faxonius limosus,4,l_CLI2,0.0009110980143213272,Climate
+Faxonius limosus,4,l_CLI20,7.869229088796341e-05,Climate
+Faxonius limosus,4,l_CLI22,0.023840264140961215,Climate
+Faxonius limosus,4,l_CLI24,5.00878869796341e-05,Climate
+Faxonius limosus,4,l_CLI25,0.09497949688221526,Climate
+Faxonius limosus,4,l_CLI28,2.424433421524749e-05,Climate
+Faxonius limosus,4,l_CLI30,0.04075204738334582,Climate
+Faxonius limosus,4,l_CLI32,0.0001219773793423333,Climate
+Faxonius limosus,4,l_CLI33,0.034745570298301665,Climate
+Faxonius limosus,4,l_CLI36,4.1425514371966757e-05,Climate
+Faxonius limosus,4,l_CLI4,5.468030887571714e-05,Climate
+Faxonius limosus,4,l_CLI40,3.6017219250040884e-05,Climate
+Faxonius limosus,4,l_CLI42,0.009440491752467101,Climate
+Faxonius limosus,4,l_CLI44,6.353563426776123e-05,Climate
+Faxonius limosus,4,l_CLI45,0.04512610124441656,Climate
+Faxonius limosus,4,l_CLI49,0.034855704195471765,Climate
+Faxonius limosus,4,l_CLI5,0.03258066361919826,Climate
+Faxonius limosus,4,l_CLI52,1.227147395563793e-05,Climate
+Faxonius limosus,4,l_CLI56,0.00014358243591066434,Climate
+Faxonius limosus,4,l_CLI57,0.005875406851663544,Climate
+Faxonius limosus,4,l_CLI60,0.00018023794801547344,Climate
+Faxonius limosus,4,l_CLI61,0.03976808212657724,Climate
+Faxonius limosus,4,l_CLI65,0.030814287599839115,Climate
+Faxonius limosus,4,l_CLI69,0.0801824294370604,Climate
+Faxonius limosus,4,l_CLI72,7.906748140733607e-05,Climate
+Faxonius limosus,4,l_CLI73,0.01016975922476555,Climate
+Faxonius limosus,4,l_CLI76,1.7241752282763478e-05,Climate
+Faxonius limosus,4,l_CLI8,6.264095637407866e-05,Climate
+Faxonius limosus,4,l_CLI9,0.024042616542794434,Climate
+Faxonius limosus,4,l_LAC1,0.0013392382497565288,Land Cover
+Faxonius limosus,4,l_LAC10,1.2284526549428522e-06,Land Cover
+Faxonius limosus,4,l_LAC11,3.6723076005457616e-06,Land Cover
+Faxonius limosus,4,l_LAC12,1.2102020605804439e-06,Land Cover
+Faxonius limosus,4,l_LAC13,2.8846506829526872e-05,Land Cover
+Faxonius limosus,4,l_LAC15,0.0,Land Cover
+Faxonius limosus,4,l_LAC16,0.00015600115908204066,Land Cover
+Faxonius limosus,4,l_LAC18,1.0785167779899848e-05,Land Cover
+Faxonius limosus,4,l_LAC19,5.582838254674008e-05,Land Cover
+Faxonius limosus,4,l_LAC2,4.500924806465241e-18,Land Cover
+Faxonius limosus,4,l_LAC20,5.3691887581334075e-18,Land Cover
+Faxonius limosus,4,l_LAC21,4.831975966441308e-05,Land Cover
+Faxonius limosus,4,l_LAC3,0.0003730857105446642,Land Cover
+Faxonius limosus,4,l_LAC4,0.0002559652934240568,Land Cover
+Faxonius limosus,4,l_LAC6,0.0008626429849045142,Land Cover
+Faxonius limosus,4,l_LAC7,3.1900924884458905e-05,Land Cover
+Faxonius limosus,4,l_LAC8,6.895803003360376e-18,Land Cover
+Faxonius limosus,4,l_LAC9,1.3636658041075871e-05,Land Cover
+Faxonius limosus,4,l_SOL1,0.006696524511340999,Soil
+Faxonius limosus,4,l_SOL10,0.0001401372639633471,Soil
+Faxonius limosus,4,l_SOL12,2.1603979981988197e-05,Soil
+Faxonius limosus,4,l_SOL13,0.0004812712778548908,Soil
+Faxonius limosus,4,l_SOL16,1.569311194059458e-05,Soil
+Faxonius limosus,4,l_SOL18,0.00015769410689640357,Soil
+Faxonius limosus,4,l_SOL2,0.0043834779406305355,Soil
+Faxonius limosus,4,l_SOL20,5.2778408714516714e-05,Soil
+Faxonius limosus,4,l_SOL21,0.000506846843929054,Soil
+Faxonius limosus,4,l_SOL24,2.9538984844555212e-05,Soil
+Faxonius limosus,4,l_SOL25,0.0014690732920882555,Soil
+Faxonius limosus,4,l_SOL26,0.003396895349905737,Soil
+Faxonius limosus,4,l_SOL27,0.0028161094726206087,Soil
+Faxonius limosus,4,l_SOL28,5.546325087835871e-05,Soil
+Faxonius limosus,4,l_SOL29,0.0007128369968794733,Soil
+Faxonius limosus,4,l_SOL3,0.007524837177839507,Soil
+Faxonius limosus,4,l_SOL30,0.0008213306021846913,Soil
+Faxonius limosus,4,l_SOL31,0.002033830959280414,Soil
+Faxonius limosus,4,l_SOL32,5.522541218397024e-05,Soil
+Faxonius limosus,4,l_SOL33,3.377410500756227e-05,Soil
+Faxonius limosus,4,l_SOL35,0.0006449609802011468,Soil
+Faxonius limosus,4,l_SOL36,0.0003553332322151178,Soil
+Faxonius limosus,4,l_SOL37,0.00010481945703132202,Soil
+Faxonius limosus,4,l_SOL38,0.00020890991539487886,Soil
+Faxonius limosus,4,l_SOL39,6.89851577151327e-05,Soil
+Faxonius limosus,4,l_SOL4,4.739549883245579e-05,Soil
+Faxonius limosus,4,l_SOL40,8.228699334232359e-05,Soil
+Faxonius limosus,4,l_SOL42,0.009954934182196697,Soil
+Faxonius limosus,4,l_SOL44,3.314821368541458e-05,Soil
+Faxonius limosus,4,l_SOL45,0.0019331090825249555,Soil
+Faxonius limosus,4,l_SOL46,0.001491831172454407,Soil
+Faxonius limosus,4,l_SOL47,0.004841254472523501,Soil
+Faxonius limosus,4,l_SOL48,5.474699976768137e-05,Soil
+Faxonius limosus,4,l_SOL50,9.606077830008764e-19,Soil
+Faxonius limosus,4,l_SOL51,1.407250958990717e-17,Soil
+Faxonius limosus,4,l_SOL52,0.0,Soil
+Faxonius limosus,4,l_SOL53,5.975470866748763e-05,Soil
+Faxonius limosus,4,l_SOL54,1.2183318636702207e-05,Soil
+Faxonius limosus,4,l_SOL55,2.0599752182326004e-05,Soil
+Faxonius limosus,4,l_SOL56,4.754214605575914e-06,Soil
+Faxonius limosus,4,l_SOL57,0.00017686633921366567,Soil
+Faxonius limosus,4,l_SOL58,6.817309754418547e-05,Soil
+Faxonius limosus,4,l_SOL59,0.00022387624650577534,Soil
+Faxonius limosus,4,l_SOL6,0.0008575960550422519,Soil
+Faxonius limosus,4,l_SOL60,2.2248276011044184e-05,Soil
+Faxonius limosus,4,l_SOL7,0.0007301899676661672,Soil
+Faxonius limosus,4,l_SOL8,2.8085375900312108e-05,Soil
+Faxonius limosus,4,l_SOL9,0.0005485250424449338,Soil
+Faxonius limosus,4,l_TOP1,4.728789635688198e-05,Topography
+Faxonius limosus,4,l_TOP10,3.100659281768152e-05,Topography
+Faxonius limosus,4,l_TOP101,0.013712593129771558,Topography
+Faxonius limosus,4,l_TOP102,0.06940071968117567,Topography
+Faxonius limosus,4,l_TOP103,0.00032046792285976886,Topography
+Faxonius limosus,4,l_TOP104,0.0004434514697962607,Topography
+Faxonius limosus,4,l_TOP105,0.0009331994590000353,Topography
+Faxonius limosus,4,l_TOP106,4.6237709956329145e-06,Topography
+Faxonius limosus,4,l_TOP107,0.0002414421780684887,Topography
+Faxonius limosus,4,l_TOP108,0.00019809017393369128,Topography
+Faxonius limosus,4,l_TOP111,0.0001889629366866405,Topography
+Faxonius limosus,4,l_TOP112,0.0001053737275847752,Topography
+Faxonius limosus,4,l_TOP113,0.0002623620743089401,Topography
+Faxonius limosus,4,l_TOP118,0.00018619305769109585,Topography
+Faxonius limosus,4,l_TOP119,0.00026549129868076553,Topography
+Faxonius limosus,4,l_TOP12,5.091591130706902e-05,Topography
+Faxonius limosus,4,l_TOP124,0.0010548474321922302,Topography
+Faxonius limosus,4,l_TOP125,0.00023265070439803555,Topography
+Faxonius limosus,4,l_TOP126,0.00013313575644503095,Topography
+Faxonius limosus,4,l_TOP127,5.544749426569326e-05,Topography
+Faxonius limosus,4,l_TOP13,5.2722147796003674e-05,Topography
+Faxonius limosus,4,l_TOP132,0.00016649739533640932,Topography
+Faxonius limosus,4,l_TOP133,8.477410113603351e-06,Topography
+Faxonius limosus,4,l_TOP134,0.00010609653437801429,Topography
+Faxonius limosus,4,l_TOP135,0.0002157242438975409,Topography
+Faxonius limosus,4,l_TOP136,0.0001013476328296899,Topography
+Faxonius limosus,4,l_TOP137,3.8147370556102695e-05,Topography
+Faxonius limosus,4,l_TOP138,6.06593906187436e-05,Topography
+Faxonius limosus,4,l_TOP139,0.00010495382235067606,Topography
+Faxonius limosus,4,l_TOP14,7.368482280185548e-05,Topography
+Faxonius limosus,4,l_TOP140,0.00015944312748902083,Topography
+Faxonius limosus,4,l_TOP141,3.752100904492725e-05,Topography
+Faxonius limosus,4,l_TOP142,0.00037515673272193193,Topography
+Faxonius limosus,4,l_TOP143,0.00021541879686288746,Topography
+Faxonius limosus,4,l_TOP144,0.00041523403370340373,Topography
+Faxonius limosus,4,l_TOP15,0.00011255011829894162,Topography
+Faxonius limosus,4,l_TOP16,8.330067511220416e-05,Topography
+Faxonius limosus,4,l_TOP17,4.470941020634492e-19,Topography
+Faxonius limosus,4,l_TOP18,0.00019200889961069935,Topography
+Faxonius limosus,4,l_TOP19,4.057160519653632e-05,Topography
+Faxonius limosus,4,l_TOP2,5.288809166237086e-05,Topography
+Faxonius limosus,4,l_TOP20,9.872196230441045e-05,Topography
+Faxonius limosus,4,l_TOP21,1.6474290267389013e-18,Topography
+Faxonius limosus,4,l_TOP23,0.0006404354915403021,Topography
+Faxonius limosus,4,l_TOP26,2.1072140050418807e-05,Topography
+Faxonius limosus,4,l_TOP27,6.430366536427133e-05,Topography
+Faxonius limosus,4,l_TOP28,2.3025193137482167e-05,Topography
+Faxonius limosus,4,l_TOP29,0.009225683794252424,Topography
+Faxonius limosus,4,l_TOP32,7.851714074965133e-05,Topography
+Faxonius limosus,4,l_TOP38,1.3274962187437866e-05,Topography
+Faxonius limosus,4,l_TOP39,3.087959237336876e-05,Topography
+Faxonius limosus,4,l_TOP4,3.780774294520575e-05,Topography
+Faxonius limosus,4,l_TOP40,4.9306253192346604e-05,Topography
+Faxonius limosus,4,l_TOP41,2.9003698080201593e-18,Topography
+Faxonius limosus,4,l_TOP42,1.0630214239198298e-05,Topography
+Faxonius limosus,4,l_TOP43,4.928314347259524e-05,Topography
+Faxonius limosus,4,l_TOP44,0.0002627615247452121,Topography
+Faxonius limosus,4,l_TOP45,4.74022583740268e-17,Topography
+Faxonius limosus,4,l_TOP47,0.00023064801428923225,Topography
+Faxonius limosus,4,l_TOP48,0.0002671664431675976,Topography
+Faxonius limosus,4,l_TOP49,2.2598892406972586e-06,Topography
+Faxonius limosus,4,l_TOP51,0.00024862652820958664,Topography
+Faxonius limosus,4,l_TOP52,0.00045193805093298676,Topography
+Faxonius limosus,4,l_TOP53,0.0009600657363701034,Topography
+Faxonius limosus,4,l_TOP59,0.00011910143469466478,Topography
+Faxonius limosus,4,l_TOP6,0.00011113865543673063,Topography
+Faxonius limosus,4,l_TOP60,7.17458079619361e-05,Topography
+Faxonius limosus,4,l_TOP65,0.0001534532419068491,Topography
+Faxonius limosus,4,l_TOP66,0.0007124468205378623,Topography
+Faxonius limosus,4,l_TOP67,0.0005771982128264482,Topography
+Faxonius limosus,4,l_TOP68,9.392363284146679e-05,Topography
+Faxonius limosus,4,l_TOP69,0.00016873824802048594,Topography
+Faxonius limosus,4,l_TOP7,0.000246342835534747,Topography
+Faxonius limosus,4,l_TOP70,0.00011483006662262741,Topography
+Faxonius limosus,4,l_TOP73,8.284032858957078e-05,Topography
+Faxonius limosus,4,l_TOP74,0.0002929858680405302,Topography
+Faxonius limosus,4,l_TOP75,0.0009742256522760877,Topography
+Faxonius limosus,4,l_TOP76,0.00038062471111524105,Topography
+Faxonius limosus,4,l_TOP78,3.9245727746223866e-05,Topography
+Faxonius limosus,4,l_TOP79,7.79649409491689e-05,Topography
+Faxonius limosus,4,l_TOP83,4.875501562670624e-05,Topography
+Faxonius limosus,4,l_TOP85,6.316874302359356e-05,Topography
+Faxonius limosus,4,l_TOP89,0.00012180254539486673,Topography
+Faxonius limosus,4,l_TOP9,0.00015268811684266846,Topography
+Faxonius limosus,4,l_TOP90,1.8927036982385948e-05,Topography
+Faxonius limosus,4,l_TOP91,0.0005215264294440134,Topography
+Faxonius limosus,4,l_TOP92,0.0005126574789330102,Topography
+Faxonius limosus,4,l_TOP93,0.007241291040660265,Topography
+Faxonius limosus,4,l_TOP97,0.014731737855755966,Topography
+Faxonius limosus,4,l_TOP99,0.00011304314248296422,Topography
+Faxonius limosus,4,u_CLI11,0.0051084346477170955,Climate
+Faxonius limosus,4,u_CLI15,0.016905803211814202,Climate
+Faxonius limosus,4,u_CLI19,0.009192596174364005,Climate
+Faxonius limosus,4,u_CLI23,0.003437368356312523,Climate
+Faxonius limosus,4,u_CLI27,0.02031372884195043,Climate
+Faxonius limosus,4,u_CLI3,0.00020041416724640026,Climate
+Faxonius limosus,4,u_CLI31,0.00838136120200836,Climate
+Faxonius limosus,4,u_CLI35,0.00561901016242592,Climate
+Faxonius limosus,4,u_CLI43,0.001082857964030133,Climate
+Faxonius limosus,4,u_CLI47,0.006906646406547875,Climate
+Faxonius limosus,4,u_CLI59,0.003249831320420998,Climate
+Faxonius limosus,4,u_CLI63,0.0024157686816774454,Climate
+Faxonius limosus,4,u_CLI67,0.00798273198489505,Climate
+Faxonius limosus,4,u_CLI7,0.013595992992971699,Climate
+Faxonius limosus,4,u_CLI71,0.013651441669432196,Climate
+Faxonius limosus,4,u_CLI75,0.0030442805095001893,Climate
+Faxonius limosus,4,u_LAC1,0.0012823934574267106,Land Cover
+Faxonius limosus,4,u_LAC10,6.63220093581926e-05,Land Cover
+Faxonius limosus,4,u_LAC11,3.352619639188128e-05,Land Cover
+Faxonius limosus,4,u_LAC12,6.887698400383914e-05,Land Cover
+Faxonius limosus,4,u_LAC13,1.0294521424112888e-05,Land Cover
+Faxonius limosus,4,u_LAC15,9.612093526178329e-06,Land Cover
+Faxonius limosus,4,u_LAC16,0.00030478483345210936,Land Cover
+Faxonius limosus,4,u_LAC18,5.339600087097292e-06,Land Cover
+Faxonius limosus,4,u_LAC19,6.49789393100476e-05,Land Cover
+Faxonius limosus,4,u_LAC2,7.629661485528567e-18,Land Cover
+Faxonius limosus,4,u_LAC20,2.5281784882326478e-05,Land Cover
+Faxonius limosus,4,u_LAC21,3.608855803590804e-05,Land Cover
+Faxonius limosus,4,u_LAC22,3.691103435708404e-18,Land Cover
+Faxonius limosus,4,u_LAC3,0.000848126665995058,Land Cover
+Faxonius limosus,4,u_LAC4,0.002040932305696308,Land Cover
+Faxonius limosus,4,u_LAC6,0.00043285846000835665,Land Cover
+Faxonius limosus,4,u_LAC7,5.5659486932304865e-05,Land Cover
+Faxonius limosus,4,u_LAC8,7.777485538969066e-05,Land Cover
+Faxonius limosus,4,u_LAC9,8.335809396650717e-05,Land Cover
+Faxonius limosus,4,u_SOL11,0.00058477884102598,Soil
+Faxonius limosus,4,u_SOL15,5.2722244636199625e-05,Soil
+Faxonius limosus,4,u_SOL19,4.505552262306151e-05,Soil
+Faxonius limosus,4,u_SOL23,0.0002551914390581238,Soil
+Faxonius limosus,4,u_SOL27,0.003105342142599817,Soil
+Faxonius limosus,4,u_SOL3,0.0034821477339174504,Soil
+Faxonius limosus,4,u_SOL31,0.0015695401310045446,Soil
+Faxonius limosus,4,u_SOL35,0.0007006710667213488,Soil
+Faxonius limosus,4,u_SOL39,0.00013977711796082365,Soil
+Faxonius limosus,4,u_SOL43,0.0026782825235854672,Soil
+Faxonius limosus,4,u_SOL47,0.0010814955200121987,Soil
+Faxonius limosus,4,u_SOL51,9.353474517295954e-05,Soil
+Faxonius limosus,4,u_SOL55,4.218130003941224e-05,Soil
+Faxonius limosus,4,u_SOL59,0.00013064572597571613,Soil
+Faxonius limosus,4,u_SOL7,0.00038378834914647766,Soil
+Faxonius limosus,4,u_TOP103,0.011204799092175853,Topography
+Faxonius limosus,4,u_TOP11,0.0019589421385948673,Topography
+Faxonius limosus,4,u_TOP110,9.657215641513846e-05,Topography
+Faxonius limosus,4,u_TOP111,1.2565432377326582e-05,Topography
+Faxonius limosus,4,u_TOP112,5.661306591172769e-05,Topography
+Faxonius limosus,4,u_TOP113,0.00010409518997915856,Topography
+Faxonius limosus,4,u_TOP114,0.002011395223446138,Topography
+Faxonius limosus,4,u_TOP117,0.00010185966835878662,Topography
+Faxonius limosus,4,u_TOP122,0.0004847494929287668,Topography
+Faxonius limosus,4,u_TOP126,3.080222470696505e-05,Topography
+Faxonius limosus,4,u_TOP135,0.00012942128278746188,Topography
+Faxonius limosus,4,u_TOP139,0.00028051201302251494,Topography
+Faxonius limosus,4,u_TOP143,0.00017772467581464546,Topography
+Faxonius limosus,4,u_TOP15,0.00043638300923772857,Topography
+Faxonius limosus,4,u_TOP19,0.00044599936662593153,Topography
+Faxonius limosus,4,u_TOP23,0.00027312088518111137,Topography
+Faxonius limosus,4,u_TOP27,0.00016933534757089487,Topography
+Faxonius limosus,4,u_TOP31,0.0024151894873281838,Topography
+Faxonius limosus,4,u_TOP35,1.330171122000327e-05,Topography
+Faxonius limosus,4,u_TOP39,0.00021169733902527484,Topography
+Faxonius limosus,4,u_TOP47,0.00027962208556742634,Topography
+Faxonius limosus,4,u_TOP51,0.00017073119795338266,Topography
+Faxonius limosus,4,u_TOP55,0.00044798351325887886,Topography
+Faxonius limosus,4,u_TOP59,6.472882594044946e-05,Topography
+Faxonius limosus,4,u_TOP63,5.092034523628169e-05,Topography
+Faxonius limosus,4,u_TOP67,0.0004263036982102629,Topography
+Faxonius limosus,4,u_TOP7,0.0011071631104556696,Topography
+Faxonius limosus,4,u_TOP71,0.00033617650209379974,Topography
+Faxonius limosus,4,u_TOP79,0.0005102964440193842,Topography
+Faxonius limosus,4,u_TOP91,4.7693125589411245e-05,Topography
+Faxonius limosus,4,u_TOP99,0.00044996408924008127,Topography
+Faxonius limosus,5,l_CLI12,1.8844913743817926e-05,Climate
+Faxonius limosus,5,l_CLI13,0.077409529926147,Climate
+Faxonius limosus,5,l_CLI16,3.471532132756801e-05,Climate
+Faxonius limosus,5,l_CLI19,0.04077964501474744,Climate
+Faxonius limosus,5,l_CLI2,0.002173131022497344,Climate
+Faxonius limosus,5,l_CLI20,5.920414014110799e-05,Climate
+Faxonius limosus,5,l_CLI22,0.024091038296883242,Climate
+Faxonius limosus,5,l_CLI24,0.00013876675371766328,Climate
+Faxonius limosus,5,l_CLI25,0.08081957452535704,Climate
+Faxonius limosus,5,l_CLI28,3.936821328289669e-05,Climate
+Faxonius limosus,5,l_CLI30,0.03533060004301643,Climate
+Faxonius limosus,5,l_CLI32,3.685094140621051e-05,Climate
+Faxonius limosus,5,l_CLI33,0.036253009854081544,Climate
+Faxonius limosus,5,l_CLI36,4.311659993308747e-05,Climate
+Faxonius limosus,5,l_CLI4,5.149707555378374e-05,Climate
+Faxonius limosus,5,l_CLI40,3.3020167935671645e-06,Climate
+Faxonius limosus,5,l_CLI42,0.010525414450895164,Climate
+Faxonius limosus,5,l_CLI44,0.00010045723320405624,Climate
+Faxonius limosus,5,l_CLI45,0.05789082419333928,Climate
+Faxonius limosus,5,l_CLI49,0.02171627670327112,Climate
+Faxonius limosus,5,l_CLI5,0.04331856352556929,Climate
+Faxonius limosus,5,l_CLI52,6.532141291267507e-05,Climate
+Faxonius limosus,5,l_CLI56,0.00011528681040513384,Climate
+Faxonius limosus,5,l_CLI57,0.006626443003858661,Climate
+Faxonius limosus,5,l_CLI60,0.00018951509183874496,Climate
+Faxonius limosus,5,l_CLI61,0.030111389609518483,Climate
+Faxonius limosus,5,l_CLI65,0.0327158342438959,Climate
+Faxonius limosus,5,l_CLI69,0.07204416925381996,Climate
+Faxonius limosus,5,l_CLI72,3.193313479248039e-05,Climate
+Faxonius limosus,5,l_CLI73,0.013871092084624767,Climate
+Faxonius limosus,5,l_CLI76,8.770681067168996e-05,Climate
+Faxonius limosus,5,l_CLI8,6.481378167831003e-05,Climate
+Faxonius limosus,5,l_CLI9,0.032315161866740896,Climate
+Faxonius limosus,5,l_LAC1,0.0016371062156701592,Land Cover
+Faxonius limosus,5,l_LAC10,1.2091977003517375e-05,Land Cover
+Faxonius limosus,5,l_LAC11,3.767214693038977e-07,Land Cover
+Faxonius limosus,5,l_LAC12,2.0571395695313448e-20,Land Cover
+Faxonius limosus,5,l_LAC13,5.656791797822382e-05,Land Cover
+Faxonius limosus,5,l_LAC15,0.0,Land Cover
+Faxonius limosus,5,l_LAC16,0.0001088347777774396,Land Cover
+Faxonius limosus,5,l_LAC18,4.448789844703368e-05,Land Cover
+Faxonius limosus,5,l_LAC19,3.232678948960353e-05,Land Cover
+Faxonius limosus,5,l_LAC2,2.5065429986180308e-06,Land Cover
+Faxonius limosus,5,l_LAC20,0.0,Land Cover
+Faxonius limosus,5,l_LAC21,9.089851679961802e-05,Land Cover
+Faxonius limosus,5,l_LAC3,9.943775668627672e-05,Land Cover
+Faxonius limosus,5,l_LAC4,0.0002868120115371648,Land Cover
+Faxonius limosus,5,l_LAC6,0.00037945838586534786,Land Cover
+Faxonius limosus,5,l_LAC7,3.635694252547401e-05,Land Cover
+Faxonius limosus,5,l_LAC8,1.1773728951058298e-18,Land Cover
+Faxonius limosus,5,l_LAC9,1.2000827549743173e-06,Land Cover
+Faxonius limosus,5,l_SOL1,0.006907626810719759,Soil
+Faxonius limosus,5,l_SOL10,0.00029556538009380264,Soil
+Faxonius limosus,5,l_SOL12,9.31534476223351e-05,Soil
+Faxonius limosus,5,l_SOL13,0.00013507077876231125,Soil
+Faxonius limosus,5,l_SOL16,2.911048290311551e-05,Soil
+Faxonius limosus,5,l_SOL18,0.00029838724692053556,Soil
+Faxonius limosus,5,l_SOL2,0.004469746594575225,Soil
+Faxonius limosus,5,l_SOL20,7.715342372150507e-05,Soil
+Faxonius limosus,5,l_SOL21,0.0003826791511813278,Soil
+Faxonius limosus,5,l_SOL24,0.000253220217577836,Soil
+Faxonius limosus,5,l_SOL25,0.0013692895418879463,Soil
+Faxonius limosus,5,l_SOL26,0.0042979474252375525,Soil
+Faxonius limosus,5,l_SOL27,0.002257527309417748,Soil
+Faxonius limosus,5,l_SOL28,9.167635202337877e-05,Soil
+Faxonius limosus,5,l_SOL29,0.0004313273450560114,Soil
+Faxonius limosus,5,l_SOL3,0.010445017172545786,Soil
+Faxonius limosus,5,l_SOL30,0.0007560888802544513,Soil
+Faxonius limosus,5,l_SOL31,0.0010192471940684413,Soil
+Faxonius limosus,5,l_SOL32,7.04290344246798e-05,Soil
+Faxonius limosus,5,l_SOL33,0.00034966043254873995,Soil
+Faxonius limosus,5,l_SOL35,0.000895042563900259,Soil
+Faxonius limosus,5,l_SOL36,0.00016800533144592075,Soil
+Faxonius limosus,5,l_SOL37,2.34712962851555e-05,Soil
+Faxonius limosus,5,l_SOL38,0.00011552764268411188,Soil
+Faxonius limosus,5,l_SOL39,0.00020750225631811168,Soil
+Faxonius limosus,5,l_SOL4,4.411134032626644e-05,Soil
+Faxonius limosus,5,l_SOL40,7.665216036508087e-05,Soil
+Faxonius limosus,5,l_SOL42,0.013284402603578768,Soil
+Faxonius limosus,5,l_SOL44,0.00010873816030072865,Soil
+Faxonius limosus,5,l_SOL45,0.003319670228439044,Soil
+Faxonius limosus,5,l_SOL46,0.001809214667294839,Soil
+Faxonius limosus,5,l_SOL47,0.005385560043169601,Soil
+Faxonius limosus,5,l_SOL48,6.159285303003364e-05,Soil
+Faxonius limosus,5,l_SOL50,0.0,Soil
+Faxonius limosus,5,l_SOL51,0.0,Soil
+Faxonius limosus,5,l_SOL52,6.595127299524723e-19,Soil
+Faxonius limosus,5,l_SOL53,4.415508652513341e-05,Soil
+Faxonius limosus,5,l_SOL54,1.2145053922362384e-05,Soil
+Faxonius limosus,5,l_SOL55,2.8828059565717165e-05,Soil
+Faxonius limosus,5,l_SOL56,3.493307855982765e-05,Soil
+Faxonius limosus,5,l_SOL57,0.00013164982802423705,Soil
+Faxonius limosus,5,l_SOL58,0.00011633064772595628,Soil
+Faxonius limosus,5,l_SOL59,0.00018876513877859677,Soil
+Faxonius limosus,5,l_SOL6,0.0006442332863592676,Soil
+Faxonius limosus,5,l_SOL60,2.9486700709692813e-05,Soil
+Faxonius limosus,5,l_SOL7,0.0008452157001279483,Soil
+Faxonius limosus,5,l_SOL8,5.552290603506912e-05,Soil
+Faxonius limosus,5,l_SOL9,0.0007209832363293953,Soil
+Faxonius limosus,5,l_TOP1,7.772541402602548e-05,Topography
+Faxonius limosus,5,l_TOP10,4.1442650812435316e-05,Topography
+Faxonius limosus,5,l_TOP101,0.021101669621743136,Topography
+Faxonius limosus,5,l_TOP102,0.06902776092516061,Topography
+Faxonius limosus,5,l_TOP103,0.00086599232019217,Topography
+Faxonius limosus,5,l_TOP104,0.0016038539444118841,Topography
+Faxonius limosus,5,l_TOP105,0.0010735568811042757,Topography
+Faxonius limosus,5,l_TOP106,0.000641790190674098,Topography
+Faxonius limosus,5,l_TOP107,0.00015382463392720237,Topography
+Faxonius limosus,5,l_TOP108,0.0011524212493093575,Topography
+Faxonius limosus,5,l_TOP111,6.421570201653263e-05,Topography
+Faxonius limosus,5,l_TOP112,9.234715556696662e-05,Topography
+Faxonius limosus,5,l_TOP113,0.00013013672826299696,Topography
+Faxonius limosus,5,l_TOP118,0.0001049412205820291,Topography
+Faxonius limosus,5,l_TOP119,0.00022480983075358045,Topography
+Faxonius limosus,5,l_TOP12,5.7488240840078447e-05,Topography
+Faxonius limosus,5,l_TOP124,0.0016061481226872698,Topography
+Faxonius limosus,5,l_TOP125,0.00011179833675676496,Topography
+Faxonius limosus,5,l_TOP126,8.025720982239796e-05,Topography
+Faxonius limosus,5,l_TOP127,0.00010875799255046572,Topography
+Faxonius limosus,5,l_TOP13,7.730777298022194e-05,Topography
+Faxonius limosus,5,l_TOP132,0.0001983494075495651,Topography
+Faxonius limosus,5,l_TOP133,5.702372155007239e-05,Topography
+Faxonius limosus,5,l_TOP134,8.311135495395838e-05,Topography
+Faxonius limosus,5,l_TOP135,0.00020071161012631355,Topography
+Faxonius limosus,5,l_TOP136,0.00012176705078984736,Topography
+Faxonius limosus,5,l_TOP137,1.408496690653805e-05,Topography
+Faxonius limosus,5,l_TOP138,0.00010667602970484162,Topography
+Faxonius limosus,5,l_TOP139,0.0001315278554777518,Topography
+Faxonius limosus,5,l_TOP14,9.986303575488052e-05,Topography
+Faxonius limosus,5,l_TOP140,3.7395302746385187e-06,Topography
+Faxonius limosus,5,l_TOP141,4.502464133291514e-05,Topography
+Faxonius limosus,5,l_TOP142,0.00012343106550181027,Topography
+Faxonius limosus,5,l_TOP143,0.000322594724492729,Topography
+Faxonius limosus,5,l_TOP144,8.726317927845336e-05,Topography
+Faxonius limosus,5,l_TOP15,0.00025206868060216223,Topography
+Faxonius limosus,5,l_TOP16,0.00020850291861810924,Topography
+Faxonius limosus,5,l_TOP17,0.0,Topography
+Faxonius limosus,5,l_TOP18,3.25040706168197e-05,Topography
+Faxonius limosus,5,l_TOP19,4.655656818396755e-05,Topography
+Faxonius limosus,5,l_TOP2,0.0001114113105938834,Topography
+Faxonius limosus,5,l_TOP20,3.883819511079312e-05,Topography
+Faxonius limosus,5,l_TOP21,5.696045586635287e-20,Topography
+Faxonius limosus,5,l_TOP23,0.0008690568899588132,Topography
+Faxonius limosus,5,l_TOP26,2.1100307752828075e-05,Topography
+Faxonius limosus,5,l_TOP27,1.8130703030465055e-05,Topography
+Faxonius limosus,5,l_TOP28,1.6370661051166827e-05,Topography
+Faxonius limosus,5,l_TOP29,0.00524983854315058,Topography
+Faxonius limosus,5,l_TOP32,8.116113598788804e-06,Topography
+Faxonius limosus,5,l_TOP38,3.449813555994582e-05,Topography
+Faxonius limosus,5,l_TOP39,1.0575243935979236e-05,Topography
+Faxonius limosus,5,l_TOP4,9.339380454769194e-05,Topography
+Faxonius limosus,5,l_TOP40,7.106596826540154e-05,Topography
+Faxonius limosus,5,l_TOP41,0.0,Topography
+Faxonius limosus,5,l_TOP42,4.3461952137138226e-05,Topography
+Faxonius limosus,5,l_TOP43,9.324025245935736e-05,Topography
+Faxonius limosus,5,l_TOP44,0.0003650440843380825,Topography
+Faxonius limosus,5,l_TOP45,0.0,Topography
+Faxonius limosus,5,l_TOP47,0.00014668416211362478,Topography
+Faxonius limosus,5,l_TOP48,9.814323712824243e-05,Topography
+Faxonius limosus,5,l_TOP49,1.5294627157436128e-05,Topography
+Faxonius limosus,5,l_TOP51,4.94227157336852e-05,Topography
+Faxonius limosus,5,l_TOP52,2.5674077478389222e-05,Topography
+Faxonius limosus,5,l_TOP53,0.0011648429787962835,Topography
+Faxonius limosus,5,l_TOP59,0.00011477879171663891,Topography
+Faxonius limosus,5,l_TOP6,6.86579055688839e-05,Topography
+Faxonius limosus,5,l_TOP60,0.00021166711479379035,Topography
+Faxonius limosus,5,l_TOP65,0.000357202830832049,Topography
+Faxonius limosus,5,l_TOP66,0.0007292098039458092,Topography
+Faxonius limosus,5,l_TOP67,0.00036500324911521015,Topography
+Faxonius limosus,5,l_TOP68,0.00012220703842620535,Topography
+Faxonius limosus,5,l_TOP69,0.00010668983743084915,Topography
+Faxonius limosus,5,l_TOP7,0.00010825289814775594,Topography
+Faxonius limosus,5,l_TOP70,7.765265536233227e-05,Topography
+Faxonius limosus,5,l_TOP73,7.850649267127838e-05,Topography
+Faxonius limosus,5,l_TOP74,0.0002800898825894222,Topography
+Faxonius limosus,5,l_TOP75,0.00012045429085220817,Topography
+Faxonius limosus,5,l_TOP76,0.00011131265895604408,Topography
+Faxonius limosus,5,l_TOP78,0.0001692943347947424,Topography
+Faxonius limosus,5,l_TOP79,0.00026134487014982307,Topography
+Faxonius limosus,5,l_TOP83,1.0504245742504985e-05,Topography
+Faxonius limosus,5,l_TOP85,6.372047124985727e-05,Topography
+Faxonius limosus,5,l_TOP89,0.00011191569963942097,Topography
+Faxonius limosus,5,l_TOP9,0.00011312575956098092,Topography
+Faxonius limosus,5,l_TOP90,0.00016733800522501262,Topography
+Faxonius limosus,5,l_TOP91,0.00023968870680917355,Topography
+Faxonius limosus,5,l_TOP92,0.00022762180045963137,Topography
+Faxonius limosus,5,l_TOP93,0.008599273459577771,Topography
+Faxonius limosus,5,l_TOP97,0.020998992475785155,Topography
+Faxonius limosus,5,l_TOP99,0.00015511713195328649,Topography
+Faxonius limosus,5,u_CLI11,0.006261065139917349,Climate
+Faxonius limosus,5,u_CLI15,0.01291881528005725,Climate
+Faxonius limosus,5,u_CLI19,0.00847777874557287,Climate
+Faxonius limosus,5,u_CLI23,0.0024747968193711656,Climate
+Faxonius limosus,5,u_CLI27,0.02155904809834015,Climate
+Faxonius limosus,5,u_CLI3,0.000747137388409335,Climate
+Faxonius limosus,5,u_CLI31,0.009953667848853218,Climate
+Faxonius limosus,5,u_CLI35,0.00537989171786204,Climate
+Faxonius limosus,5,u_CLI43,0.0009873720491904157,Climate
+Faxonius limosus,5,u_CLI47,0.007247318214180804,Climate
+Faxonius limosus,5,u_CLI59,0.002138135078600743,Climate
+Faxonius limosus,5,u_CLI63,0.004509163187191008,Climate
+Faxonius limosus,5,u_CLI67,0.006333463722790844,Climate
+Faxonius limosus,5,u_CLI7,0.01615057688744771,Climate
+Faxonius limosus,5,u_CLI71,0.01595734930695824,Climate
+Faxonius limosus,5,u_CLI75,0.0039168369994450935,Climate
+Faxonius limosus,5,u_LAC1,6.51640025955079e-05,Land Cover
+Faxonius limosus,5,u_LAC10,1.4627071462144202e-05,Land Cover
+Faxonius limosus,5,u_LAC11,3.9486706889639797e-19,Land Cover
+Faxonius limosus,5,u_LAC12,3.178434445106175e-05,Land Cover
+Faxonius limosus,5,u_LAC13,2.9548808627906712e-05,Land Cover
+Faxonius limosus,5,u_LAC15,0.0001346314733667313,Land Cover
+Faxonius limosus,5,u_LAC16,0.000280159810144005,Land Cover
+Faxonius limosus,5,u_LAC18,6.926392602725384e-06,Land Cover
+Faxonius limosus,5,u_LAC19,4.557808126167873e-05,Land Cover
+Faxonius limosus,5,u_LAC2,1.2188289412897676e-06,Land Cover
+Faxonius limosus,5,u_LAC20,7.973286861246941e-05,Land Cover
+Faxonius limosus,5,u_LAC21,1.3533771142295836e-05,Land Cover
+Faxonius limosus,5,u_LAC22,0.0,Land Cover
+Faxonius limosus,5,u_LAC3,0.001961591794511723,Land Cover
+Faxonius limosus,5,u_LAC4,0.002351951161085374,Land Cover
+Faxonius limosus,5,u_LAC6,0.0005431668875062885,Land Cover
+Faxonius limosus,5,u_LAC7,0.000114681964225758,Land Cover
+Faxonius limosus,5,u_LAC8,1.0316633330611902e-05,Land Cover
+Faxonius limosus,5,u_LAC9,0.00016650634483361275,Land Cover
+Faxonius limosus,5,u_SOL11,0.00036875201536560985,Soil
+Faxonius limosus,5,u_SOL15,0.00020500966876842034,Soil
+Faxonius limosus,5,u_SOL19,5.2195191796217e-05,Soil
+Faxonius limosus,5,u_SOL23,0.00045777202432081317,Soil
+Faxonius limosus,5,u_SOL27,0.0032325655561358654,Soil
+Faxonius limosus,5,u_SOL3,0.006446463135209654,Soil
+Faxonius limosus,5,u_SOL31,0.0021305478117761532,Soil
+Faxonius limosus,5,u_SOL35,0.0006872682729954741,Soil
+Faxonius limosus,5,u_SOL39,0.00020426727960398572,Soil
+Faxonius limosus,5,u_SOL43,0.001963835694889676,Soil
+Faxonius limosus,5,u_SOL47,0.001244343239588286,Soil
+Faxonius limosus,5,u_SOL51,3.6199826652444865e-18,Soil
+Faxonius limosus,5,u_SOL55,0.00012789582796576178,Soil
+Faxonius limosus,5,u_SOL59,8.490882019154904e-05,Soil
+Faxonius limosus,5,u_SOL7,0.0008263858274833618,Soil
+Faxonius limosus,5,u_TOP103,0.008550900349573766,Topography
+Faxonius limosus,5,u_TOP11,0.0014465148615646485,Topography
+Faxonius limosus,5,u_TOP110,1.4788966582871078e-05,Topography
+Faxonius limosus,5,u_TOP111,7.459092277710645e-05,Topography
+Faxonius limosus,5,u_TOP112,4.6931372782162366e-05,Topography
+Faxonius limosus,5,u_TOP113,1.5185987418666003e-05,Topography
+Faxonius limosus,5,u_TOP114,0.0023702968634809183,Topography
+Faxonius limosus,5,u_TOP117,0.0001753625095724343,Topography
+Faxonius limosus,5,u_TOP122,0.0004581792055074756,Topography
+Faxonius limosus,5,u_TOP126,2.8546431558140004e-05,Topography
+Faxonius limosus,5,u_TOP135,7.846990443787533e-05,Topography
+Faxonius limosus,5,u_TOP139,0.0002848001748174512,Topography
+Faxonius limosus,5,u_TOP143,0.00020331507499403502,Topography
+Faxonius limosus,5,u_TOP15,0.0007977827485531599,Topography
+Faxonius limosus,5,u_TOP19,0.0001652510038708023,Topography
+Faxonius limosus,5,u_TOP23,0.0005251510451927045,Topography
+Faxonius limosus,5,u_TOP27,0.000510646144689759,Topography
+Faxonius limosus,5,u_TOP31,0.002309193432252504,Topography
+Faxonius limosus,5,u_TOP35,0.00017459880584119722,Topography
+Faxonius limosus,5,u_TOP39,3.905869504037179e-05,Topography
+Faxonius limosus,5,u_TOP47,0.00016865525485097965,Topography
+Faxonius limosus,5,u_TOP51,0.0004145475635112569,Topography
+Faxonius limosus,5,u_TOP55,0.0009495171229653961,Topography
+Faxonius limosus,5,u_TOP59,9.430951874676341e-05,Topography
+Faxonius limosus,5,u_TOP63,0.0003721364611485858,Topography
+Faxonius limosus,5,u_TOP67,0.0009195247282305899,Topography
+Faxonius limosus,5,u_TOP7,0.0005319189544463921,Topography
+Faxonius limosus,5,u_TOP71,0.00019317202321781276,Topography
+Faxonius limosus,5,u_TOP79,0.001358593862615878,Topography
+Faxonius limosus,5,u_TOP91,0.0003406370480908759,Topography
+Faxonius limosus,5,u_TOP99,0.00020227844352408022,Topography

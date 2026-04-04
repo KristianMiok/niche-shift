@@ -1,0 +1,1461 @@
+species,fold,variable,importance,type
+Pacifastacus leniusculus,1,l_CLI1,0.005618061778946917,Climate
+Pacifastacus leniusculus,1,l_CLI12,0.00039785791779091396,Climate
+Pacifastacus leniusculus,1,l_CLI14,0.030234248719146057,Climate
+Pacifastacus leniusculus,1,l_CLI16,0.00013503830124283537,Climate
+Pacifastacus leniusculus,1,l_CLI17,0.01404816505010232,Climate
+Pacifastacus leniusculus,1,l_CLI20,0.00025423076905655556,Climate
+Pacifastacus leniusculus,1,l_CLI21,0.013366688536285923,Climate
+Pacifastacus leniusculus,1,l_CLI24,0.0007261667001220934,Climate
+Pacifastacus leniusculus,1,l_CLI26,0.014223802224235152,Climate
+Pacifastacus leniusculus,1,l_CLI28,0.0002487845817554805,Climate
+Pacifastacus leniusculus,1,l_CLI30,0.02865690174585911,Climate
+Pacifastacus leniusculus,1,l_CLI32,0.0003287583508650437,Climate
+Pacifastacus leniusculus,1,l_CLI33,0.04488044717633011,Climate
+Pacifastacus leniusculus,1,l_CLI36,0.00018574588215183857,Climate
+Pacifastacus leniusculus,1,l_CLI37,0.0047106265859870895,Climate
+Pacifastacus leniusculus,1,l_CLI4,0.00047726938016769783,Climate
+Pacifastacus leniusculus,1,l_CLI40,0.0001019492437824707,Climate
+Pacifastacus leniusculus,1,l_CLI44,0.0008920054879936251,Climate
+Pacifastacus leniusculus,1,l_CLI45,0.01222594456598499,Climate
+Pacifastacus leniusculus,1,l_CLI48,0.0006869297710298023,Climate
+Pacifastacus leniusculus,1,l_CLI49,0.040917413222495425,Climate
+Pacifastacus leniusculus,1,l_CLI52,0.00569385477699337,Climate
+Pacifastacus leniusculus,1,l_CLI53,0.05771321574464105,Climate
+Pacifastacus leniusculus,1,l_CLI56,0.00034234010814279144,Climate
+Pacifastacus leniusculus,1,l_CLI58,0.09484012097444534,Climate
+Pacifastacus leniusculus,1,l_CLI6,0.017726162196551452,Climate
+Pacifastacus leniusculus,1,l_CLI60,0.002219902916448964,Climate
+Pacifastacus leniusculus,1,l_CLI69,0.06723432632209785,Climate
+Pacifastacus leniusculus,1,l_CLI72,0.00020355912967853705,Climate
+Pacifastacus leniusculus,1,l_CLI73,0.03803369819479181,Climate
+Pacifastacus leniusculus,1,l_CLI76,0.002723674041101021,Climate
+Pacifastacus leniusculus,1,l_CLI8,0.0002976379258479781,Climate
+Pacifastacus leniusculus,1,l_CLI9,0.006096431273290105,Climate
+Pacifastacus leniusculus,1,l_LAC1,0.0020836452157720307,Land Cover
+Pacifastacus leniusculus,1,l_LAC10,0.00018492016102311502,Land Cover
+Pacifastacus leniusculus,1,l_LAC11,1.0090820965514044e-05,Land Cover
+Pacifastacus leniusculus,1,l_LAC12,0.0017260910433164623,Land Cover
+Pacifastacus leniusculus,1,l_LAC13,0.0033955737203065287,Land Cover
+Pacifastacus leniusculus,1,l_LAC15,0.00016225061750169907,Land Cover
+Pacifastacus leniusculus,1,l_LAC16,0.00035359454067619754,Land Cover
+Pacifastacus leniusculus,1,l_LAC18,4.466574977379491e-06,Land Cover
+Pacifastacus leniusculus,1,l_LAC19,0.00027869878188138713,Land Cover
+Pacifastacus leniusculus,1,l_LAC2,0.00017494590591728967,Land Cover
+Pacifastacus leniusculus,1,l_LAC20,4.6568436398980854e-05,Land Cover
+Pacifastacus leniusculus,1,l_LAC21,0.0003845501960538953,Land Cover
+Pacifastacus leniusculus,1,l_LAC3,0.0010469336179465976,Land Cover
+Pacifastacus leniusculus,1,l_LAC4,0.00026351161265462036,Land Cover
+Pacifastacus leniusculus,1,l_LAC6,0.002869815429052767,Land Cover
+Pacifastacus leniusculus,1,l_LAC7,0.0002805516872418005,Land Cover
+Pacifastacus leniusculus,1,l_LAC8,0.0,Land Cover
+Pacifastacus leniusculus,1,l_LAC9,0.00015640337240103156,Land Cover
+Pacifastacus leniusculus,1,l_SOL1,0.0008284931378185384,Soil
+Pacifastacus leniusculus,1,l_SOL10,0.008071065323241616,Soil
+Pacifastacus leniusculus,1,l_SOL11,0.009589527381366071,Soil
+Pacifastacus leniusculus,1,l_SOL12,0.0002517250668727519,Soil
+Pacifastacus leniusculus,1,l_SOL13,0.004859752565224598,Soil
+Pacifastacus leniusculus,1,l_SOL14,0.003511058131410316,Soil
+Pacifastacus leniusculus,1,l_SOL15,0.004216927456096361,Soil
+Pacifastacus leniusculus,1,l_SOL16,0.00026254906355871916,Soil
+Pacifastacus leniusculus,1,l_SOL17,0.0007750723868716039,Soil
+Pacifastacus leniusculus,1,l_SOL18,0.0015716760059180683,Soil
+Pacifastacus leniusculus,1,l_SOL19,0.001563135686504868,Soil
+Pacifastacus leniusculus,1,l_SOL2,0.0010962196720008218,Soil
+Pacifastacus leniusculus,1,l_SOL20,0.00030035745015153303,Soil
+Pacifastacus leniusculus,1,l_SOL21,0.002998999010794178,Soil
+Pacifastacus leniusculus,1,l_SOL22,0.0030319012531807173,Soil
+Pacifastacus leniusculus,1,l_SOL23,0.0019610366443361775,Soil
+Pacifastacus leniusculus,1,l_SOL24,0.004406710369390803,Soil
+Pacifastacus leniusculus,1,l_SOL25,0.004873708795187478,Soil
+Pacifastacus leniusculus,1,l_SOL26,0.002342944987622146,Soil
+Pacifastacus leniusculus,1,l_SOL27,0.004745555054894015,Soil
+Pacifastacus leniusculus,1,l_SOL28,0.00012306725302934062,Soil
+Pacifastacus leniusculus,1,l_SOL29,0.024814456718249053,Soil
+Pacifastacus leniusculus,1,l_SOL3,0.0014566580738030093,Soil
+Pacifastacus leniusculus,1,l_SOL30,0.016267203446527188,Soil
+Pacifastacus leniusculus,1,l_SOL31,0.026554280014721866,Soil
+Pacifastacus leniusculus,1,l_SOL32,0.0008430790949279123,Soil
+Pacifastacus leniusculus,1,l_SOL33,0.0001778380294345971,Soil
+Pacifastacus leniusculus,1,l_SOL34,0.0019221170441982207,Soil
+Pacifastacus leniusculus,1,l_SOL35,0.003335569167332523,Soil
+Pacifastacus leniusculus,1,l_SOL36,0.0011322496236691897,Soil
+Pacifastacus leniusculus,1,l_SOL37,0.0016199890283467965,Soil
+Pacifastacus leniusculus,1,l_SOL38,0.0020841004224872207,Soil
+Pacifastacus leniusculus,1,l_SOL39,0.003042835059255706,Soil
+Pacifastacus leniusculus,1,l_SOL4,0.00034708993302587035,Soil
+Pacifastacus leniusculus,1,l_SOL40,0.0008215589706681099,Soil
+Pacifastacus leniusculus,1,l_SOL42,0.0036749099452035887,Soil
+Pacifastacus leniusculus,1,l_SOL44,0.0009453343695895401,Soil
+Pacifastacus leniusculus,1,l_SOL45,0.0012731216587400446,Soil
+Pacifastacus leniusculus,1,l_SOL46,0.0005708436584386512,Soil
+Pacifastacus leniusculus,1,l_SOL47,0.0009934755458105788,Soil
+Pacifastacus leniusculus,1,l_SOL48,0.00017062979422452832,Soil
+Pacifastacus leniusculus,1,l_SOL5,0.0003734178655009199,Soil
+Pacifastacus leniusculus,1,l_SOL50,3.372396979371267e-05,Soil
+Pacifastacus leniusculus,1,l_SOL53,0.00021303910976779836,Soil
+Pacifastacus leniusculus,1,l_SOL54,3.256184315829674e-05,Soil
+Pacifastacus leniusculus,1,l_SOL55,0.00019879298977198826,Soil
+Pacifastacus leniusculus,1,l_SOL56,0.00012689134353835257,Soil
+Pacifastacus leniusculus,1,l_SOL57,0.0007804631669503596,Soil
+Pacifastacus leniusculus,1,l_SOL58,0.0006378725067485066,Soil
+Pacifastacus leniusculus,1,l_SOL59,0.0004944221285394976,Soil
+Pacifastacus leniusculus,1,l_SOL6,0.001182105212934696,Soil
+Pacifastacus leniusculus,1,l_SOL60,0.00028291360836813433,Soil
+Pacifastacus leniusculus,1,l_SOL7,0.0006522462603902436,Soil
+Pacifastacus leniusculus,1,l_SOL8,0.00018296255756694148,Soil
+Pacifastacus leniusculus,1,l_SOL9,0.0076136780060162244,Soil
+Pacifastacus leniusculus,1,l_TOP1,0.0004954120012901906,Topography
+Pacifastacus leniusculus,1,l_TOP10,0.0002922179056574381,Topography
+Pacifastacus leniusculus,1,l_TOP101,0.009196637067147658,Topography
+Pacifastacus leniusculus,1,l_TOP102,0.01480850692701272,Topography
+Pacifastacus leniusculus,1,l_TOP103,0.0005538006050649791,Topography
+Pacifastacus leniusculus,1,l_TOP104,0.00028973532734614705,Topography
+Pacifastacus leniusculus,1,l_TOP105,0.0005000589439276835,Topography
+Pacifastacus leniusculus,1,l_TOP106,9.004236017679962e-05,Topography
+Pacifastacus leniusculus,1,l_TOP107,0.0009558682994218576,Topography
+Pacifastacus leniusculus,1,l_TOP108,0.0009674421372341319,Topography
+Pacifastacus leniusculus,1,l_TOP111,0.00032907774784785764,Topography
+Pacifastacus leniusculus,1,l_TOP112,0.0004824562745777288,Topography
+Pacifastacus leniusculus,1,l_TOP113,0.0015757103598629005,Topography
+Pacifastacus leniusculus,1,l_TOP116,0.0038356207743927505,Topography
+Pacifastacus leniusculus,1,l_TOP118,0.00018333299887564645,Topography
+Pacifastacus leniusculus,1,l_TOP119,0.0003967176600864594,Topography
+Pacifastacus leniusculus,1,l_TOP12,0.00018416221080407415,Topography
+Pacifastacus leniusculus,1,l_TOP124,0.0011905964397864986,Topography
+Pacifastacus leniusculus,1,l_TOP125,0.0005648781302633568,Topography
+Pacifastacus leniusculus,1,l_TOP126,0.0010801738408985448,Topography
+Pacifastacus leniusculus,1,l_TOP127,0.0004179183311039318,Topography
+Pacifastacus leniusculus,1,l_TOP128,0.0018114850612834493,Topography
+Pacifastacus leniusculus,1,l_TOP129,0.0007542871281474068,Topography
+Pacifastacus leniusculus,1,l_TOP13,0.0001471129471220442,Topography
+Pacifastacus leniusculus,1,l_TOP130,0.0007904153021200113,Topography
+Pacifastacus leniusculus,1,l_TOP131,0.000562802668526879,Topography
+Pacifastacus leniusculus,1,l_TOP132,0.0009588104890314672,Topography
+Pacifastacus leniusculus,1,l_TOP133,0.00012097771657024829,Topography
+Pacifastacus leniusculus,1,l_TOP134,0.0005979082815328146,Topography
+Pacifastacus leniusculus,1,l_TOP135,0.0006414385356423971,Topography
+Pacifastacus leniusculus,1,l_TOP136,0.001583214716183024,Topography
+Pacifastacus leniusculus,1,l_TOP137,6.14020784731946e-05,Topography
+Pacifastacus leniusculus,1,l_TOP138,0.0005511720918301691,Topography
+Pacifastacus leniusculus,1,l_TOP139,0.00041965331830547603,Topography
+Pacifastacus leniusculus,1,l_TOP14,0.0004657439556283612,Topography
+Pacifastacus leniusculus,1,l_TOP140,0.00040474051079194753,Topography
+Pacifastacus leniusculus,1,l_TOP141,0.00020372970097435895,Topography
+Pacifastacus leniusculus,1,l_TOP142,0.0005165272526101968,Topography
+Pacifastacus leniusculus,1,l_TOP143,0.00035012858584837335,Topography
+Pacifastacus leniusculus,1,l_TOP144,0.0006599206833282912,Topography
+Pacifastacus leniusculus,1,l_TOP15,0.00032235042247096707,Topography
+Pacifastacus leniusculus,1,l_TOP16,0.0004365265872205562,Topography
+Pacifastacus leniusculus,1,l_TOP17,0.0,Topography
+Pacifastacus leniusculus,1,l_TOP18,0.00021086255470906037,Topography
+Pacifastacus leniusculus,1,l_TOP19,0.00017531106177588545,Topography
+Pacifastacus leniusculus,1,l_TOP2,0.00046262374606596157,Topography
+Pacifastacus leniusculus,1,l_TOP20,0.00022386296606906125,Topography
+Pacifastacus leniusculus,1,l_TOP21,2.507510269012373e-20,Topography
+Pacifastacus leniusculus,1,l_TOP23,0.001100959553492757,Topography
+Pacifastacus leniusculus,1,l_TOP26,0.0002769736223612809,Topography
+Pacifastacus leniusculus,1,l_TOP27,0.00019090337528170762,Topography
+Pacifastacus leniusculus,1,l_TOP28,0.00019762381707218402,Topography
+Pacifastacus leniusculus,1,l_TOP3,0.00031423711230090976,Topography
+Pacifastacus leniusculus,1,l_TOP30,0.027012849706080616,Topography
+Pacifastacus leniusculus,1,l_TOP32,0.00038461811924783294,Topography
+Pacifastacus leniusculus,1,l_TOP35,0.00041558205744526714,Topography
+Pacifastacus leniusculus,1,l_TOP38,0.00043484478563902875,Topography
+Pacifastacus leniusculus,1,l_TOP39,0.0002108483047731724,Topography
+Pacifastacus leniusculus,1,l_TOP40,0.00033454061468213904,Topography
+Pacifastacus leniusculus,1,l_TOP41,0.0,Topography
+Pacifastacus leniusculus,1,l_TOP42,0.0003341648368716916,Topography
+Pacifastacus leniusculus,1,l_TOP43,0.00031895909964953397,Topography
+Pacifastacus leniusculus,1,l_TOP44,0.00031170826787856704,Topography
+Pacifastacus leniusculus,1,l_TOP45,0.0,Topography
+Pacifastacus leniusculus,1,l_TOP47,0.0005612810616135697,Topography
+Pacifastacus leniusculus,1,l_TOP48,0.001050001885077519,Topography
+Pacifastacus leniusculus,1,l_TOP49,6.569345951351134e-05,Topography
+Pacifastacus leniusculus,1,l_TOP51,0.000638107894524401,Topography
+Pacifastacus leniusculus,1,l_TOP52,0.0005314807602500518,Topography
+Pacifastacus leniusculus,1,l_TOP53,0.003175704195627125,Topography
+Pacifastacus leniusculus,1,l_TOP59,0.0003460990366874962,Topography
+Pacifastacus leniusculus,1,l_TOP6,0.0002194274230538828,Topography
+Pacifastacus leniusculus,1,l_TOP60,0.0005101478640428201,Topography
+Pacifastacus leniusculus,1,l_TOP61,0.00045912701717835936,Topography
+Pacifastacus leniusculus,1,l_TOP64,0.0002196706051613453,Topography
+Pacifastacus leniusculus,1,l_TOP65,0.0001524701852800762,Topography
+Pacifastacus leniusculus,1,l_TOP66,0.0003472342167700344,Topography
+Pacifastacus leniusculus,1,l_TOP67,0.0003962866110502545,Topography
+Pacifastacus leniusculus,1,l_TOP68,0.00024826400759057595,Topography
+Pacifastacus leniusculus,1,l_TOP69,0.00014358320687253014,Topography
+Pacifastacus leniusculus,1,l_TOP70,0.0003510368679639814,Topography
+Pacifastacus leniusculus,1,l_TOP71,0.0003725390459393363,Topography
+Pacifastacus leniusculus,1,l_TOP72,0.00019789155304193485,Topography
+Pacifastacus leniusculus,1,l_TOP73,9.494367372055352e-05,Topography
+Pacifastacus leniusculus,1,l_TOP74,0.00029561347208838576,Topography
+Pacifastacus leniusculus,1,l_TOP75,0.00031323269956941237,Topography
+Pacifastacus leniusculus,1,l_TOP76,0.00033031109221096864,Topography
+Pacifastacus leniusculus,1,l_TOP78,0.0003200898335967298,Topography
+Pacifastacus leniusculus,1,l_TOP79,0.00022076527939212697,Topography
+Pacifastacus leniusculus,1,l_TOP8,0.00044733883615998915,Topography
+Pacifastacus leniusculus,1,l_TOP83,0.00039566395993741296,Topography
+Pacifastacus leniusculus,1,l_TOP85,4.0407040107058565e-05,Topography
+Pacifastacus leniusculus,1,l_TOP87,0.0005863690834635479,Topography
+Pacifastacus leniusculus,1,l_TOP89,0.000238773375029112,Topography
+Pacifastacus leniusculus,1,l_TOP9,2.124790907737735e-05,Topography
+Pacifastacus leniusculus,1,l_TOP90,0.0003996920772502328,Topography
+Pacifastacus leniusculus,1,l_TOP91,0.0006223596622900021,Topography
+Pacifastacus leniusculus,1,l_TOP92,0.0007136007133100518,Topography
+Pacifastacus leniusculus,1,l_TOP93,0.0020841754608930127,Topography
+Pacifastacus leniusculus,1,l_TOP97,0.0031080830649678915,Topography
+Pacifastacus leniusculus,1,l_TOP99,0.00023321637607426693,Topography
+Pacifastacus leniusculus,1,u_CLI11,0.0029213365738159297,Climate
+Pacifastacus leniusculus,1,u_CLI15,0.0044719366218450105,Climate
+Pacifastacus leniusculus,1,u_CLI19,0.003586690598163209,Climate
+Pacifastacus leniusculus,1,u_CLI23,0.0033956088944091783,Climate
+Pacifastacus leniusculus,1,u_CLI27,0.002486880831233774,Climate
+Pacifastacus leniusculus,1,u_CLI3,0.0018540467289890972,Climate
+Pacifastacus leniusculus,1,u_CLI31,0.010206340816594939,Climate
+Pacifastacus leniusculus,1,u_CLI35,0.011497253607588721,Climate
+Pacifastacus leniusculus,1,u_CLI39,0.0016743274379216447,Climate
+Pacifastacus leniusculus,1,u_CLI47,0.00137467342896638,Climate
+Pacifastacus leniusculus,1,u_CLI51,0.005731398368820296,Climate
+Pacifastacus leniusculus,1,u_CLI55,0.011250724295938501,Climate
+Pacifastacus leniusculus,1,u_CLI59,0.017469632375016843,Climate
+Pacifastacus leniusculus,1,u_CLI7,0.002913606325973136,Climate
+Pacifastacus leniusculus,1,u_CLI71,0.015179774069894934,Climate
+Pacifastacus leniusculus,1,u_CLI75,0.0035701261881954643,Climate
+Pacifastacus leniusculus,1,u_LAC1,0.004149002910759523,Land Cover
+Pacifastacus leniusculus,1,u_LAC10,0.0009319586497493089,Land Cover
+Pacifastacus leniusculus,1,u_LAC11,0.00017986368703019038,Land Cover
+Pacifastacus leniusculus,1,u_LAC12,0.00389751191421685,Land Cover
+Pacifastacus leniusculus,1,u_LAC13,0.010599974964263239,Land Cover
+Pacifastacus leniusculus,1,u_LAC14,7.976593108656675e-05,Land Cover
+Pacifastacus leniusculus,1,u_LAC15,0.00012709879753168297,Land Cover
+Pacifastacus leniusculus,1,u_LAC16,0.00020607970181160925,Land Cover
+Pacifastacus leniusculus,1,u_LAC18,6.741326918685722e-06,Land Cover
+Pacifastacus leniusculus,1,u_LAC19,0.0002589445894004365,Land Cover
+Pacifastacus leniusculus,1,u_LAC2,0.0008307760384773603,Land Cover
+Pacifastacus leniusculus,1,u_LAC20,5.640694120969235e-06,Land Cover
+Pacifastacus leniusculus,1,u_LAC21,0.00014572398829658707,Land Cover
+Pacifastacus leniusculus,1,u_LAC22,3.6999976990467696e-05,Land Cover
+Pacifastacus leniusculus,1,u_LAC3,0.011490481603296231,Land Cover
+Pacifastacus leniusculus,1,u_LAC4,0.001865527968834064,Land Cover
+Pacifastacus leniusculus,1,u_LAC5,0.0,Land Cover
+Pacifastacus leniusculus,1,u_LAC6,0.01214196097944555,Land Cover
+Pacifastacus leniusculus,1,u_LAC7,0.0020979583127824076,Land Cover
+Pacifastacus leniusculus,1,u_LAC8,0.0003933953004246501,Land Cover
+Pacifastacus leniusculus,1,u_LAC9,0.00048380396038526506,Land Cover
+Pacifastacus leniusculus,1,u_SOL11,0.006323553382265054,Soil
+Pacifastacus leniusculus,1,u_SOL15,0.0011906902460318838,Soil
+Pacifastacus leniusculus,1,u_SOL19,0.0003486379395366925,Soil
+Pacifastacus leniusculus,1,u_SOL23,0.002521260193833326,Soil
+Pacifastacus leniusculus,1,u_SOL27,0.0031368760103179,Soil
+Pacifastacus leniusculus,1,u_SOL3,0.0008991966066939509,Soil
+Pacifastacus leniusculus,1,u_SOL31,0.008188872885843334,Soil
+Pacifastacus leniusculus,1,u_SOL35,0.002451785194652501,Soil
+Pacifastacus leniusculus,1,u_SOL39,0.001272259079672926,Soil
+Pacifastacus leniusculus,1,u_SOL43,0.0018643571339440402,Soil
+Pacifastacus leniusculus,1,u_SOL47,0.001108492841055423,Soil
+Pacifastacus leniusculus,1,u_SOL51,4.4416030793791775e-06,Soil
+Pacifastacus leniusculus,1,u_SOL55,0.000278397541754747,Soil
+Pacifastacus leniusculus,1,u_SOL59,0.0015790564089279413,Soil
+Pacifastacus leniusculus,1,u_SOL7,0.0008015694583555376,Soil
+Pacifastacus leniusculus,1,u_TOP103,0.0008208617537895199,Topography
+Pacifastacus leniusculus,1,u_TOP11,0.0010157857297766568,Topography
+Pacifastacus leniusculus,1,u_TOP110,0.0005926214362646845,Topography
+Pacifastacus leniusculus,1,u_TOP111,0.0006653306760839593,Topography
+Pacifastacus leniusculus,1,u_TOP112,0.00028105269887554403,Topography
+Pacifastacus leniusculus,1,u_TOP113,0.00010090974111478955,Topography
+Pacifastacus leniusculus,1,u_TOP114,0.004370528245022576,Topography
+Pacifastacus leniusculus,1,u_TOP117,0.0009280454462363089,Topography
+Pacifastacus leniusculus,1,u_TOP119,0.0002981560554377269,Topography
+Pacifastacus leniusculus,1,u_TOP122,0.0023774588410802,Topography
+Pacifastacus leniusculus,1,u_TOP130,6.77517290609116e-05,Topography
+Pacifastacus leniusculus,1,u_TOP135,0.00018282254949318757,Topography
+Pacifastacus leniusculus,1,u_TOP139,0.0008318431732185085,Topography
+Pacifastacus leniusculus,1,u_TOP143,0.0006232581209206532,Topography
+Pacifastacus leniusculus,1,u_TOP15,0.0012071821197824689,Topography
+Pacifastacus leniusculus,1,u_TOP19,0.0004959461079326052,Topography
+Pacifastacus leniusculus,1,u_TOP23,0.00029980914379927804,Topography
+Pacifastacus leniusculus,1,u_TOP27,0.0005731966505700229,Topography
+Pacifastacus leniusculus,1,u_TOP31,0.0016145436334856116,Topography
+Pacifastacus leniusculus,1,u_TOP35,0.00044512504475293995,Topography
+Pacifastacus leniusculus,1,u_TOP39,0.0004089321879628101,Topography
+Pacifastacus leniusculus,1,u_TOP47,0.00042956321116049707,Topography
+Pacifastacus leniusculus,1,u_TOP51,0.0008992254069483181,Topography
+Pacifastacus leniusculus,1,u_TOP55,0.0010183552721942171,Topography
+Pacifastacus leniusculus,1,u_TOP59,0.0005740601725601618,Topography
+Pacifastacus leniusculus,1,u_TOP63,0.0013186717788252838,Topography
+Pacifastacus leniusculus,1,u_TOP67,0.0020673999149566713,Topography
+Pacifastacus leniusculus,1,u_TOP7,0.0011894113476803808,Topography
+Pacifastacus leniusculus,1,u_TOP71,0.00033650323715490177,Topography
+Pacifastacus leniusculus,1,u_TOP83,0.0005399597624236281,Topography
+Pacifastacus leniusculus,1,u_TOP91,0.0005966045274440845,Topography
+Pacifastacus leniusculus,1,u_TOP95,0.0006806716673058679,Topography
+Pacifastacus leniusculus,1,u_TOP99,0.00045279495471745637,Topography
+Pacifastacus leniusculus,2,l_CLI1,0.004656232454695814,Climate
+Pacifastacus leniusculus,2,l_CLI12,0.00027894493542871457,Climate
+Pacifastacus leniusculus,2,l_CLI14,0.035651950113684126,Climate
+Pacifastacus leniusculus,2,l_CLI16,0.0003507296142812154,Climate
+Pacifastacus leniusculus,2,l_CLI17,0.0186902694220377,Climate
+Pacifastacus leniusculus,2,l_CLI20,0.0002474192690013437,Climate
+Pacifastacus leniusculus,2,l_CLI21,0.012857569852165818,Climate
+Pacifastacus leniusculus,2,l_CLI24,0.0005377460246247318,Climate
+Pacifastacus leniusculus,2,l_CLI26,0.01196142509001538,Climate
+Pacifastacus leniusculus,2,l_CLI28,0.00044458009477016776,Climate
+Pacifastacus leniusculus,2,l_CLI30,0.024114725228600094,Climate
+Pacifastacus leniusculus,2,l_CLI32,0.000400256506283517,Climate
+Pacifastacus leniusculus,2,l_CLI33,0.04710084541145177,Climate
+Pacifastacus leniusculus,2,l_CLI36,0.0003907739557668476,Climate
+Pacifastacus leniusculus,2,l_CLI37,0.003949981758849713,Climate
+Pacifastacus leniusculus,2,l_CLI4,0.0006512564304995695,Climate
+Pacifastacus leniusculus,2,l_CLI40,0.00026375211203242833,Climate
+Pacifastacus leniusculus,2,l_CLI44,0.00036423197886991955,Climate
+Pacifastacus leniusculus,2,l_CLI45,0.014131642848519142,Climate
+Pacifastacus leniusculus,2,l_CLI48,0.001968274652571721,Climate
+Pacifastacus leniusculus,2,l_CLI49,0.037016424798821695,Climate
+Pacifastacus leniusculus,2,l_CLI52,0.004639251782342519,Climate
+Pacifastacus leniusculus,2,l_CLI53,0.05448609242208339,Climate
+Pacifastacus leniusculus,2,l_CLI56,0.0010653576319952687,Climate
+Pacifastacus leniusculus,2,l_CLI58,0.09929117573002993,Climate
+Pacifastacus leniusculus,2,l_CLI6,0.016354444646184355,Climate
+Pacifastacus leniusculus,2,l_CLI60,0.0030857518689284334,Climate
+Pacifastacus leniusculus,2,l_CLI69,0.07309433952404652,Climate
+Pacifastacus leniusculus,2,l_CLI72,0.0007262607421581757,Climate
+Pacifastacus leniusculus,2,l_CLI73,0.03810124251150234,Climate
+Pacifastacus leniusculus,2,l_CLI76,0.002761451778979156,Climate
+Pacifastacus leniusculus,2,l_CLI8,0.00013997842213467313,Climate
+Pacifastacus leniusculus,2,l_CLI9,0.008609813860831565,Climate
+Pacifastacus leniusculus,2,l_LAC1,0.0005598699195240715,Land Cover
+Pacifastacus leniusculus,2,l_LAC10,0.00020511120481514107,Land Cover
+Pacifastacus leniusculus,2,l_LAC11,1.6358131863581813e-05,Land Cover
+Pacifastacus leniusculus,2,l_LAC12,0.0024630813779199165,Land Cover
+Pacifastacus leniusculus,2,l_LAC13,0.0017752074236090129,Land Cover
+Pacifastacus leniusculus,2,l_LAC15,2.895983439334666e-18,Land Cover
+Pacifastacus leniusculus,2,l_LAC16,0.000739687136856456,Land Cover
+Pacifastacus leniusculus,2,l_LAC18,4.503294015979278e-06,Land Cover
+Pacifastacus leniusculus,2,l_LAC19,0.0008673622735153837,Land Cover
+Pacifastacus leniusculus,2,l_LAC2,0.00014465978767478602,Land Cover
+Pacifastacus leniusculus,2,l_LAC20,4.448535526386811e-06,Land Cover
+Pacifastacus leniusculus,2,l_LAC21,0.0007332194682679205,Land Cover
+Pacifastacus leniusculus,2,l_LAC3,0.0016123780896700392,Land Cover
+Pacifastacus leniusculus,2,l_LAC4,5.75280608476541e-05,Land Cover
+Pacifastacus leniusculus,2,l_LAC6,0.0026352979092959246,Land Cover
+Pacifastacus leniusculus,2,l_LAC7,0.00024533129093243797,Land Cover
+Pacifastacus leniusculus,2,l_LAC8,3.766016260234966e-05,Land Cover
+Pacifastacus leniusculus,2,l_LAC9,1.7128879272702173e-05,Land Cover
+Pacifastacus leniusculus,2,l_SOL1,0.0007421928587768034,Soil
+Pacifastacus leniusculus,2,l_SOL10,0.005920072126398942,Soil
+Pacifastacus leniusculus,2,l_SOL11,0.007940969001795993,Soil
+Pacifastacus leniusculus,2,l_SOL12,0.000154055768364225,Soil
+Pacifastacus leniusculus,2,l_SOL13,0.003907010674886298,Soil
+Pacifastacus leniusculus,2,l_SOL14,0.0029842328342597484,Soil
+Pacifastacus leniusculus,2,l_SOL15,0.00479474306392441,Soil
+Pacifastacus leniusculus,2,l_SOL16,0.00014465156094029956,Soil
+Pacifastacus leniusculus,2,l_SOL17,0.00090553623793077,Soil
+Pacifastacus leniusculus,2,l_SOL18,0.0007906741697014112,Soil
+Pacifastacus leniusculus,2,l_SOL19,0.001106342098825636,Soil
+Pacifastacus leniusculus,2,l_SOL2,0.0003214655075695982,Soil
+Pacifastacus leniusculus,2,l_SOL20,0.0001714205302439368,Soil
+Pacifastacus leniusculus,2,l_SOL21,0.002168977152231218,Soil
+Pacifastacus leniusculus,2,l_SOL22,0.0017704025425914582,Soil
+Pacifastacus leniusculus,2,l_SOL23,0.0019808013708401202,Soil
+Pacifastacus leniusculus,2,l_SOL24,0.00747062015084308,Soil
+Pacifastacus leniusculus,2,l_SOL25,0.004524171207028437,Soil
+Pacifastacus leniusculus,2,l_SOL26,0.001981418688696198,Soil
+Pacifastacus leniusculus,2,l_SOL27,0.0039791247324091,Soil
+Pacifastacus leniusculus,2,l_SOL28,0.0005237485775861045,Soil
+Pacifastacus leniusculus,2,l_SOL29,0.022095454736450092,Soil
+Pacifastacus leniusculus,2,l_SOL3,0.0010790106550352696,Soil
+Pacifastacus leniusculus,2,l_SOL30,0.02129770987781871,Soil
+Pacifastacus leniusculus,2,l_SOL31,0.031873439064305266,Soil
+Pacifastacus leniusculus,2,l_SOL32,0.0006937311574781166,Soil
+Pacifastacus leniusculus,2,l_SOL33,0.0013503460883530027,Soil
+Pacifastacus leniusculus,2,l_SOL34,0.001252223355320465,Soil
+Pacifastacus leniusculus,2,l_SOL35,0.0033350897648980983,Soil
+Pacifastacus leniusculus,2,l_SOL36,0.0006030844026849872,Soil
+Pacifastacus leniusculus,2,l_SOL37,0.0008639277686026915,Soil
+Pacifastacus leniusculus,2,l_SOL38,0.0022206650304645082,Soil
+Pacifastacus leniusculus,2,l_SOL39,0.0030633597429384376,Soil
+Pacifastacus leniusculus,2,l_SOL4,0.0006175466815896627,Soil
+Pacifastacus leniusculus,2,l_SOL40,0.0023541059377719152,Soil
+Pacifastacus leniusculus,2,l_SOL42,0.003824125170317924,Soil
+Pacifastacus leniusculus,2,l_SOL44,0.0011438488011346498,Soil
+Pacifastacus leniusculus,2,l_SOL45,0.0003898039888284917,Soil
+Pacifastacus leniusculus,2,l_SOL46,0.001153496262820674,Soil
+Pacifastacus leniusculus,2,l_SOL47,0.0012968203212848672,Soil
+Pacifastacus leniusculus,2,l_SOL48,3.335023133640504e-05,Soil
+Pacifastacus leniusculus,2,l_SOL5,0.0008097022672201438,Soil
+Pacifastacus leniusculus,2,l_SOL50,4.017658644766873e-05,Soil
+Pacifastacus leniusculus,2,l_SOL53,9.651027828736655e-05,Soil
+Pacifastacus leniusculus,2,l_SOL54,0.0001183292974489566,Soil
+Pacifastacus leniusculus,2,l_SOL55,0.0002764427056505517,Soil
+Pacifastacus leniusculus,2,l_SOL56,6.711927388656705e-05,Soil
+Pacifastacus leniusculus,2,l_SOL57,0.0006269058814682032,Soil
+Pacifastacus leniusculus,2,l_SOL58,0.0006048200146679615,Soil
+Pacifastacus leniusculus,2,l_SOL59,0.001169685687669765,Soil
+Pacifastacus leniusculus,2,l_SOL6,0.0011307682093823182,Soil
+Pacifastacus leniusculus,2,l_SOL60,0.00048964598753481,Soil
+Pacifastacus leniusculus,2,l_SOL7,0.00190885926351367,Soil
+Pacifastacus leniusculus,2,l_SOL8,0.0002663920499474423,Soil
+Pacifastacus leniusculus,2,l_SOL9,0.005096611144709378,Soil
+Pacifastacus leniusculus,2,l_TOP1,0.0004986514846421253,Topography
+Pacifastacus leniusculus,2,l_TOP10,0.00043158329560603854,Topography
+Pacifastacus leniusculus,2,l_TOP101,0.007376304137214905,Topography
+Pacifastacus leniusculus,2,l_TOP102,0.01459201488690925,Topography
+Pacifastacus leniusculus,2,l_TOP103,0.00041360329401161954,Topography
+Pacifastacus leniusculus,2,l_TOP104,0.0006798188885731665,Topography
+Pacifastacus leniusculus,2,l_TOP105,0.0007107038342702573,Topography
+Pacifastacus leniusculus,2,l_TOP106,0.0004706448832755247,Topography
+Pacifastacus leniusculus,2,l_TOP107,0.0005183803302723192,Topography
+Pacifastacus leniusculus,2,l_TOP108,0.0011120876128096317,Topography
+Pacifastacus leniusculus,2,l_TOP111,0.0003010044329333589,Topography
+Pacifastacus leniusculus,2,l_TOP112,0.00015583349683808692,Topography
+Pacifastacus leniusculus,2,l_TOP113,0.0016261604835985442,Topography
+Pacifastacus leniusculus,2,l_TOP116,0.0034923330733133977,Topography
+Pacifastacus leniusculus,2,l_TOP118,0.0002587190206622395,Topography
+Pacifastacus leniusculus,2,l_TOP119,0.00030321036001893165,Topography
+Pacifastacus leniusculus,2,l_TOP12,0.0006114678578047069,Topography
+Pacifastacus leniusculus,2,l_TOP124,0.0005438928234161225,Topography
+Pacifastacus leniusculus,2,l_TOP125,0.00057182161812795,Topography
+Pacifastacus leniusculus,2,l_TOP126,0.000528198812769547,Topography
+Pacifastacus leniusculus,2,l_TOP127,0.0006152660790749062,Topography
+Pacifastacus leniusculus,2,l_TOP128,0.0028969072832544197,Topography
+Pacifastacus leniusculus,2,l_TOP129,0.0007084762763157152,Topography
+Pacifastacus leniusculus,2,l_TOP13,0.00014494739803575418,Topography
+Pacifastacus leniusculus,2,l_TOP130,0.0002613565957005844,Topography
+Pacifastacus leniusculus,2,l_TOP131,0.0005006823376130545,Topography
+Pacifastacus leniusculus,2,l_TOP132,0.0005497241844796475,Topography
+Pacifastacus leniusculus,2,l_TOP133,5.978938648542514e-05,Topography
+Pacifastacus leniusculus,2,l_TOP134,0.0010192803059807084,Topography
+Pacifastacus leniusculus,2,l_TOP135,0.0012668974430939388,Topography
+Pacifastacus leniusculus,2,l_TOP136,0.0006680074199179313,Topography
+Pacifastacus leniusculus,2,l_TOP137,0.0003625631232954944,Topography
+Pacifastacus leniusculus,2,l_TOP138,0.00036665350643784824,Topography
+Pacifastacus leniusculus,2,l_TOP139,0.0006737031817738228,Topography
+Pacifastacus leniusculus,2,l_TOP14,0.0004788705621629567,Topography
+Pacifastacus leniusculus,2,l_TOP140,0.00031795974174123287,Topography
+Pacifastacus leniusculus,2,l_TOP141,0.0004396423386580345,Topography
+Pacifastacus leniusculus,2,l_TOP142,0.00026894822691170956,Topography
+Pacifastacus leniusculus,2,l_TOP143,0.00028406302461939347,Topography
+Pacifastacus leniusculus,2,l_TOP144,0.0010423491226436753,Topography
+Pacifastacus leniusculus,2,l_TOP15,0.0003111326437324863,Topography
+Pacifastacus leniusculus,2,l_TOP16,0.0010439115655388484,Topography
+Pacifastacus leniusculus,2,l_TOP17,0.0,Topography
+Pacifastacus leniusculus,2,l_TOP18,0.0002940239735588608,Topography
+Pacifastacus leniusculus,2,l_TOP19,0.0003417161905587714,Topography
+Pacifastacus leniusculus,2,l_TOP2,0.0007397178562145991,Topography
+Pacifastacus leniusculus,2,l_TOP20,0.00018649406872686076,Topography
+Pacifastacus leniusculus,2,l_TOP21,1.1166099320314998e-18,Topography
+Pacifastacus leniusculus,2,l_TOP23,0.0016063935403248758,Topography
+Pacifastacus leniusculus,2,l_TOP26,0.0002573012272868439,Topography
+Pacifastacus leniusculus,2,l_TOP27,0.0002929939109840518,Topography
+Pacifastacus leniusculus,2,l_TOP28,0.000272161137986767,Topography
+Pacifastacus leniusculus,2,l_TOP3,0.0006252818363518046,Topography
+Pacifastacus leniusculus,2,l_TOP30,0.02031120120477813,Topography
+Pacifastacus leniusculus,2,l_TOP32,0.0003419109034411761,Topography
+Pacifastacus leniusculus,2,l_TOP35,0.00024469530592050026,Topography
+Pacifastacus leniusculus,2,l_TOP38,0.00037293076639572,Topography
+Pacifastacus leniusculus,2,l_TOP39,0.00023543639782874003,Topography
+Pacifastacus leniusculus,2,l_TOP40,0.0002833472151353149,Topography
+Pacifastacus leniusculus,2,l_TOP41,1.243001589891574e-18,Topography
+Pacifastacus leniusculus,2,l_TOP42,0.0006119354012120956,Topography
+Pacifastacus leniusculus,2,l_TOP43,0.0006636995882540903,Topography
+Pacifastacus leniusculus,2,l_TOP44,0.0008045035559723605,Topography
+Pacifastacus leniusculus,2,l_TOP45,0.0,Topography
+Pacifastacus leniusculus,2,l_TOP47,0.0013791983583151452,Topography
+Pacifastacus leniusculus,2,l_TOP48,0.0006445659138448963,Topography
+Pacifastacus leniusculus,2,l_TOP49,0.00015502139071804367,Topography
+Pacifastacus leniusculus,2,l_TOP51,0.0007130895673859151,Topography
+Pacifastacus leniusculus,2,l_TOP52,0.0003802439765888046,Topography
+Pacifastacus leniusculus,2,l_TOP53,0.003262443303605829,Topography
+Pacifastacus leniusculus,2,l_TOP59,0.0008348318552861059,Topography
+Pacifastacus leniusculus,2,l_TOP6,0.00027474487102945364,Topography
+Pacifastacus leniusculus,2,l_TOP60,0.0006627752078492321,Topography
+Pacifastacus leniusculus,2,l_TOP61,0.0007006218640783499,Topography
+Pacifastacus leniusculus,2,l_TOP64,0.0005728880884608669,Topography
+Pacifastacus leniusculus,2,l_TOP65,0.00016619051387067323,Topography
+Pacifastacus leniusculus,2,l_TOP66,0.00011979404183477413,Topography
+Pacifastacus leniusculus,2,l_TOP67,0.0005443911135735927,Topography
+Pacifastacus leniusculus,2,l_TOP68,0.0005915440513311872,Topography
+Pacifastacus leniusculus,2,l_TOP69,8.858453222497045e-05,Topography
+Pacifastacus leniusculus,2,l_TOP70,0.00023059971173429369,Topography
+Pacifastacus leniusculus,2,l_TOP71,0.00030087038145699865,Topography
+Pacifastacus leniusculus,2,l_TOP72,0.0003318629174463197,Topography
+Pacifastacus leniusculus,2,l_TOP73,0.0008307459569443786,Topography
+Pacifastacus leniusculus,2,l_TOP74,0.0002598697532769118,Topography
+Pacifastacus leniusculus,2,l_TOP75,0.0001997469998269635,Topography
+Pacifastacus leniusculus,2,l_TOP76,0.000565332523797889,Topography
+Pacifastacus leniusculus,2,l_TOP78,0.0003418811397897407,Topography
+Pacifastacus leniusculus,2,l_TOP79,0.0002819958128366969,Topography
+Pacifastacus leniusculus,2,l_TOP8,0.0004914178190636532,Topography
+Pacifastacus leniusculus,2,l_TOP83,0.0011254579443017605,Topography
+Pacifastacus leniusculus,2,l_TOP85,0.0001041887991929024,Topography
+Pacifastacus leniusculus,2,l_TOP87,0.0007728642699441593,Topography
+Pacifastacus leniusculus,2,l_TOP89,0.00019300656791056023,Topography
+Pacifastacus leniusculus,2,l_TOP9,0.00013368748099556915,Topography
+Pacifastacus leniusculus,2,l_TOP90,0.00026820306712405453,Topography
+Pacifastacus leniusculus,2,l_TOP91,0.0005041406477663815,Topography
+Pacifastacus leniusculus,2,l_TOP92,0.0007341853135621,Topography
+Pacifastacus leniusculus,2,l_TOP93,0.0014959979322802033,Topography
+Pacifastacus leniusculus,2,l_TOP97,0.0020688259981469937,Topography
+Pacifastacus leniusculus,2,l_TOP99,0.00024864303124837823,Topography
+Pacifastacus leniusculus,2,u_CLI11,0.0023521279405735057,Climate
+Pacifastacus leniusculus,2,u_CLI15,0.002550359879344588,Climate
+Pacifastacus leniusculus,2,u_CLI19,0.002642878614152018,Climate
+Pacifastacus leniusculus,2,u_CLI23,0.0031398833760617447,Climate
+Pacifastacus leniusculus,2,u_CLI27,0.0029194660487136324,Climate
+Pacifastacus leniusculus,2,u_CLI3,0.0011454184855318017,Climate
+Pacifastacus leniusculus,2,u_CLI31,0.008937562361968892,Climate
+Pacifastacus leniusculus,2,u_CLI35,0.009449000045675822,Climate
+Pacifastacus leniusculus,2,u_CLI39,0.0014915833977402436,Climate
+Pacifastacus leniusculus,2,u_CLI47,0.00222523044637829,Climate
+Pacifastacus leniusculus,2,u_CLI51,0.0068178023216000855,Climate
+Pacifastacus leniusculus,2,u_CLI55,0.011695175259062503,Climate
+Pacifastacus leniusculus,2,u_CLI59,0.026810470577275782,Climate
+Pacifastacus leniusculus,2,u_CLI7,0.003599130722863709,Climate
+Pacifastacus leniusculus,2,u_CLI71,0.015430281048278179,Climate
+Pacifastacus leniusculus,2,u_CLI75,0.005595085877903145,Climate
+Pacifastacus leniusculus,2,u_LAC1,0.0023198194077624175,Land Cover
+Pacifastacus leniusculus,2,u_LAC10,0.0006449177737276525,Land Cover
+Pacifastacus leniusculus,2,u_LAC11,0.00021048294207570462,Land Cover
+Pacifastacus leniusculus,2,u_LAC12,0.0031265745531344844,Land Cover
+Pacifastacus leniusculus,2,u_LAC13,0.005809343365851692,Land Cover
+Pacifastacus leniusculus,2,u_LAC14,0.0,Land Cover
+Pacifastacus leniusculus,2,u_LAC15,0.00023607608014919945,Land Cover
+Pacifastacus leniusculus,2,u_LAC16,9.608170762909439e-05,Land Cover
+Pacifastacus leniusculus,2,u_LAC18,8.446987713905795e-06,Land Cover
+Pacifastacus leniusculus,2,u_LAC19,0.0007280967480844712,Land Cover
+Pacifastacus leniusculus,2,u_LAC2,0.0008086108119501417,Land Cover
+Pacifastacus leniusculus,2,u_LAC20,0.00014095960997656046,Land Cover
+Pacifastacus leniusculus,2,u_LAC21,0.00038477674928734466,Land Cover
+Pacifastacus leniusculus,2,u_LAC22,4.9911151993993404e-20,Land Cover
+Pacifastacus leniusculus,2,u_LAC3,0.00813000678581496,Land Cover
+Pacifastacus leniusculus,2,u_LAC4,0.0010628034515802315,Land Cover
+Pacifastacus leniusculus,2,u_LAC5,0.0,Land Cover
+Pacifastacus leniusculus,2,u_LAC6,0.01185254056811315,Land Cover
+Pacifastacus leniusculus,2,u_LAC7,0.0010025454802331825,Land Cover
+Pacifastacus leniusculus,2,u_LAC8,7.112508091309898e-05,Land Cover
+Pacifastacus leniusculus,2,u_LAC9,0.0004979822394390959,Land Cover
+Pacifastacus leniusculus,2,u_SOL11,0.003433650090891144,Soil
+Pacifastacus leniusculus,2,u_SOL15,0.0011224588579492288,Soil
+Pacifastacus leniusculus,2,u_SOL19,0.0005356796676786822,Soil
+Pacifastacus leniusculus,2,u_SOL23,0.0014456534591875446,Soil
+Pacifastacus leniusculus,2,u_SOL27,0.0037562653354699365,Soil
+Pacifastacus leniusculus,2,u_SOL3,0.0009924343859629358,Soil
+Pacifastacus leniusculus,2,u_SOL31,0.012018156285263967,Soil
+Pacifastacus leniusculus,2,u_SOL35,0.00176849827953227,Soil
+Pacifastacus leniusculus,2,u_SOL39,0.00098823211876602,Soil
+Pacifastacus leniusculus,2,u_SOL43,0.0017301209842513568,Soil
+Pacifastacus leniusculus,2,u_SOL47,0.001658424730399723,Soil
+Pacifastacus leniusculus,2,u_SOL51,3.374404983728817e-06,Soil
+Pacifastacus leniusculus,2,u_SOL55,0.00029182397470106056,Soil
+Pacifastacus leniusculus,2,u_SOL59,0.0009760379518401074,Soil
+Pacifastacus leniusculus,2,u_SOL7,0.00047267233185553084,Soil
+Pacifastacus leniusculus,2,u_TOP103,0.0002861732123340481,Topography
+Pacifastacus leniusculus,2,u_TOP11,0.0007365198807333628,Topography
+Pacifastacus leniusculus,2,u_TOP110,0.00014754636387201656,Topography
+Pacifastacus leniusculus,2,u_TOP111,0.00029006047322665683,Topography
+Pacifastacus leniusculus,2,u_TOP112,0.00014751362586339808,Topography
+Pacifastacus leniusculus,2,u_TOP113,0.00022359054114650504,Topography
+Pacifastacus leniusculus,2,u_TOP114,0.0035277871109337137,Topography
+Pacifastacus leniusculus,2,u_TOP117,0.0008778477036054679,Topography
+Pacifastacus leniusculus,2,u_TOP119,0.0007048576402347555,Topography
+Pacifastacus leniusculus,2,u_TOP122,0.0008329459606337962,Topography
+Pacifastacus leniusculus,2,u_TOP130,0.00026619128368132934,Topography
+Pacifastacus leniusculus,2,u_TOP135,0.00028868400273167225,Topography
+Pacifastacus leniusculus,2,u_TOP139,0.0011481580421904719,Topography
+Pacifastacus leniusculus,2,u_TOP143,0.001153721123658407,Topography
+Pacifastacus leniusculus,2,u_TOP15,0.0019032151147252855,Topography
+Pacifastacus leniusculus,2,u_TOP19,0.00041673739362019414,Topography
+Pacifastacus leniusculus,2,u_TOP23,0.0004219304553760991,Topography
+Pacifastacus leniusculus,2,u_TOP27,0.00037350160221434245,Topography
+Pacifastacus leniusculus,2,u_TOP31,0.001965244783722241,Topography
+Pacifastacus leniusculus,2,u_TOP35,9.556214941726393e-05,Topography
+Pacifastacus leniusculus,2,u_TOP39,0.00038733237615160124,Topography
+Pacifastacus leniusculus,2,u_TOP47,0.00019862923476074337,Topography
+Pacifastacus leniusculus,2,u_TOP51,0.0011650418531620613,Topography
+Pacifastacus leniusculus,2,u_TOP55,0.0008131598039100214,Topography
+Pacifastacus leniusculus,2,u_TOP59,0.0011194569821757604,Topography
+Pacifastacus leniusculus,2,u_TOP63,0.0005133093279606873,Topography
+Pacifastacus leniusculus,2,u_TOP67,0.0014806371808049115,Topography
+Pacifastacus leniusculus,2,u_TOP7,0.0019305722373095017,Topography
+Pacifastacus leniusculus,2,u_TOP71,0.00044613944420965275,Topography
+Pacifastacus leniusculus,2,u_TOP83,0.0005255703393370447,Topography
+Pacifastacus leniusculus,2,u_TOP91,0.0006537584589848912,Topography
+Pacifastacus leniusculus,2,u_TOP95,0.0008829759104983947,Topography
+Pacifastacus leniusculus,2,u_TOP99,0.0003829706438982558,Topography
+Pacifastacus leniusculus,3,l_CLI1,0.005266372706953006,Climate
+Pacifastacus leniusculus,3,l_CLI12,0.00016575046806580445,Climate
+Pacifastacus leniusculus,3,l_CLI14,0.02246293278192097,Climate
+Pacifastacus leniusculus,3,l_CLI16,0.0003808969858742417,Climate
+Pacifastacus leniusculus,3,l_CLI17,0.01606598160826979,Climate
+Pacifastacus leniusculus,3,l_CLI20,0.00039269191320132323,Climate
+Pacifastacus leniusculus,3,l_CLI21,0.011480884140029858,Climate
+Pacifastacus leniusculus,3,l_CLI24,2.274287213873237e-05,Climate
+Pacifastacus leniusculus,3,l_CLI26,0.010377008857736635,Climate
+Pacifastacus leniusculus,3,l_CLI28,4.750798608993894e-05,Climate
+Pacifastacus leniusculus,3,l_CLI30,0.028174265344959648,Climate
+Pacifastacus leniusculus,3,l_CLI32,0.0004636951169236077,Climate
+Pacifastacus leniusculus,3,l_CLI33,0.05867480676759534,Climate
+Pacifastacus leniusculus,3,l_CLI36,0.00011369247215459859,Climate
+Pacifastacus leniusculus,3,l_CLI37,0.004772569781124552,Climate
+Pacifastacus leniusculus,3,l_CLI4,0.0004842409903053574,Climate
+Pacifastacus leniusculus,3,l_CLI40,0.0003050169784486215,Climate
+Pacifastacus leniusculus,3,l_CLI44,0.0005143811472538472,Climate
+Pacifastacus leniusculus,3,l_CLI45,0.013274104149107365,Climate
+Pacifastacus leniusculus,3,l_CLI48,0.002028545435633861,Climate
+Pacifastacus leniusculus,3,l_CLI49,0.036930166110771594,Climate
+Pacifastacus leniusculus,3,l_CLI52,0.0034427501314893963,Climate
+Pacifastacus leniusculus,3,l_CLI53,0.04888684790919596,Climate
+Pacifastacus leniusculus,3,l_CLI56,0.0007812310732471188,Climate
+Pacifastacus leniusculus,3,l_CLI58,0.10799369782070188,Climate
+Pacifastacus leniusculus,3,l_CLI6,0.01716014683524583,Climate
+Pacifastacus leniusculus,3,l_CLI60,0.002869764188923619,Climate
+Pacifastacus leniusculus,3,l_CLI69,0.06769792956339155,Climate
+Pacifastacus leniusculus,3,l_CLI72,0.0008243875449084881,Climate
+Pacifastacus leniusculus,3,l_CLI73,0.030229463826709987,Climate
+Pacifastacus leniusculus,3,l_CLI76,0.00413830657364625,Climate
+Pacifastacus leniusculus,3,l_CLI8,0.0003675106887823133,Climate
+Pacifastacus leniusculus,3,l_CLI9,0.005855813029492647,Climate
+Pacifastacus leniusculus,3,l_LAC1,0.0010155114669560014,Land Cover
+Pacifastacus leniusculus,3,l_LAC10,0.00032977828819794817,Land Cover
+Pacifastacus leniusculus,3,l_LAC11,3.3271895428817e-06,Land Cover
+Pacifastacus leniusculus,3,l_LAC12,0.0030537680887571883,Land Cover
+Pacifastacus leniusculus,3,l_LAC13,0.0016876140769255285,Land Cover
+Pacifastacus leniusculus,3,l_LAC15,0.00015993929672004326,Land Cover
+Pacifastacus leniusculus,3,l_LAC16,0.00019440241055446557,Land Cover
+Pacifastacus leniusculus,3,l_LAC18,1.0870003334949433e-06,Land Cover
+Pacifastacus leniusculus,3,l_LAC19,0.0002330257069645631,Land Cover
+Pacifastacus leniusculus,3,l_LAC2,8.580733854157498e-05,Land Cover
+Pacifastacus leniusculus,3,l_LAC20,4.8082126822018156e-05,Land Cover
+Pacifastacus leniusculus,3,l_LAC21,0.00047900025935863666,Land Cover
+Pacifastacus leniusculus,3,l_LAC3,0.0010956655987177859,Land Cover
+Pacifastacus leniusculus,3,l_LAC4,0.00018284569169866563,Land Cover
+Pacifastacus leniusculus,3,l_LAC6,0.002813363830982539,Land Cover
+Pacifastacus leniusculus,3,l_LAC7,0.0009267247981232315,Land Cover
+Pacifastacus leniusculus,3,l_LAC8,0.0,Land Cover
+Pacifastacus leniusculus,3,l_LAC9,0.0001309010884294849,Land Cover
+Pacifastacus leniusculus,3,l_SOL1,0.0009122246846691907,Soil
+Pacifastacus leniusculus,3,l_SOL10,0.005059957473593477,Soil
+Pacifastacus leniusculus,3,l_SOL11,0.01117202904577547,Soil
+Pacifastacus leniusculus,3,l_SOL12,0.00017880515596711182,Soil
+Pacifastacus leniusculus,3,l_SOL13,0.004718644515645997,Soil
+Pacifastacus leniusculus,3,l_SOL14,0.0033156971237588676,Soil
+Pacifastacus leniusculus,3,l_SOL15,0.005868580244557314,Soil
+Pacifastacus leniusculus,3,l_SOL16,0.00015050514311739185,Soil
+Pacifastacus leniusculus,3,l_SOL17,0.0009097719063016366,Soil
+Pacifastacus leniusculus,3,l_SOL18,0.0007214594955082681,Soil
+Pacifastacus leniusculus,3,l_SOL19,0.0013730929368477183,Soil
+Pacifastacus leniusculus,3,l_SOL2,0.0005763459356580874,Soil
+Pacifastacus leniusculus,3,l_SOL20,0.0003726223456575632,Soil
+Pacifastacus leniusculus,3,l_SOL21,0.0024108412884084602,Soil
+Pacifastacus leniusculus,3,l_SOL22,0.002001640449369552,Soil
+Pacifastacus leniusculus,3,l_SOL23,0.0025845239460578935,Soil
+Pacifastacus leniusculus,3,l_SOL24,0.0039068312665468605,Soil
+Pacifastacus leniusculus,3,l_SOL25,0.003765916194798186,Soil
+Pacifastacus leniusculus,3,l_SOL26,0.002557150661393732,Soil
+Pacifastacus leniusculus,3,l_SOL27,0.0027548784992672314,Soil
+Pacifastacus leniusculus,3,l_SOL28,0.00024156712746096,Soil
+Pacifastacus leniusculus,3,l_SOL29,0.025977455005828404,Soil
+Pacifastacus leniusculus,3,l_SOL3,0.0018719664321984898,Soil
+Pacifastacus leniusculus,3,l_SOL30,0.02185176099193277,Soil
+Pacifastacus leniusculus,3,l_SOL31,0.030444663665446712,Soil
+Pacifastacus leniusculus,3,l_SOL32,0.001019616763337098,Soil
+Pacifastacus leniusculus,3,l_SOL33,0.0008923685120731906,Soil
+Pacifastacus leniusculus,3,l_SOL34,0.0028413302153351147,Soil
+Pacifastacus leniusculus,3,l_SOL35,0.005451495244293709,Soil
+Pacifastacus leniusculus,3,l_SOL36,0.0013139610977234316,Soil
+Pacifastacus leniusculus,3,l_SOL37,0.0013691121149206197,Soil
+Pacifastacus leniusculus,3,l_SOL38,0.003439757199659415,Soil
+Pacifastacus leniusculus,3,l_SOL39,0.0025794820209579096,Soil
+Pacifastacus leniusculus,3,l_SOL4,0.00019418992530971662,Soil
+Pacifastacus leniusculus,3,l_SOL40,0.0021192130032792124,Soil
+Pacifastacus leniusculus,3,l_SOL42,0.003388337570068019,Soil
+Pacifastacus leniusculus,3,l_SOL44,0.0016005767244124294,Soil
+Pacifastacus leniusculus,3,l_SOL45,0.0007523763370199389,Soil
+Pacifastacus leniusculus,3,l_SOL46,0.0004370000328032143,Soil
+Pacifastacus leniusculus,3,l_SOL47,0.0016074205539445487,Soil
+Pacifastacus leniusculus,3,l_SOL48,7.290504703926401e-05,Soil
+Pacifastacus leniusculus,3,l_SOL5,0.0005844537829991901,Soil
+Pacifastacus leniusculus,3,l_SOL50,7.340888505598369e-05,Soil
+Pacifastacus leniusculus,3,l_SOL53,4.850573920446354e-05,Soil
+Pacifastacus leniusculus,3,l_SOL54,3.77367177396142e-05,Soil
+Pacifastacus leniusculus,3,l_SOL55,0.00012669628855903743,Soil
+Pacifastacus leniusculus,3,l_SOL56,0.00026035601810695913,Soil
+Pacifastacus leniusculus,3,l_SOL57,0.0009613258676271504,Soil
+Pacifastacus leniusculus,3,l_SOL58,0.0008974852933932191,Soil
+Pacifastacus leniusculus,3,l_SOL59,0.0007087700532960881,Soil
+Pacifastacus leniusculus,3,l_SOL6,0.0012448770192106345,Soil
+Pacifastacus leniusculus,3,l_SOL60,0.00030592542557965737,Soil
+Pacifastacus leniusculus,3,l_SOL7,0.002236258051902053,Soil
+Pacifastacus leniusculus,3,l_SOL8,0.00020771429106874296,Soil
+Pacifastacus leniusculus,3,l_SOL9,0.006015759957418234,Soil
+Pacifastacus leniusculus,3,l_TOP1,0.00037387617832238993,Topography
+Pacifastacus leniusculus,3,l_TOP10,0.0001982872348889533,Topography
+Pacifastacus leniusculus,3,l_TOP101,0.00689167935296763,Topography
+Pacifastacus leniusculus,3,l_TOP102,0.01800628978979417,Topography
+Pacifastacus leniusculus,3,l_TOP103,0.00047117361850019694,Topography
+Pacifastacus leniusculus,3,l_TOP104,7.96315242597514e-05,Topography
+Pacifastacus leniusculus,3,l_TOP105,0.0006541516479250248,Topography
+Pacifastacus leniusculus,3,l_TOP106,0.0005933847159676099,Topography
+Pacifastacus leniusculus,3,l_TOP107,0.0008394343517938746,Topography
+Pacifastacus leniusculus,3,l_TOP108,0.001521566708652277,Topography
+Pacifastacus leniusculus,3,l_TOP111,0.0004640888043941549,Topography
+Pacifastacus leniusculus,3,l_TOP112,0.0003575993295192117,Topography
+Pacifastacus leniusculus,3,l_TOP113,0.0011188615446046653,Topography
+Pacifastacus leniusculus,3,l_TOP116,0.004791671936452249,Topography
+Pacifastacus leniusculus,3,l_TOP118,0.00030896237121823657,Topography
+Pacifastacus leniusculus,3,l_TOP119,0.0005173140514965725,Topography
+Pacifastacus leniusculus,3,l_TOP12,0.0007654268087299521,Topography
+Pacifastacus leniusculus,3,l_TOP124,0.0015829060510251548,Topography
+Pacifastacus leniusculus,3,l_TOP125,0.0005770873913345725,Topography
+Pacifastacus leniusculus,3,l_TOP126,0.0007785730449703269,Topography
+Pacifastacus leniusculus,3,l_TOP127,0.00043907202368090244,Topography
+Pacifastacus leniusculus,3,l_TOP128,0.0016670312821782077,Topography
+Pacifastacus leniusculus,3,l_TOP129,0.0007694715912254427,Topography
+Pacifastacus leniusculus,3,l_TOP13,0.00031102109990411653,Topography
+Pacifastacus leniusculus,3,l_TOP130,0.0005328172334616718,Topography
+Pacifastacus leniusculus,3,l_TOP131,0.0006104745842558378,Topography
+Pacifastacus leniusculus,3,l_TOP132,0.0005812694624235742,Topography
+Pacifastacus leniusculus,3,l_TOP133,4.090987724077793e-05,Topography
+Pacifastacus leniusculus,3,l_TOP134,0.0010504400308399878,Topography
+Pacifastacus leniusculus,3,l_TOP135,0.0014723899067343935,Topography
+Pacifastacus leniusculus,3,l_TOP136,0.0006821684430066215,Topography
+Pacifastacus leniusculus,3,l_TOP137,0.0004168679810522676,Topography
+Pacifastacus leniusculus,3,l_TOP138,0.0007595275199912123,Topography
+Pacifastacus leniusculus,3,l_TOP139,0.0007158083330105056,Topography
+Pacifastacus leniusculus,3,l_TOP14,0.0005469116403505198,Topography
+Pacifastacus leniusculus,3,l_TOP140,0.0001835195390969107,Topography
+Pacifastacus leniusculus,3,l_TOP141,0.0003527745008285599,Topography
+Pacifastacus leniusculus,3,l_TOP142,0.0004970249411597213,Topography
+Pacifastacus leniusculus,3,l_TOP143,0.0005474303566877349,Topography
+Pacifastacus leniusculus,3,l_TOP144,0.0004173937296104358,Topography
+Pacifastacus leniusculus,3,l_TOP15,0.0003169551264071229,Topography
+Pacifastacus leniusculus,3,l_TOP16,0.0005663809937098975,Topography
+Pacifastacus leniusculus,3,l_TOP17,0.0,Topography
+Pacifastacus leniusculus,3,l_TOP18,0.0003493046020854033,Topography
+Pacifastacus leniusculus,3,l_TOP19,0.0002753327832848803,Topography
+Pacifastacus leniusculus,3,l_TOP2,0.0006980733193050565,Topography
+Pacifastacus leniusculus,3,l_TOP20,0.00016525855389261954,Topography
+Pacifastacus leniusculus,3,l_TOP21,6.818091921135405e-19,Topography
+Pacifastacus leniusculus,3,l_TOP23,0.0020952965998944375,Topography
+Pacifastacus leniusculus,3,l_TOP26,0.00023942905156721714,Topography
+Pacifastacus leniusculus,3,l_TOP27,0.00020974118446080597,Topography
+Pacifastacus leniusculus,3,l_TOP28,0.00021748913314918202,Topography
+Pacifastacus leniusculus,3,l_TOP3,0.00030864223831674126,Topography
+Pacifastacus leniusculus,3,l_TOP30,0.020064233008068068,Topography
+Pacifastacus leniusculus,3,l_TOP32,0.0002814303012943082,Topography
+Pacifastacus leniusculus,3,l_TOP35,0.0003483907175232579,Topography
+Pacifastacus leniusculus,3,l_TOP38,0.0005515142425047575,Topography
+Pacifastacus leniusculus,3,l_TOP39,0.000270152764018139,Topography
+Pacifastacus leniusculus,3,l_TOP40,0.00037402894309162594,Topography
+Pacifastacus leniusculus,3,l_TOP41,6.406317628830046e-19,Topography
+Pacifastacus leniusculus,3,l_TOP42,0.00024528592720226736,Topography
+Pacifastacus leniusculus,3,l_TOP43,0.0005120534222184025,Topography
+Pacifastacus leniusculus,3,l_TOP44,0.00043518956842565734,Topography
+Pacifastacus leniusculus,3,l_TOP45,0.0,Topography
+Pacifastacus leniusculus,3,l_TOP47,0.000859089306044449,Topography
+Pacifastacus leniusculus,3,l_TOP48,0.0006817077182073388,Topography
+Pacifastacus leniusculus,3,l_TOP49,0.00010914535006517875,Topography
+Pacifastacus leniusculus,3,l_TOP51,0.00024103744476176273,Topography
+Pacifastacus leniusculus,3,l_TOP52,0.00019404228086666953,Topography
+Pacifastacus leniusculus,3,l_TOP53,0.002879806632737811,Topography
+Pacifastacus leniusculus,3,l_TOP59,0.0005577135797425376,Topography
+Pacifastacus leniusculus,3,l_TOP6,0.00030111181556399146,Topography
+Pacifastacus leniusculus,3,l_TOP60,0.0008996139761230383,Topography
+Pacifastacus leniusculus,3,l_TOP61,0.00030127435250224086,Topography
+Pacifastacus leniusculus,3,l_TOP64,0.00019885854351160012,Topography
+Pacifastacus leniusculus,3,l_TOP65,0.00027569506895169115,Topography
+Pacifastacus leniusculus,3,l_TOP66,0.00035176869552128816,Topography
+Pacifastacus leniusculus,3,l_TOP67,0.0002501047454048275,Topography
+Pacifastacus leniusculus,3,l_TOP68,0.0004556561041251093,Topography
+Pacifastacus leniusculus,3,l_TOP69,0.0001278623692953385,Topography
+Pacifastacus leniusculus,3,l_TOP70,8.568642493316042e-05,Topography
+Pacifastacus leniusculus,3,l_TOP71,0.0006170445696227504,Topography
+Pacifastacus leniusculus,3,l_TOP72,0.00038300977162560317,Topography
+Pacifastacus leniusculus,3,l_TOP73,0.00011138526289996388,Topography
+Pacifastacus leniusculus,3,l_TOP74,0.00037024689655502073,Topography
+Pacifastacus leniusculus,3,l_TOP75,0.0003374253646107482,Topography
+Pacifastacus leniusculus,3,l_TOP76,0.0005363812231228248,Topography
+Pacifastacus leniusculus,3,l_TOP78,0.0004890669388742203,Topography
+Pacifastacus leniusculus,3,l_TOP79,0.0005009717172083031,Topography
+Pacifastacus leniusculus,3,l_TOP8,0.000673157074328099,Topography
+Pacifastacus leniusculus,3,l_TOP83,0.00023932611719043015,Topography
+Pacifastacus leniusculus,3,l_TOP85,6.292966488595782e-05,Topography
+Pacifastacus leniusculus,3,l_TOP87,0.0002477316247801668,Topography
+Pacifastacus leniusculus,3,l_TOP89,6.21721448607913e-05,Topography
+Pacifastacus leniusculus,3,l_TOP9,0.00014385184290578463,Topography
+Pacifastacus leniusculus,3,l_TOP90,0.00030950628123215337,Topography
+Pacifastacus leniusculus,3,l_TOP91,0.0005484380021021509,Topography
+Pacifastacus leniusculus,3,l_TOP92,0.0006148698526249575,Topography
+Pacifastacus leniusculus,3,l_TOP93,0.0017595455234700932,Topography
+Pacifastacus leniusculus,3,l_TOP97,0.0037375431203874065,Topography
+Pacifastacus leniusculus,3,l_TOP99,0.0004982937830472816,Topography
+Pacifastacus leniusculus,3,u_CLI11,0.0038179732726530222,Climate
+Pacifastacus leniusculus,3,u_CLI15,0.0016503920142693417,Climate
+Pacifastacus leniusculus,3,u_CLI19,0.002299267521892009,Climate
+Pacifastacus leniusculus,3,u_CLI23,0.0025113462531387966,Climate
+Pacifastacus leniusculus,3,u_CLI27,0.0028444118483205694,Climate
+Pacifastacus leniusculus,3,u_CLI3,0.002352275286524823,Climate
+Pacifastacus leniusculus,3,u_CLI31,0.005282506199680059,Climate
+Pacifastacus leniusculus,3,u_CLI35,0.011457905695972026,Climate
+Pacifastacus leniusculus,3,u_CLI39,0.0018629175550540053,Climate
+Pacifastacus leniusculus,3,u_CLI47,0.0020913028328980636,Climate
+Pacifastacus leniusculus,3,u_CLI51,0.006178133069759274,Climate
+Pacifastacus leniusculus,3,u_CLI55,0.012265373299167433,Climate
+Pacifastacus leniusculus,3,u_CLI59,0.022655734575177295,Climate
+Pacifastacus leniusculus,3,u_CLI7,0.004782969937099016,Climate
+Pacifastacus leniusculus,3,u_CLI71,0.013020413166833078,Climate
+Pacifastacus leniusculus,3,u_CLI75,0.004337312163887364,Climate
+Pacifastacus leniusculus,3,u_LAC1,0.004362619229100538,Land Cover
+Pacifastacus leniusculus,3,u_LAC10,0.001644561472523702,Land Cover
+Pacifastacus leniusculus,3,u_LAC11,0.00023419566269546727,Land Cover
+Pacifastacus leniusculus,3,u_LAC12,0.004674407309833679,Land Cover
+Pacifastacus leniusculus,3,u_LAC13,0.006994950254623087,Land Cover
+Pacifastacus leniusculus,3,u_LAC14,0.0002525833037007307,Land Cover
+Pacifastacus leniusculus,3,u_LAC15,0.00028361335843782006,Land Cover
+Pacifastacus leniusculus,3,u_LAC16,0.0006327745110471184,Land Cover
+Pacifastacus leniusculus,3,u_LAC18,3.708688787029469e-05,Land Cover
+Pacifastacus leniusculus,3,u_LAC19,0.00039298284472308526,Land Cover
+Pacifastacus leniusculus,3,u_LAC2,0.001268233074831154,Land Cover
+Pacifastacus leniusculus,3,u_LAC20,4.349001111142678e-05,Land Cover
+Pacifastacus leniusculus,3,u_LAC21,0.00013687311313982715,Land Cover
+Pacifastacus leniusculus,3,u_LAC22,0.0,Land Cover
+Pacifastacus leniusculus,3,u_LAC3,0.010773979261918224,Land Cover
+Pacifastacus leniusculus,3,u_LAC4,0.0012218625528545423,Land Cover
+Pacifastacus leniusculus,3,u_LAC5,3.5304474102654786e-19,Land Cover
+Pacifastacus leniusculus,3,u_LAC6,0.010197254750797156,Land Cover
+Pacifastacus leniusculus,3,u_LAC7,0.0020159566654073366,Land Cover
+Pacifastacus leniusculus,3,u_LAC8,3.338373939196951e-05,Land Cover
+Pacifastacus leniusculus,3,u_LAC9,0.0002630370937385279,Land Cover
+Pacifastacus leniusculus,3,u_SOL11,0.0022023647806688152,Soil
+Pacifastacus leniusculus,3,u_SOL15,0.0022331130444527398,Soil
+Pacifastacus leniusculus,3,u_SOL19,0.00036403305367865103,Soil
+Pacifastacus leniusculus,3,u_SOL23,0.0015857806883780828,Soil
+Pacifastacus leniusculus,3,u_SOL27,0.0024677391767821315,Soil
+Pacifastacus leniusculus,3,u_SOL3,0.0007638048646457374,Soil
+Pacifastacus leniusculus,3,u_SOL31,0.010564111689679887,Soil
+Pacifastacus leniusculus,3,u_SOL35,0.004736668133181735,Soil
+Pacifastacus leniusculus,3,u_SOL39,0.0014206000029890929,Soil
+Pacifastacus leniusculus,3,u_SOL43,0.0010735001899107159,Soil
+Pacifastacus leniusculus,3,u_SOL47,0.0009432628120099458,Soil
+Pacifastacus leniusculus,3,u_SOL51,4.279177347216318e-05,Soil
+Pacifastacus leniusculus,3,u_SOL55,0.0002284825644999303,Soil
+Pacifastacus leniusculus,3,u_SOL59,0.0012450828174607024,Soil
+Pacifastacus leniusculus,3,u_SOL7,0.0007686393443943567,Soil
+Pacifastacus leniusculus,3,u_TOP103,0.001731226541368234,Topography
+Pacifastacus leniusculus,3,u_TOP11,0.002142348635412872,Topography
+Pacifastacus leniusculus,3,u_TOP110,0.00039673583477646275,Topography
+Pacifastacus leniusculus,3,u_TOP111,0.00013367790651074764,Topography
+Pacifastacus leniusculus,3,u_TOP112,0.00014274956240735085,Topography
+Pacifastacus leniusculus,3,u_TOP113,0.00022995865535219015,Topography
+Pacifastacus leniusculus,3,u_TOP114,0.002165088142526369,Topography
+Pacifastacus leniusculus,3,u_TOP117,0.0006087755536747605,Topography
+Pacifastacus leniusculus,3,u_TOP119,0.0007317519454386542,Topography
+Pacifastacus leniusculus,3,u_TOP122,0.0018270775243317424,Topography
+Pacifastacus leniusculus,3,u_TOP130,0.0004028672924531332,Topography
+Pacifastacus leniusculus,3,u_TOP135,0.0006022526591209517,Topography
+Pacifastacus leniusculus,3,u_TOP139,0.0014914948341168193,Topography
+Pacifastacus leniusculus,3,u_TOP143,0.00040846084215766525,Topography
+Pacifastacus leniusculus,3,u_TOP15,0.00139083409696643,Topography
+Pacifastacus leniusculus,3,u_TOP19,0.00021983198683645972,Topography
+Pacifastacus leniusculus,3,u_TOP23,0.00020742907557157972,Topography
+Pacifastacus leniusculus,3,u_TOP27,0.00043174726809577834,Topography
+Pacifastacus leniusculus,3,u_TOP31,0.002261466220568628,Topography
+Pacifastacus leniusculus,3,u_TOP35,0.00025800698450851423,Topography
+Pacifastacus leniusculus,3,u_TOP39,0.00044021410566594753,Topography
+Pacifastacus leniusculus,3,u_TOP47,0.001209217088969903,Topography
+Pacifastacus leniusculus,3,u_TOP51,0.0014896218955017255,Topography
+Pacifastacus leniusculus,3,u_TOP55,0.000987258698770887,Topography
+Pacifastacus leniusculus,3,u_TOP59,0.0008599627749577766,Topography
+Pacifastacus leniusculus,3,u_TOP63,0.0006655183934814725,Topography
+Pacifastacus leniusculus,3,u_TOP67,0.0011132772309222294,Topography
+Pacifastacus leniusculus,3,u_TOP7,0.0010251677891675796,Topography
+Pacifastacus leniusculus,3,u_TOP71,0.0004842406837384509,Topography
+Pacifastacus leniusculus,3,u_TOP83,0.00029013051909772513,Topography
+Pacifastacus leniusculus,3,u_TOP91,0.0012219011133390394,Topography
+Pacifastacus leniusculus,3,u_TOP95,0.0001226397708675914,Topography
+Pacifastacus leniusculus,3,u_TOP99,0.00019517410135372866,Topography
+Pacifastacus leniusculus,4,l_CLI1,0.009358852398339041,Climate
+Pacifastacus leniusculus,4,l_CLI12,0.000569628091799607,Climate
+Pacifastacus leniusculus,4,l_CLI14,0.043932541424481324,Climate
+Pacifastacus leniusculus,4,l_CLI16,0.00027827886938363775,Climate
+Pacifastacus leniusculus,4,l_CLI17,0.021212655304056652,Climate
+Pacifastacus leniusculus,4,l_CLI20,0.0004558218379574734,Climate
+Pacifastacus leniusculus,4,l_CLI21,0.013610105019964578,Climate
+Pacifastacus leniusculus,4,l_CLI24,0.0005737774258784327,Climate
+Pacifastacus leniusculus,4,l_CLI26,0.012767578922419422,Climate
+Pacifastacus leniusculus,4,l_CLI28,0.00034627244768694536,Climate
+Pacifastacus leniusculus,4,l_CLI30,0.030539050515056964,Climate
+Pacifastacus leniusculus,4,l_CLI32,0.00023547010903001187,Climate
+Pacifastacus leniusculus,4,l_CLI33,0.0407320133219574,Climate
+Pacifastacus leniusculus,4,l_CLI36,0.000324825562906443,Climate
+Pacifastacus leniusculus,4,l_CLI37,0.003228695989684743,Climate
+Pacifastacus leniusculus,4,l_CLI4,0.000496781118237084,Climate
+Pacifastacus leniusculus,4,l_CLI40,0.00013355380288406155,Climate
+Pacifastacus leniusculus,4,l_CLI44,0.0007482819177323226,Climate
+Pacifastacus leniusculus,4,l_CLI45,0.02297867915042743,Climate
+Pacifastacus leniusculus,4,l_CLI48,0.001830113956775604,Climate
+Pacifastacus leniusculus,4,l_CLI49,0.0429823821283275,Climate
+Pacifastacus leniusculus,4,l_CLI52,0.005840510338917643,Climate
+Pacifastacus leniusculus,4,l_CLI53,0.04873111485076824,Climate
+Pacifastacus leniusculus,4,l_CLI56,0.0004913222321438835,Climate
+Pacifastacus leniusculus,4,l_CLI58,0.08890662294095976,Climate
+Pacifastacus leniusculus,4,l_CLI6,0.02392813069635593,Climate
+Pacifastacus leniusculus,4,l_CLI60,0.0027332009908868637,Climate
+Pacifastacus leniusculus,4,l_CLI69,0.06924206106603857,Climate
+Pacifastacus leniusculus,4,l_CLI72,0.00044936201232465293,Climate
+Pacifastacus leniusculus,4,l_CLI73,0.03476955635746983,Climate
+Pacifastacus leniusculus,4,l_CLI76,0.005445627835532483,Climate
+Pacifastacus leniusculus,4,l_CLI8,0.0002431055218781555,Climate
+Pacifastacus leniusculus,4,l_CLI9,0.007826184923359347,Climate
+Pacifastacus leniusculus,4,l_LAC1,0.0004342514390877862,Land Cover
+Pacifastacus leniusculus,4,l_LAC10,0.00023391809435366922,Land Cover
+Pacifastacus leniusculus,4,l_LAC11,9.388437200675869e-06,Land Cover
+Pacifastacus leniusculus,4,l_LAC12,0.0028813674129606398,Land Cover
+Pacifastacus leniusculus,4,l_LAC13,0.002010106217203619,Land Cover
+Pacifastacus leniusculus,4,l_LAC15,4.840567865941019e-18,Land Cover
+Pacifastacus leniusculus,4,l_LAC16,0.0006393585913483538,Land Cover
+Pacifastacus leniusculus,4,l_LAC18,3.8528084337313633e-19,Land Cover
+Pacifastacus leniusculus,4,l_LAC19,0.0002586945591870543,Land Cover
+Pacifastacus leniusculus,4,l_LAC2,0.000278729986810428,Land Cover
+Pacifastacus leniusculus,4,l_LAC20,2.483169793875311e-05,Land Cover
+Pacifastacus leniusculus,4,l_LAC21,0.0005691849580827758,Land Cover
+Pacifastacus leniusculus,4,l_LAC3,0.0017989982208020039,Land Cover
+Pacifastacus leniusculus,4,l_LAC4,0.0002589797787404099,Land Cover
+Pacifastacus leniusculus,4,l_LAC6,0.0033919864046918708,Land Cover
+Pacifastacus leniusculus,4,l_LAC7,0.0003639536797583358,Land Cover
+Pacifastacus leniusculus,4,l_LAC8,0.00015160215354119699,Land Cover
+Pacifastacus leniusculus,4,l_LAC9,0.00015163937628810914,Land Cover
+Pacifastacus leniusculus,4,l_SOL1,0.0008593503623339682,Soil
+Pacifastacus leniusculus,4,l_SOL10,0.006899151295978099,Soil
+Pacifastacus leniusculus,4,l_SOL11,0.006185964984656285,Soil
+Pacifastacus leniusculus,4,l_SOL12,0.00034904620059137185,Soil
+Pacifastacus leniusculus,4,l_SOL13,0.004133298512533412,Soil
+Pacifastacus leniusculus,4,l_SOL14,0.002186459034053475,Soil
+Pacifastacus leniusculus,4,l_SOL15,0.004508042285871819,Soil
+Pacifastacus leniusculus,4,l_SOL16,0.00027846772013469245,Soil
+Pacifastacus leniusculus,4,l_SOL17,0.0006823375370005786,Soil
+Pacifastacus leniusculus,4,l_SOL18,0.001215228713871258,Soil
+Pacifastacus leniusculus,4,l_SOL19,0.0017808226749798344,Soil
+Pacifastacus leniusculus,4,l_SOL2,0.0004003090884745601,Soil
+Pacifastacus leniusculus,4,l_SOL20,0.00016864925899653322,Soil
+Pacifastacus leniusculus,4,l_SOL21,0.001425435205889171,Soil
+Pacifastacus leniusculus,4,l_SOL22,0.002673764198003047,Soil
+Pacifastacus leniusculus,4,l_SOL23,0.0022325470084774827,Soil
+Pacifastacus leniusculus,4,l_SOL24,0.005581290984066773,Soil
+Pacifastacus leniusculus,4,l_SOL25,0.003428530253436179,Soil
+Pacifastacus leniusculus,4,l_SOL26,0.0023477674017391924,Soil
+Pacifastacus leniusculus,4,l_SOL27,0.0038347764122087483,Soil
+Pacifastacus leniusculus,4,l_SOL28,0.0004734979904637114,Soil
+Pacifastacus leniusculus,4,l_SOL29,0.02013146690333962,Soil
+Pacifastacus leniusculus,4,l_SOL3,0.002303526593447145,Soil
+Pacifastacus leniusculus,4,l_SOL30,0.017138668895512296,Soil
+Pacifastacus leniusculus,4,l_SOL31,0.024559269820634035,Soil
+Pacifastacus leniusculus,4,l_SOL32,0.0011061518638275064,Soil
+Pacifastacus leniusculus,4,l_SOL33,0.0001893773863259849,Soil
+Pacifastacus leniusculus,4,l_SOL34,0.002167109686994611,Soil
+Pacifastacus leniusculus,4,l_SOL35,0.0033711852474945236,Soil
+Pacifastacus leniusculus,4,l_SOL36,0.0007302441181704184,Soil
+Pacifastacus leniusculus,4,l_SOL37,0.0013505691541509438,Soil
+Pacifastacus leniusculus,4,l_SOL38,0.0024737316514332206,Soil
+Pacifastacus leniusculus,4,l_SOL39,0.0032870570333682963,Soil
+Pacifastacus leniusculus,4,l_SOL4,0.00028059936251017626,Soil
+Pacifastacus leniusculus,4,l_SOL40,0.0008254661695684189,Soil
+Pacifastacus leniusculus,4,l_SOL42,0.003947073668011562,Soil
+Pacifastacus leniusculus,4,l_SOL44,0.0008055670127137496,Soil
+Pacifastacus leniusculus,4,l_SOL45,0.00046765979087165825,Soil
+Pacifastacus leniusculus,4,l_SOL46,0.0012033204226755115,Soil
+Pacifastacus leniusculus,4,l_SOL47,0.002501518316296785,Soil
+Pacifastacus leniusculus,4,l_SOL48,0.0001792757588265238,Soil
+Pacifastacus leniusculus,4,l_SOL5,0.0010828768085458188,Soil
+Pacifastacus leniusculus,4,l_SOL50,3.028634995947829e-05,Soil
+Pacifastacus leniusculus,4,l_SOL53,0.00015409849595242938,Soil
+Pacifastacus leniusculus,4,l_SOL54,3.9793492258965744e-05,Soil
+Pacifastacus leniusculus,4,l_SOL55,0.0001857057734082556,Soil
+Pacifastacus leniusculus,4,l_SOL56,8.639972039096468e-05,Soil
+Pacifastacus leniusculus,4,l_SOL57,0.0018067473024260875,Soil
+Pacifastacus leniusculus,4,l_SOL58,0.0006895940149928247,Soil
+Pacifastacus leniusculus,4,l_SOL59,0.0014471024394474372,Soil
+Pacifastacus leniusculus,4,l_SOL6,0.0005215467180352167,Soil
+Pacifastacus leniusculus,4,l_SOL60,0.00067368673940599,Soil
+Pacifastacus leniusculus,4,l_SOL7,0.0016667233161510612,Soil
+Pacifastacus leniusculus,4,l_SOL8,5.867743645677365e-05,Soil
+Pacifastacus leniusculus,4,l_SOL9,0.0038503805770038944,Soil
+Pacifastacus leniusculus,4,l_TOP1,0.0002936615153970036,Topography
+Pacifastacus leniusculus,4,l_TOP10,0.00013104059171019074,Topography
+Pacifastacus leniusculus,4,l_TOP101,0.00756447528050139,Topography
+Pacifastacus leniusculus,4,l_TOP102,0.01051228863003428,Topography
+Pacifastacus leniusculus,4,l_TOP103,0.0003954631357855352,Topography
+Pacifastacus leniusculus,4,l_TOP104,0.00033636507399040585,Topography
+Pacifastacus leniusculus,4,l_TOP105,0.0004097690224400639,Topography
+Pacifastacus leniusculus,4,l_TOP106,0.00027388706598426927,Topography
+Pacifastacus leniusculus,4,l_TOP107,0.0004536920983485571,Topography
+Pacifastacus leniusculus,4,l_TOP108,0.0005477437157289385,Topography
+Pacifastacus leniusculus,4,l_TOP111,0.0006692735378260368,Topography
+Pacifastacus leniusculus,4,l_TOP112,0.000630011852523216,Topography
+Pacifastacus leniusculus,4,l_TOP113,0.0013978205996000089,Topography
+Pacifastacus leniusculus,4,l_TOP116,0.0049810745289201284,Topography
+Pacifastacus leniusculus,4,l_TOP118,0.0003725755922305502,Topography
+Pacifastacus leniusculus,4,l_TOP119,0.00042080713784010927,Topography
+Pacifastacus leniusculus,4,l_TOP12,0.0004947717614468311,Topography
+Pacifastacus leniusculus,4,l_TOP124,0.0012811725312402772,Topography
+Pacifastacus leniusculus,4,l_TOP125,0.0005018774601185418,Topography
+Pacifastacus leniusculus,4,l_TOP126,0.0003936779434926266,Topography
+Pacifastacus leniusculus,4,l_TOP127,0.00016284627751199282,Topography
+Pacifastacus leniusculus,4,l_TOP128,0.0023223353864922835,Topography
+Pacifastacus leniusculus,4,l_TOP129,0.0004634426808199571,Topography
+Pacifastacus leniusculus,4,l_TOP13,0.00021817660187787262,Topography
+Pacifastacus leniusculus,4,l_TOP130,0.00046467813358096275,Topography
+Pacifastacus leniusculus,4,l_TOP131,0.000310778362305401,Topography
+Pacifastacus leniusculus,4,l_TOP132,0.0005547113961210917,Topography
+Pacifastacus leniusculus,4,l_TOP133,6.28314921184095e-05,Topography
+Pacifastacus leniusculus,4,l_TOP134,0.0011965417994503054,Topography
+Pacifastacus leniusculus,4,l_TOP135,0.0016326925326380893,Topography
+Pacifastacus leniusculus,4,l_TOP136,0.0002986082564085523,Topography
+Pacifastacus leniusculus,4,l_TOP137,0.0002783623333160476,Topography
+Pacifastacus leniusculus,4,l_TOP138,0.00032253786498728386,Topography
+Pacifastacus leniusculus,4,l_TOP139,0.0003938879846789361,Topography
+Pacifastacus leniusculus,4,l_TOP14,0.0005754982881719719,Topography
+Pacifastacus leniusculus,4,l_TOP140,0.0004024858491120027,Topography
+Pacifastacus leniusculus,4,l_TOP141,0.0005856546971559481,Topography
+Pacifastacus leniusculus,4,l_TOP142,0.000615714327095019,Topography
+Pacifastacus leniusculus,4,l_TOP143,0.0006305458759066148,Topography
+Pacifastacus leniusculus,4,l_TOP144,0.0004094916922464777,Topography
+Pacifastacus leniusculus,4,l_TOP15,0.00039278120492970757,Topography
+Pacifastacus leniusculus,4,l_TOP16,0.0006548114361791217,Topography
+Pacifastacus leniusculus,4,l_TOP17,0.0,Topography
+Pacifastacus leniusculus,4,l_TOP18,0.00014736751747577192,Topography
+Pacifastacus leniusculus,4,l_TOP19,0.0001668663762456007,Topography
+Pacifastacus leniusculus,4,l_TOP2,0.00023380728748131086,Topography
+Pacifastacus leniusculus,4,l_TOP20,0.00035266171302802805,Topography
+Pacifastacus leniusculus,4,l_TOP21,0.0,Topography
+Pacifastacus leniusculus,4,l_TOP23,0.0010964666367630788,Topography
+Pacifastacus leniusculus,4,l_TOP26,0.0002279492105028021,Topography
+Pacifastacus leniusculus,4,l_TOP27,0.0005390941413392947,Topography
+Pacifastacus leniusculus,4,l_TOP28,0.000595297871945011,Topography
+Pacifastacus leniusculus,4,l_TOP3,0.0003260131428820943,Topography
+Pacifastacus leniusculus,4,l_TOP30,0.023002460609077915,Topography
+Pacifastacus leniusculus,4,l_TOP32,0.00035353295534374,Topography
+Pacifastacus leniusculus,4,l_TOP35,0.000252135412867782,Topography
+Pacifastacus leniusculus,4,l_TOP38,0.0004311163351643976,Topography
+Pacifastacus leniusculus,4,l_TOP39,0.0003121171924470845,Topography
+Pacifastacus leniusculus,4,l_TOP40,0.00035014798775803263,Topography
+Pacifastacus leniusculus,4,l_TOP41,3.3958834484202935e-19,Topography
+Pacifastacus leniusculus,4,l_TOP42,0.0003615831877687838,Topography
+Pacifastacus leniusculus,4,l_TOP43,0.00033428040281878045,Topography
+Pacifastacus leniusculus,4,l_TOP44,0.0002869535860391734,Topography
+Pacifastacus leniusculus,4,l_TOP45,1.18817067868067e-19,Topography
+Pacifastacus leniusculus,4,l_TOP47,0.0011687181932040843,Topography
+Pacifastacus leniusculus,4,l_TOP48,0.0018650353904840092,Topography
+Pacifastacus leniusculus,4,l_TOP49,0.00010614228821823666,Topography
+Pacifastacus leniusculus,4,l_TOP51,0.0006684178697216436,Topography
+Pacifastacus leniusculus,4,l_TOP52,0.0009675721409692857,Topography
+Pacifastacus leniusculus,4,l_TOP53,0.0037258436855095397,Topography
+Pacifastacus leniusculus,4,l_TOP59,0.00041865402637710533,Topography
+Pacifastacus leniusculus,4,l_TOP6,0.0006463421642143341,Topography
+Pacifastacus leniusculus,4,l_TOP60,0.000490793896149575,Topography
+Pacifastacus leniusculus,4,l_TOP61,0.0002229801918375331,Topography
+Pacifastacus leniusculus,4,l_TOP64,0.0002444185414926735,Topography
+Pacifastacus leniusculus,4,l_TOP65,0.0003511590350374036,Topography
+Pacifastacus leniusculus,4,l_TOP66,0.00033451393022144256,Topography
+Pacifastacus leniusculus,4,l_TOP67,0.0001588672456796746,Topography
+Pacifastacus leniusculus,4,l_TOP68,0.0004929634054181122,Topography
+Pacifastacus leniusculus,4,l_TOP69,0.0002892663119744885,Topography
+Pacifastacus leniusculus,4,l_TOP70,0.00012219612652031488,Topography
+Pacifastacus leniusculus,4,l_TOP71,0.00017823363116959036,Topography
+Pacifastacus leniusculus,4,l_TOP72,0.00028165232389447837,Topography
+Pacifastacus leniusculus,4,l_TOP73,0.00024739576035203044,Topography
+Pacifastacus leniusculus,4,l_TOP74,0.0004597453838836833,Topography
+Pacifastacus leniusculus,4,l_TOP75,0.0004238837318280976,Topography
+Pacifastacus leniusculus,4,l_TOP76,0.000308098814107983,Topography
+Pacifastacus leniusculus,4,l_TOP78,0.00047120342386459995,Topography
+Pacifastacus leniusculus,4,l_TOP79,0.00037870490646012907,Topography
+Pacifastacus leniusculus,4,l_TOP8,0.00016868324903690916,Topography
+Pacifastacus leniusculus,4,l_TOP83,0.0004218355212731515,Topography
+Pacifastacus leniusculus,4,l_TOP85,0.00023415394685243087,Topography
+Pacifastacus leniusculus,4,l_TOP87,0.0003159169641764573,Topography
+Pacifastacus leniusculus,4,l_TOP89,0.00010749531378896303,Topography
+Pacifastacus leniusculus,4,l_TOP9,0.0001933581080603501,Topography
+Pacifastacus leniusculus,4,l_TOP90,0.0004887208446549504,Topography
+Pacifastacus leniusculus,4,l_TOP91,0.0005114507608480127,Topography
+Pacifastacus leniusculus,4,l_TOP92,0.00033333520280106796,Topography
+Pacifastacus leniusculus,4,l_TOP93,0.0013523979430376818,Topography
+Pacifastacus leniusculus,4,l_TOP97,0.0020301091304619477,Topography
+Pacifastacus leniusculus,4,l_TOP99,0.00032519107837671604,Topography
+Pacifastacus leniusculus,4,u_CLI11,0.0025187858357710057,Climate
+Pacifastacus leniusculus,4,u_CLI15,0.004171063810776594,Climate
+Pacifastacus leniusculus,4,u_CLI19,0.006866733233184906,Climate
+Pacifastacus leniusculus,4,u_CLI23,0.0021470568764844124,Climate
+Pacifastacus leniusculus,4,u_CLI27,0.0034496572880383337,Climate
+Pacifastacus leniusculus,4,u_CLI3,0.0018484642008835192,Climate
+Pacifastacus leniusculus,4,u_CLI31,0.008358227345852506,Climate
+Pacifastacus leniusculus,4,u_CLI35,0.01183603676958339,Climate
+Pacifastacus leniusculus,4,u_CLI39,0.0011125405250710198,Climate
+Pacifastacus leniusculus,4,u_CLI47,0.0035733687375250015,Climate
+Pacifastacus leniusculus,4,u_CLI51,0.007056951535326187,Climate
+Pacifastacus leniusculus,4,u_CLI55,0.00709229827904403,Climate
+Pacifastacus leniusculus,4,u_CLI59,0.02357680274730068,Climate
+Pacifastacus leniusculus,4,u_CLI7,0.005390379094996301,Climate
+Pacifastacus leniusculus,4,u_CLI71,0.008257699045028792,Climate
+Pacifastacus leniusculus,4,u_CLI75,0.003676281927965323,Climate
+Pacifastacus leniusculus,4,u_LAC1,0.00215211831240658,Land Cover
+Pacifastacus leniusculus,4,u_LAC10,0.0006832692756785722,Land Cover
+Pacifastacus leniusculus,4,u_LAC11,0.00013009574146529578,Land Cover
+Pacifastacus leniusculus,4,u_LAC12,0.008177263276049009,Land Cover
+Pacifastacus leniusculus,4,u_LAC13,0.009135409287133424,Land Cover
+Pacifastacus leniusculus,4,u_LAC14,0.00010523277827375872,Land Cover
+Pacifastacus leniusculus,4,u_LAC15,0.000251253020506362,Land Cover
+Pacifastacus leniusculus,4,u_LAC16,0.0007106552377338242,Land Cover
+Pacifastacus leniusculus,4,u_LAC18,1.7616576153798287e-05,Land Cover
+Pacifastacus leniusculus,4,u_LAC19,0.0010095289002151789,Land Cover
+Pacifastacus leniusculus,4,u_LAC2,0.001312867252268291,Land Cover
+Pacifastacus leniusculus,4,u_LAC20,7.047687937146346e-05,Land Cover
+Pacifastacus leniusculus,4,u_LAC21,5.457643948066183e-06,Land Cover
+Pacifastacus leniusculus,4,u_LAC22,5.700770176622144e-20,Land Cover
+Pacifastacus leniusculus,4,u_LAC3,0.011274215135426348,Land Cover
+Pacifastacus leniusculus,4,u_LAC4,0.0010227068169776506,Land Cover
+Pacifastacus leniusculus,4,u_LAC5,0.0,Land Cover
+Pacifastacus leniusculus,4,u_LAC6,0.010583594411252992,Land Cover
+Pacifastacus leniusculus,4,u_LAC7,0.0012289066246236333,Land Cover
+Pacifastacus leniusculus,4,u_LAC8,0.000467111901152803,Land Cover
+Pacifastacus leniusculus,4,u_LAC9,0.0003191538489828567,Land Cover
+Pacifastacus leniusculus,4,u_SOL11,0.003236944054619567,Soil
+Pacifastacus leniusculus,4,u_SOL15,0.0008489499229326445,Soil
+Pacifastacus leniusculus,4,u_SOL19,0.0007335378840579637,Soil
+Pacifastacus leniusculus,4,u_SOL23,0.0014279308324037046,Soil
+Pacifastacus leniusculus,4,u_SOL27,0.0022333503209390495,Soil
+Pacifastacus leniusculus,4,u_SOL3,0.0010231369362452608,Soil
+Pacifastacus leniusculus,4,u_SOL31,0.00593326808918593,Soil
+Pacifastacus leniusculus,4,u_SOL35,0.002592679846942913,Soil
+Pacifastacus leniusculus,4,u_SOL39,0.0010711933666102333,Soil
+Pacifastacus leniusculus,4,u_SOL43,0.0017351791228665135,Soil
+Pacifastacus leniusculus,4,u_SOL47,0.0019678194777535585,Soil
+Pacifastacus leniusculus,4,u_SOL51,1.272946151124984e-19,Soil
+Pacifastacus leniusculus,4,u_SOL55,0.0005702612809930498,Soil
+Pacifastacus leniusculus,4,u_SOL59,0.0016196272820948473,Soil
+Pacifastacus leniusculus,4,u_SOL7,0.00098335056529353,Soil
+Pacifastacus leniusculus,4,u_TOP103,0.0010522793356588032,Topography
+Pacifastacus leniusculus,4,u_TOP11,0.00028421462713726315,Topography
+Pacifastacus leniusculus,4,u_TOP110,0.00016511070467233816,Topography
+Pacifastacus leniusculus,4,u_TOP111,0.0002231101106460557,Topography
+Pacifastacus leniusculus,4,u_TOP112,0.0001357854704738836,Topography
+Pacifastacus leniusculus,4,u_TOP113,0.00012106426482898741,Topography
+Pacifastacus leniusculus,4,u_TOP114,0.0029342036818019186,Topography
+Pacifastacus leniusculus,4,u_TOP117,0.0015535966909816783,Topography
+Pacifastacus leniusculus,4,u_TOP119,0.0010067134241345686,Topography
+Pacifastacus leniusculus,4,u_TOP122,0.0026959040924066932,Topography
+Pacifastacus leniusculus,4,u_TOP130,0.00026547435278187037,Topography
+Pacifastacus leniusculus,4,u_TOP135,0.0001232943503940564,Topography
+Pacifastacus leniusculus,4,u_TOP139,0.001050203390342528,Topography
+Pacifastacus leniusculus,4,u_TOP143,0.0002624464962912373,Topography
+Pacifastacus leniusculus,4,u_TOP15,0.0009816962690934606,Topography
+Pacifastacus leniusculus,4,u_TOP19,0.0004662839529324351,Topography
+Pacifastacus leniusculus,4,u_TOP23,0.00014594354893242322,Topography
+Pacifastacus leniusculus,4,u_TOP27,0.0005718848324520465,Topography
+Pacifastacus leniusculus,4,u_TOP31,0.0023019504138198843,Topography
+Pacifastacus leniusculus,4,u_TOP35,0.00028456407209170604,Topography
+Pacifastacus leniusculus,4,u_TOP39,0.0004258580173383171,Topography
+Pacifastacus leniusculus,4,u_TOP47,0.0005129724708492692,Topography
+Pacifastacus leniusculus,4,u_TOP51,0.0006005015778660118,Topography
+Pacifastacus leniusculus,4,u_TOP55,0.001381638051817054,Topography
+Pacifastacus leniusculus,4,u_TOP59,0.0007466489422019117,Topography
+Pacifastacus leniusculus,4,u_TOP63,0.0007687254872602697,Topography
+Pacifastacus leniusculus,4,u_TOP67,0.0014409901499569055,Topography
+Pacifastacus leniusculus,4,u_TOP7,0.0004055995840319194,Topography
+Pacifastacus leniusculus,4,u_TOP71,0.000956359873023386,Topography
+Pacifastacus leniusculus,4,u_TOP83,0.0004581922852300561,Topography
+Pacifastacus leniusculus,4,u_TOP91,0.0002986605140476589,Topography
+Pacifastacus leniusculus,4,u_TOP95,0.0009444821926934408,Topography
+Pacifastacus leniusculus,4,u_TOP99,0.0006246267652628648,Topography
+Pacifastacus leniusculus,5,l_CLI1,0.00314688529103577,Climate
+Pacifastacus leniusculus,5,l_CLI12,0.0001485318515702365,Climate
+Pacifastacus leniusculus,5,l_CLI14,0.03369124013969869,Climate
+Pacifastacus leniusculus,5,l_CLI16,0.0003182401662290362,Climate
+Pacifastacus leniusculus,5,l_CLI17,0.012414035827395446,Climate
+Pacifastacus leniusculus,5,l_CLI20,0.0003041581820935161,Climate
+Pacifastacus leniusculus,5,l_CLI21,0.012128071196550197,Climate
+Pacifastacus leniusculus,5,l_CLI24,0.00033850537615709377,Climate
+Pacifastacus leniusculus,5,l_CLI26,0.013527907445654082,Climate
+Pacifastacus leniusculus,5,l_CLI28,0.00011566346698205911,Climate
+Pacifastacus leniusculus,5,l_CLI30,0.03217659387420768,Climate
+Pacifastacus leniusculus,5,l_CLI32,0.001653707093528007,Climate
+Pacifastacus leniusculus,5,l_CLI33,0.05189725579391622,Climate
+Pacifastacus leniusculus,5,l_CLI36,0.00046838882187503843,Climate
+Pacifastacus leniusculus,5,l_CLI37,0.001471504201032195,Climate
+Pacifastacus leniusculus,5,l_CLI4,0.00021587773410470067,Climate
+Pacifastacus leniusculus,5,l_CLI40,0.0005820535452461952,Climate
+Pacifastacus leniusculus,5,l_CLI44,0.00022208409367049364,Climate
+Pacifastacus leniusculus,5,l_CLI45,0.010895128403994396,Climate
+Pacifastacus leniusculus,5,l_CLI48,0.000721017740045751,Climate
+Pacifastacus leniusculus,5,l_CLI49,0.03967841990677083,Climate
+Pacifastacus leniusculus,5,l_CLI52,0.004649999359635809,Climate
+Pacifastacus leniusculus,5,l_CLI53,0.04973486240393606,Climate
+Pacifastacus leniusculus,5,l_CLI56,0.0011358385002728766,Climate
+Pacifastacus leniusculus,5,l_CLI58,0.0963292660167644,Climate
+Pacifastacus leniusculus,5,l_CLI6,0.01569777553476091,Climate
+Pacifastacus leniusculus,5,l_CLI60,0.002630276291221394,Climate
+Pacifastacus leniusculus,5,l_CLI69,0.09288667582024053,Climate
+Pacifastacus leniusculus,5,l_CLI72,0.0008942112258845231,Climate
+Pacifastacus leniusculus,5,l_CLI73,0.031193804969260098,Climate
+Pacifastacus leniusculus,5,l_CLI76,0.005893556869068774,Climate
+Pacifastacus leniusculus,5,l_CLI8,0.00017691193133076118,Climate
+Pacifastacus leniusculus,5,l_CLI9,0.007349537467125543,Climate
+Pacifastacus leniusculus,5,l_LAC1,0.0017775957762790476,Land Cover
+Pacifastacus leniusculus,5,l_LAC10,0.00011810275478975689,Land Cover
+Pacifastacus leniusculus,5,l_LAC11,1.1587478296282172e-06,Land Cover
+Pacifastacus leniusculus,5,l_LAC12,0.0021885348030416976,Land Cover
+Pacifastacus leniusculus,5,l_LAC13,0.0016875575422545283,Land Cover
+Pacifastacus leniusculus,5,l_LAC15,0.00029104426369492046,Land Cover
+Pacifastacus leniusculus,5,l_LAC16,5.799626200735078e-19,Land Cover
+Pacifastacus leniusculus,5,l_LAC18,1.0814030160708353e-06,Land Cover
+Pacifastacus leniusculus,5,l_LAC19,0.0004566292016564406,Land Cover
+Pacifastacus leniusculus,5,l_LAC2,0.0001513792142488199,Land Cover
+Pacifastacus leniusculus,5,l_LAC20,1.2403707157536934e-05,Land Cover
+Pacifastacus leniusculus,5,l_LAC21,0.0006807270289317689,Land Cover
+Pacifastacus leniusculus,5,l_LAC3,0.0011799721267530007,Land Cover
+Pacifastacus leniusculus,5,l_LAC4,0.0003401495983767208,Land Cover
+Pacifastacus leniusculus,5,l_LAC6,0.003425252999144119,Land Cover
+Pacifastacus leniusculus,5,l_LAC7,0.0007880174164914416,Land Cover
+Pacifastacus leniusculus,5,l_LAC8,4.300950549318032e-05,Land Cover
+Pacifastacus leniusculus,5,l_LAC9,5.356948959017041e-05,Land Cover
+Pacifastacus leniusculus,5,l_SOL1,0.0005451099596574746,Soil
+Pacifastacus leniusculus,5,l_SOL10,0.008390806020400645,Soil
+Pacifastacus leniusculus,5,l_SOL11,0.008803347019445651,Soil
+Pacifastacus leniusculus,5,l_SOL12,0.00019801915369184448,Soil
+Pacifastacus leniusculus,5,l_SOL13,0.0048046681985976615,Soil
+Pacifastacus leniusculus,5,l_SOL14,0.004808435103994166,Soil
+Pacifastacus leniusculus,5,l_SOL15,0.004693881166357473,Soil
+Pacifastacus leniusculus,5,l_SOL16,0.00019599446888581977,Soil
+Pacifastacus leniusculus,5,l_SOL17,0.0009287454972838881,Soil
+Pacifastacus leniusculus,5,l_SOL18,0.0012246465974047702,Soil
+Pacifastacus leniusculus,5,l_SOL19,0.0010346424791016196,Soil
+Pacifastacus leniusculus,5,l_SOL2,0.00023150978717604884,Soil
+Pacifastacus leniusculus,5,l_SOL20,0.00024542921937863236,Soil
+Pacifastacus leniusculus,5,l_SOL21,0.001282364024371179,Soil
+Pacifastacus leniusculus,5,l_SOL22,0.0007961348602165215,Soil
+Pacifastacus leniusculus,5,l_SOL23,0.001516248911390334,Soil
+Pacifastacus leniusculus,5,l_SOL24,0.005372329632665738,Soil
+Pacifastacus leniusculus,5,l_SOL25,0.004938301518739727,Soil
+Pacifastacus leniusculus,5,l_SOL26,0.0015815664124107021,Soil
+Pacifastacus leniusculus,5,l_SOL27,0.003042673404604865,Soil
+Pacifastacus leniusculus,5,l_SOL28,0.0011139661872093835,Soil
+Pacifastacus leniusculus,5,l_SOL29,0.014387777675360867,Soil
+Pacifastacus leniusculus,5,l_SOL3,0.000565502230768372,Soil
+Pacifastacus leniusculus,5,l_SOL30,0.020746683290335233,Soil
+Pacifastacus leniusculus,5,l_SOL31,0.02162481764832596,Soil
+Pacifastacus leniusculus,5,l_SOL32,0.0002823476737676672,Soil
+Pacifastacus leniusculus,5,l_SOL33,0.0009328243226088306,Soil
+Pacifastacus leniusculus,5,l_SOL34,0.0012798211779185135,Soil
+Pacifastacus leniusculus,5,l_SOL35,0.004156455490797654,Soil
+Pacifastacus leniusculus,5,l_SOL36,0.0009176914955959201,Soil
+Pacifastacus leniusculus,5,l_SOL37,0.0007195319486485619,Soil
+Pacifastacus leniusculus,5,l_SOL38,0.001913566881892727,Soil
+Pacifastacus leniusculus,5,l_SOL39,0.0024303206731257467,Soil
+Pacifastacus leniusculus,5,l_SOL4,0.0004342519107650192,Soil
+Pacifastacus leniusculus,5,l_SOL40,0.002451608285599948,Soil
+Pacifastacus leniusculus,5,l_SOL42,0.0033736642796838127,Soil
+Pacifastacus leniusculus,5,l_SOL44,0.0002524655785668081,Soil
+Pacifastacus leniusculus,5,l_SOL45,0.0002690220051533586,Soil
+Pacifastacus leniusculus,5,l_SOL46,0.0006086174187347445,Soil
+Pacifastacus leniusculus,5,l_SOL47,0.0006975641459223184,Soil
+Pacifastacus leniusculus,5,l_SOL48,8.048079030247013e-05,Soil
+Pacifastacus leniusculus,5,l_SOL5,0.0002439030830840055,Soil
+Pacifastacus leniusculus,5,l_SOL50,0.0,Soil
+Pacifastacus leniusculus,5,l_SOL53,0.00014069000034329864,Soil
+Pacifastacus leniusculus,5,l_SOL54,0.0001466748628952172,Soil
+Pacifastacus leniusculus,5,l_SOL55,7.808698452247506e-05,Soil
+Pacifastacus leniusculus,5,l_SOL56,4.026854567335802e-05,Soil
+Pacifastacus leniusculus,5,l_SOL57,0.0015457467306411123,Soil
+Pacifastacus leniusculus,5,l_SOL58,0.0006061075471103163,Soil
+Pacifastacus leniusculus,5,l_SOL59,0.0011786768832399608,Soil
+Pacifastacus leniusculus,5,l_SOL6,0.0006195659143373308,Soil
+Pacifastacus leniusculus,5,l_SOL60,0.0005419482866719082,Soil
+Pacifastacus leniusculus,5,l_SOL7,0.001317869898182545,Soil
+Pacifastacus leniusculus,5,l_SOL8,0.00010047447357654785,Soil
+Pacifastacus leniusculus,5,l_SOL9,0.006866591171928633,Soil
+Pacifastacus leniusculus,5,l_TOP1,0.0005111825098704704,Topography
+Pacifastacus leniusculus,5,l_TOP10,0.00024707319046241347,Topography
+Pacifastacus leniusculus,5,l_TOP101,0.01050841512713434,Topography
+Pacifastacus leniusculus,5,l_TOP102,0.01564947213226055,Topography
+Pacifastacus leniusculus,5,l_TOP103,0.0003510201172416153,Topography
+Pacifastacus leniusculus,5,l_TOP104,0.0004026656342432277,Topography
+Pacifastacus leniusculus,5,l_TOP105,0.0003864996893511397,Topography
+Pacifastacus leniusculus,5,l_TOP106,0.00011157089886436597,Topography
+Pacifastacus leniusculus,5,l_TOP107,0.0008163718705425073,Topography
+Pacifastacus leniusculus,5,l_TOP108,0.0025959169420193885,Topography
+Pacifastacus leniusculus,5,l_TOP111,0.0007149191510755524,Topography
+Pacifastacus leniusculus,5,l_TOP112,0.000331012253744049,Topography
+Pacifastacus leniusculus,5,l_TOP113,0.0009544343519300397,Topography
+Pacifastacus leniusculus,5,l_TOP116,0.004439764227868667,Topography
+Pacifastacus leniusculus,5,l_TOP118,0.000267700009021327,Topography
+Pacifastacus leniusculus,5,l_TOP119,8.435683945161883e-05,Topography
+Pacifastacus leniusculus,5,l_TOP12,0.000415716090829482,Topography
+Pacifastacus leniusculus,5,l_TOP124,0.003853992039268378,Topography
+Pacifastacus leniusculus,5,l_TOP125,0.00028890334310711143,Topography
+Pacifastacus leniusculus,5,l_TOP126,0.000987690879523224,Topography
+Pacifastacus leniusculus,5,l_TOP127,0.00022733427611941524,Topography
+Pacifastacus leniusculus,5,l_TOP128,0.0018621168615747187,Topography
+Pacifastacus leniusculus,5,l_TOP129,0.0009841519913051406,Topography
+Pacifastacus leniusculus,5,l_TOP13,0.00011805985084828937,Topography
+Pacifastacus leniusculus,5,l_TOP130,0.0008883508865091326,Topography
+Pacifastacus leniusculus,5,l_TOP131,0.00085866980835374,Topography
+Pacifastacus leniusculus,5,l_TOP132,0.00025788439472076627,Topography
+Pacifastacus leniusculus,5,l_TOP133,1.642833979887747e-05,Topography
+Pacifastacus leniusculus,5,l_TOP134,0.0008184967633769333,Topography
+Pacifastacus leniusculus,5,l_TOP135,0.0008701365706289609,Topography
+Pacifastacus leniusculus,5,l_TOP136,0.0004913966063317534,Topography
+Pacifastacus leniusculus,5,l_TOP137,0.0004222764975048233,Topography
+Pacifastacus leniusculus,5,l_TOP138,0.0003131615742579962,Topography
+Pacifastacus leniusculus,5,l_TOP139,0.0004172083475579966,Topography
+Pacifastacus leniusculus,5,l_TOP14,0.000655226318827614,Topography
+Pacifastacus leniusculus,5,l_TOP140,0.0008977494749903274,Topography
+Pacifastacus leniusculus,5,l_TOP141,0.0002138232353767237,Topography
+Pacifastacus leniusculus,5,l_TOP142,0.0008504262767696886,Topography
+Pacifastacus leniusculus,5,l_TOP143,0.00046285306769649787,Topography
+Pacifastacus leniusculus,5,l_TOP144,0.0008815755746336822,Topography
+Pacifastacus leniusculus,5,l_TOP15,0.00023274655590478508,Topography
+Pacifastacus leniusculus,5,l_TOP16,0.0006827338646912248,Topography
+Pacifastacus leniusculus,5,l_TOP17,0.0,Topography
+Pacifastacus leniusculus,5,l_TOP18,0.00019055770004335656,Topography
+Pacifastacus leniusculus,5,l_TOP19,0.00015540669884306593,Topography
+Pacifastacus leniusculus,5,l_TOP2,0.0003662239848369995,Topography
+Pacifastacus leniusculus,5,l_TOP20,0.00012583657223823167,Topography
+Pacifastacus leniusculus,5,l_TOP21,1.0260548131983572e-16,Topography
+Pacifastacus leniusculus,5,l_TOP23,0.0016087147543926452,Topography
+Pacifastacus leniusculus,5,l_TOP26,0.0002679552702466883,Topography
+Pacifastacus leniusculus,5,l_TOP27,0.00022548609937392063,Topography
+Pacifastacus leniusculus,5,l_TOP28,0.0002231883211377606,Topography
+Pacifastacus leniusculus,5,l_TOP3,0.0004101697960921595,Topography
+Pacifastacus leniusculus,5,l_TOP30,0.025784410412231923,Topography
+Pacifastacus leniusculus,5,l_TOP32,0.0003596429321532012,Topography
+Pacifastacus leniusculus,5,l_TOP35,0.00035376851841899,Topography
+Pacifastacus leniusculus,5,l_TOP38,0.0004189938434154039,Topography
+Pacifastacus leniusculus,5,l_TOP39,0.00012897013978431453,Topography
+Pacifastacus leniusculus,5,l_TOP40,0.0004407807549113457,Topography
+Pacifastacus leniusculus,5,l_TOP41,2.366680464759097e-18,Topography
+Pacifastacus leniusculus,5,l_TOP42,0.0005241371095991257,Topography
+Pacifastacus leniusculus,5,l_TOP43,0.00023088336587675633,Topography
+Pacifastacus leniusculus,5,l_TOP44,0.00047311047115712243,Topography
+Pacifastacus leniusculus,5,l_TOP45,2.5855165873152964e-18,Topography
+Pacifastacus leniusculus,5,l_TOP47,0.0011453494339964281,Topography
+Pacifastacus leniusculus,5,l_TOP48,0.0012713058093482463,Topography
+Pacifastacus leniusculus,5,l_TOP49,6.413594167800086e-05,Topography
+Pacifastacus leniusculus,5,l_TOP51,0.00028444250679291887,Topography
+Pacifastacus leniusculus,5,l_TOP52,0.00034393673129893496,Topography
+Pacifastacus leniusculus,5,l_TOP53,0.004404504782637614,Topography
+Pacifastacus leniusculus,5,l_TOP59,0.000325617816644543,Topography
+Pacifastacus leniusculus,5,l_TOP6,0.0004430713784247176,Topography
+Pacifastacus leniusculus,5,l_TOP60,0.00018716242339265405,Topography
+Pacifastacus leniusculus,5,l_TOP61,0.0004971836762396553,Topography
+Pacifastacus leniusculus,5,l_TOP64,0.00015038508575452046,Topography
+Pacifastacus leniusculus,5,l_TOP65,0.00025961994133466223,Topography
+Pacifastacus leniusculus,5,l_TOP66,0.00036199656027573906,Topography
+Pacifastacus leniusculus,5,l_TOP67,0.0006643505176289537,Topography
+Pacifastacus leniusculus,5,l_TOP68,0.00019935653559295167,Topography
+Pacifastacus leniusculus,5,l_TOP69,0.0001610120421350735,Topography
+Pacifastacus leniusculus,5,l_TOP70,0.0001265951775819975,Topography
+Pacifastacus leniusculus,5,l_TOP71,0.00022378710274538485,Topography
+Pacifastacus leniusculus,5,l_TOP72,0.000296813268634584,Topography
+Pacifastacus leniusculus,5,l_TOP73,0.000255279106707391,Topography
+Pacifastacus leniusculus,5,l_TOP74,0.0005964081631468996,Topography
+Pacifastacus leniusculus,5,l_TOP75,0.00021302314472660742,Topography
+Pacifastacus leniusculus,5,l_TOP76,0.0005149392201986471,Topography
+Pacifastacus leniusculus,5,l_TOP78,0.0004076957921969942,Topography
+Pacifastacus leniusculus,5,l_TOP79,0.0004121534066937119,Topography
+Pacifastacus leniusculus,5,l_TOP8,0.00036693457752612503,Topography
+Pacifastacus leniusculus,5,l_TOP83,0.0003618454372845874,Topography
+Pacifastacus leniusculus,5,l_TOP85,0.0001396333495943489,Topography
+Pacifastacus leniusculus,5,l_TOP87,0.00015385300539564432,Topography
+Pacifastacus leniusculus,5,l_TOP89,8.747445378053306e-05,Topography
+Pacifastacus leniusculus,5,l_TOP9,7.734498027875259e-05,Topography
+Pacifastacus leniusculus,5,l_TOP90,0.00028350332111341337,Topography
+Pacifastacus leniusculus,5,l_TOP91,0.0001878418093704144,Topography
+Pacifastacus leniusculus,5,l_TOP92,0.00044040517132353673,Topography
+Pacifastacus leniusculus,5,l_TOP93,0.00148099462425625,Topography
+Pacifastacus leniusculus,5,l_TOP97,0.0024947791799045742,Topography
+Pacifastacus leniusculus,5,l_TOP99,0.00029859031890921436,Topography
+Pacifastacus leniusculus,5,u_CLI11,0.0036809338600594667,Climate
+Pacifastacus leniusculus,5,u_CLI15,0.002476703246856857,Climate
+Pacifastacus leniusculus,5,u_CLI19,0.0031653957403563514,Climate
+Pacifastacus leniusculus,5,u_CLI23,0.0015676459988229223,Climate
+Pacifastacus leniusculus,5,u_CLI27,0.0044769913824075636,Climate
+Pacifastacus leniusculus,5,u_CLI3,0.0019881385575717114,Climate
+Pacifastacus leniusculus,5,u_CLI31,0.009103853022506821,Climate
+Pacifastacus leniusculus,5,u_CLI35,0.009964093986616787,Climate
+Pacifastacus leniusculus,5,u_CLI39,0.0016604784086349596,Climate
+Pacifastacus leniusculus,5,u_CLI47,0.00048092276535619536,Climate
+Pacifastacus leniusculus,5,u_CLI51,0.006109193447939188,Climate
+Pacifastacus leniusculus,5,u_CLI55,0.013041462352055638,Climate
+Pacifastacus leniusculus,5,u_CLI59,0.018049121922420204,Climate
+Pacifastacus leniusculus,5,u_CLI7,0.009666274138425742,Climate
+Pacifastacus leniusculus,5,u_CLI71,0.0104330654777983,Climate
+Pacifastacus leniusculus,5,u_CLI75,0.008178631549929845,Climate
+Pacifastacus leniusculus,5,u_LAC1,0.0023789542784443526,Land Cover
+Pacifastacus leniusculus,5,u_LAC10,0.00056697967399932,Land Cover
+Pacifastacus leniusculus,5,u_LAC11,0.0001984124673797523,Land Cover
+Pacifastacus leniusculus,5,u_LAC12,0.0033061232262546177,Land Cover
+Pacifastacus leniusculus,5,u_LAC13,0.00832381777129737,Land Cover
+Pacifastacus leniusculus,5,u_LAC14,0.0,Land Cover
+Pacifastacus leniusculus,5,u_LAC15,0.00016093700383247033,Land Cover
+Pacifastacus leniusculus,5,u_LAC16,8.720179002358265e-05,Land Cover
+Pacifastacus leniusculus,5,u_LAC18,3.094830500780282e-05,Land Cover
+Pacifastacus leniusculus,5,u_LAC19,0.0010990275469607478,Land Cover
+Pacifastacus leniusculus,5,u_LAC2,0.0007511946921019386,Land Cover
+Pacifastacus leniusculus,5,u_LAC20,0.0001699775628098591,Land Cover
+Pacifastacus leniusculus,5,u_LAC21,0.0002347108748288953,Land Cover
+Pacifastacus leniusculus,5,u_LAC22,1.9706161445620038e-18,Land Cover
+Pacifastacus leniusculus,5,u_LAC3,0.010245091130726242,Land Cover
+Pacifastacus leniusculus,5,u_LAC4,0.0015046823896597453,Land Cover
+Pacifastacus leniusculus,5,u_LAC5,0.0,Land Cover
+Pacifastacus leniusculus,5,u_LAC6,0.018057544397793862,Land Cover
+Pacifastacus leniusculus,5,u_LAC7,0.0018006164715319828,Land Cover
+Pacifastacus leniusculus,5,u_LAC8,5.834715355592472e-05,Land Cover
+Pacifastacus leniusculus,5,u_LAC9,0.00011196112265228642,Land Cover
+Pacifastacus leniusculus,5,u_SOL11,0.0017244449067904746,Soil
+Pacifastacus leniusculus,5,u_SOL15,0.0014569210841051303,Soil
+Pacifastacus leniusculus,5,u_SOL19,0.0006125095985883109,Soil
+Pacifastacus leniusculus,5,u_SOL23,0.0020846292839435143,Soil
+Pacifastacus leniusculus,5,u_SOL27,0.0030994048688222473,Soil
+Pacifastacus leniusculus,5,u_SOL3,0.0006258474194132879,Soil
+Pacifastacus leniusculus,5,u_SOL31,0.007838672492423392,Soil
+Pacifastacus leniusculus,5,u_SOL35,0.004628581463140652,Soil
+Pacifastacus leniusculus,5,u_SOL39,0.0007875264621156556,Soil
+Pacifastacus leniusculus,5,u_SOL43,0.0018075251960299932,Soil
+Pacifastacus leniusculus,5,u_SOL47,0.0008617369161132792,Soil
+Pacifastacus leniusculus,5,u_SOL51,2.083949746925008e-05,Soil
+Pacifastacus leniusculus,5,u_SOL55,0.00027354867719249574,Soil
+Pacifastacus leniusculus,5,u_SOL59,0.0007655126419833292,Soil
+Pacifastacus leniusculus,5,u_SOL7,0.0011281653040993613,Soil
+Pacifastacus leniusculus,5,u_TOP103,0.001212241535451898,Topography
+Pacifastacus leniusculus,5,u_TOP11,0.0009953417440217926,Topography
+Pacifastacus leniusculus,5,u_TOP110,0.00033115057131019365,Topography
+Pacifastacus leniusculus,5,u_TOP111,0.0006072188479381565,Topography
+Pacifastacus leniusculus,5,u_TOP112,0.00014258904381841543,Topography
+Pacifastacus leniusculus,5,u_TOP113,0.00017644793321548388,Topography
+Pacifastacus leniusculus,5,u_TOP114,0.002174914796662215,Topography
+Pacifastacus leniusculus,5,u_TOP117,0.0013453063488481347,Topography
+Pacifastacus leniusculus,5,u_TOP119,0.0003210109162839211,Topography
+Pacifastacus leniusculus,5,u_TOP122,0.0008196597168496862,Topography
+Pacifastacus leniusculus,5,u_TOP130,8.733709263768457e-05,Topography
+Pacifastacus leniusculus,5,u_TOP135,0.0003779994336389516,Topography
+Pacifastacus leniusculus,5,u_TOP139,0.000748026331414884,Topography
+Pacifastacus leniusculus,5,u_TOP143,0.0005182654253515276,Topography
+Pacifastacus leniusculus,5,u_TOP15,0.0010373018011365484,Topography
+Pacifastacus leniusculus,5,u_TOP19,7.36949928523373e-05,Topography
+Pacifastacus leniusculus,5,u_TOP23,0.00024543183144042313,Topography
+Pacifastacus leniusculus,5,u_TOP27,0.0005752044571012643,Topography
+Pacifastacus leniusculus,5,u_TOP31,0.0010276710610427479,Topography
+Pacifastacus leniusculus,5,u_TOP35,0.0004931517985193622,Topography
+Pacifastacus leniusculus,5,u_TOP39,0.0004505017267923495,Topography
+Pacifastacus leniusculus,5,u_TOP47,0.0009504831226698313,Topography
+Pacifastacus leniusculus,5,u_TOP51,0.0011326176904077603,Topography
+Pacifastacus leniusculus,5,u_TOP55,0.0003353537401778777,Topography
+Pacifastacus leniusculus,5,u_TOP59,0.0009938752534478883,Topography
+Pacifastacus leniusculus,5,u_TOP63,0.0011014848476607125,Topography
+Pacifastacus leniusculus,5,u_TOP67,0.0012774174160325616,Topography
+Pacifastacus leniusculus,5,u_TOP7,0.0012706803017125234,Topography
+Pacifastacus leniusculus,5,u_TOP71,0.0007539043655358147,Topography
+Pacifastacus leniusculus,5,u_TOP83,0.0004024184895590658,Topography
+Pacifastacus leniusculus,5,u_TOP91,0.0012252184825039612,Topography
+Pacifastacus leniusculus,5,u_TOP95,0.00047713082333190345,Topography
+Pacifastacus leniusculus,5,u_TOP99,0.0004759905078220183,Topography

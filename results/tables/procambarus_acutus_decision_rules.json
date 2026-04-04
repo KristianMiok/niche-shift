@@ -1,0 +1,57 @@
+[
+  {
+    "path": [
+      [
+        "l_CLI38",
+        "<=",
+        18.4
+      ],
+      [
+        "l_CLI38",
+        "<=",
+        16.0
+      ]
+    ],
+    "class": "native",
+    "n_samples": 1,
+    "native_count": 1,
+    "invasive_count": 0,
+    "native_pct": 100.0,
+    "invasive_pct": 0.0
+  },
+  {
+    "path": [
+      [
+        "l_CLI38",
+        "<=",
+        18.4
+      ],
+      [
+        "l_CLI38",
+        ">",
+        16.0
+      ]
+    ],
+    "class": "invasive",
+    "n_samples": 1,
+    "native_count": 0,
+    "invasive_count": 1,
+    "native_pct": 0.0,
+    "invasive_pct": 100.0
+  },
+  {
+    "path": [
+      [
+        "l_CLI38",
+        ">",
+        18.4
+      ]
+    ],
+    "class": "native",
+    "n_samples": 1,
+    "native_count": 1,
+    "invasive_count": 0,
+    "native_pct": 100.0,
+    "invasive_pct": 0.0
+  }
+]

@@ -73,32 +73,4 @@ crayfish-niche-shift/
 ├── .gitignore
 └── README.md
 
-# Main outputs
-
-## The most important outputs are written to:
-	•	results/figures/
-	•	results/tables/
-
-## Key generated products include:
-	•	decision-tree plots and rule files
-	•	feature-importance summaries
-	•	RF SHAP summary plots
-	•	cross-species importance comparisons
-	•	null-model histograms
-	•	PCA niche-overlap plots
-	•	CV stability figures
-	•	sample-size sensitivity summaries
-	•	pseudo-absence sensitivity summaries
-
-# Current analytical focus
-
-## The repository currently supports the manuscript’s main result:
-	•	intercontinental invaders are mainly differentiated by climatic variables
-	•	within-continent invaders show a much stronger topographic / river-network component
-
-This pattern is evaluated using interpretable machine learning and then tested with multiple robustness analyses.
-
-## Notes
-	•	The repository is designed for reproducible manuscript analysis rather than for package-style reuse.
-	•	Some scripts produce large numbers of result files; review the corresponding results/ subfolders after each step.
-	•	The climate-projection extension was not retained in the current workflow; the six completed robustness/sensitivity tasks are fully represented in the codebase.
+codebase.

@@ -1,0 +1,115 @@
+Decision Rules for Pontastacus leptodactylus
+============================================================
+Total leaves: 28
+
+Rule 1: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) <= 248.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 17.2 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) <= 82032832.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 2: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) <= 248.5 AND Precip. seasonality (CV) [min] (kg/m²) > 17.2 AND Mosaic tree & shrub (>50%) / herbaceous (<50%) (100) (%) > 0.075
+  Samples: 1 (native: 88.1%, invasive: 11.9%)
+
+Rule 3: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) > 248.5 AND Cell gradient [sd] (–) <= 143338.8281 AND Tree cover, needleleaved, evergreen   (%) > 0.989
+  Samples: 1 (native: 58.2%, invasive: 41.8%)
+
+Rule 4: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) > 248.5 AND Cell gradient [sd] (–) > 143338.8281 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 1.8214
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 5: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) > 2751.5 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 0.8851 AND Mean temp. of warmest quarter [max] (°C) <= 16.45
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 6: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) > 2751.5 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) <= 0.8851 AND Mean temp. of warmest quarter [max] (°C) > 16.45
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) > 2751.5 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 0.8851 AND Tree cover, needleleaved, evergreen   (%) <= 0.283 AND Dist. to downstream node [mean] (m) <= 186.3811
+  Samples: 1 (native: 31.7%, invasive: 68.3%)
+
+Rule 8: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) > 2751.5 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 0.8851 AND Tree cover, needleleaved, evergreen   (%) <= 0.283 AND Dist. to downstream node [mean] (m) > 186.3811
+  Samples: 1 (native: 98.2%, invasive: 1.8%)
+
+Rule 9: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) > 2751.5 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 0.8851 AND Tree cover, needleleaved, evergreen   (%) > 0.283 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) <= 23116.7002
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: NATIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) > 2751.5 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 0.8851 AND Tree cover, needleleaved, evergreen   (%) > 0.283 AND Segment upstream mean gradient (between focal cell and the init or node) [mean] (–) > 23116.7002
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 11: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 651.45 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) <= 123400172.0 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) > 41.5
+  Samples: 1 (native: 20.2%, invasive: 79.8%)
+
+Rule 12: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 651.45 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) > 123400172.0 AND Long-term mean ann. flow (FLO1K, 1980-2010) [sd] (m³/s) > 2.2309
+  Samples: 1 (native: 65.0%, invasive: 35.0%)
+
+Rule 13: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 651.45 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 115.5 AND Soil pH in H2O and KCl solution, multiplied by 10 (pH in H2O x 10) [max] (pH) <= 78.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 14: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 651.45 AND Cell upstream distance (between focal cell and next cell) [max] (–) > 115.5 AND Soil pH in H2O and KCl solution, multiplied by 10 (pH in H2O x 10) [max] (pH) > 78.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 15: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) <= 10.9 AND Precip. seasonality (CV) [min] (kg/m²) <= 18.5 AND Longest upstream distance (between focal grid cell and the furthest sub-catchment drainage divide) [sd] (m) <= 432.4511
+  Samples: 1 (native: 76.4%, invasive: 23.6%)
+
+Rule 16: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) <= 10.9 AND Precip. seasonality (CV) [min] (kg/m²) <= 18.5 AND Longest upstream distance (between focal grid cell and the furthest sub-catchment drainage divide) [sd] (m) > 432.4511
+  Samples: 1 (native: 5.2%, invasive: 94.8%)
+
+Rule 17: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) <= 10.9 AND Precip. seasonality (CV) [min] (kg/m²) > 18.5 AND Segment upstream distance (between focal cell and the init or node) [min] (–) > 109.5
+  Samples: 1 (native: 95.5%, invasive: 4.5%)
+
+Rule 18: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) > 10.9 AND Topological dimension of streams (–) <= 663.0 AND Cell minimum curvature (low up-focal-down) [mean] (m⁻¹) <= -98986.7734
+  Samples: 1 (native: 23.6%, invasive: 76.4%)
+
+Rule 19: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) > 10.9 AND Topological dimension of streams (–) > 663.0 AND Mean diurnal range (mean of monthly (max temp – min temp)) [sd] (°C) <= 0.055
+  Samples: 1 (native: 99.6%, invasive: 0.4%)
+
+Rule 20: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) > 10.9 AND Topological dimension of streams (–) > 663.0 AND Mean diurnal range (mean of monthly (max temp – min temp)) [sd] (°C) > 0.055
+  Samples: 1 (native: 73.5%, invasive: 26.5%)
+
+Rule 21: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) <= 248.5 AND Precip. seasonality (CV) [min] (kg/m²) <= 17.2 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) > 82032832.0
+  Samples: 0 (native: 11.8%, invasive: 88.2%)
+
+Rule 22: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) <= 248.5 AND Precip. seasonality (CV) [min] (kg/m²) > 17.2 AND Mosaic tree & shrub (>50%) / herbaceous (<50%) (100) (%) <= 0.075
+  Samples: 0 (native: 34.0%, invasive: 66.0%)
+
+Rule 23: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) > 248.5 AND Cell gradient [sd] (–) <= 143338.8281 AND Tree cover, needleleaved, evergreen   (%) <= 0.989
+  Samples: 0 (native: 4.2%, invasive: 95.8%)
+
+Rule 24: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) <= 22.6556 AND Topological dimension of streams (–) <= 2751.5 AND Topological dimension of streams (–) > 248.5 AND Cell gradient [sd] (–) > 143338.8281 AND Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%) > 1.8214
+  Samples: 0 (native: 23.6%, invasive: 76.4%)
+
+Rule 25: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 651.45 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) <= 123400172.0 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) <= 41.5
+  Samples: 0 (native: 65.0%, invasive: 35.0%)
+
+Rule 26: INVASIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) <= 651.45 AND Cell upstream distance (between focal cell and next cell) [max] (–) <= 115.5 AND Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–) > 123400172.0 AND Long-term mean ann. flow (FLO1K, 1980-2010) [sd] (m³/s) <= 2.2309
+  Samples: 0 (native: 11.6%, invasive: 88.4%)
+
+Rule 27: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) <= 10.9 AND Precip. seasonality (CV) [min] (kg/m²) > 18.5 AND Segment upstream distance (between focal cell and the init or node) [min] (–) <= 109.5
+  Samples: 0 (native: 68.9%, invasive: 31.1%)
+
+Rule 28: NATIVE
+  IF Max temp. of warmest month [mean] (°C) > 22.6556 AND Temp. seasonality (SD × 100) [max] (°C/100) > 651.45 AND Ann. mean air temp. [min] (°C) > 10.9 AND Topological dimension of streams (–) <= 663.0 AND Cell minimum curvature (low up-focal-down) [mean] (m⁻¹) > -98986.7734
+  Samples: 0 (native: 87.3%, invasive: 12.7%)

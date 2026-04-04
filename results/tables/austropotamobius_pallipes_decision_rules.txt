@@ -1,0 +1,43 @@
+Decision Rules for Austropotamobius pallipes
+============================================================
+Total leaves: 10
+
+Rule 1: INVASIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) <= 457.8 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) <= 42.0 AND Mean temp. of driest quarter [min] (°C) <= 18.8
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 2: NATIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) <= 457.8 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) <= 42.0 AND Mean temp. of driest quarter [min] (°C) > 18.8
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 3: NATIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) <= 457.8 AND Silt fraction by weight (0.0002–0.05 mm) [max] (w%) > 42.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 4: INVASIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) <= 80.0 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 31.55 AND Coarse fragments by volume (>2 mm) [mean] (v%) <= 23.1309 AND Elevation difference of the longest path from focal grid cell to the sub-catchment drainage divide [mean] (m) <= 11.2614
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 5: INVASIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) <= 80.0 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 31.55 AND Coarse fragments by volume (>2 mm) [mean] (v%) <= 23.1309 AND Elevation difference of the longest path from focal grid cell to the sub-catchment drainage divide [mean] (m) > 11.2614
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: NATIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) <= 80.0 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 31.55 AND Coarse fragments by volume (>2 mm) [mean] (v%) > 23.1309
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 7: NATIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) <= 80.0 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) > 31.55
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 8: NATIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) > 80.0 AND Precip. of warmest quarter [min] (kg/m²) <= 518.0
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 9: INVASIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) > 80.0 AND Precip. of warmest quarter [min] (kg/m²) > 518.0 AND Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m) <= 0.8582
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 10: INVASIVE
+  IF Temp. seasonality (SD × 100) [min] (°C/100) > 457.8 AND Topological dimension of streams (–) > 80.0 AND Precip. of warmest quarter [min] (kg/m²) > 518.0 AND Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m) > 0.8582
+  Samples: 1 (native: 0.0%, invasive: 100.0%)

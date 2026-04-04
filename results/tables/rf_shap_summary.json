@@ -1,551 +1,331 @@
 {
-  "Procambarus clarkii": {
-    "species": "Procambarus clarkii",
-    "n_native": 2208,
-    "n_invasive": 8527,
-    "n_features": 195,
+  "Pontastacus leptodactylus": {
+    "species": "Pontastacus leptodactylus",
+    "n_native": 885,
+    "n_invasive": 820,
+    "n_features": 201,
     "cv_scores": {
-      "accuracy_mean": 0.9896599906846764,
-      "accuracy_std": 0.001624182186694226,
-      "f1_mean": 0.9935007665188355,
-      "f1_std": 0.0010220925336104046,
-      "roc_auc_mean": 0.9992047761608672,
-      "roc_auc_std": 0.00030647634420525216
+      "accuracy_mean": 0.8351906158357771,
+      "accuracy_std": 0.015450955861958333,
+      "f1_mean": 0.8222487373624914,
+      "f1_std": 0.016308863077995915,
+      "roc_auc_mean": 0.902711175416839,
+      "roc_auc_std": 0.009798162501889049
     },
     "gini_by_type": {
-      "Climate": 57.68054754509875,
-      "Land Cover": 0.8974612407523613,
-      "Soil": 25.019221887949328,
-      "Topography": 16.402769326199568
+      "Climate": 41.62176976119091,
+      "Land Cover": 1.4745415387651213,
+      "Soil": 24.66703658806309,
+      "Topography": 32.23665211198089
     },
     "shap_by_type": {
-      "Climate": 61.79500108763525,
-      "Land Cover": 1.067484580522533,
-      "Soil": 21.660607549078158,
-      "Topography": 15.476906782764074
+      "Climate": 49.38818345734118,
+      "Land Cover": 0.8959434652026467,
+      "Soil": 23.561602062687097,
+      "Topography": 26.154271014769076
     },
     "top_gini": [
-      {
-        "variable": "l_CLI38",
-        "gini_importance": 0.08487177519842279
-      },
-      {
-        "variable": "l_CLI2",
-        "gini_importance": 0.06894213871559549
-      },
-      {
-        "variable": "l_CLI57",
-        "gini_importance": 0.05616131862444035
-      },
-      {
-        "variable": "l_CLI70",
-        "gini_importance": 0.05556591051323279
-      },
-      {
-        "variable": "l_TOP102",
-        "gini_importance": 0.051499938052409086
-      },
-      {
-        "variable": "l_CLI18",
-        "gini_importance": 0.04891978047467134
-      },
-      {
-        "variable": "l_SOL26",
-        "gini_importance": 0.0390617237243747
-      },
-      {
-        "variable": "l_CLI30",
-        "gini_importance": 0.036441658105207476
-      },
-      {
-        "variable": "l_SOL25",
-        "gini_importance": 0.03525437716683042
-      },
-      {
-        "variable": "l_CLI66",
-        "gini_importance": 0.033941943483021444
-      }
-    ],
-    "top_shap": [
-      {
-        "variable": "l_CLI38",
-        "mean_abs_shap": 0.05936733028041398
-      },
-      {
-        "variable": "l_CLI2",
-        "mean_abs_shap": 0.04970775387114865
-      },
-      {
-        "variable": "l_CLI57",
-        "mean_abs_shap": 0.046332410352274464
-      },
-      {
-        "variable": "l_CLI70",
-        "mean_abs_shap": 0.02902903687667379
-      },
-      {
-        "variable": "l_CLI18",
-        "mean_abs_shap": 0.028899595342752292
-      },
-      {
-        "variable": "l_TOP102",
-        "mean_abs_shap": 0.023474573961739516
-      },
-      {
-        "variable": "l_SOL26",
-        "mean_abs_shap": 0.019773788062444283
-      },
-      {
-        "variable": "l_CLI66",
-        "mean_abs_shap": 0.019689852890598894
-      },
-      {
-        "variable": "l_CLI30",
-        "mean_abs_shap": 0.01901547208698468
-      },
-      {
-        "variable": "l_CLI14",
-        "mean_abs_shap": 0.01776803440228208
-      }
-    ]
-  },
-  "Faxonius limosus": {
-    "species": "Faxonius limosus",
-    "n_native": 382,
-    "n_invasive": 4089,
-    "n_features": 270,
-    "cv_scores": {
-      "accuracy_mean": 0.9993291090197843,
-      "accuracy_std": 0.0005477803816210098,
-      "f1_mean": 0.9996333264213085,
-      "f1_std": 0.0002993878476555712,
-      "roc_auc_mean": 1.0,
-      "roc_auc_std": 0.0
-    },
-    "gini_by_type": {
-      "Climate": 76.15552737253385,
-      "Land Cover": 1.088733393894443,
-      "Soil": 7.45504031601443,
-      "Topography": 15.300698917557277
-    },
-    "shap_by_type": {
-      "Climate": 75.76301454318475,
-      "Land Cover": 0.9891684150365735,
-      "Soil": 9.064857770104155,
-      "Topography": 14.18295927167453
-    },
-    "top_gini": [
-      {
-        "variable": "l_CLI13",
-        "gini_importance": 0.08166871515251557
-      },
-      {
-        "variable": "l_CLI25",
-        "gini_importance": 0.07887977385835997
-      },
-      {
-        "variable": "l_CLI69",
-        "gini_importance": 0.06808412478208208
-      },
-      {
-        "variable": "l_TOP102",
-        "gini_importance": 0.05984778685543051
-      },
-      {
-        "variable": "l_CLI45",
-        "gini_importance": 0.05608513076097659
-      },
-      {
-        "variable": "l_CLI61",
-        "gini_importance": 0.045943072434126916
-      },
-      {
-        "variable": "l_CLI65",
-        "gini_importance": 0.04075442625092443
-      },
       {
         "variable": "l_CLI19",
-        "gini_importance": 0.03994823274857488
-      },
-      {
-        "variable": "l_CLI49",
-        "gini_importance": 0.03808668960536782
-      },
-      {
-        "variable": "l_CLI30",
-        "gini_importance": 0.03795523260961934
-      }
-    ],
-    "top_shap": [
-      {
-        "variable": "l_CLI13",
-        "mean_abs_shap": 0.05850195594832319
-      },
-      {
-        "variable": "l_CLI25",
-        "mean_abs_shap": 0.05526316798081475
-      },
-      {
-        "variable": "l_CLI69",
-        "mean_abs_shap": 0.03489602169411111
-      },
-      {
-        "variable": "l_TOP102",
-        "mean_abs_shap": 0.02637644171446604
-      },
-      {
-        "variable": "l_CLI45",
-        "mean_abs_shap": 0.025217652165938388
-      },
-      {
-        "variable": "l_CLI30",
-        "mean_abs_shap": 0.021548024442902828
-      },
-      {
-        "variable": "l_CLI61",
-        "mean_abs_shap": 0.02029210058336575
-      },
-      {
-        "variable": "l_CLI65",
-        "mean_abs_shap": 0.019477370371539213
-      },
-      {
-        "variable": "l_CLI19",
-        "mean_abs_shap": 0.018425652604307508
-      },
-      {
-        "variable": "l_CLI9",
-        "mean_abs_shap": 0.01830087965838689
-      }
-    ]
-  },
-  "Pacifastacus leniusculus": {
-    "species": "Pacifastacus leniusculus",
-    "n_native": 117,
-    "n_invasive": 4459,
-    "n_features": 292,
-    "cv_scores": {
-      "accuracy_mean": 0.9934433388216766,
-      "accuracy_std": 0.0022935024091437035,
-      "f1_mean": 0.9966466666352843,
-      "f1_std": 0.00117025188799623,
-      "roc_auc_mean": 0.9995457990066534,
-      "roc_auc_std": 0.0003000109673795066
-    },
-    "gini_by_type": {
-      "Climate": 61.46823365555776,
-      "Land Cover": 6.804669514697186,
-      "Soil": 19.368426337357064,
-      "Topography": 12.358670492387997
-    },
-    "shap_by_type": {
-      "Climate": 56.000029529698146,
-      "Land Cover": 10.65787347674468,
-      "Soil": 19.781389571022544,
-      "Topography": 13.560707422534616
-    },
-    "top_gini": [
-      {
-        "variable": "l_CLI69",
-        "gini_importance": 0.0890921495733216
-      },
-      {
-        "variable": "l_CLI58",
-        "gini_importance": 0.07683025716003164
-      },
-      {
-        "variable": "l_CLI53",
-        "gini_importance": 0.05284842010740896
-      },
-      {
-        "variable": "l_CLI33",
-        "gini_importance": 0.04866325497812498
-      },
-      {
-        "variable": "l_CLI49",
-        "gini_importance": 0.04302216044164122
+        "gini_importance": 0.04903231554964496
       },
       {
         "variable": "l_CLI14",
-        "gini_importance": 0.03563128653134186
+        "gini_importance": 0.043932132139119985
       },
       {
-        "variable": "l_CLI73",
-        "gini_importance": 0.03294773250433112
+        "variable": "l_CLI38",
+        "gini_importance": 0.04384839201785126
       },
       {
-        "variable": "l_CLI30",
-        "gini_importance": 0.027791270343687946
-      },
-      {
-        "variable": "l_TOP30",
-        "gini_importance": 0.02340103289899444
-      },
-      {
-        "variable": "l_SOL31",
-        "gini_importance": 0.023379441312682613
-      }
-    ],
-    "top_shap": [
-      {
-        "variable": "l_CLI58",
-        "mean_abs_shap": 0.050296482540754105
-      },
-      {
-        "variable": "l_CLI69",
-        "mean_abs_shap": 0.041142843505602586
-      },
-      {
-        "variable": "l_CLI33",
-        "mean_abs_shap": 0.029549846943212082
-      },
-      {
-        "variable": "l_CLI53",
-        "mean_abs_shap": 0.022973128784462574
-      },
-      {
-        "variable": "l_CLI30",
-        "mean_abs_shap": 0.018096703981055236
-      },
-      {
-        "variable": "l_CLI49",
-        "mean_abs_shap": 0.016718341780658362
-      },
-      {
-        "variable": "u_LAC6",
-        "mean_abs_shap": 0.014879421485245509
-      },
-      {
-        "variable": "l_CLI73",
-        "mean_abs_shap": 0.014438615960626669
-      },
-      {
-        "variable": "l_CLI14",
-        "mean_abs_shap": 0.012719590366440433
-      },
-      {
-        "variable": "l_SOL31",
-        "mean_abs_shap": 0.012030904023698425
-      }
-    ]
-  },
-  "Faxonius virilis": {
-    "species": "Faxonius virilis",
-    "n_native": 1856,
-    "n_invasive": 500,
-    "n_features": 277,
-    "cv_scores": {
-      "accuracy_mean": 0.9915146280902516,
-      "accuracy_std": 0.005525445510912754,
-      "f1_mean": 0.9798482840858899,
-      "f1_std": 0.013193565939055086,
-      "roc_auc_mean": 0.999050249253688,
-      "roc_auc_std": 0.0011918981614904144
-    },
-    "gini_by_type": {
-      "Climate": 41.500829946895294,
-      "Land Cover": 1.851116617957344,
-      "Soil": 24.72044175842695,
-      "Topography": 31.927611676720417
-    },
-    "shap_by_type": {
-      "Climate": 38.97628822490786,
-      "Land Cover": 2.0257708848089093,
-      "Soil": 26.113827385305605,
-      "Topography": 32.88411350497762
-    },
-    "top_gini": [
-      {
-        "variable": "l_TOP109",
-        "gini_importance": 0.06762428962109053
-      },
-      {
-        "variable": "l_TOP30",
-        "gini_importance": 0.0654830687611204
-      },
-      {
-        "variable": "l_CLI14",
-        "gini_importance": 0.05953445334887883
-      },
-      {
-        "variable": "l_CLI58",
-        "gini_importance": 0.04547038217456273
-      },
-      {
-        "variable": "l_CLI73",
-        "gini_importance": 0.030823931641458295
-      },
-      {
-        "variable": "l_SOL21",
-        "gini_importance": 0.03022242420299841
+        "variable": "l_CLI5",
+        "gini_importance": 0.03402119998803689
       },
       {
         "variable": "l_CLI26",
-        "gini_importance": 0.030016637252032605
+        "gini_importance": 0.03291353025546681
       },
       {
-        "variable": "l_SOL18",
-        "gini_importance": 0.02605586308518789
+        "variable": "l_TOP109",
+        "gini_importance": 0.03121989737261987
       },
       {
-        "variable": "l_CLI33",
-        "gini_importance": 0.02597854140476077
+        "variable": "l_CLI53",
+        "gini_importance": 0.02895651890906895
       },
       {
-        "variable": "l_SOL29",
-        "gini_importance": 0.025076757598879673
+        "variable": "l_CLI57",
+        "gini_importance": 0.026542966667047488
+      },
+      {
+        "variable": "l_TOP102",
+        "gini_importance": 0.02448741254343624
+      },
+      {
+        "variable": "l_CLI1",
+        "gini_importance": 0.023536256529791032
       }
     ],
     "top_shap": [
       {
-        "variable": "l_TOP109",
-        "mean_abs_shap": 0.04474876911042115
-      },
-      {
-        "variable": "l_TOP30",
-        "mean_abs_shap": 0.04431828167426875
+        "variable": "l_CLI19",
+        "mean_abs_shap": 0.03113772837700937
       },
       {
         "variable": "l_CLI14",
-        "mean_abs_shap": 0.033968742236348236
+        "mean_abs_shap": 0.030952876428338497
       },
       {
-        "variable": "l_CLI58",
-        "mean_abs_shap": 0.02245130147666933
+        "variable": "l_CLI38",
+        "mean_abs_shap": 0.027973734534150235
       },
       {
-        "variable": "l_SOL18",
-        "mean_abs_shap": 0.017407522131768282
-      },
-      {
-        "variable": "l_SOL21",
-        "mean_abs_shap": 0.016079678215060067
-      },
-      {
-        "variable": "l_CLI73",
-        "mean_abs_shap": 0.015272818878374879
+        "variable": "l_TOP109",
+        "mean_abs_shap": 0.023539398944031075
       },
       {
         "variable": "l_CLI26",
-        "mean_abs_shap": 0.014486248622403775
+        "mean_abs_shap": 0.023360106353284966
       },
       {
-        "variable": "u_TOP114",
-        "mean_abs_shap": 0.01361824146003562
+        "variable": "l_CLI5",
+        "mean_abs_shap": 0.02222327397267244
       },
       {
-        "variable": "l_CLI33",
-        "mean_abs_shap": 0.012835095091106597
+        "variable": "l_CLI53",
+        "mean_abs_shap": 0.02018432313117102
+      },
+      {
+        "variable": "l_CLI57",
+        "mean_abs_shap": 0.019772266428199313
+      },
+      {
+        "variable": "l_TOP102",
+        "mean_abs_shap": 0.016166670408070655
+      },
+      {
+        "variable": "l_CLI1",
+        "mean_abs_shap": 0.015563404146815157
       }
     ]
   },
-  "Faxonius rusticus": {
-    "species": "Faxonius rusticus",
-    "n_native": 1223,
-    "n_invasive": 670,
+  "Austropotamobius fulcisianus": {
+    "species": "Austropotamobius fulcisianus",
+    "n_native": 227,
+    "n_invasive": 629,
+    "n_features": 186,
+    "cv_scores": {
+      "accuracy_mean": 0.9894804841561268,
+      "accuracy_std": 0.006824503458527935,
+      "f1_mean": 0.9928600542413889,
+      "f1_std": 0.00461915509178891,
+      "roc_auc_mean": 0.9991534391534392,
+      "roc_auc_std": 0.0009020608008849486
+    },
+    "gini_by_type": {
+      "Climate": 55.4101959916502,
+      "Land Cover": 0.5746236283206075,
+      "Soil": 25.9144854134054,
+      "Topography": 18.100694966623784
+    },
+    "shap_by_type": {
+      "Climate": 58.28586016456057,
+      "Land Cover": 0.5338849269306675,
+      "Soil": 22.924091266720872,
+      "Topography": 18.256163641787897
+    },
+    "top_gini": [
+      {
+        "variable": "l_CLI10",
+        "gini_importance": 0.13531362790694104
+      },
+      {
+        "variable": "l_CLI69",
+        "gini_importance": 0.0699061918161254
+      },
+      {
+        "variable": "l_CLI13",
+        "gini_importance": 0.06774265217070838
+      },
+      {
+        "variable": "l_CLI65",
+        "gini_importance": 0.06680523517317248
+      },
+      {
+        "variable": "l_TOP102",
+        "gini_importance": 0.04383783936440184
+      },
+      {
+        "variable": "l_CLI61",
+        "gini_importance": 0.04289839108908796
+      },
+      {
+        "variable": "l_CLI53",
+        "gini_importance": 0.041339152516976674
+      },
+      {
+        "variable": "l_TOP30",
+        "gini_importance": 0.035555944705840475
+      },
+      {
+        "variable": "l_SOL27",
+        "gini_importance": 0.03083792658599198
+      },
+      {
+        "variable": "l_SOL26",
+        "gini_importance": 0.027626913598228945
+      }
+    ],
+    "top_shap": [
+      {
+        "variable": "l_CLI10",
+        "mean_abs_shap": 0.09385774565733047
+      },
+      {
+        "variable": "l_CLI69",
+        "mean_abs_shap": 0.04344382742017852
+      },
+      {
+        "variable": "l_CLI13",
+        "mean_abs_shap": 0.04327895991445157
+      },
+      {
+        "variable": "l_CLI65",
+        "mean_abs_shap": 0.037367722496459144
+      },
+      {
+        "variable": "l_TOP102",
+        "mean_abs_shap": 0.02625110394979291
+      },
+      {
+        "variable": "l_CLI53",
+        "mean_abs_shap": 0.02467163676260806
+      },
+      {
+        "variable": "l_CLI61",
+        "mean_abs_shap": 0.021394673192101595
+      },
+      {
+        "variable": "l_TOP30",
+        "mean_abs_shap": 0.019254523443606397
+      },
+      {
+        "variable": "l_SOL27",
+        "mean_abs_shap": 0.013227358342583928
+      },
+      {
+        "variable": "l_SOL26",
+        "mean_abs_shap": 0.012256509406721568
+      }
+    ]
+  },
+  "Austropotamobius pallipes": {
+    "species": "Austropotamobius pallipes",
+    "n_native": 2790,
+    "n_invasive": 231,
     "n_features": 271,
     "cv_scores": {
-      "accuracy_mean": 0.9788652957518392,
-      "accuracy_std": 0.0069024247633989975,
-      "f1_mean": 0.9697455205012417,
-      "f1_std": 0.009950061403720567,
-      "roc_auc_mean": 0.9973718684929318,
-      "roc_auc_std": 0.0017852752162115587
+      "accuracy_mean": 0.9966903836681078,
+      "accuracy_std": 0.0023402541674185004,
+      "f1_mean": 0.9776734376734376,
+      "f1_std": 0.015969655985836682,
+      "roc_auc_mean": 0.9999183518512991,
+      "roc_auc_std": 8.579332543806321e-05
     },
     "gini_by_type": {
-      "Climate": 42.366194858017145,
-      "Land Cover": 0.9785683075210043,
-      "Soil": 23.138966974762376,
-      "Topography": 33.51626985969949
+      "Climate": 50.326941201154874,
+      "Land Cover": 0.4910244472304784,
+      "Soil": 28.941828663465678,
+      "Topography": 20.240205688148965
     },
     "shap_by_type": {
-      "Climate": 43.79305616766727,
-      "Land Cover": 0.8600941305585067,
-      "Soil": 21.795980265702035,
-      "Topography": 33.55086943607219
+      "Climate": 50.75849731416159,
+      "Land Cover": 1.1360648669175755,
+      "Soil": 24.191994792783802,
+      "Topography": 23.913443026137035
     },
     "top_gini": [
       {
-        "variable": "l_TOP30",
-        "gini_importance": 0.055738681410417344
+        "variable": "l_CLI5",
+        "gini_importance": 0.07704113859095287
       },
       {
-        "variable": "l_CLI21",
-        "gini_importance": 0.04905746825970595
+        "variable": "l_CLI13",
+        "gini_importance": 0.07355314498887795
       },
       {
-        "variable": "l_CLI26",
-        "gini_importance": 0.04825460206393283
+        "variable": "l_CLI25",
+        "gini_importance": 0.06851584366134086
       },
       {
-        "variable": "l_TOP109",
-        "gini_importance": 0.047804455177012574
+        "variable": "l_CLI17",
+        "gini_importance": 0.0656148717237713
       },
       {
-        "variable": "l_CLI33",
-        "gini_importance": 0.04668518971994419
+        "variable": "l_CLI39",
+        "gini_importance": 0.05874546537004273
       },
       {
-        "variable": "l_CLI57",
-        "gini_importance": 0.03245053208995731
+        "variable": "l_TOP102",
+        "gini_importance": 0.03865204834562588
       },
       {
-        "variable": "u_TOP31",
-        "gini_importance": 0.03066292801834762
+        "variable": "l_SOL26",
+        "gini_importance": 0.035422516892855097
       },
       {
-        "variable": "u_CLI23",
-        "gini_importance": 0.027421723411462907
+        "variable": "l_SOL27",
+        "gini_importance": 0.03412390014137181
       },
       {
-        "variable": "u_CLI35",
-        "gini_importance": 0.026913245488585105
+        "variable": "l_TOP116",
+        "gini_importance": 0.027967793256576997
       },
       {
-        "variable": "u_SOL15",
-        "gini_importance": 0.025884211053749228
+        "variable": "l_SOL35",
+        "gini_importance": 0.027876322836771373
       }
     ],
     "top_shap": [
       {
-        "variable": "l_TOP30",
-        "mean_abs_shap": 0.03669415834671334
+        "variable": "l_CLI13",
+        "mean_abs_shap": 0.042257316833025485
       },
       {
-        "variable": "l_TOP109",
-        "mean_abs_shap": 0.0324170107023925
+        "variable": "l_CLI25",
+        "mean_abs_shap": 0.03803577841724632
       },
       {
-        "variable": "l_CLI21",
-        "mean_abs_shap": 0.031425751386053
+        "variable": "l_CLI5",
+        "mean_abs_shap": 0.035623962370435115
       },
       {
-        "variable": "l_CLI33",
-        "mean_abs_shap": 0.03132793034033559
+        "variable": "l_CLI17",
+        "mean_abs_shap": 0.031169340546024365
       },
       {
-        "variable": "l_CLI26",
-        "mean_abs_shap": 0.029123389847277754
+        "variable": "l_CLI39",
+        "mean_abs_shap": 0.030252939242187762
       },
       {
-        "variable": "l_CLI57",
-        "mean_abs_shap": 0.018935973941441753
+        "variable": "l_TOP102",
+        "mean_abs_shap": 0.027625248830310343
       },
       {
-        "variable": "u_TOP31",
-        "mean_abs_shap": 0.018774711627639405
+        "variable": "l_TOP116",
+        "mean_abs_shap": 0.016749831152277562
       },
       {
-        "variable": "u_CLI35",
-        "mean_abs_shap": 0.017781886388172023
+        "variable": "l_SOL27",
+        "mean_abs_shap": 0.014864362509635418
       },
       {
-        "variable": "u_CLI23",
-        "mean_abs_shap": 0.016899861362022272
+        "variable": "l_SOL26",
+        "mean_abs_shap": 0.012921407161832606
       },
       {
-        "variable": "u_TOP114",
-        "mean_abs_shap": 0.014843344628034298
+        "variable": "u_CLI27",
+        "mean_abs_shap": 0.011370572622754052
       }
     ]
   }

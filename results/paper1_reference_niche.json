@@ -1,0 +1,52 @@
+[
+  {
+    "species": "Procambarus clarkii",
+    "n_native": 2208,
+    "n_invasive": 8527,
+    "n_features": 195,
+    "pc1_variance_explained": 0.16311752777019986,
+    "pc2_variance_explained": 0.0727577838806429,
+    "schoeners_D": 0.6191244077437217,
+    "warrens_I": 0.8594988334264677
+  },
+  {
+    "species": "Faxonius limosus",
+    "n_native": 382,
+    "n_invasive": 4089,
+    "n_features": 270,
+    "pc1_variance_explained": 0.13232748249089546,
+    "pc2_variance_explained": 0.07542847782877955,
+    "schoeners_D": 0.47960734298733665,
+    "warrens_I": 0.75670059032841
+  },
+  {
+    "species": "Pacifastacus leniusculus",
+    "n_native": 117,
+    "n_invasive": 4459,
+    "n_features": 292,
+    "pc1_variance_explained": 0.16081123174075063,
+    "pc2_variance_explained": 0.08943765761986004,
+    "schoeners_D": 0.3692894294201946,
+    "warrens_I": 0.6027301608015866
+  },
+  {
+    "species": "Faxonius virilis",
+    "n_native": 1856,
+    "n_invasive": 500,
+    "n_features": 277,
+    "pc1_variance_explained": 0.1282159296217238,
+    "pc2_variance_explained": 0.0851303158732677,
+    "schoeners_D": 0.3264128967353408,
+    "warrens_I": 0.6075096416809163
+  },
+  {
+    "species": "Faxonius rusticus",
+    "n_native": 1223,
+    "n_invasive": 670,
+    "n_features": 271,
+    "pc1_variance_explained": 0.14338746090443155,
+    "pc2_variance_explained": 0.09328895032086598,
+    "schoeners_D": 0.2994793730683033,
+    "warrens_I": 0.5651062729037809
+  }
+]

@@ -1,69 +1,104 @@
 # Crayfish Niche Shift Analysis
 
-Comparative analysis of ecological niche thresholds between native and invasive
-ranges of freshwater crayfish, using machine learning decision rules derived from
-the Global Crayfish Database of Geospatial Traits (GeoTraits).
+Machine-learning analysis of **native vs. invasive niche reorganisation** in freshwater crayfish using network-aware environmental predictors from the **Global Crayfish Database of Geospatial Traits (GeoTraits)**.
 
-## Project Structure
+This repository accompanies the manuscript:
 
-```
+**Invasion pathway predicts the axis of ecological niche reorganisation in freshwater crayfish**
+
+The project tests whether native and invasive ranges are differentiated along different environmental axes, and whether those axes depend on invasion pathway type (**intercontinental vs. within-continent**).
+
+## Main study system
+
+Five invasive crayfish species were analysed after quality filtering:
+
+- **Procambarus clarkii**
+- **Faxonius limosus**
+- **Pacifastacus leniusculus**
+- **Faxonius virilis**
+- **Faxonius rusticus**
+
+These include:
+
+- **Intercontinental invaders**: *P. clarkii*, *F. limosus*, *P. leniusculus*
+- **Within-continent invaders**: *F. virilis*, *F. rusticus*
+
+## Core analyses implemented
+
+The repository contains the full workflow for:
+
+1. **Data filtering and species selection**
+2. **Decision-tree classification** of native vs. invasive occurrences
+3. **Separate niche models** for native-only and invasive-only ranges
+4. **Random forest + SHAP robustness analysis**
+5. **Null model / permutation test** for the pathway dichotomy
+6. **Classical niche overlap metrics** (Schoener’s D, Warren’s I)
+7. **Cross-validation importance stability**
+8. **Sample-size sensitivity analysis**
+9. **Pseudo-absence sensitivity analysis** for separate niche models
+
+## Project structure
+
+```text
 crayfish-niche-shift/
 ├── config/
-│   └── species_config.yaml      # Species selection criteria & parameters
+│   └── species_config.yaml
 ├── data/
 │   ├── raw/                     # Original GeoTraits exports (not tracked in git)
 │   ├── interim/                 # Intermediate processing outputs
-│   └── processed/               # Final analysis-ready datasets
+│   └── processed/               # Species-level prepared datasets
+├── results/
+│   ├── figures/                 # Main and supplementary figures
+│   ├── tables/                  # Main and supplementary result tables
+│   ├── null_model/              # Permutation-test outputs
+│   ├── pseudoabsence_sensitivity/
+│   └── sample_size_sensitivity/
 ├── src/
 │   ├── __init__.py
-│   ├── data_loader.py           # Load and validate raw GeoTraits data
-│   ├── species_selector.py      # Filter species by inclusion criteria
-│   ├── data_preparation.py      # Prepare native/invasive splits, clean, encode
-│   └── eda.py                   # Exploratory data analysis & summary stats
-├── notebooks/
-│   └── 01_data_exploration.py   # Initial data exploration (run as script or notebook)
-├── results/
-│   ├── figures/
-│   ├── tables/
-│   └── models/
+│   ├── data_loader.py
+│   ├── species_selector.py
+│   ├── data_preparation.py
+│   ├── eda.py
+│   ├── decision_tree.py
+│   ├── cross_species_comparison.py
+│   ├── separate_niche_models.py
+│   ├── variable_glossary.py
+│   ├── random_forest_shap.py
+│   ├── null_model_dichotomy.py
+│   ├── niche_overlap_metrics.py
+│   ├── cv_importance_stability.py
+│   ├── sample_size_sensitivity.py
+│   └── pseudoabsence_sensitivity.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
 
-## Setup
+# Main outputs
 
-```bash
-# Clone and set up environment
-git clone <repo-url>
-cd crayfish-niche-shift
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-```
+## The most important outputs are written to:
+	•	results/figures/
+	•	results/tables/
 
-## Data
+## Key generated products include:
+	•	decision-tree plots and rule files
+	•	feature-importance summaries
+	•	RF SHAP summary plots
+	•	cross-species importance comparisons
+	•	null-model histograms
+	•	PCA niche-overlap plots
+	•	CV stability figures
+	•	sample-size sensitivity summaries
+	•	pseudo-absence sensitivity summaries
 
-Place `combined_data_true_master.csv` in `data/raw/`. This is the Full Integrated
-Dataset from the Global Crayfish Database of Geospatial Traits, containing
-occurrence-level records with ~400 environmental variables.
+# Current analytical focus
 
-This file is not tracked in git due to size.
+## The repository currently supports the manuscript’s main result:
+	•	intercontinental invaders are mainly differentiated by climatic variables
+	•	within-continent invaders show a much stronger topographic / river-network component
 
-## Usage
+This pattern is evaluated using interpretable machine learning and then tested with multiple robustness analyses.
 
-```bash
-# Step 1: Load data and see species/status counts
-python src/data_loader.py --input data/raw/combined_data_true_master.csv
-
-# Step 2: Select candidate species meeting inclusion criteria
-python src/species_selector.py --input data/raw/combined_data_true_master.csv
-
-# Step 3: Prepare analysis-ready datasets per species
-python src/data_preparation.py --input data/raw/combined_data_true_master.csv
-
-# Step 4: Run EDA for a specific species
-python src/eda.py --species "Procambarus clarkii" \
-                  --data data/processed/procambarus_clarkii_combined.csv \
-                  --vars data/processed/procambarus_clarkii_env_vars.txt
-```
+## Notes
+	•	The repository is designed for reproducible manuscript analysis rather than for package-style reuse.
+	•	Some scripts produce large numbers of result files; review the corresponding results/ subfolders after each step.
+	•	The climate-projection extension was not retained in the current workflow; the six completed robustness/sensitivity tasks are fully represented in the codebase.

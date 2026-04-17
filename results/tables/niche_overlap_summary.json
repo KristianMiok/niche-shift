@@ -1,52 +1,32 @@
 [
   {
-    "species": "Procambarus clarkii",
-    "n_native": 2208,
-    "n_invasive": 8527,
-    "n_features": 195,
-    "pc1_variance_explained": 0.16311752777019986,
-    "pc2_variance_explained": 0.0727577838806429,
-    "schoeners_D": 0.6191244077437217,
-    "warrens_I": 0.8594988334264677
+    "species": "Pontastacus leptodactylus",
+    "n_native": 885,
+    "n_invasive": 820,
+    "n_features": 201,
+    "pc1_variance_explained": 0.15704297879314727,
+    "pc2_variance_explained": 0.08405374807901683,
+    "schoeners_D": 0.42154450419667133,
+    "warrens_I": 0.7059885009824988
   },
   {
-    "species": "Faxonius limosus",
-    "n_native": 382,
-    "n_invasive": 4089,
-    "n_features": 270,
-    "pc1_variance_explained": 0.13232748249089546,
-    "pc2_variance_explained": 0.07542847782877955,
-    "schoeners_D": 0.47960734298733665,
-    "warrens_I": 0.75670059032841
+    "species": "Austropotamobius fulcisianus",
+    "n_native": 227,
+    "n_invasive": 629,
+    "n_features": 186,
+    "pc1_variance_explained": 0.2323141750299905,
+    "pc2_variance_explained": 0.08818942403771234,
+    "schoeners_D": 0.22863375488398419,
+    "warrens_I": 0.38821149436752966
   },
   {
-    "species": "Pacifastacus leniusculus",
-    "n_native": 117,
-    "n_invasive": 4459,
-    "n_features": 292,
-    "pc1_variance_explained": 0.16081123174075063,
-    "pc2_variance_explained": 0.08943765761986004,
-    "schoeners_D": 0.3692894294201946,
-    "warrens_I": 0.6027301608015866
-  },
-  {
-    "species": "Faxonius virilis",
-    "n_native": 1856,
-    "n_invasive": 500,
-    "n_features": 277,
-    "pc1_variance_explained": 0.1282159296217238,
-    "pc2_variance_explained": 0.0851303158732677,
-    "schoeners_D": 0.3264128967353408,
-    "warrens_I": 0.6075096416809163
-  },
-  {
-    "species": "Faxonius rusticus",
-    "n_native": 1223,
-    "n_invasive": 670,
+    "species": "Austropotamobius pallipes",
+    "n_native": 2790,
+    "n_invasive": 231,
     "n_features": 271,
-    "pc1_variance_explained": 0.14338746090443155,
-    "pc2_variance_explained": 0.09328895032086598,
-    "schoeners_D": 0.2994793730683033,
-    "warrens_I": 0.5651062729037809
+    "pc1_variance_explained": 0.1534090192089799,
+    "pc2_variance_explained": 0.10258245324135502,
+    "schoeners_D": 0.07036294783906849,
+    "warrens_I": 0.14641237969951915
   }
 ]

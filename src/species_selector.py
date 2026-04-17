@@ -19,18 +19,14 @@ from data_loader import (
     COL_SPECIES, COL_STATUS, COL_ACCURACY, COL_DISTANCE, COL_SEGMENT,
 )
 
-# Status values: only Native vs Alien (ignoring Introduced and Type locality)
 STATUS_NATIVE = "Native"
-STATUS_ALIEN = "Alien"
+STATUS_ALIEN = "Introduced"  # For conservation paper: Native vs Introduced
 
-# Core study species selected based on data availability
+# Study species: historically translocated / cryptogenic European crayfish
 STUDY_SPECIES = [
-    "Procambarus clarkii",       # Native: 2208, Alien: 8527
-    "Faxonius limosus",          # Native: 382,  Alien: 4089
-    "Pacifastacus leniusculus",  # Native: 117,  Alien: 4459
-    "Faxonius virilis",          # Native: 1856, Alien: 500
-    "Faxonius rusticus",         # Native: 1223, Alien: 670
- #   "Procambarus acutus",       # Native: 122,  Alien: 1200
+    "Pontastacus leptodactylus",      # Native: 885, Introduced: 820
+    "Austropotamobius fulcisianus",   # Native: 227, Introduced: 629
+    "Austropotamobius pallipes",      # Native: 2790, Introduced: 231
 ]
 
 def apply_quality_filters(df: pd.DataFrame, config: dict) -> pd.DataFrame:
@@ -47,9 +43,9 @@ def apply_quality_filters(df: pd.DataFrame, config: dict) -> pd.DataFrame:
     n_start = len(df)
     print(f"\nApplying quality filters (starting with {n_start:,} records)...")
 
-    # Step 0: Keep only Native and Alien (drop Introduced, Type locality)
+    # Step 0: Keep only Native and Introduced (drop Alien, Type locality)
     df = df[df[COL_STATUS].isin([STATUS_NATIVE, STATUS_ALIEN])].copy()
-    print(f"  After status filter (Native/Alien only): {len(df):,} records")
+    print(f"  After status filter (Native/Introduced only): {len(df):,} records")
 
     # Step 1: Accuracy filter
     acc_val = criteria.get("accuracy_filter", "High")

@@ -1,0 +1,37 @@
+[
+  {
+    "species": "Procambarus clarkii",
+    "pathway": "intercontinental",
+    "continent_only_accuracy": 0.7896599906846763,
+    "majority_baseline": 0.7943176525384258,
+    "pct_invaded_on_native_continent": 26.37504397795239
+  },
+  {
+    "species": "Faxonius limosus",
+    "pathway": "intercontinental",
+    "continent_only_accuracy": 1.0,
+    "majority_baseline": 0.9145606338969918,
+    "pct_invaded_on_native_continent": 0.0
+  },
+  {
+    "species": "Pacifastacus leniusculus",
+    "pathway": "intercontinental",
+    "continent_only_accuracy": 0.999344500918701,
+    "majority_baseline": 0.9744319564750519,
+    "pct_invaded_on_native_continent": 0.06727965911639382
+  },
+  {
+    "species": "Faxonius virilis",
+    "pathway": "within-continent",
+    "continent_only_accuracy": 0.8060311634099824,
+    "majority_baseline": 0.787775738601605,
+    "pct_invaded_on_native_continent": 91.4
+  },
+  {
+    "species": "Faxonius rusticus",
+    "pathway": "within-continent",
+    "continent_only_accuracy": 0.6471206600494199,
+    "majority_baseline": 0.6460638550348313,
+    "pct_invaded_on_native_continent": 99.70149253731343
+  }
+]

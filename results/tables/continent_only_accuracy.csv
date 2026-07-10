@@ -1,0 +1,6 @@
+species,pathway,continent_only_accuracy,majority_baseline,pct_invaded_on_native_continent
+Procambarus clarkii,intercontinental,0.7896599906846763,0.7943176525384258,26.37504397795239
+Faxonius limosus,intercontinental,1.0,0.9145606338969918,0.0
+Pacifastacus leniusculus,intercontinental,0.999344500918701,0.9744319564750519,0.06727965911639382
+Faxonius virilis,within-continent,0.8060311634099824,0.787775738601605,91.4
+Faxonius rusticus,within-continent,0.6471206600494199,0.6460638550348313,99.70149253731343

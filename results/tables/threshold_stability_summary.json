@@ -1,0 +1,413 @@
+{
+  "Procambarus clarkii": {
+    "root_native_mode": [
+      "l_CLI38"
+    ],
+    "root_invasive_mode": [
+      "l_CLI38"
+    ],
+    "root_native_unique": 1,
+    "root_invasive_unique": 1,
+    "variables": [
+      {
+        "variable": "l_CLI14",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI18",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI38",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI49",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI57",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI66",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_LAC7",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_SOL17",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP102",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP107",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP109",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      }
+    ]
+  },
+  "Faxonius limosus": {
+    "root_native_mode": [
+      "l_CLI25"
+    ],
+    "root_invasive_mode": [
+      "l_CLI25"
+    ],
+    "root_native_unique": 1,
+    "root_invasive_unique": 1,
+    "variables": [
+      {
+        "variable": "l_CLI25",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI60",
+        "n_seeds_present": 14,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP102",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_CLI27",
+        "n_seeds_present": 13,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      }
+    ]
+  },
+  "Pacifastacus leniusculus": {
+    "root_native_mode": [
+      "l_CLI58"
+    ],
+    "root_invasive_mode": [
+      "l_CLI58"
+    ],
+    "root_native_unique": 1,
+    "root_invasive_unique": 1,
+    "variables": [
+      {
+        "variable": "l_CLI26",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI30",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI58",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_SOL31",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_SOL35",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_LAC2",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_SOL59",
+        "n_seeds_present": 11,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      }
+    ]
+  },
+  "Faxonius virilis": {
+    "root_native_mode": [
+      "l_TOP30"
+    ],
+    "root_invasive_mode": [
+      "l_TOP30"
+    ],
+    "root_native_unique": 1,
+    "root_invasive_unique": 1,
+    "variables": [
+      {
+        "variable": "l_CLI14",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI33",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI9",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP109",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP30",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_CLI15",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_TOP39",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI50",
+        "n_seeds_present": 10,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      }
+    ]
+  },
+  "Faxonius rusticus": {
+    "root_native_mode": [
+      "l_CLI21"
+    ],
+    "root_invasive_mode": [
+      "l_CLI21"
+    ],
+    "root_native_unique": 1,
+    "root_invasive_unique": 1,
+    "variables": [
+      {
+        "variable": "l_CLI17",
+        "n_seeds_present": 17,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI21",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_CLI36",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_SOL11",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "l_TOP109",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_CLI11",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_CLI59",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_SOL11",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      },
+      {
+        "variable": "u_TOP59",
+        "n_seeds_present": 20,
+        "shift_median": 0.0,
+        "shift_min": 0.0,
+        "shift_max": 0.0,
+        "shift_sd": 0.0,
+        "sign_flips": false
+      }
+    ]
+  }
+}

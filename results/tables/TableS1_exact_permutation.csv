@@ -1,0 +1,7 @@
+statistic,importance_measure,observed,rank_among_10,exact_one_sided_P
+difference,RF-Gini,41.9989,1/10,0.1
+ratio,RF-Gini,5.7292,1/10,0.1
+difference,RF-SHAP,42.5689,1/10,0.1
+ratio,RF-SHAP,5.9023,1/10,0.1
+difference,grouped-permutation RF dAUC,0.1059,1/10,0.1
+ratio,grouped-permutation RF dAUC,3.5408,1/10,0.1

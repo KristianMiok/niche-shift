@@ -1,0 +1,74 @@
+{
+  "Faxonius virilis": {
+    "focus": "Topography",
+    "n_dropped": 43,
+    "baseline": {
+      "n_invaded": 500,
+      "auc": 0.9988888719821466,
+      "grouped_perm_dauc": {
+        "Climate": 0.04585493000608643,
+        "Land Cover": 9.278613453903573e-05,
+        "Soil": 0.0034729639451642025,
+        "Topography": 0.01988588818363622
+      },
+      "rf_gini_pct": {
+        "Climate": 40.64401196578395,
+        "Topography": 32.38479910998723,
+        "Soil": 24.935153558187146,
+        "Land Cover": 2.036035366041676
+      }
+    },
+    "refit": {
+      "n_invaded": 457,
+      "auc": 0.9985500097563133,
+      "grouped_perm_dauc": {
+        "Climate": 0.035235153804181824,
+        "Land Cover": 4.8051175231056395e-05,
+        "Soil": 0.00486845670468645,
+        "Topography": 0.025422577454678637
+      },
+      "rf_gini_pct": {
+        "Climate": 37.649184591944206,
+        "Topography": 32.20844419232176,
+        "Soil": 28.070836728252164,
+        "Land Cover": 2.0715344874818697
+      }
+    }
+  },
+  "Procambarus clarkii": {
+    "focus": "Climate",
+    "n_dropped": 2249,
+    "baseline": {
+      "n_invaded": 8527,
+      "auc": 0.9988092721956395,
+      "grouped_perm_dauc": {
+        "Climate": 0.2174400588536814,
+        "Land Cover": -4.418897438638991e-05,
+        "Soil": 0.001966255894259916,
+        "Topography": 0.000380791052420566
+      },
+      "rf_gini_pct": {
+        "Climate": 57.32801587192271,
+        "Topography": 16.36391178725442,
+        "Soil": 25.41545974693621,
+        "Land Cover": 0.892612593886654
+      }
+    },
+    "refit": {
+      "n_invaded": 6278,
+      "auc": 0.99999783617761,
+      "grouped_perm_dauc": {
+        "Climate": 0.17570184071564046,
+        "Land Cover": -4.1479002613531437e-07,
+        "Soil": 0.000643302876899341,
+        "Topography": 3.07773643366116e-05
+      },
+      "rf_gini_pct": {
+        "Climate": 52.99518244359453,
+        "Topography": 16.142995760601377,
+        "Soil": 29.770206226021564,
+        "Land Cover": 1.0916155697825314
+      }
+    }
+  }
+}

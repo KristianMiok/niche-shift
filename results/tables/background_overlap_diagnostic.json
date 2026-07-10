@@ -1,0 +1,57 @@
+[
+  {
+    "species": "Procambarus clarkii",
+    "pathway": "intercontinental",
+    "n_native": 2208,
+    "n_invaded": 8527,
+    "k_pc_80": 37,
+    "native_in_envelope": 2202,
+    "invaded_in_envelope": 7807,
+    "pct_native_in": 99.72826086956522,
+    "pct_invaded_in": 91.55623314178492
+  },
+  {
+    "species": "Faxonius limosus",
+    "pathway": "intercontinental",
+    "n_native": 382,
+    "n_invaded": 4089,
+    "k_pc_80": 45,
+    "native_in_envelope": 377,
+    "invaded_in_envelope": 1985,
+    "pct_native_in": 98.69109947643979,
+    "pct_invaded_in": 48.54487649792125
+  },
+  {
+    "species": "Pacifastacus leniusculus",
+    "pathway": "intercontinental",
+    "n_native": 117,
+    "n_invaded": 4459,
+    "k_pc_80": 45,
+    "native_in_envelope": 105,
+    "invaded_in_envelope": 1457,
+    "pct_native_in": 89.74358974358974,
+    "pct_invaded_in": 32.675487777528595
+  },
+  {
+    "species": "Faxonius virilis",
+    "pathway": "within-continent",
+    "n_native": 1856,
+    "n_invaded": 500,
+    "k_pc_80": 41,
+    "native_in_envelope": 1467,
+    "invaded_in_envelope": 418,
+    "pct_native_in": 79.04094827586206,
+    "pct_invaded_in": 83.6
+  },
+  {
+    "species": "Faxonius rusticus",
+    "pathway": "within-continent",
+    "n_native": 1223,
+    "n_invaded": 670,
+    "k_pc_80": 41,
+    "native_in_envelope": 1171,
+    "invaded_in_envelope": 607,
+    "pct_native_in": 95.74816026165168,
+    "pct_invaded_in": 90.59701492537313
+  }
+]

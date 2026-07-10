@@ -1,0 +1,6 @@
+species,pathway,n_native,n_invaded,k_pc_80,native_in_envelope,invaded_in_envelope,pct_native_in,pct_invaded_in
+Procambarus clarkii,intercontinental,2208,8527,37,2202,7807,99.72826086956522,91.55623314178492
+Faxonius limosus,intercontinental,382,4089,45,377,1985,98.69109947643979,48.54487649792125
+Pacifastacus leniusculus,intercontinental,117,4459,45,105,1457,89.74358974358974,32.675487777528595
+Faxonius virilis,within-continent,1856,500,41,1467,418,79.04094827586206,83.6
+Faxonius rusticus,within-continent,1223,670,41,1171,607,95.74816026165168,90.59701492537313

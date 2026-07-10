@@ -1,0 +1,52 @@
+{
+  "Procambarus clarkii": {
+    "first": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    },
+    "maximp": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    }
+  },
+  "Faxonius limosus": {
+    "first": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    },
+    "maximp": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    }
+  },
+  "Pacifastacus leniusculus": {
+    "first": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    },
+    "maximp": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    }
+  },
+  "Faxonius virilis": {
+    "first": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    },
+    "maximp": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    }
+  },
+  "Faxonius rusticus": {
+    "first": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    },
+    "maximp": {
+      "median_SD_top3": 0.0,
+      "any_flip_top3": false
+    }
+  }
+}

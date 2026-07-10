@@ -1,0 +1,6 @@
+Species,Pathway,Continent-only accuracy (%),Majority baseline (%),Lift over majority (pp),Invaded on native continent (%),Label-continent confounding
+Procambarus clarkii,intercontinental,79.0,79.4,-0.5,26.4,low
+Faxonius limosus,intercontinental,100.0,91.5,8.5,0.0,severe
+Pacifastacus leniusculus,intercontinental,99.9,97.4,2.5,0.1,severe
+Faxonius virilis,within-continent,80.6,78.8,1.8,91.4,low
+Faxonius rusticus,within-continent,64.7,64.6,0.1,99.7,low

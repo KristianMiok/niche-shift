@@ -1,0 +1,28 @@
+{
+  "per_species_topo": {
+    "Procambarus clarkii": 0.29637650256617215,
+    "Faxonius limosus": 0.20008286428250738,
+    "Pacifastacus leniusculus": 0.0834041464533171,
+    "Faxonius virilis": 0.45363439450550813,
+    "Faxonius rusticus": 0.19036690470734555
+  },
+  "per_species_clim": {
+    "Procambarus clarkii": 0.784057151847499,
+    "Faxonius limosus": 1.3891859246516483,
+    "Pacifastacus leniusculus": 0.4650897794292808,
+    "Faxonius virilis": 0.5198052646357827,
+    "Faxonius rusticus": 0.3947744468298929
+  },
+  "topo_test": [
+    0.12871281183909464,
+    3,
+    0.3,
+    -1
+  ],
+  "clim_test": [
+    0.4221544295766383,
+    2,
+    0.2,
+    1
+  ]
+}

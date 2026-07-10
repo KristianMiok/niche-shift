@@ -1,0 +1,106 @@
+{
+  "Faxonius virilis": {
+    "n_dropped": 43,
+    "focus": "Topography",
+    "baseline": {
+      "label": "baseline (all invaded)",
+      "n_native": 1856,
+      "n_invasive": 500,
+      "dt_acc": 0.9736865306416206,
+      "dt_auc": 0.961550655015506,
+      "rf_acc": 0.9898170139263737,
+      "rf_auc": 0.9988888719821466,
+      "dt_domain": {
+        "Climate": 34.60708587329036,
+        "Topography": 64.44093842933358,
+        "Soil": 0.9519756973760664,
+        "Land Cover": 0.0,
+        "Other": 0.0
+      },
+      "rf_domain": {
+        "Climate": 40.644011965783946,
+        "Topography": 32.38479910998723,
+        "Soil": 24.935153558187142,
+        "Land Cover": 2.036035366041676,
+        "Other": 0.0
+      },
+      "shap_domain": null
+    },
+    "refit": {
+      "label": "NA-only invaded (dropped European)",
+      "n_native": 1856,
+      "n_invasive": 457,
+      "dt_acc": 0.9740586986807289,
+      "dt_auc": 0.9588323811113513,
+      "rf_acc": 0.9891924490196627,
+      "rf_auc": 0.9985500097563133,
+      "dt_domain": {
+        "Climate": 36.257219130453656,
+        "Topography": 62.6680075874166,
+        "Soil": 0.9745382448221429,
+        "Land Cover": 0.10023503730761675,
+        "Other": 0.0
+      },
+      "rf_domain": {
+        "Climate": 37.649184591944206,
+        "Topography": 32.20844419232176,
+        "Soil": 28.070836728252164,
+        "Land Cover": 2.0715344874818697,
+        "Other": 0.0
+      },
+      "shap_domain": null
+    }
+  },
+  "Procambarus clarkii": {
+    "n_dropped": 2249,
+    "focus": "Climate",
+    "baseline": {
+      "label": "baseline (all invaded)",
+      "n_native": 2208,
+      "n_invasive": 8527,
+      "dt_acc": 0.983791336748952,
+      "dt_auc": 0.98959708293486,
+      "rf_acc": 0.9885421518397765,
+      "rf_auc": 0.9988092721956395,
+      "dt_domain": {
+        "Climate": 93.12440814078437,
+        "Topography": 5.451736341319921,
+        "Soil": 1.1199419803074995,
+        "Land Cover": 0.30391353758821105,
+        "Other": 0.0
+      },
+      "rf_domain": {
+        "Climate": 57.32801587192271,
+        "Topography": 16.36391178725442,
+        "Soil": 25.415459746936214,
+        "Land Cover": 0.892612593886654,
+        "Other": 0.0
+      },
+      "shap_domain": null
+    },
+    "refit": {
+      "label": "intercontinental-only invaded (dropped North American)",
+      "n_native": 2208,
+      "n_invasive": 6278,
+      "dt_acc": 0.9965829673788636,
+      "dt_auc": 0.996679807840027,
+      "rf_acc": 0.9995285798467884,
+      "rf_auc": 0.99999783617761,
+      "dt_domain": {
+        "Climate": 95.9719452557215,
+        "Topography": 0.4735139014732872,
+        "Soil": 3.4587695115555825,
+        "Land Cover": 0.09577133124963816,
+        "Other": 0.0
+      },
+      "rf_domain": {
+        "Climate": 52.99518244359454,
+        "Topography": 16.142995760601377,
+        "Soil": 29.770206226021568,
+        "Land Cover": 1.0916155697825314,
+        "Other": 0.0
+      },
+      "shap_domain": null
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "Procambarus clarkii": {
+    "pathway": "intercontinental",
+    "full": {
+      "auc": 0.9988092721956395,
+      "grouped_perm_dauc": {
+        "Climate": 0.21744004567339328,
+        "Land Cover": -4.418897438639213e-05,
+        "Soil": 0.001966255894259912,
+        "Topography": 0.00038079105242055044
+      }
+    },
+    "option_a": {
+      "k5": {
+        "k": 5,
+        "hull_seconds": 0.1,
+        "n_native": 1401,
+        "n_invaded": 5734,
+        "status": "ok",
+        "auc": 0.9983411582140743,
+        "grouped_perm_dauc": {
+          "Climate": 0.22385997527778606,
+          "Land Cover": -1.1083549332713272e-05,
+          "Soil": 0.0013005053866451898,
+          "Topography": 0.0002775765823571841
+        }
+      },
+      "k10": {
+        "k": 10,
+        "hull_seconds": 35.0,
+        "n_native": 34,
+        "n_invaded": 16,
+        "status": "too_sparse"
+      }
+    },
+    "option_b": {
+      "auc": 0.998915209995911,
+      "grouped_perm_dauc": {
+        "Climate": 0.18778145775370952,
+        "Land Cover": -6.442565873359562e-05,
+        "Soil": 0.0016040180045669339,
+        "Topography": 8.0537918467114e-05
+      },
+      "continent_cols": [
+        "CONT_Africa",
+        "CONT_Asia",
+        "CONT_Europe",
+        "CONT_North America",
+        "CONT_South America"
+      ]
+    }
+  },
+  "Faxonius limosus": {
+    "pathway": "intercontinental",
+    "full": {
+      "auc": 1.0,
+      "grouped_perm_dauc": {
+        "Climate": 0.09454081293968261,
+        "Land Cover": 8.881784197001253e-18,
+        "Soil": 1.9984014443252817e-17,
+        "Topography": 0.0001230757657828585
+      }
+    },
+    "option_a": {
+      "k5": {
+        "k": 5,
+        "hull_seconds": 0.0,
+        "n_native": 150,
+        "n_invaded": 17,
+        "status": "too_sparse"
+      },
+      "k10": {
+        "k": 10,
+        "hull_seconds": 13.6,
+        "n_native": 1,
+        "n_invaded": 0,
+        "status": "too_sparse"
+      }
+    },
+    "option_b": {
+      "auc": 1.0,
+      "grouped_perm_dauc": {
+        "Climate": 0.0197991495244363,
+        "Land Cover": 2.220446049250313e-18,
+        "Soil": 6.661338147750939e-18,
+        "Topography": 6.661338147750939e-18
+      },
+      "continent_cols": [
+        "CONT_Europe",
+        "CONT_North America"
+      ]
+    }
+  },
+  "Pacifastacus leniusculus": {
+    "pathway": "intercontinental",
+    "full": {
+      "auc": 0.9995742425847114,
+      "grouped_perm_dauc": {
+        "Climate": 0.13119618470746186,
+        "Land Cover": 0.00015032407981816487,
+        "Soil": 0.0009174292771377135,
+        "Topography": 2.8632402606130203e-05
+      }
+    },
+    "option_a": {
+      "k5": {
+        "k": 5,
+        "hull_seconds": 0.0,
+        "n_native": 74,
+        "n_invaded": 492,
+        "status": "ok",
+        "auc": 0.9999326599326599,
+        "grouped_perm_dauc": {
+          "Climate": 0.05455191369477084,
+          "Land Cover": 2.0202020202022554e-05,
+          "Soil": 0.012133786848072543,
+          "Topography": 0.000911564625850334
+        }
+      },
+      "k10": {
+        "k": 10,
+        "hull_seconds": 10.2,
+        "n_native": 3,
+        "n_invaded": 8,
+        "status": "too_sparse"
+      }
+    },
+    "option_b": {
+      "auc": 0.9998967341248974,
+      "grouped_perm_dauc": {
+        "Climate": 0.0006385390665681179,
+        "Land Cover": 6.882723161074412e-05,
+        "Soil": 4.706914578074262e-06,
+        "Topography": 4.3072215150641305e-05
+      },
+      "continent_cols": [
+        "CONT_Asia",
+        "CONT_Europe",
+        "CONT_North America"
+      ]
+    }
+  },
+  "Faxonius virilis": {
+    "pathway": "within-continent",
+    "full": {
+      "auc": 0.9988888719821466,
+      "grouped_perm_dauc": {
+        "Climate": 0.04585493000608643,
+        "Land Cover": 9.278613453903573e-05,
+        "Soil": 0.0034729639451642025,
+        "Topography": 0.01988588818363622
+      }
+    },
+    "option_a": {
+      "k5": {
+        "k": 5,
+        "hull_seconds": 0.0,
+        "n_native": 470,
+        "n_invaded": 252,
+        "status": "ok",
+        "auc": 0.9988268669169795,
+        "grouped_perm_dauc": {
+          "Climate": 0.05811017939090525,
+          "Land Cover": -4.609929078018604e-05,
+          "Soil": 0.0026434292866082186,
+          "Topography": 0.041772924488944464
+        }
+      },
+      "k10": {
+        "k": 10,
+        "hull_seconds": 7.6,
+        "n_native": 4,
+        "n_invaded": 9,
+        "status": "too_sparse"
+      }
+    },
+    "option_b": {
+      "auc": 0.9990393806335682,
+      "grouped_perm_dauc": {
+        "Climate": 0.04463638161898968,
+        "Land Cover": 8.531214676987364e-05,
+        "Soil": 0.0037961401907080795,
+        "Topography": 0.02361747166913025
+      },
+      "continent_cols": [
+        "CONT_Europe",
+        "CONT_North America"
+      ]
+    }
+  },
+  "Faxonius rusticus": {
+    "pathway": "within-continent",
+    "full": {
+      "auc": 0.9975487733630276,
+      "grouped_perm_dauc": {
+        "Climate": 0.1561721186639569,
+        "Land Cover": 0.00011574904001238284,
+        "Soil": 0.007109819337571086,
+        "Topography": 0.09879891692424461
+      }
+    },
+    "option_a": {
+      "k5": {
+        "k": 5,
+        "hull_seconds": 0.0,
+        "n_native": 867,
+        "n_invaded": 313,
+        "status": "ok",
+        "auc": 0.9970437481329482,
+        "grouped_perm_dauc": {
+          "Climate": 0.22287644767646633,
+          "Land Cover": -8.713385242859805e-05,
+          "Soil": 0.002900081351668553,
+          "Topography": 0.03009403511930407
+        }
+      },
+      "k10": {
+        "k": 10,
+        "hull_seconds": 6.2,
+        "n_native": 98,
+        "n_invaded": 9,
+        "status": "too_sparse"
+      }
+    },
+    "option_b": {
+      "auc": 0.99755516495808,
+      "grouped_perm_dauc": {
+        "Climate": 0.15971976351098305,
+        "Land Cover": 8.624658573972654e-05,
+        "Soil": 0.006446606462501785,
+        "Topography": 0.10191646609708231
+      },
+      "continent_cols": [
+        "CONT_Europe",
+        "CONT_North America"
+      ]
+    }
+  }
+}

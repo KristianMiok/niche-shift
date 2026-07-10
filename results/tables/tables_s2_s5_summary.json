@@ -1,0 +1,168 @@
+{
+  "table_s5": [
+    {
+      "species": "Procambarus clarkii",
+      "pathway": "intercontinental",
+      "n_native": 2208,
+      "n_invaded": 8527,
+      "n_total": 10735,
+      "n_features": 195
+    },
+    {
+      "species": "Faxonius limosus",
+      "pathway": "intercontinental",
+      "n_native": 382,
+      "n_invaded": 4089,
+      "n_total": 4471,
+      "n_features": 270
+    },
+    {
+      "species": "Pacifastacus leniusculus",
+      "pathway": "intercontinental",
+      "n_native": 117,
+      "n_invaded": 4459,
+      "n_total": 4576,
+      "n_features": 292
+    },
+    {
+      "species": "Faxonius virilis",
+      "pathway": "within-continent",
+      "n_native": 1856,
+      "n_invaded": 500,
+      "n_total": 2356,
+      "n_features": 277
+    },
+    {
+      "species": "Faxonius rusticus",
+      "pathway": "within-continent",
+      "n_native": 1223,
+      "n_invaded": 670,
+      "n_total": 1893,
+      "n_features": 271
+    }
+  ],
+  "accuracy": [
+    {
+      "species": "Procambarus clarkii",
+      "pathway": "intercontinental",
+      "cv_accuracy_mean": 0.9885421518397765,
+      "cv_accuracy_sd": 0.0010863440884667417,
+      "cv_auc_mean": 0.9988092721956395,
+      "cv_auc_sd": 0.0005118364310819892
+    },
+    {
+      "species": "Faxonius limosus",
+      "pathway": "intercontinental",
+      "cv_accuracy_mean": 0.9997765363128492,
+      "cv_accuracy_sd": 0.0004469273743016977,
+      "cv_auc_mean": 1.0,
+      "cv_auc_sd": 0.0
+    },
+    {
+      "species": "Pacifastacus leniusculus",
+      "pathway": "intercontinental",
+      "cv_accuracy_mean": 0.9965032094876751,
+      "cv_accuracy_sd": 0.0012750163503954849,
+      "cv_auc_mean": 0.9995742425847114,
+      "cv_auc_sd": 0.0004318779415603234
+    },
+    {
+      "species": "Faxonius virilis",
+      "pathway": "within-continent",
+      "cv_accuracy_mean": 0.9898170139263737,
+      "cv_accuracy_sd": 0.005081378173207767,
+      "cv_auc_mean": 0.9988888719821466,
+      "cv_auc_sd": 0.001439972367194329
+    },
+    {
+      "species": "Faxonius rusticus",
+      "pathway": "within-continent",
+      "cv_accuracy_mean": 0.9820329187083804,
+      "cv_accuracy_sd": 0.007378958840329598,
+      "cv_auc_mean": 0.9975487733630276,
+      "cv_auc_sd": 0.0016189986718257625
+    }
+  ],
+  "table_s2": [
+    {
+      "species": "Procambarus clarkii",
+      "pathway": "intercontinental",
+      "Climate_mean": 57.32801587192272,
+      "Climate_foldmean": 57.678148421108745,
+      "Climate_foldSD": 0.2052140732409903,
+      "Topography_mean": 16.363911787254416,
+      "Topography_foldmean": 16.451546935358902,
+      "Topography_foldSD": 0.32797128765024314,
+      "Soil_mean": 25.415459746936214,
+      "Soil_foldmean": 25.015197655570176,
+      "Soil_foldSD": 0.45260988086551046,
+      "Land Cover_mean": 0.892612593886654,
+      "Land Cover_foldmean": 0.8551069879621844,
+      "Land Cover_foldSD": 0.07414885715626067
+    },
+    {
+      "species": "Faxonius limosus",
+      "pathway": "intercontinental",
+      "Climate_mean": 76.23353269918482,
+      "Climate_foldmean": 75.86487187055748,
+      "Climate_foldSD": 1.2162979620050896,
+      "Topography_mean": 15.572126023296441,
+      "Topography_foldmean": 15.727409243210207,
+      "Topography_foldSD": 0.9767597129065011,
+      "Soil_mean": 7.360937077533073,
+      "Soil_foldmean": 7.474761168019993,
+      "Soil_foldSD": 0.244672499035464,
+      "Land Cover_mean": 0.833404199985678,
+      "Land Cover_foldmean": 0.9329577182123293,
+      "Land Cover_foldSD": 0.11719609720206575
+    },
+    {
+      "species": "Pacifastacus leniusculus",
+      "pathway": "intercontinental",
+      "Climate_mean": 63.45147961341236,
+      "Climate_foldmean": 61.37922150356591,
+      "Climate_foldSD": 0.5245303562448267,
+      "Topography_mean": 12.437711513865754,
+      "Topography_foldmean": 13.009998951772008,
+      "Topography_foldSD": 0.7748386640673384,
+      "Soil_mean": 18.114111029100584,
+      "Soil_foldmean": 19.08527578482664,
+      "Soil_foldSD": 0.7991100915576612,
+      "Land Cover_mean": 5.996697843621306,
+      "Land Cover_foldmean": 6.525503759835445,
+      "Land Cover_foldSD": 0.4817000118617895
+    },
+    {
+      "species": "Faxonius virilis",
+      "pathway": "within-continent",
+      "Climate_mean": 40.64401196578393,
+      "Climate_foldmean": 41.38292888834809,
+      "Climate_foldSD": 0.7463728549592015,
+      "Topography_mean": 32.38479910998724,
+      "Topography_foldmean": 31.127135313391733,
+      "Topography_foldSD": 0.8049046910590635,
+      "Soil_mean": 24.93515355818715,
+      "Soil_foldmean": 25.471585536289517,
+      "Soil_foldSD": 1.2453963121588432,
+      "Land Cover_mean": 2.0360353660416766,
+      "Land Cover_foldmean": 2.0183502619706664,
+      "Land Cover_foldSD": 0.10804999735274201
+    },
+    {
+      "species": "Faxonius rusticus",
+      "pathway": "within-continent",
+      "Climate_mean": 42.69395971338417,
+      "Climate_foldmean": 42.391685367195734,
+      "Climate_foldSD": 0.39778777965621565,
+      "Topography_mean": 33.19146158309466,
+      "Topography_foldmean": 33.4757424301054,
+      "Topography_foldSD": 0.508564264002689,
+      "Soil_mean": 23.229623573245725,
+      "Soil_foldmean": 23.247085684594538,
+      "Soil_foldSD": 0.5019164396737743,
+      "Land Cover_mean": 0.8849551302754405,
+      "Land Cover_foldmean": 0.885486518104323,
+      "Land Cover_foldSD": 0.05191242041208954
+    }
+  ]
+}

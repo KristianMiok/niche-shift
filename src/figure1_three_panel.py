@@ -61,18 +61,35 @@ def rf_domain_pct(X, y, clean):
     return {d: 100 * bt.get(d, 0) / tot for d in DOMAINS}
 
 
-def stacked_panel(ax, data, species, ylabel, as_pct):
+def stacked_panel(ax, data, species, ylabel, as_pct, grouped=False):
+    """Stacked bars for compositional panels (Gini %, sums to 100).
+    GROUPED bars when grouped=True: permuting each domain independently does NOT
+    partition AUC, so a stacked bar would imply a decomposition that does not exist."""
     labels = [s.split(" ")[0][0] + ". " + s.split(" ")[1] for s in species]
-    x = np.arange(len(species)); bottom = np.zeros(len(species))
-    for d in DOMAINS:
-        vals = np.array([data[s][d] for s in species])
-        ax.bar(x, vals, 0.62, bottom=bottom, label=d, color=COLORS[d])
-        for i, v in enumerate(vals):
-            if (as_pct and v > 6) or (not as_pct and v > (0.02 if max(bottom+vals) < 1 else 6)):
-                ax.text(x[i], bottom[i] + v / 2, f"{v:.0f}" if as_pct else f"{v:.2f}",
-                        ha="center", va="center", fontsize=8, color="white", fontweight="bold")
-        bottom += vals
-    ax.set_xticks(x); ax.set_xticklabels(labels, style="italic", fontsize=9)
+    x = np.arange(len(species))
+    if grouped:
+        w = 0.2
+        for k, d in enumerate(DOMAINS):
+            vals = np.array([data[s][d] for s in species])
+            pos = x + (k - 1.5) * w
+            ax.bar(pos, vals, w, label=d, color=COLORS[d])
+            for i, v in enumerate(vals):
+                if v > 0.005:
+                    ax.text(pos[i], v + 0.004, f"{v:.3f}", ha="center", va="bottom",
+                            fontsize=6, rotation=90)
+        ax.set_xticks(x)
+    else:
+        bottom = np.zeros(len(species))
+        for d in DOMAINS:
+            vals = np.array([data[s][d] for s in species])
+            ax.bar(x, vals, 0.62, bottom=bottom, label=d, color=COLORS[d])
+            for i, v in enumerate(vals):
+                if v > 6:
+                    ax.text(x[i], bottom[i] + v / 2, f"{v:.0f}", ha="center", va="center",
+                            fontsize=8, color="white", fontweight="bold")
+            bottom += vals
+        ax.set_xticks(x)
+    ax.set_xticklabels(labels, style="italic", fontsize=9)
     ax.set_ylabel(ylabel, fontsize=9)
     ax.axvline(2.5, color="gray", ls="--", alpha=0.5)
 
@@ -82,6 +99,8 @@ def main():
     dff = apply_quality_filters(load_geotraits(INPUT), cfg)
     env = get_env_variables(dff)["all_env"]
     gp = json.loads((TABLES / "grouped_permutation_summary.json").read_text())
+    s2raw = json.loads((TABLES / "tables_s2_s5_summary.json").read_text())
+    S2 = {r["species"]: {d: r[d + "_mean"] for d in DOMAINS} for r in s2raw["table_s2"]}
 
     dt_d, rf_d, gp_d = {}, {}, {}
     print("Building three-panel Figure 1 (post-dedup):")
@@ -90,7 +109,7 @@ def main():
         X = combined[clean].values
         y = (combined["range_label"] == "invasive").astype(int).values
         dt_d[sp] = dt_domain_pct(X, y, clean)
-        rf_d[sp] = rf_domain_pct(X, y, clean)
+        rf_d[sp] = S2[sp]                      # CANONICAL Table S2 (single pipeline run)
         gp_d[sp] = {d: gp[sp]["RF"][d]["drop_auc"] for d in DOMAINS}
         print(f"  {sp:<26} DT topo={dt_d[sp]['Topography']:.0f}%  RF topo={rf_d[sp]['Topography']:.0f}%  "
               f"GP topo dAUC={gp_d[sp]['Topography']:.4f}")
@@ -98,13 +117,13 @@ def main():
     fig, axes = plt.subplots(3, 1, figsize=(9, 11))
     stacked_panel(axes[0], dt_d, SPECIES, "Importance (%)", True)
     stacked_panel(axes[1], rf_d, SPECIES, "Importance (%)", True)
-    stacked_panel(axes[2], gp_d, SPECIES, "Drop in AUC when\ndomain permuted", False)
+    stacked_panel(axes[2], gp_d, SPECIES, "Drop in AUC when\ndomain permuted", False, grouped=True)
 
     axes[0].set_title("(A) Decision tree (Gini) — single-tree splits overstate topography",
                       fontsize=10, loc="left")
     axes[1].set_title("(B) Random forest (Gini) — diffuses across correlated domains",
                       fontsize=10, loc="left")
-    axes[2].set_title("(C) Grouped permutation (ΔAUC) — collinearity-immune; carries the domain claim",
+    axes[2].set_title("(C) Grouped permutation (ΔAUC) — collinearity-immune; domains permuted independently (not a decomposition)",
                       fontsize=10, loc="left")
     for ax in axes[:2]:
         ax.set_ylim(0, 105)

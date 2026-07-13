@@ -1,0 +1,4 @@
+statistic,observed,rank_among_10,one_sided_P,separates
+climate dAUC (inter - within),0.0467,3/10,0.3,NO
+topography dAUC (within - inter),0.0592,1/10,0.1,YES
+climate - topography,0.1059,1/10,0.1,YES

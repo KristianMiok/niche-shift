@@ -1,0 +1,6 @@
+species,pathway,RF_Gini_top_domain,RF_climate_pct,RF_topo_pct,GP_top_domain,GP_climate_dAUC,GP_topo_dAUC
+Procambarus clarkii,intercontinental,Climate,57.3,16.4,Climate,0.2174,0.0004
+Faxonius limosus,intercontinental,Climate,76.2,15.6,Climate,0.0945,0.0001
+Pacifastacus leniusculus,intercontinental,Climate,63.5,12.4,Climate,0.1312,0.0000
+Faxonius virilis,within-continent,Climate,40.6,32.4,Climate,0.0459,0.0199
+Faxonius rusticus,within-continent,Climate,42.7,33.2,Climate,0.1562,0.0988

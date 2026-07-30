@@ -1,0 +1,77 @@
+{
+  "per_species": {
+    "Procambarus clarkii": {
+      "ratio": 0.38309078095649823,
+      "ci_low": 0.2548970454064738,
+      "ci_high": 0.6077851897812044,
+      "ratio_significant_only": 0.402243482588675,
+      "n_topo": 83,
+      "n_clim": 30,
+      "n_excluded_zero_iqr": 13,
+      "mean_abs_topo": 0.3285137136878053,
+      "mean_abs_clim": 0.8575348977795151,
+      "pathway": "intercontinental"
+    },
+    "Faxonius limosus": {
+      "ratio": 0.1538002602772032,
+      "ci_low": 0.09095980786980744,
+      "ci_high": 0.2556275279888847,
+      "ratio_significant_only": 0.21532152471771182,
+      "n_topo": 111,
+      "n_clim": 48,
+      "n_excluded_zero_iqr": 11,
+      "mean_abs_topo": 0.2181083475512017,
+      "mean_abs_clim": 1.4181272980818906,
+      "pathway": "intercontinental"
+    },
+    "Pacifastacus leniusculus": {
+      "ratio": 0.19379115878858247,
+      "ci_low": 0.11236914258293305,
+      "ci_high": 0.346898574779037,
+      "ratio_significant_only": 0.32061693840009636,
+      "n_topo": 124,
+      "n_clim": 49,
+      "n_excluded_zero_iqr": 10,
+      "mean_abs_topo": 0.09013028729632655,
+      "mean_abs_clim": 0.4650897794292808,
+      "pathway": "intercontinental"
+    },
+    "Faxonius virilis": {
+      "ratio": 0.8798671251352004,
+      "ci_low": 0.5785039977545937,
+      "ci_high": 1.3101859658530137,
+      "ratio_significant_only": 0.956835745620324,
+      "n_topo": 117,
+      "n_clim": 47,
+      "n_excluded_zero_iqr": 15,
+      "mean_abs_topo": 0.49628378202311996,
+      "mean_abs_clim": 0.5640440105622323,
+      "pathway": "within-continent"
+    },
+    "Faxonius rusticus": {
+      "ratio": 0.483803126480026,
+      "ci_low": 0.3142334216173497,
+      "ci_high": 0.7779810302953128,
+      "ratio_significant_only": 0.4887471739629216,
+      "n_topo": 114,
+      "n_clim": 45,
+      "n_excluded_zero_iqr": 11,
+      "mean_abs_topo": 0.20372598573943995,
+      "mean_abs_clim": 0.42109274328521906,
+      "pathway": "within-continent"
+    }
+  },
+  "group_means": {
+    "intercontinental": {
+      "mean_ratio": 0.2435607333407613
+    },
+    "within-continent": {
+      "mean_ratio": 0.6818351258076132
+    }
+  },
+  "pathway_test": {
+    "observed": 0.43827439246685185,
+    "rank": 1,
+    "p": 0.1
+  }
+}

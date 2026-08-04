@@ -1,7 +1,9 @@
 # Niche Reorganisation in Invasive Freshwater Crayfish
 
 This repository accompanies the manuscript:
-> **Invasion pathway predicts the axis of ecological niche reorganisation in freshwater crayfish**
+> **Beyond niche overlap: axis-specific reorganisation of environmental space in freshwater crayfish invasions**
+>
+> *Journal of Biogeography* (accepted 2026), manuscript 2253676.
 
 ## Overview
 
@@ -95,15 +97,32 @@ python src/pseudoabsence_sensitivity.py --input data/raw/combined_data_true_mast
 
 ## Requirements
 
-- Python ≥ 3.10
-- pandas, numpy, scikit-learn, scipy, matplotlib, seaborn, shap, pyyaml, openpyxl
 
-See `requirements.txt` for pinned versions.
+Python 3.12. Install pinned dependencies with `pip install -r requirements.txt`.
+
+The analysis is version-sensitive: random forest tie-breaking differs between
+scikit-learn releases, which shifts reported values in the third decimal. The results in
+the paper were produced with **scikit-learn 1.9.0** and **NumPy 2.2.6**, as pinned in
+`requirements.txt` and stated in Methods 2.5. Reproducing the published numbers exactly
+requires those versions; other versions reproduce the analysis but not every decimal.
 
 ## Data availability
 
-The Global Crayfish Database of Geospatial Traits is freely available through the World of Crayfish® platform ([https://world.crayfish.ro/](https://world.crayfish.ro/)). Raw occurrence coordinates are withheld per WoC® data policy; the unique WoC® identifier enables authorised re-linkage.
+
+The underlying dataset is the Global Crayfish Database of Geospatial Traits, published as
+Petko et al. (2026), *Network-aware environmental trait database for global freshwater
+crayfish*, **Scientific Data**, DOI [10.1038/s41597-026-07845-5](https://doi.org/10.1038/s41597-026-07845-5),
+and available through the World of Crayfish® platform ([world.crayfish.ro](https://world.crayfish.ro/)).
+Raw occurrence coordinates are withheld under WoC® data policy; the unique WoC® identifier
+enables authorised re-linkage.
+
+This repository contains the analysis code and the processed outputs it produces
+(`results/tables/`, `results/figures/`). An archived, citable version of the repository is
+deposited on Zenodo; the DOI appears in the data accessibility statement of the paper.
+To reproduce the analyses, place the master table at `data/raw/combined_data_true_master.csv`.
 
 ## License
 
-[To be added]
+
+MIT License. See [LICENSE](LICENSE).
+

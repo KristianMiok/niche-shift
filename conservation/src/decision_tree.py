@@ -135,12 +135,12 @@ def extract_decision_rules(
 
     Returns a list of dicts, each representing one leaf with:
       - path: list of (feature, threshold, direction) tuples
-      - class: predicted class (native/invasive)
+      - class: predicted class (native/non-native)
       - n_samples: number of training samples in this leaf
       - native_pct: proportion classified as native
     """
     tree = clf.tree_
-    class_names = ["native", "invasive"]
+    class_names = ["native", "non-native"]
 
     rules = []
 
@@ -155,9 +155,9 @@ def extract_decision_rules(
                 "class": predicted,
                 "n_samples": int(total),
                 "native_count": int(values[0]),
-                "invasive_count": int(values[1]),
+                "non_native_count": int(values[1]),
                 "native_pct": round(values[0] / total * 100, 1),
-                "invasive_pct": round(values[1] / total * 100, 1),
+                "non_native_pct": round(values[1] / total * 100, 1),
             })
             return
 
@@ -204,7 +204,7 @@ def format_rules_text(rules: list[dict], species_name: str, glossary: dict = Non
         lines.append(f"  IF {path_str}")
         lines.append(f"  Samples: {rule['n_samples']} "
                       f"(native: {rule['native_pct']}%, "
-                      f"invasive: {rule['invasive_pct']}%)")
+                      f"non-native: {rule['non_native_pct']}%)")
         lines.append("")
 
     return "\n".join(lines)
@@ -246,7 +246,7 @@ def plot_decision_tree(
 
     safe_name = species_name.replace(" ", "_").lower()
     fig_path = out / f"{safe_name}_decision_tree.png"
-    fig.savefig(fig_path, dpi=150, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 
@@ -284,7 +284,7 @@ def plot_feature_importances(
 
     safe_name = species_name.replace(" ", "_").lower()
     fig_path = out / f"{safe_name}_feature_importance.png"
-    fig.savefig(fig_path, dpi=150, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 

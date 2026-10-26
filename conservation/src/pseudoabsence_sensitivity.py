@@ -249,7 +249,7 @@ def plot_strategy_comparison(
     plt.tight_layout()
 
     path = out / f"{safe_name(species_name)}_{range_label.lower()}_strategy_compare.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 
@@ -274,7 +274,7 @@ def analyze_species_range(
         (df_filtered[COL_STATUS] == status)
     ].copy()
 
-    range_label = "native" if status == STATUS_NATIVE else "invasive"
+    range_label = "native" if status == STATUS_NATIVE else "non-native"
 
     if len(presence) < 10:
         raise ValueError(

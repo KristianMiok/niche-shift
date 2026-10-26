@@ -4,8 +4,8 @@
     "n_native": 885,
     "n_invasive": 820,
     "n_features": 201,
-    "pc1_variance_explained": 0.15704297879314727,
-    "pc2_variance_explained": 0.08405374807901683,
+    "pc1_variance_explained": 0.15704297879314744,
+    "pc2_variance_explained": 0.08405374807901671,
     "schoeners_D": 0.42154450419667133,
     "warrens_I": 0.7059885009824988
   },
@@ -14,8 +14,8 @@
     "n_native": 227,
     "n_invasive": 629,
     "n_features": 186,
-    "pc1_variance_explained": 0.2323141750299905,
-    "pc2_variance_explained": 0.08818942403771234,
+    "pc1_variance_explained": 0.23231417502999013,
+    "pc2_variance_explained": 0.08818942403771254,
     "schoeners_D": 0.22863375488398419,
     "warrens_I": 0.38821149436752966
   },
@@ -25,7 +25,7 @@
     "n_invasive": 231,
     "n_features": 271,
     "pc1_variance_explained": 0.1534090192089799,
-    "pc2_variance_explained": 0.10258245324135502,
+    "pc2_variance_explained": 0.10258245324135504,
     "schoeners_D": 0.07036294783906849,
     "warrens_I": 0.14641237969951915
   }

@@ -156,7 +156,7 @@ def plot_type_stability(
     plt.tight_layout()
 
     path = out / f"{safe_name(species_name)}_type_stability.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 
@@ -193,7 +193,7 @@ def plot_top_variable_stability(
     plt.tight_layout()
 
     path = out / f"{safe_name(species_name)}_top_variable_stability.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 
@@ -246,7 +246,7 @@ def plot_cross_species_type_stability(
     plt.tight_layout()
 
     path = out / "cross_species_climate_topography_stability.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 

@@ -175,7 +175,7 @@ def plot_shap_summary(
 
     safe_name = species_name.replace(" ", "_").lower()
     fig_path = out / f"{safe_name}_shap_summary.png"
-    plt.savefig(fig_path, dpi=200, bbox_inches="tight")
+    plt.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close("all")
     return str(fig_path)
 
@@ -222,7 +222,7 @@ def plot_rf_vs_dt_comparison(
     plt.tight_layout()
 
     fig_path = out / "rf_vs_dt_variable_type_comparison.png"
-    fig.savefig(fig_path, dpi=200, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 
@@ -274,7 +274,7 @@ def plot_rf_importance_by_type_stacked(
 
     plt.tight_layout()
     fig_path = out / "rf_importance_by_type_stacked.png"
-    fig.savefig(fig_path, dpi=200, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 

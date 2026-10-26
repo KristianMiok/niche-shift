@@ -181,7 +181,7 @@ def plot_importance_by_type(
 
     plt.tight_layout()
     fig_path = out / "cross_species_importance_by_type.png"
-    fig.savefig(fig_path, dpi=200, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 
@@ -269,7 +269,7 @@ def plot_top_features_heatmap(
     plt.tight_layout(rect=[0, 0.05, 1, 1])
 
     fig_path = out / "cross_species_feature_heatmap.png"
-    fig.savefig(fig_path, dpi=200, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 
@@ -319,7 +319,7 @@ def plot_importance_by_scale(
     plt.tight_layout()
 
     fig_path = out / "cross_species_local_vs_upstream.png"
-    fig.savefig(fig_path, dpi=200, bbox_inches="tight")
+    fig.savefig(fig_path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(fig_path)
 

@@ -225,7 +225,7 @@ def plot_species_pca(
     )
     ax.scatter(
         invasive["PC1"], invasive["PC2"],
-        s=10, alpha=0.45, label="Invasive"
+        s=10, alpha=0.45, label="Non-native"
     )
 
     ax.set_xlabel(
@@ -243,7 +243,7 @@ def plot_species_pca(
     plt.tight_layout()
 
     path = out / f"{safe_name(result['species'])}_pca_scatter.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 
@@ -277,7 +277,7 @@ def plot_species_density(
     im2 = axes[1].imshow(
         invasive_grid, origin="lower", extent=extent, aspect="auto"
     )
-    axes[1].set_title("Invasive density")
+    axes[1].set_title("Non-native density")
     axes[1].set_xlabel("PC1")
     axes[1].set_ylabel("PC2")
     plt.colorbar(im2, ax=axes[1], shrink=0.8)
@@ -289,7 +289,7 @@ def plot_species_density(
     plt.tight_layout()
 
     path = out / f"{safe_name(result['species'])}_density_maps.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 
@@ -320,12 +320,12 @@ def plot_summary_overlap(
     ax.set_xticklabels(df["short"], rotation=0, fontsize=10, style="italic")
     ax.set_ylim(0, 1.05)
     ax.set_ylabel("Overlap")
-    ax.set_title("Classical niche overlap metrics: native vs. invasive")
+    ax.set_title("Classical niche overlap metrics: native vs. non-native")
     ax.legend()
 
     plt.tight_layout()
     path = out / "niche_overlap_summary.png"
-    fig.savefig(path, dpi=180, bbox_inches="tight")
+    fig.savefig(path, dpi=300, bbox_inches="tight")
     plt.close(fig)
     return str(path)
 
@@ -386,7 +386,7 @@ def main():
 
         print(
             f"  Native n = {result['n_native']}, "
-            f"Invasive n = {result['n_invasive']}, "
+            f"Non-native n = {result['n_invasive']}, "
             f"Features = {result['n_features']}"
         )
         print(

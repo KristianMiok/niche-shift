@@ -207,8 +207,8 @@
   "Austropotamobius pallipes": {
     "species": "Austropotamobius pallipes",
     "native_cv": {
-      "accuracy": 0.9847670250896057,
-      "roc_auc": 0.9878675762130499
+      "accuracy": 0.9849462365591398,
+      "roc_auc": 0.9878341747922047
     },
     "invasive_cv": {
       "accuracy": 0.9458625525946704,
@@ -239,8 +239,8 @@
         "improvement": 0.27734
       },
       {
-        "variable": "l_TOP142",
-        "threshold": 869468160.0,
+        "variable": "u_LAC19",
+        "threshold": 0.0145,
         "depth": "3",
         "n_samples": "14",
         "improvement": 0.244898

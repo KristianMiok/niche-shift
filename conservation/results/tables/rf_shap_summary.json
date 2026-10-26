@@ -5,107 +5,107 @@
     "n_invasive": 820,
     "n_features": 201,
     "cv_scores": {
-      "accuracy_mean": 0.8351906158357771,
-      "accuracy_std": 0.015450955861958333,
-      "f1_mean": 0.8222487373624914,
-      "f1_std": 0.016308863077995915,
-      "roc_auc_mean": 0.902711175416839,
-      "roc_auc_std": 0.009798162501889049
+      "accuracy_mean": 0.8363636363636363,
+      "accuracy_std": 0.01713975272281812,
+      "f1_mean": 0.8244168981191109,
+      "f1_std": 0.01783284394606046,
+      "roc_auc_mean": 0.9016742455560148,
+      "roc_auc_std": 0.010346145817139895
     },
     "gini_by_type": {
-      "Climate": 41.62176976119091,
-      "Land Cover": 1.4745415387651213,
-      "Soil": 24.66703658806309,
-      "Topography": 32.23665211198089
+      "Climate": 41.08518234203721,
+      "Land Cover": 1.4371067714031036,
+      "Soil": 24.7979648951682,
+      "Topography": 32.6797459913915
     },
     "shap_by_type": {
-      "Climate": 49.38818345734118,
-      "Land Cover": 0.8959434652026467,
-      "Soil": 23.561602062687097,
-      "Topography": 26.154271014769076
+      "Climate": 48.69346625257153,
+      "Land Cover": 0.9717318447398022,
+      "Soil": 23.703086431433526,
+      "Topography": 26.63171547125514
     },
     "top_gini": [
       {
         "variable": "l_CLI19",
-        "gini_importance": 0.04903231554964496
-      },
-      {
-        "variable": "l_CLI14",
-        "gini_importance": 0.043932132139119985
+        "gini_importance": 0.048529676348030994
       },
       {
         "variable": "l_CLI38",
-        "gini_importance": 0.04384839201785126
+        "gini_importance": 0.04662747866107527
       },
       {
-        "variable": "l_CLI5",
-        "gini_importance": 0.03402119998803689
-      },
-      {
-        "variable": "l_CLI26",
-        "gini_importance": 0.03291353025546681
+        "variable": "l_CLI14",
+        "gini_importance": 0.041389801240721905
       },
       {
         "variable": "l_TOP109",
-        "gini_importance": 0.03121989737261987
+        "gini_importance": 0.03151369554230767
+      },
+      {
+        "variable": "l_CLI5",
+        "gini_importance": 0.028726581763134917
+      },
+      {
+        "variable": "l_CLI26",
+        "gini_importance": 0.028574053310991755
       },
       {
         "variable": "l_CLI53",
-        "gini_importance": 0.02895651890906895
+        "gini_importance": 0.027775499908061104
       },
       {
         "variable": "l_CLI57",
-        "gini_importance": 0.026542966667047488
-      },
-      {
-        "variable": "l_TOP102",
-        "gini_importance": 0.02448741254343624
+        "gini_importance": 0.027577816019664053
       },
       {
         "variable": "l_CLI1",
-        "gini_importance": 0.023536256529791032
+        "gini_importance": 0.025382232840954838
+      },
+      {
+        "variable": "l_TOP102",
+        "gini_importance": 0.025344789083797493
       }
     ],
     "top_shap": [
       {
-        "variable": "l_CLI19",
-        "mean_abs_shap": 0.03113772837700937
+        "variable": "l_CLI14",
+        "mean_abs_shap": 0.03020863842720132
       },
       {
-        "variable": "l_CLI14",
-        "mean_abs_shap": 0.030952876428338497
+        "variable": "l_CLI19",
+        "mean_abs_shap": 0.02941322264485372
       },
       {
         "variable": "l_CLI38",
-        "mean_abs_shap": 0.027973734534150235
+        "mean_abs_shap": 0.029142643849879735
       },
       {
         "variable": "l_TOP109",
-        "mean_abs_shap": 0.023539398944031075
-      },
-      {
-        "variable": "l_CLI26",
-        "mean_abs_shap": 0.023360106353284966
-      },
-      {
-        "variable": "l_CLI5",
-        "mean_abs_shap": 0.02222327397267244
-      },
-      {
-        "variable": "l_CLI53",
-        "mean_abs_shap": 0.02018432313117102
+        "mean_abs_shap": 0.024329654187033922
       },
       {
         "variable": "l_CLI57",
-        "mean_abs_shap": 0.019772266428199313
+        "mean_abs_shap": 0.02064187048561152
+      },
+      {
+        "variable": "l_CLI53",
+        "mean_abs_shap": 0.02021534433935144
+      },
+      {
+        "variable": "l_CLI26",
+        "mean_abs_shap": 0.019967556027556732
+      },
+      {
+        "variable": "l_CLI5",
+        "mean_abs_shap": 0.019274289121911224
       },
       {
         "variable": "l_TOP102",
-        "mean_abs_shap": 0.016166670408070655
+        "mean_abs_shap": 0.016947225165042063
       },
       {
         "variable": "l_CLI1",
-        "mean_abs_shap": 0.015563404146815157
+        "mean_abs_shap": 0.01651313194840923
       }
     ]
   },
@@ -115,107 +115,107 @@
     "n_invasive": 629,
     "n_features": 186,
     "cv_scores": {
-      "accuracy_mean": 0.9894804841561268,
-      "accuracy_std": 0.006824503458527935,
-      "f1_mean": 0.9928600542413889,
-      "f1_std": 0.00461915509178891,
-      "roc_auc_mean": 0.9991534391534392,
-      "roc_auc_std": 0.0009020608008849486
+      "accuracy_mean": 0.9883040935672515,
+      "accuracy_std": 0.010461136736841134,
+      "f1_mean": 0.9920443691525943,
+      "f1_std": 0.007112883390572884,
+      "roc_auc_mean": 0.9991367839889577,
+      "roc_auc_std": 0.0008617176770356194
     },
     "gini_by_type": {
-      "Climate": 55.4101959916502,
-      "Land Cover": 0.5746236283206075,
-      "Soil": 25.9144854134054,
-      "Topography": 18.100694966623784
+      "Climate": 54.99974485887235,
+      "Land Cover": 0.45918078147380453,
+      "Soil": 26.0017613018987,
+      "Topography": 18.539313057755162
     },
     "shap_by_type": {
-      "Climate": 58.28586016456057,
-      "Land Cover": 0.5338849269306675,
-      "Soil": 22.924091266720872,
-      "Topography": 18.256163641787897
+      "Climate": 57.49960919625745,
+      "Land Cover": 0.4328407530120317,
+      "Soil": 23.54930528984662,
+      "Topography": 18.518244760883892
     },
     "top_gini": [
       {
         "variable": "l_CLI10",
-        "gini_importance": 0.13531362790694104
+        "gini_importance": 0.13587303280099775
       },
       {
         "variable": "l_CLI69",
-        "gini_importance": 0.0699061918161254
+        "gini_importance": 0.074896489977275
       },
       {
         "variable": "l_CLI13",
-        "gini_importance": 0.06774265217070838
+        "gini_importance": 0.06350435168021623
       },
       {
         "variable": "l_CLI65",
-        "gini_importance": 0.06680523517317248
+        "gini_importance": 0.059267043968554325
       },
       {
         "variable": "l_TOP102",
-        "gini_importance": 0.04383783936440184
-      },
-      {
-        "variable": "l_CLI61",
-        "gini_importance": 0.04289839108908796
+        "gini_importance": 0.04786300204690411
       },
       {
         "variable": "l_CLI53",
-        "gini_importance": 0.041339152516976674
+        "gini_importance": 0.04519037661081559
+      },
+      {
+        "variable": "l_CLI61",
+        "gini_importance": 0.042363642226227974
       },
       {
         "variable": "l_TOP30",
-        "gini_importance": 0.035555944705840475
+        "gini_importance": 0.035320623933954805
       },
       {
         "variable": "l_SOL27",
-        "gini_importance": 0.03083792658599198
+        "gini_importance": 0.03055435595245341
       },
       {
         "variable": "l_SOL26",
-        "gini_importance": 0.027626913598228945
+        "gini_importance": 0.02674627199354792
       }
     ],
     "top_shap": [
       {
         "variable": "l_CLI10",
-        "mean_abs_shap": 0.09385774565733047
+        "mean_abs_shap": 0.09308065877180324
       },
       {
         "variable": "l_CLI69",
-        "mean_abs_shap": 0.04344382742017852
+        "mean_abs_shap": 0.044917914749418426
       },
       {
         "variable": "l_CLI13",
-        "mean_abs_shap": 0.04327895991445157
+        "mean_abs_shap": 0.041101225393494756
       },
       {
         "variable": "l_CLI65",
-        "mean_abs_shap": 0.037367722496459144
+        "mean_abs_shap": 0.033348371449384524
       },
       {
         "variable": "l_TOP102",
-        "mean_abs_shap": 0.02625110394979291
+        "mean_abs_shap": 0.028307959165772972
       },
       {
         "variable": "l_CLI53",
-        "mean_abs_shap": 0.02467163676260806
+        "mean_abs_shap": 0.02714604984491797
       },
       {
         "variable": "l_CLI61",
-        "mean_abs_shap": 0.021394673192101595
+        "mean_abs_shap": 0.021364128397526737
       },
       {
         "variable": "l_TOP30",
-        "mean_abs_shap": 0.019254523443606397
+        "mean_abs_shap": 0.019010177548432608
       },
       {
         "variable": "l_SOL27",
-        "mean_abs_shap": 0.013227358342583928
+        "mean_abs_shap": 0.013418753277048478
       },
       {
         "variable": "l_SOL26",
-        "mean_abs_shap": 0.012256509406721568
+        "mean_abs_shap": 0.012887971139720913
       }
     ]
   },
@@ -225,107 +225,107 @@
     "n_invasive": 231,
     "n_features": 271,
     "cv_scores": {
-      "accuracy_mean": 0.9966903836681078,
-      "accuracy_std": 0.0023402541674185004,
-      "f1_mean": 0.9776734376734376,
-      "f1_std": 0.015969655985836682,
-      "roc_auc_mean": 0.9999183518512991,
-      "roc_auc_std": 8.579332543806321e-05
+      "accuracy_mean": 0.9966892890372723,
+      "accuracy_std": 0.002094656548162572,
+      "f1_mean": 0.9778168068490649,
+      "f1_std": 0.014453163263710139,
+      "roc_auc_mean": 0.9998678709146913,
+      "roc_auc_std": 0.00013864220903669786
     },
     "gini_by_type": {
-      "Climate": 50.326941201154874,
-      "Land Cover": 0.4910244472304784,
-      "Soil": 28.941828663465678,
-      "Topography": 20.240205688148965
+      "Climate": 51.734867820858085,
+      "Land Cover": 0.5725615205106597,
+      "Soil": 27.85265119518176,
+      "Topography": 19.839919463449487
     },
     "shap_by_type": {
-      "Climate": 50.75849731416159,
-      "Land Cover": 1.1360648669175755,
-      "Soil": 24.191994792783802,
-      "Topography": 23.913443026137035
+      "Climate": 52.8094581293708,
+      "Land Cover": 1.1376101088268054,
+      "Soil": 23.80865912266947,
+      "Topography": 22.244272639132923
     },
     "top_gini": [
       {
         "variable": "l_CLI5",
-        "gini_importance": 0.07704113859095287
+        "gini_importance": 0.08466619454467973
       },
       {
         "variable": "l_CLI13",
-        "gini_importance": 0.07355314498887795
+        "gini_importance": 0.07502036544682537
       },
       {
         "variable": "l_CLI25",
-        "gini_importance": 0.06851584366134086
-      },
-      {
-        "variable": "l_CLI17",
-        "gini_importance": 0.0656148717237713
+        "gini_importance": 0.06492759979683496
       },
       {
         "variable": "l_CLI39",
-        "gini_importance": 0.05874546537004273
+        "gini_importance": 0.06332411930822603
+      },
+      {
+        "variable": "l_CLI17",
+        "gini_importance": 0.06225077292312903
       },
       {
         "variable": "l_TOP102",
-        "gini_importance": 0.03865204834562588
+        "gini_importance": 0.04360107633604296
       },
       {
         "variable": "l_SOL26",
-        "gini_importance": 0.035422516892855097
+        "gini_importance": 0.03693709486035198
       },
       {
         "variable": "l_SOL27",
-        "gini_importance": 0.03412390014137181
+        "gini_importance": 0.03372142054883625
       },
       {
         "variable": "l_TOP116",
-        "gini_importance": 0.027967793256576997
+        "gini_importance": 0.03144606585929563
       },
       {
-        "variable": "l_SOL35",
-        "gini_importance": 0.027876322836771373
+        "variable": "u_CLI15",
+        "gini_importance": 0.025831130878835307
       }
     ],
     "top_shap": [
       {
         "variable": "l_CLI13",
-        "mean_abs_shap": 0.042257316833025485
-      },
-      {
-        "variable": "l_CLI25",
-        "mean_abs_shap": 0.03803577841724632
+        "mean_abs_shap": 0.04385012454633002
       },
       {
         "variable": "l_CLI5",
-        "mean_abs_shap": 0.035623962370435115
+        "mean_abs_shap": 0.041059952321061466
+      },
+      {
+        "variable": "l_CLI25",
+        "mean_abs_shap": 0.03819766051637626
       },
       {
         "variable": "l_CLI17",
-        "mean_abs_shap": 0.031169340546024365
+        "mean_abs_shap": 0.03455334543531235
       },
       {
         "variable": "l_CLI39",
-        "mean_abs_shap": 0.030252939242187762
+        "mean_abs_shap": 0.03200033955493158
       },
       {
         "variable": "l_TOP102",
-        "mean_abs_shap": 0.027625248830310343
-      },
-      {
-        "variable": "l_TOP116",
-        "mean_abs_shap": 0.016749831152277562
+        "mean_abs_shap": 0.02661197555942587
       },
       {
         "variable": "l_SOL27",
-        "mean_abs_shap": 0.014864362509635418
+        "mean_abs_shap": 0.015332221719861655
+      },
+      {
+        "variable": "l_TOP116",
+        "mean_abs_shap": 0.014889167163484165
       },
       {
         "variable": "l_SOL26",
-        "mean_abs_shap": 0.012921407161832606
+        "mean_abs_shap": 0.01415437673033311
       },
       {
-        "variable": "u_CLI27",
-        "mean_abs_shap": 0.011370572622754052
+        "variable": "u_CLI15",
+        "mean_abs_shap": 0.011433878658398384
       }
     ]
   }

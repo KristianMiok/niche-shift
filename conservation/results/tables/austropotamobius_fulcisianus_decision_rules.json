@@ -17,12 +17,12 @@
         25.2
       ]
     ],
-    "class": "invasive",
+    "class": "non-native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 1,
+    "non_native_count": 1,
     "native_pct": 0.0,
-    "invasive_pct": 100.0
+    "non_native_pct": 100.0
   },
   {
     "path": [
@@ -45,9 +45,9 @@
     "class": "native",
     "n_samples": 1,
     "native_count": 1,
-    "invasive_count": 0,
+    "non_native_count": 0,
     "native_pct": 100.0,
-    "invasive_pct": 0.0
+    "non_native_pct": 0.0
   },
   {
     "path": [
@@ -67,12 +67,12 @@
         539.45
       ]
     ],
-    "class": "invasive",
+    "class": "non-native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 1,
+    "non_native_count": 1,
     "native_pct": 0.0,
-    "invasive_pct": 100.0
+    "non_native_pct": 100.0
   },
   {
     "path": [
@@ -105,9 +105,9 @@
     "class": "native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 0,
+    "non_native_count": 0,
     "native_pct": 99.4,
-    "invasive_pct": 0.6
+    "non_native_pct": 0.6
   },
   {
     "path": [
@@ -137,12 +137,12 @@
         0.978
       ]
     ],
-    "class": "invasive",
+    "class": "non-native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 1,
+    "non_native_count": 1,
     "native_pct": 0.0,
-    "invasive_pct": 100.0
+    "non_native_pct": 100.0
   },
   {
     "path": [
@@ -167,12 +167,12 @@
         2599408.0
       ]
     ],
-    "class": "invasive",
+    "class": "non-native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 1,
+    "non_native_count": 1,
     "native_pct": 0.0,
-    "invasive_pct": 100.0
+    "non_native_pct": 100.0
   },
   {
     "path": [
@@ -192,12 +192,12 @@
         21.5
       ]
     ],
-    "class": "invasive",
+    "class": "non-native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 1,
+    "non_native_count": 1,
     "native_pct": 0.0,
-    "invasive_pct": 100.0
+    "non_native_pct": 100.0
   },
   {
     "path": [
@@ -220,9 +220,9 @@
     "class": "native",
     "n_samples": 1,
     "native_count": 1,
-    "invasive_count": 0,
+    "non_native_count": 0,
     "native_pct": 100.0,
-    "invasive_pct": 0.0
+    "non_native_pct": 0.0
   },
   {
     "path": [
@@ -237,11 +237,11 @@
         35.45
       ]
     ],
-    "class": "invasive",
+    "class": "non-native",
     "n_samples": 1,
     "native_count": 0,
-    "invasive_count": 1,
+    "non_native_count": 1,
     "native_pct": 0.0,
-    "invasive_pct": 100.0
+    "non_native_pct": 100.0
   }
 ]

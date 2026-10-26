@@ -1,0 +1,5 @@
+scope,records,basin_id_groups,groups_with_both_statuses,records_in_mixed_groups,max_km_from_group_median,records_over_1000km_from_group_median,submitted_groupkfold_single_class_test_folds,groups_with_records_over_1000km
+Pontastacus leptodactylus,1705,202,44.0,1297.0,5700.427683622451,237,0.0,
+Austropotamobius fulcisianus,856,87,1.0,20.0,658.4512827623794,0,2.0,
+Austropotamobius pallipes,3021,79,0.0,0.0,445.2903135391953,0,2.0,
+all GeoTraits records,115191,2635,,,16259.348563472246,1188,,127.0

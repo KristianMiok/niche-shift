@@ -1,0 +1,40 @@
+species,quantity,submitted,regenerated,note
+Pontastacus leptodactylus,dt_acc,0.829,0.829325513196481,
+Pontastacus leptodactylus,rf_acc,0.835,0.8363636363636363,
+Pontastacus leptodactylus,rf_auc,0.903,0.9000048229295852,regenerated: pooled out-of-fold AUC
+Pontastacus leptodactylus,dt_clim,67.5,67.52000084950294,
+Pontastacus leptodactylus,dt_topo,27.9,27.897649638286094,
+Pontastacus leptodactylus,rf_gini_clim,41.6,41.08518234203745,
+Pontastacus leptodactylus,rf_gini_topo,32.2,32.6797459913913,
+Pontastacus leptodactylus,shap_clim,49.4,48.693466252572094,
+Pontastacus leptodactylus,shap_topo,26.2,26.63171547125477,
+Pontastacus leptodactylus,spatial_acc,0.782,0.8242815249266862,"submitted: basin_id GroupKFold; regenerated: 100 km grid blocks, mean of 5 allocations"
+Pontastacus leptodactylus,D_climate,0.422,0.440362023720634,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (climate variables), 100 km background"
+Pontastacus leptodactylus,D_non_climate,0.422,0.494637478010902,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (non_climate variables), 100 km background"
+Pontastacus leptodactylus,D_all,0.422,0.609674133656114,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (all variables), 100 km background"
+Austropotamobius fulcisianus,dt_acc,0.977,0.9766355140186916,
+Austropotamobius fulcisianus,rf_acc,0.989,0.9883177570093458,
+Austropotamobius fulcisianus,rf_auc,0.999,0.9991035347345272,regenerated: pooled out-of-fold AUC
+Austropotamobius fulcisianus,dt_clim,98.0,97.99647487423309,
+Austropotamobius fulcisianus,dt_topo,0.6,0.6317970651359001,
+Austropotamobius fulcisianus,rf_gini_clim,55.4,54.999744858872674,
+Austropotamobius fulcisianus,rf_gini_topo,18.1,18.539313057754924,
+Austropotamobius fulcisianus,shap_clim,58.3,57.499609196258056,
+Austropotamobius fulcisianus,shap_topo,18.3,18.5182447608834,
+Austropotamobius fulcisianus,spatial_acc,0.953,0.9873831775700936,"submitted: basin_id GroupKFold; regenerated: 100 km grid blocks, mean of 5 allocations"
+Austropotamobius fulcisianus,D_climate,0.229,0.20157886618151,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (climate variables), 100 km background"
+Austropotamobius fulcisianus,D_non_climate,0.229,0.393425315033907,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (non_climate variables), 100 km background"
+Austropotamobius fulcisianus,D_all,0.229,0.315080706804377,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (all variables), 100 km background"
+Austropotamobius pallipes,dt_acc,0.996,0.9960278053624628,
+Austropotamobius pallipes,rf_acc,0.997,0.9966898378020524,
+Austropotamobius pallipes,rf_auc,1.0,0.9997951868919612,regenerated: pooled out-of-fold AUC
+Austropotamobius pallipes,dt_clim,94.4,94.36650493140412,
+Austropotamobius pallipes,dt_topo,3.5,3.454951793216198,
+Austropotamobius pallipes,rf_gini_clim,50.3,51.73486782085837,
+Austropotamobius pallipes,rf_gini_topo,20.2,19.83991946344927,
+Austropotamobius pallipes,shap_clim,50.8,52.80945812937138,
+Austropotamobius pallipes,shap_topo,23.9,22.24427263913245,
+Austropotamobius pallipes,spatial_acc,0.993,0.9950347567030784,"submitted: basin_id GroupKFold; regenerated: 100 km grid blocks, mean of 5 allocations"
+Austropotamobius pallipes,D_climate,0.07,0.114187911208499,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (climate variables), 100 km background"
+Austropotamobius pallipes,D_non_climate,0.07,0.168459892140334,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (non_climate variables), 100 km background"
+Austropotamobius pallipes,D_all,0.07,0.162505353212297,"submitted: occurrence-only PCA of all variables, Gaussian-smoothed histogram; regenerated: ecospat PCA-env (all variables), 100 km background"

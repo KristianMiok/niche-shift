@@ -1,0 +1,7 @@
+species,range,n_presence,n_background,background_pool_size,background_n_species,share_bg_over_500km,share_bg_over_1000km,median_bg_distance_km,bg_continents
+Pontastacus leptodactylus,native,885,885,44852,180,0.903954802259887,0.8497175141242937,7373.4155186150865,North America 84.2%; Europe 15.1%; Oceania 0.3%; South America 0.3%
+Pontastacus leptodactylus,non-native,820,820,1175,10,0.27439024390243905,0.24390243902439024,339.1096997492292,Europe 75.6%; North America 23.7%; Oceania 0.7%
+Austropotamobius fulcisianus,native,227,227,45510,89,0.8766519823788547,0.8634361233480177,7227.931828666897,North America 81.1%; Europe 15.9%; South America 1.8%; Asia 0.9%; Oceania 0.4%
+Austropotamobius fulcisianus,non-native,629,629,1366,8,0.6820349761526232,0.5087440381558028,1014.985223534933,Europe 78.2%; North America 21.6%; Oceania 0.2%
+Austropotamobius pallipes,native,2790,2790,42947,276,0.9870967741935484,0.9584229390681004,6307.526592211323,North America 88.9%; Europe 10.0%; Asia 0.6%; Oceania 0.3%; South America 0.2%
+Austropotamobius pallipes,non-native,231,231,1764,8,0.6753246753246753,0.36796536796536794,929.3846006394615,Europe 81.4%; North America 18.2%; Oceania 0.4%

@@ -27,6 +27,11 @@ cd conservation
 
 Python 3.12 with the versions pinned in `../requirements.txt`.
 
+Input: `data/raw/combined_data_true_master.csv`, the GeoTraits master table (file of
+18 February 2026; 115,191 records, 419 columns, 264,508,600 bytes, MD5
+0670eba9ae3098cb6c816493d8b13f79), and `data/raw/S2.xlsx` (variable glossary). Neither
+is tracked.
+
 ## Scripts and outputs (submitted version)
 
 | Script | Outputs in `results/` | Manuscript |
@@ -43,6 +48,47 @@ Python 3.12 with the versions pinned in `../requirements.txt`.
 
 `null_model_dichotomy.py`, `sample_size_sensitivity.py` and `eda.py` are part of the
 inherited pipeline; their outputs were not regenerated for this paper.
+
+The outputs above were regenerated in the pinned environment for the revision. Record
+counts, decision trees and D/I reproduce the first submission exactly. Random-forest
+values in Tables 2 and 3 move by up to about 2 percentage points, and the basin-grouped
+spatial accuracies of Table S5 by up to 3.4 (earlier scikit-learn version). The separate
+niche models reproduce Table S4, but four lower splits of the native *A. pallipes*
+presence-background tree differ. Figures are saved at 300 dpi.
+
+## Revision R1 (October 2026)
+
+New scripts, all prefixed `r1_` and sharing `src/r1_common.py` (settings identical to
+the submitted pipeline). Outputs go to `results/revision/tables/` and
+`results/revision/figures/`.
+
+| Script | Outputs | Revision item |
+|---|---|---|
+| `r1_classification.py` | `r1_classification_{metrics,summary,per_fold}.csv`, `r1_noclimate_top_variables.csv` | KM-2 (balanced accuracy, MCC, class metrics), KM-4 (models without climate, and without climate and the cell-step variables), KM-7 (grid-block spatial CV) |
+| `r1_downsampling.py` | `r1_downsampling_{replicates,summary}.csv` | KM-2 (100 balanced subsamples) |
+| `r1_permutation_importance.py` | `r1_permutation_{grouped,variable}.csv`, `r1_importance_domain_comparison.csv` | KM-3 |
+| `r1_ecospat_prepare.py`, `r1_ecospat.R`, `r1_ecospat_figure.R` | `r1_ecospat_background_summary.csv`, `r1_ecospat_results_<set>.csv`, `r1_ecospat_null_D_<set>_<species>.csv`, `r1_ecospat_versions_<set>.json` (sets: `climate`, `non_climate`, `all`); `figures/Fig3_ecospat_niche_dynamics.png`, `FigS7_ecospat_niche_dynamics_all_variables.png`, `FigS8_ecospat_null_distributions.png` | KM-5, item 19 |
+| `r1_separate_models_audit.py` | `r1_background_geography.csv`, `r1_threshold_stability_*.csv`, `r1_separate_models_geo100*.csv` | KM-6, item 11 (background limits) |
+| `r1_basin_id_audit.py` | `r1_basin_id_audit.csv` | KM-7 (why basin_id was replaced) |
+| `r1_uncertain_records.py` | `r1_uncertain_records.csv` | KM-8 |
+| `r1_status_by_country.py` | `r1_status_by_country.csv` | item 10 |
+| `r1_figures.py` | `figures/Fig2_domain_importance.png`, `figures/FigS2_top20_dt_by_domain.png` | items 16-17 |
+| `r1_tables.py` | `r1_Table2.csv`, `r1_Table3.csv`, `r1_TableS5.csv`, `r1_table_feature_sets.csv`, `r1_table_ecospat.csv`, `r1_table_ecospat_sensitivity.csv`, `r1_submitted_vs_regenerated.csv` | Tables 2, 3, S5 and the new tables |
+
+Run order (from inside `conservation/`): `r1_classification.py` (then
+`--sets no_climate_no_cellstep`), `r1_permutation_importance.py`, `r1_downsampling.py`,
+`r1_uncertain_records.py`, `r1_separate_models_audit.py`, `r1_basin_id_audit.py`,
+`r1_status_by_country.py`, `r1_ecospat_prepare.py`,
+`ECOSPAT_SET=<set> Rscript src/r1_ecospat.R` for `climate`, `non_climate` and `all`,
+`Rscript src/r1_ecospat_figure.R`, `r1_figures.py`, `r1_tables.py`. The ecospat step
+needs R with ecospat (4.1.4 used, 1000 replicates; 30-45 min per set on one core); its
+record-level inputs in `results/revision/ecospat_input/` are not tracked, in line with
+the World of Crayfish data policy, and are rebuilt by `r1_ecospat_prepare.py`.
+
+Item 18: `decision_tree.py`, `niche_overlap_metrics.py` and `pseudoabsence_sensitivity.py`
+now label the second class "non-native" in figures and rule files (outputs regenerated;
+values unchanged). Internal variable and JSON key names of the inherited pipeline still
+say "invasive".
 
 ## Provenance
 

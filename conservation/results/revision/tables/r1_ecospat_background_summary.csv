@@ -1,0 +1,19 @@
+species,buffer_km,range,n_occurrences,n_background,n_background_dropped_missing,background_n_species,background_share_focal_species,background_status_mix,n_variables
+Pontastacus leptodactylus,50,native,885,2393,0,15,0.381947346427079,Native=1813; Alien=531; Introduced=49,201
+Pontastacus leptodactylus,50,non-native,820,9536,0,15,0.07948825503355705,Alien=6110; Native=2674; Introduced=750,201
+Pontastacus leptodactylus,100,native,885,3377,0,16,0.28575658868818476,Native=2566; Alien=709; Introduced=102,201
+Pontastacus leptodactylus,100,non-native,820,12592,0,15,0.06234116899618806,Alien=7770; Native=4055; Introduced=764; Type locality=1,201
+Pontastacus leptodactylus,200,native,885,4175,0,17,0.2407185628742515,Native=3163; Alien=869; Introduced=143,201
+Pontastacus leptodactylus,200,non-native,820,15251,0,15,0.057176578585010816,Alien=9456; Native=4927; Introduced=865; Type locality=1,201
+Austropotamobius fulcisianus,50,native,227,709,0,8,0.3145275035260931,Native=466; Alien=236; Introduced=7,186
+Austropotamobius fulcisianus,50,non-native,629,2662,0,10,0.23628850488354622,Alien=1881; Introduced=631; Native=150,186
+Austropotamobius fulcisianus,100,native,227,1022,0,10,0.2181996086105675,Native=689; Alien=324; Introduced=9,186
+Austropotamobius fulcisianus,100,non-native,629,4163,0,11,0.15109296180638962,Alien=2943; Introduced=643; Native=577,186
+Austropotamobius fulcisianus,200,native,227,2122,0,11,0.10603204524033931,Native=1472; Alien=620; Introduced=30,186
+Austropotamobius fulcisianus,200,non-native,629,6834,0,12,0.09379572724612233,Alien=4853; Native=1303; Introduced=677; Type locality=1,186
+Austropotamobius pallipes,50,native,2790,7648,0,11,0.3648012552301255,Alien=4626; Native=2794; Introduced=228,271
+Austropotamobius pallipes,50,non-native,231,356,0,9,0.6432584269662921,Introduced=279; Alien=51; Native=14,271
+Austropotamobius pallipes,100,native,2790,9154,0,11,0.30554948656325104,Alien=5959; Native=2830; Introduced=364; Type locality=1,271
+Austropotamobius pallipes,100,non-native,231,532,0,10,0.4755639097744361,Introduced=303; Alien=146; Native=70,271
+Austropotamobius pallipes,200,native,2790,11302,0,12,0.24871704123164043,Alien=7791; Native=2877; Introduced=632; Type locality=1,271
+Austropotamobius pallipes,200,non-native,231,996,0,11,0.3744979919678715,Alien=397; Introduced=344; Native=242,271

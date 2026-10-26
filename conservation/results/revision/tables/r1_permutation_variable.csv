@@ -1,0 +1,659 @@
+species,variable,domain,perm_bacc_mean,perm_bacc_sd_over_folds
+Austropotamobius fulcisianus,l_CLI10,Climate,0.021355307108350607,0.020801884457020546
+Austropotamobius fulcisianus,l_CLI13,Climate,0.0025355417529330637,0.007768777105616862
+Austropotamobius fulcisianus,l_TOP122,Topography,0.002532781228433407,0.003443443117889981
+Austropotamobius fulcisianus,l_CLI56,Climate,0.0021739130434782704,0.004347826086956541
+Austropotamobius fulcisianus,l_SOL31,Soil,0.0020565907522429325,0.003375975872178996
+Austropotamobius fulcisianus,l_CLI60,Climate,0.0017391304347826163,0.0034782608695652327
+Austropotamobius fulcisianus,l_SOL2,Soil,0.0017391304347826163,0.0034782608695652327
+Austropotamobius fulcisianus,l_SOL25,Soil,0.0017391304347826163,0.0034782608695652327
+Austropotamobius fulcisianus,l_SOL27,Soil,0.0017391304347826163,0.0034782608695652327
+Austropotamobius fulcisianus,l_SOL30,Soil,0.0017391304347826163,0.0034782608695652327
+Austropotamobius fulcisianus,l_TOP121,Topography,0.0017391304347826163,0.0034782608695652327
+Austropotamobius fulcisianus,l_TOP30,Topography,0.0015804002760524583,0.0035708800917759313
+Austropotamobius fulcisianus,l_SOL29,Soil,0.0011870255348516246,0.001695757642443107
+Austropotamobius fulcisianus,l_SOL47,Soil,0.0010697032436162868,0.001347789159311605
+Austropotamobius fulcisianus,l_CLI38,Climate,0.0010282953761214663,0.001687987936089498
+Austropotamobius fulcisianus,l_SOL3,Soil,0.0008695652173913082,0.0017391304347826163
+Austropotamobius fulcisianus,l_SOL37,Soil,0.0008695652173913082,0.0017391304347826163
+Austropotamobius fulcisianus,l_TOP126,Topography,0.0008695652173913082,0.0017391304347826163
+Austropotamobius fulcisianus,l_CLI22,Climate,0.0007936507936507908,0.0015873015873015817
+Austropotamobius fulcisianus,l_CLI42,Climate,0.0007936507936507908,0.0015873015873015817
+Austropotamobius fulcisianus,l_CLI25,Climate,0.0006349206349206326,0.0012698412698412653
+Austropotamobius fulcisianus,l_CLI53,Climate,0.0005521048999309918,0.0019949445560631953
+Austropotamobius fulcisianus,l_CLI18,Climate,0.0004761904761904745,0.0009523809523809489
+Austropotamobius fulcisianus,l_SOL58,Soil,0.0003174603174603163,0.0006349206349206326
+Austropotamobius fulcisianus,l_SOL59,Soil,0.0003174603174603163,0.0006349206349206326
+Austropotamobius fulcisianus,l_CLI34,Climate,0.00015873015873015816,0.0003174603174603163
+Austropotamobius fulcisianus,l_SOL19,Soil,0.00015873015873015816,0.0003174603174603163
+Austropotamobius fulcisianus,l_SOL42,Soil,0.00015873015873015816,0.0003174603174603163
+Austropotamobius fulcisianus,l_CLI12,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI16,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI2,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI28,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI29,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI32,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI36,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI44,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI5,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI52,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI58,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI72,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI73,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI76,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_CLI8,Climate,0.0,0.0
+Austropotamobius fulcisianus,l_LAC1,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC10,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC12,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC13,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC15,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC18,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC19,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC2,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC20,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC21,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC3,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC4,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC6,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC7,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC8,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_LAC9,Land Cover,0.0,0.0
+Austropotamobius fulcisianus,l_SOL1,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL10,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL11,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL12,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL13,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL14,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL15,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL16,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL17,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL18,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL20,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL21,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL22,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL23,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL24,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL26,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL28,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL32,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL33,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL34,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL35,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL36,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL38,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL39,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL4,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL40,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL44,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL45,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL46,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL48,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL5,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL53,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL54,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL55,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL56,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL57,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL6,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL60,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL7,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL8,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_SOL9,Soil,0.0,0.0
+Austropotamobius fulcisianus,l_TOP10,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP101,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP103,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP104,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP105,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP106,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP107,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP108,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP11,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP111,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP112,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP118,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP119,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP12,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP124,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP125,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP127,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP128,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP129,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP13,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP130,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP131,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP133,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP134,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP137,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP138,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP139,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP14,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP140,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP141,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP142,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP143,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP144,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP16,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP18,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP19,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP2,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP20,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP22,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP23,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP26,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP27,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP28,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP3,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP34,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP38,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP39,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP40,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP42,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP43,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP44,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP45,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP47,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP48,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP49,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP5,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP50,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP51,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP52,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP59,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP6,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP60,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP65,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP66,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP67,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP68,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP69,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP71,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP73,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP74,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP76,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP79,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP8,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP83,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP89,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP9,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP90,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP91,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP92,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_TOP95,Topography,0.0,0.0
+Austropotamobius fulcisianus,l_CLI61,Climate,-0.00015873015873015816,0.0003174603174603163
+Austropotamobius fulcisianus,l_TOP102,Topography,-0.00015873015873015816,0.0003174603174603163
+Austropotamobius fulcisianus,l_TOP93,Topography,-0.00015873015873015816,0.0003174603174603163
+Austropotamobius fulcisianus,l_TOP97,Topography,-0.0003174603174603163,0.0006349206349206326
+Austropotamobius fulcisianus,l_CLI69,Climate,-0.0021048999309868765,0.003560878654466901
+Austropotamobius fulcisianus,l_CLI65,Climate,-0.0025396825396825306,0.0031169365609228024
+Austropotamobius pallipes,l_CLI10,Climate,0.002127659574468055,0.004255319148936109
+Austropotamobius pallipes,l_CLI65,Climate,0.002127659574468055,0.004255319148936109
+Austropotamobius pallipes,l_CLI8,Climate,0.002127659574468055,0.004255319148936109
+Austropotamobius pallipes,l_TOP109,Topography,0.002127659574468055,0.004255319148936109
+Austropotamobius pallipes,l_CLI5,Climate,0.0010973842751467754,0.002665485881299959
+Austropotamobius pallipes,l_CLI1,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI12,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI16,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI2,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI22,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI24,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI28,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI30,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI32,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI33,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI36,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI42,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI45,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI53,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI56,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI57,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI60,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI61,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI69,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI72,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI73,Climate,0.0,0.0
+Austropotamobius pallipes,l_CLI76,Climate,0.0,0.0
+Austropotamobius pallipes,l_LAC1,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC10,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC11,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC12,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC13,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC15,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC18,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC19,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC20,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC21,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC3,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC4,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC6,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC7,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_LAC9,Land Cover,0.0,0.0
+Austropotamobius pallipes,l_SOL1,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL10,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL11,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL12,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL13,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL14,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL15,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL16,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL17,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL18,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL19,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL2,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL20,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL21,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL22,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL23,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL24,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL25,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL28,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL29,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL30,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL31,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL32,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL33,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL34,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL35,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL36,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL37,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL38,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL39,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL4,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL40,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL41,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL42,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL43,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL44,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL45,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL46,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL47,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL48,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL5,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL53,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL54,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL55,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL56,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL57,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL58,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL59,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL6,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL60,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL7,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL8,Soil,0.0,0.0
+Austropotamobius pallipes,l_SOL9,Soil,0.0,0.0
+Austropotamobius pallipes,l_TOP1,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP10,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP101,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP102,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP103,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP104,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP105,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP106,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP107,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP108,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP111,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP112,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP116,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP118,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP12,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP125,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP126,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP127,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP128,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP13,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP132,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP133,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP134,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP135,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP136,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP137,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP138,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP139,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP14,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP140,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP141,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP142,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP143,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP144,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP15,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP16,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP18,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP19,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP2,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP20,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP22,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP23,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP26,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP27,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP28,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP32,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP38,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP39,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP4,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP40,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP41,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP42,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP43,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP44,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP45,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP46,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP47,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP48,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP49,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP50,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP51,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP52,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP56,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP59,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP6,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP61,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP62,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP63,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP64,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP65,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP66,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP67,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP68,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP69,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP7,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP70,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP71,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP72,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP73,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP74,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP75,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP76,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP83,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP85,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP86,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP87,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP88,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP89,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP9,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP90,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP91,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP92,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP93,Topography,0.0,0.0
+Austropotamobius pallipes,l_TOP97,Topography,0.0,0.0
+Austropotamobius pallipes,u_CLI11,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI15,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI19,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI23,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI27,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI3,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI31,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI35,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI39,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI43,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI47,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI55,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI59,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI63,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI67,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI7,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI71,Climate,0.0,0.0
+Austropotamobius pallipes,u_CLI75,Climate,0.0,0.0
+Austropotamobius pallipes,u_LAC1,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC10,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC11,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC12,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC13,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC15,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC18,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC19,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC2,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC20,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC21,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC22,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC3,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC4,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC5,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC6,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC7,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC8,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_LAC9,Land Cover,0.0,0.0
+Austropotamobius pallipes,u_SOL11,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL15,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL19,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL23,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL27,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL3,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL31,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL35,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL39,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL43,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL47,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL55,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL59,Soil,0.0,0.0
+Austropotamobius pallipes,u_SOL7,Soil,0.0,0.0
+Austropotamobius pallipes,u_TOP103,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP110,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP112,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP113,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP126,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP135,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP139,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP143,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP15,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP19,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP23,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP27,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP31,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP35,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP39,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP43,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP47,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP51,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP55,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP59,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP67,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP7,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP79,Topography,0.0,0.0
+Austropotamobius pallipes,u_TOP83,Topography,0.0,0.0
+Austropotamobius pallipes,l_SOL3,Soil,-7.168458781362297e-05,0.00014336917562724594
+Austropotamobius pallipes,l_SOL26,Soil,-0.00014336917562724594,0.0002867383512544919
+Austropotamobius pallipes,l_SOL27,Soil,-0.00014336917562724594,0.0002867383512544919
+Austropotamobius pallipes,l_CLI13,Climate,-0.00017921146953405742,0.00035842293906811483
+Austropotamobius pallipes,l_CLI17,Climate,-0.00017921146953405742,0.00035842293906811483
+Austropotamobius pallipes,l_CLI25,Climate,-0.00017921146953405742,0.00035842293906811483
+Austropotamobius pallipes,l_CLI39,Climate,-0.00017921146953405742,0.00035842293906811483
+Pontastacus leptodactylus,l_TOP109,Topography,0.01860961829957284,0.0076066414736594866
+Pontastacus leptodactylus,l_CLI57,Climate,0.0038686785172936484,0.0035299577785574097
+Pontastacus leptodactylus,l_CLI19,Climate,0.0035544991043130873,0.005172065069887023
+Pontastacus leptodactylus,l_CLI33,Climate,0.003190712415598753,0.003060100092639225
+Pontastacus leptodactylus,l_CLI14,Climate,0.0026236736943640706,0.0054131864391905975
+Pontastacus leptodactylus,l_SOL14,Soil,0.0025072343943778374,0.002565555975294424
+Pontastacus leptodactylus,l_CLI38,Climate,0.002424555601488221,0.003219099624016873
+Pontastacus leptodactylus,l_CLI30,Climate,0.0023494556979468274,0.0019285356438358016
+Pontastacus leptodactylus,l_SOL23,Soil,0.0021916770015157905,0.0021137066028822492
+Pontastacus leptodactylus,l_CLI53,Climate,0.002159294474300695,0.005191955643983169
+Pontastacus leptodactylus,l_CLI21,Climate,0.0017755270773046838,0.0023985743782162492
+Pontastacus leptodactylus,l_TOP116,Topography,0.0015998346424142395,0.0018979110552368157
+Pontastacus leptodactylus,l_TOP143,Topography,0.0015998346424142263,0.0024213743515587908
+Pontastacus leptodactylus,l_TOP75,Topography,0.0015908777731845226,0.0032229955252459186
+Pontastacus leptodactylus,l_TOP101,Topography,0.001572964034725106,0.002074120193846404
+Pontastacus leptodactylus,l_CLI49,Climate,0.001522667769050581,0.002622382063087622
+Pontastacus leptodactylus,l_TOP53,Topography,0.0015047540305911731,0.001503267109306227
+Pontastacus leptodactylus,l_CLI45,Climate,0.001504754030591169,0.0027987288724476466
+Pontastacus leptodactylus,l_CLI60,Climate,0.001504754030591169,0.0015317323375996343
+Pontastacus leptodactylus,l_SOL19,Soil,0.00150475403059116,0.0027568892259317067
+Pontastacus leptodactylus,l_CLI44,Climate,0.0014868402921317436,0.0027000755399341513
+Pontastacus leptodactylus,l_CLI9,Climate,0.001481328372605768,0.0022210721127076645
+Pontastacus leptodactylus,l_CLI1,Climate,0.0014275871572275369,0.0031286376985412236
+Pontastacus leptodactylus,l_SOL1,Soil,0.0012877221992558762,0.0021266033634454408
+Pontastacus leptodactylus,l_SOL13,Soil,0.001278765330026186,0.0014133372091308688
+Pontastacus leptodactylus,l_TOP102,Topography,0.0012463828028110903,0.003114060298208457
+Pontastacus leptodactylus,l_SOL34,Soil,0.0012105553258922575,0.0017549273046226549
+Pontastacus leptodactylus,l_SOL42,Soil,0.0012015984566625538,0.0019848141621286526
+Pontastacus leptodactylus,l_TOP103,Topography,0.0011747278489734115,0.0014404833816745051
+Pontastacus leptodactylus,l_SOL25,Soil,0.0011747278489734026,0.002286064055045511
+Pontastacus leptodactylus,l_TOP12,Topography,0.0011657709797437122,0.0018199687217077298
+Pontastacus leptodactylus,l_SOL21,Soil,0.0011568141105139907,0.002414659982834528
+Pontastacus leptodactylus,l_CLI5,Climate,0.0011513021909880191,0.0055848308269107975
+Pontastacus leptodactylus,l_TOP6,Topography,0.0011389003720545788,0.0006204491179995309
+Pontastacus leptodactylus,l_CLI69,Climate,0.0010886041063800443,0.002600389883379887
+Pontastacus leptodactylus,l_CLI26,Climate,0.0010796472371503497,0.0036139178163240382
+Pontastacus leptodactylus,l_TOP2,Topography,0.0010796472371503451,0.0013242623252881693
+Pontastacus leptodactylus,l_LAC21,Land Cover,0.0010706903679206458,0.0016027961603693962
+Pontastacus leptodactylus,l_TOP44,Topography,0.0010527766294612384,0.0015559562205271216
+Pontastacus leptodactylus,l_TOP5,Topography,0.0010438197602315037,0.0019617650158690924
+Pontastacus leptodactylus,l_TOP142,Topography,0.0010259060217720918,0.0026892614555949967
+Pontastacus leptodactylus,l_TOP48,Topography,0.0010259060217720918,0.0024385362095319042
+Pontastacus leptodactylus,l_TOP125,Topography,0.0010259060217720829,0.0019172801267468413
+Pontastacus leptodactylus,l_CLI4,Climate,0.00101694915254237,0.0007495197266339643
+Pontastacus leptodactylus,l_SOL9,Soil,0.0009666528868678447,0.0014647294174442202
+Pontastacus leptodactylus,l_SOL29,Soil,0.0009397822791787335,0.0021039257479142856
+Pontastacus leptodactylus,l_CLI16,Climate,0.0009397822791787292,0.0009040388215187546
+Pontastacus leptodactylus,l_SOL27,Soil,0.0009397822791787292,0.001764269568831481
+Pontastacus leptodactylus,l_SOL17,Soil,0.0009397822791787156,0.0015348330000464479
+Pontastacus leptodactylus,l_SOL38,Soil,0.0009218685407193039,0.0014024840001064906
+Pontastacus leptodactylus,l_TOP42,Topography,0.0008949979330302015,0.000900102534171452
+Pontastacus leptodactylus,l_CLI56,Climate,0.0008949979330301793,0.0006826649183809246
+Pontastacus leptodactylus,l_TOP91,Topography,0.0008949979330301793,0.003154277217803155
+Pontastacus leptodactylus,l_TOP88,Topography,0.0008770841945707809,0.0023078670176497943
+Pontastacus leptodactylus,l_SOL22,Soil,0.0008447016673556629,0.0010550467664967736
+Pontastacus leptodactylus,l_TOP43,Topography,0.0008357447981259547,0.0012508471482518236
+Pontastacus leptodactylus,l_TOP20,Topography,0.0008267879288962554,0.001039585138255486
+Pontastacus leptodactylus,l_CLI20,Climate,0.0008088741904368257,0.0016177483808736514
+Pontastacus leptodactylus,l_CLI40,Climate,0.0008088741904368257,0.0016177483808736514
+Pontastacus leptodactylus,l_TOP86,Topography,0.0007909604519774182,0.0011071140080376087
+Pontastacus leptodactylus,l_TOP127,Topography,0.0007909604519774094,0.00250761540204704
+Pontastacus leptodactylus,l_TOP73,Topography,0.0007048367093840602,0.0011583959823210047
+Pontastacus leptodactylus,l_TOP50,Topography,0.0006779661016949401,0.0008308184564844186
+Pontastacus leptodactylus,l_TOP144,Topography,0.000669009232465223,0.0012329616964282819
+Pontastacus leptodactylus,l_TOP124,Topography,0.0006600523632355147,0.0012170800097507165
+Pontastacus leptodactylus,l_SOL35,Soil,0.0006097560975609984,0.0012195121951219968
+Pontastacus leptodactylus,l_SOL16,Soil,0.0005828854898718561,0.0005261934857076136
+Pontastacus leptodactylus,l_TOP92,Topography,0.0005828854898718561,0.0005261934857076136
+Pontastacus leptodactylus,l_SOL48,Soil,0.0005739286206421256,0.0015971963832392697
+Pontastacus leptodactylus,l_TOP66,Topography,0.0005649717514124486,0.0007146390192471199
+Pontastacus leptodactylus,l_TOP59,Topography,0.0005560148821827403,0.0009561919462704342
+Pontastacus leptodactylus,l_TOP11,Topography,0.0004878048780487809,0.0013020827136623564
+Pontastacus leptodactylus,l_TOP85,Topography,0.0004878048780487809,0.0013020827136623564
+Pontastacus leptodactylus,l_TOP89,Topography,0.0004878048780487809,0.0013020827136623564
+Pontastacus leptodactylus,l_TOP9,Topography,0.0004878048780487809,0.0013020827136623564
+Pontastacus leptodactylus,l_TOP104,Topography,0.000487804878048772,0.0011177013890136002
+Pontastacus leptodactylus,l_SOL40,Soil,0.0004788480088190728,0.0018156865513303294
+Pontastacus leptodactylus,l_TOP27,Topography,0.0004788480088190728,0.0013097334520826185
+Pontastacus leptodactylus,l_TOP64,Topography,0.00046989113958937343,0.0005761933526698136
+Pontastacus leptodactylus,l_TOP4,Topography,0.0004698911395893646,0.0006774022118021992
+Pontastacus leptodactylus,l_TOP47,Topography,0.0004698911395893646,0.0011390289512433263
+Pontastacus leptodactylus,l_CLI72,Climate,0.00046989113958935565,0.0005761933526697918
+Pontastacus leptodactylus,l_SOL60,Soil,0.00046093427035966974,0.0008566735905408178
+Pontastacus leptodactylus,l_TOP90,Topography,0.00046093427035965635,0.0009218685407193127
+Pontastacus leptodactylus,l_CLI24,Climate,0.000451977401129966,0.000903954802259932
+Pontastacus leptodactylus,l_SOL36,Soil,0.000451977401129966,0.0009981069845007562
+Pontastacus leptodactylus,l_TOP138,Topography,0.000451977401129966,0.000982779366864155
+Pontastacus leptodactylus,l_TOP140,Topography,0.00045197740112996155,0.0013631512316557562
+Pontastacus leptodactylus,l_TOP23,Topography,0.00045197740112996155,0.0012316847147429441
+Pontastacus leptodactylus,l_TOP35,Topography,0.00045197740112996155,0.0006588646208865066
+Pontastacus leptodactylus,l_TOP56,Topography,0.0004519774011299526,0.0008488943257027922
+Pontastacus leptodactylus,l_CLI28,Climate,0.0004519774011299482,0.0009039548022598964
+Pontastacus leptodactylus,l_TOP67,Topography,0.0004519774011299482,0.0015856866611484723
+Pontastacus leptodactylus,l_LAC7,Land Cover,0.00045197740112993043,0.0009039548022598608
+Pontastacus leptodactylus,l_TOP51,Topography,0.00043406366267053633,0.0013299754700776462
+Pontastacus leptodactylus,l_SOL44,Soil,0.00036585365853660347,0.0014221833889866858
+Pontastacus leptodactylus,l_CLI32,Climate,0.0003658536585365857,0.0007317073170731714
+Pontastacus leptodactylus,l_SOL7,Soil,0.00035689678930687755,0.002111501373751511
+Pontastacus leptodactylus,l_SOL6,Soil,0.0003389830508474745,0.000677966101694949
+Pontastacus leptodactylus,l_SOL26,Soil,0.00033898305084747006,0.0013409425900065518
+Pontastacus leptodactylus,l_TOP141,Topography,0.00033002618161774854,0.00042651983356639813
+Pontastacus leptodactylus,l_TOP113,Topography,0.0003210693123880626,0.0021006391474826342
+Pontastacus leptodactylus,l_TOP24,Topography,0.0003210693123880537,0.0021006391474826303
+Pontastacus leptodactylus,l_TOP134,Topography,0.00031211244315835,0.0014938655681144151
+Pontastacus leptodactylus,l_SOL45,Soil,0.00024390243902439935,0.00048780487804879865
+Pontastacus leptodactylus,l_LAC6,Land Cover,0.00024390243902438157,0.0004878048780487632
+Pontastacus leptodactylus,l_SOL3,Soil,0.00024390243902437268,0.0022018865957643386
+Pontastacus leptodactylus,l_CLI12,Climate,0.0002349455697946823,0.000288096676334901
+Pontastacus leptodactylus,l_TOP126,Topography,0.0002349455697946823,0.000809961523792457
+Pontastacus leptodactylus,l_TOP16,Topography,0.0002259887005649741,0.000893961726671028
+Pontastacus leptodactylus,l_TOP19,Topography,0.0002259887005649741,0.00027677850200940154
+Pontastacus leptodactylus,l_TOP106,Topography,0.00021703183133527925,0.0007757610635363961
+Pontastacus leptodactylus,l_LAC1,Land Cover,0.00021703183133527483,0.0005886006827925615
+Pontastacus leptodactylus,l_TOP108,Topography,0.00021703183133527042,0.0017075722973410278
+Pontastacus leptodactylus,l_TOP76,Topography,0.00021703183133527036,0.0009588997543501814
+Pontastacus leptodactylus,l_SOL10,Soil,0.0002080749621055622,0.001105051804755135
+Pontastacus leptodactylus,l_TOP135,Topography,0.00019911809287585406,0.001204234191928314
+Pontastacus leptodactylus,l_TOP65,Topography,0.0001991180928758496,0.0014918317203634868
+Pontastacus leptodactylus,l_LAC19,Land Cover,0.00019016122364614143,0.0015589672940245743
+Pontastacus leptodactylus,l_TOP7,Topography,0.0001901612236461326,0.0018003656521334177
+Pontastacus leptodactylus,l_SOL31,Soil,0.00013090808874190334,0.0025928303579745692
+Pontastacus leptodactylus,l_TOP40,Topography,0.00012195121951218192,0.0009756097560975385
+Pontastacus leptodactylus,l_TOP52,Topography,0.00010403748105277444,0.0023112407613869916
+Pontastacus leptodactylus,l_TOP39,Topography,9.508061182307071e-05,0.00092895060141799
+Pontastacus leptodactylus,l_TOP83,Topography,6.821000413395505e-05,0.0017695005531155276
+Pontastacus leptodactylus,l_CLI8,Climate,0.0,0.0
+Pontastacus leptodactylus,l_LAC10,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC11,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC12,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC13,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC15,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC16,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC18,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC2,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC20,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC4,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC5,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC8,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_LAC9,Land Cover,0.0,0.0
+Pontastacus leptodactylus,l_SOL12,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL49,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL50,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL51,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL52,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL53,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL54,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL55,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL56,Soil,0.0,0.0
+Pontastacus leptodactylus,l_SOL8,Soil,0.0,0.0
+Pontastacus leptodactylus,l_TOP17,Topography,0.0,0.0
+Pontastacus leptodactylus,l_TOP41,Topography,0.0,0.0
+Pontastacus leptodactylus,l_TOP78,Topography,0.0,0.0
+Pontastacus leptodactylus,l_TOP79,Topography,0.0,0.0
+Pontastacus leptodactylus,l_TOP97,Topography,-4.445228907190568e-18,0.0003856436170936981
+Pontastacus leptodactylus,l_TOP10,Topography,-1.791373845940747e-05,0.0007432869975318337
+Pontastacus leptodactylus,l_TOP112,Topography,-1.7913738459416337e-05,0.0006764372568904515
+Pontastacus leptodactylus,l_TOP105,Topography,-2.6870607689115627e-05,0.0015004492572704127
+Pontastacus leptodactylus,l_CLI52,Climate,-2.6870607689120092e-05,0.0022697805028246113
+Pontastacus leptodactylus,l_SOL18,Soil,-2.6870607689120092e-05,0.0014219847715129517
+Pontastacus leptodactylus,l_SOL24,Soil,-2.6870607689120092e-05,0.0004011578476899495
+Pontastacus leptodactylus,l_TOP93,Topography,-2.6870607689120092e-05,0.002178311625268485
+Pontastacus leptodactylus,l_TOP46,Topography,-2.687060768912439e-05,0.002803223460249903
+Pontastacus leptodactylus,l_SOL37,Soil,-0.00012195121951219079,0.0002439024390243816
+Pontastacus leptodactylus,l_SOL2,Soil,-0.00012195121951219523,0.00024390243902439046
+Pontastacus leptodactylus,l_TOP13,Topography,-0.00012195121951219523,0.00024390243902439046
+Pontastacus leptodactylus,l_TOP133,Topography,-0.00012195121951219523,0.00024390243902439046
+Pontastacus leptodactylus,l_TOP38,Topography,-0.00012195121951219523,0.00024390243902439046
+Pontastacus leptodactylus,l_SOL47,Soil,-0.00012195121951219968,0.0005974365226300385
+Pontastacus leptodactylus,l_TOP49,Topography,-0.00013090808874189898,0.0005866376113845647
+Pontastacus leptodactylus,l_SOL57,Soil,-0.00013090808874190787,0.0005866376113845542
+Pontastacus leptodactylus,l_TOP14,Topography,-0.00013090808874190787,0.001238511882192458
+Pontastacus leptodactylus,l_SOL5,Soil,-0.00013090808874191228,0.001604667778129691
+Pontastacus leptodactylus,l_TOP63,Topography,-0.00013986495797161158,0.0009513341972040375
+Pontastacus leptodactylus,l_SOL4,Soil,-0.00014882182720131086,0.0009672751347398266
+Pontastacus leptodactylus,l_TOP132,Topography,-0.00016673556566071832,0.002299171510727723
+Pontastacus leptodactylus,l_CLI73,Climate,-0.0001756924348904531,0.0022311309242823464
+Pontastacus leptodactylus,l_TOP18,Topography,-0.00024390243902439046,0.0004878048780487809
+Pontastacus leptodactylus,l_TOP71,Topography,-0.00024390243902439046,0.0004878048780487809
+Pontastacus leptodactylus,l_SOL39,Soil,-0.0002528593082540942,0.0008180130093898851
+Pontastacus leptodactylus,l_TOP139,Topography,-0.0002528593082541031,0.0008180130093898761
+Pontastacus leptodactylus,l_SOL58,Soil,-0.00026181617748379795,0.0014595548984472264
+Pontastacus leptodactylus,l_TOP68,Topography,-0.00026181617748379795,0.0011732752227691294
+Pontastacus leptodactylus,l_TOP28,Topography,-0.00026181617748380684,0.0011732752227691188
+Pontastacus leptodactylus,l_CLI76,Climate,-0.00026181617748381573,0.0011732752227691084
+Pontastacus leptodactylus,l_SOL28,Soil,-0.0002797299159432142,0.0017991985224556529
+Pontastacus leptodactylus,l_SOL20,Soil,-0.0003658536585365857,0.0007317073170731714
+Pontastacus leptodactylus,l_SOL33,Soil,-0.0003658536585365857,0.0007317073170731714
+Pontastacus leptodactylus,l_TOP118,Topography,-0.0003658536585365857,0.0007317073170731714
+Pontastacus leptodactylus,l_TOP74,Topography,-0.0003658536585365857,0.0007317073170731714
+Pontastacus leptodactylus,l_SOL46,Soil,-0.00036585365853659014,0.001063146083790405
+Pontastacus leptodactylus,l_TOP36,Topography,-0.0003748105277663027,0.0014084046483218233
+Pontastacus leptodactylus,l_SOL59,Soil,-0.000401681135455414,0.0015763159319046327
+Pontastacus leptodactylus,l_TOP119,Topography,-0.0004878048780487809,0.0009756097560975618
+Pontastacus leptodactylus,l_TOP26,Topography,-0.0004967617472784846,0.0012946346492287283
+Pontastacus leptodactylus,l_CLI36,Climate,-0.0004967617472784891,0.0012946346492287244
+Pontastacus leptodactylus,l_SOL30,Soil,-0.0005739286206421479,0.0024774957389855677
+Pontastacus leptodactylus,l_TOP136,Topography,-0.0007854485324514249,0.001760852603875127
+Pontastacus leptodactylus,l_LAC3,Land Cover,-0.0008088741904368124,0.0016177483808736248
+Pontastacus leptodactylus,l_TOP111,Topography,-0.0008536585365853843,0.0016178657513928967
+Pontastacus leptodactylus,l_SOL32,Soil,-0.0009756097560975618,0.0019512195121951237
+Pontastacus leptodactylus,l_TOP107,Topography,-0.0010975609756097616,0.002511129302679756

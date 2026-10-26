@@ -1,0 +1,4 @@
+species,variable,native_threshold,nonnative_threshold,shift_pct
+Pontastacus leptodactylus,l_CLI5,7.55,7.55,0.0
+Pontastacus leptodactylus,l_CLI69,213.45,152.65,-28.5
+Austropotamobius fulcisianus,l_TOP30,766244.5,129079.0,-83.2

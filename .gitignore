@@ -24,3 +24,7 @@ Thumbs.db
 results/models/*.pkl
 results/models/*.joblib
 submission/
+
+# Paper 2 R1: record-level ecospat inputs (World of Crayfish data policy) and R grid objects
+conservation/results/revision/ecospat_input/
+conservation/results/revision/tables/*.rds

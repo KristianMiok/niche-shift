@@ -1,0 +1,17 @@
+variable,description,native_threshold,invasive_threshold,native_depth,invasive_depth,native_importance,invasive_importance,in_both,threshold_shift,shift_pct
+l_TOP102,Cell upstream distance (between focal cell and next cell) [max] (–),113.5,100.5,2.0,3.0,0.086838,0.331096,True,-13.0,-11.5
+l_CLI14,Temp. seasonality (SD × 100) [max] (°C/100),545.0,418.7,3.0,1.0,0.07438,0.210872,True,-126.3,-23.2
+l_CLI45,Ann. precip. [min] (kg/m²),903.8,,0.0,,0.304048,0.0,False,,
+l_TOP40,Euclidean distance between focal grid cell and the stream network [sd] (m),,74.3917,,3.0,0.0,0.287642,False,,
+l_CLI37,Mean temp. of warmest quarter [min] (°C),,21.3,,2.0,0.0,0.277778,False,,
+l_TOP43,Elevation difference of the shortest path from focal grid cell to the sub-catchment drainage divide [mean] (m),4.5988,,3.0,,0.215662,0.0,False,,
+l_CLI9,Isothermality (bio2 / bio7) (× 100) [min] (°C),30.85,,3.0,,0.150019,0.0,False,,
+l_TOP30,Dist. to basin outlet [max] (m),26822.0,,3.0,,0.13579,0.0,False,,
+l_SOL35,"Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%)",1.128,,3.0,,0.124583,0.0,False,,
+l_CLI73,Precip. of coldest quarter [min] (kg/m²),211.25,,2.0,,0.106331,0.0,False,,
+l_SOL3,Derived saturated water content (vol. frac.) [mean] (v%),40.3583,,1.0,,0.046444,0.0,False,,
+l_CLI5,Mean diurnal range (mean of monthly (max temp – min temp)) [min] (°C),,8.85,,2.0,0.0,0.041479,False,,
+l_SOL19,Silt fraction by weight (0.0002–0.05 mm) [mean] (w%),,40.0807,,2.0,0.0,0.039983,False,,
+l_LAC21,Water bodies (210) (%),,0.316,,1.0,0.0,0.033571,False,,
+l_TOP53,Elev. diff. to basin outlet [min] (m),,34.5,,2.0,0.0,0.014051,False,,
+l_TOP10,Cell elevation difference (between focal cell and downstream cell) [max] (m),,55.0,,3.0,0.0,0.008359,False,,

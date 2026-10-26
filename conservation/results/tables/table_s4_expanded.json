@@ -1,0 +1,194 @@
+[
+  {
+    "species": "Pontastacus leptodactylus",
+    "native_presence_n": 885,
+    "native_pseudoabsence_n": 885,
+    "native_background_constrained": "Yes: background constrained to other species with the same status (Native)",
+    "native_top5": [
+      {
+        "variable": "l_CLI45",
+        "description": "Ann. precip. [min] (kg/m\u00b2)",
+        "importance": 0.7995495947864123
+      },
+      {
+        "variable": "l_SOL3",
+        "description": "Derived saturated water content (vol. frac.) [mean] (v%)",
+        "importance": 0.05681755203830008
+      },
+      {
+        "variable": "l_CLI73",
+        "description": "Precip. of coldest quarter [min] (kg/m\u00b2)",
+        "importance": 0.03164484529271253
+      },
+      {
+        "variable": "l_TOP102",
+        "description": "Cell upstream distance (between focal cell and next cell) [max] (\u2013)",
+        "importance": 0.02519083978194114
+      },
+      {
+        "variable": "l_TOP101",
+        "description": "Cell upstream distance (between focal cell and next cell) [min] (\u2013)",
+        "importance": 0.019347161093479715
+      }
+    ],
+    "non_native_label": "Introduced",
+    "non_native_presence_n": 820,
+    "non_native_pseudoabsence_n": 820,
+    "non_native_background_constrained": "Yes: background constrained to other species with the same status (Introduced)",
+    "non_native_top5": [
+      {
+        "variable": "l_TOP102",
+        "description": "Cell upstream distance (between focal cell and next cell) [max] (\u2013)",
+        "importance": 0.5962834215921475
+      },
+      {
+        "variable": "l_CLI14",
+        "description": "Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+        "importance": 0.2796642807577924
+      },
+      {
+        "variable": "l_CLI5",
+        "description": "Mean diurnal range (mean of monthly (max temp \u2013 min temp)) [min] (\u00b0C)",
+        "importance": 0.04677634716096273
+      },
+      {
+        "variable": "l_LAC21",
+        "description": "Water bodies (210) (%)",
+        "importance": 0.029833273517273516
+      },
+      {
+        "variable": "l_TOP53",
+        "description": "Elev. diff. to basin outlet [min] (m)",
+        "importance": 0.012144569580954829
+      }
+    ]
+  },
+  {
+    "species": "Austropotamobius fulcisianus",
+    "native_presence_n": 227,
+    "native_pseudoabsence_n": 227,
+    "native_background_constrained": "Yes: background constrained to other species with the same status (Native)",
+    "native_top5": [
+      {
+        "variable": "l_SOL2",
+        "description": "Derived saturated water content (vol. frac.) [max] (v%)",
+        "importance": 0.791056899644424
+      },
+      {
+        "variable": "l_SOL41",
+        "description": "Soil pH in H2O and KCl solution, multiplied by 10 (pH in H2O x 10) [min] (pH)",
+        "importance": 0.0764591576750631
+      },
+      {
+        "variable": "l_CLI9",
+        "description": "Isothermality (bio2 / bio7) (\u00d7 100) [min] (\u00b0C)",
+        "importance": 0.04380758402566267
+      },
+      {
+        "variable": "l_CLI14",
+        "description": "Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+        "importance": 0.04135214489697215
+      },
+      {
+        "variable": "l_SOL45",
+        "description": "Soil acidity (WRB class-based) [min] (pH)",
+        "importance": 0.02709997956747572
+      }
+    ],
+    "non_native_label": "Introduced",
+    "non_native_presence_n": 629,
+    "non_native_pseudoabsence_n": 629,
+    "non_native_background_constrained": "Yes: background constrained to other species with the same status (Introduced)",
+    "non_native_top5": [
+      {
+        "variable": "l_TOP116",
+        "description": "Outlet elevation (elevation of stream outlet) (m)",
+        "importance": 0.7843402405363408
+      },
+      {
+        "variable": "l_CLI41",
+        "description": "Mean temp. of coldest quarter [min] (\u00b0C)",
+        "importance": 0.11839890623454646
+      },
+      {
+        "variable": "l_CLI57",
+        "description": "Precip. seasonality (CV) [min] (kg/m\u00b2)",
+        "importance": 0.037650439566537665
+      },
+      {
+        "variable": "l_CLI24",
+        "description": "Min temp. of coldest month [sd] (\u00b0C)",
+        "importance": 0.0168716777963854
+      },
+      {
+        "variable": "l_CLI14",
+        "description": "Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+        "importance": 0.01290243133683691
+      }
+    ]
+  },
+  {
+    "species": "Austropotamobius pallipes",
+    "native_presence_n": 2790,
+    "native_pseudoabsence_n": 2790,
+    "native_background_constrained": "Yes: background constrained to other species with the same status (Native)",
+    "native_top5": [
+      {
+        "variable": "l_CLI14",
+        "description": "Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+        "importance": 0.7612297397719903
+      },
+      {
+        "variable": "l_TOP102",
+        "description": "Cell upstream distance (between focal cell and next cell) [max] (\u2013)",
+        "importance": 0.18978970551760826
+      },
+      {
+        "variable": "u_TOP117",
+        "description": "Difference between source elevation and outlet elevation + outlet drop (m)",
+        "importance": 0.018761709579798978
+      },
+      {
+        "variable": "l_CLI2",
+        "description": "Ann. mean air temp. [max] (\u00b0C)",
+        "importance": 0.01019466884409171
+      },
+      {
+        "variable": "l_CLI56",
+        "description": "Precip. of driest month [sd] (kg/m\u00b2)",
+        "importance": 0.009797637641002393
+      }
+    ],
+    "non_native_label": "Introduced",
+    "non_native_presence_n": 231,
+    "non_native_pseudoabsence_n": 231,
+    "non_native_background_constrained": "Yes: background constrained to other species with the same status (Introduced)",
+    "non_native_top5": [
+      {
+        "variable": "l_CLI13",
+        "description": "Temp. seasonality (SD \u00d7 100) [min] (\u00b0C/100)",
+        "importance": 0.8571126204483139
+      },
+      {
+        "variable": "l_CLI37",
+        "description": "Mean temp. of warmest quarter [min] (\u00b0C)",
+        "importance": 0.03531771878102323
+      },
+      {
+        "variable": "l_SOL59",
+        "description": "Probability of occurrence of R horizon [mean] (%)",
+        "importance": 0.03353880327236744
+      },
+      {
+        "variable": "l_TOP42",
+        "description": "Elevation difference of the shortest path from focal grid cell to the sub-catchment drainage divide [max] (m)",
+        "importance": 0.02242333650405399
+      },
+      {
+        "variable": "l_SOL18",
+        "description": "Silt fraction by weight (0.0002\u20130.05\u202fmm) [max] (w%)",
+        "importance": 0.01798538448762664
+      }
+    ]
+  }
+]

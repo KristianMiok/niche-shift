@@ -1,0 +1,1356 @@
+species,fold,variable,importance,type
+Austropotamobius pallipes,1,l_CLI1,0.005193856653878451,Climate
+Austropotamobius pallipes,1,l_CLI10,0.003498977396938326,Climate
+Austropotamobius pallipes,1,l_CLI12,7.781214608288737e-05,Climate
+Austropotamobius pallipes,1,l_CLI13,0.06200266054734147,Climate
+Austropotamobius pallipes,1,l_CLI16,0.0008506219884451385,Climate
+Austropotamobius pallipes,1,l_CLI17,0.06422357039387008,Climate
+Austropotamobius pallipes,1,l_CLI2,0.012196993822586733,Climate
+Austropotamobius pallipes,1,l_CLI22,0.011979913632361344,Climate
+Austropotamobius pallipes,1,l_CLI24,0.000192866697897197,Climate
+Austropotamobius pallipes,1,l_CLI25,0.056792218109098985,Climate
+Austropotamobius pallipes,1,l_CLI28,0.00041349539732033115,Climate
+Austropotamobius pallipes,1,l_CLI30,0.00030054074121303227,Climate
+Austropotamobius pallipes,1,l_CLI32,0.0001531956090553936,Climate
+Austropotamobius pallipes,1,l_CLI33,0.0022806910897945083,Climate
+Austropotamobius pallipes,1,l_CLI36,0.00030116691451498046,Climate
+Austropotamobius pallipes,1,l_CLI39,0.04654031681107959,Climate
+Austropotamobius pallipes,1,l_CLI42,0.0027578148978000196,Climate
+Austropotamobius pallipes,1,l_CLI45,0.00047317283139570613,Climate
+Austropotamobius pallipes,1,l_CLI5,0.08280474242390023,Climate
+Austropotamobius pallipes,1,l_CLI53,0.0015236862514217326,Climate
+Austropotamobius pallipes,1,l_CLI56,7.846181505424481e-06,Climate
+Austropotamobius pallipes,1,l_CLI57,0.00049710662582548,Climate
+Austropotamobius pallipes,1,l_CLI60,0.0003876946944379531,Climate
+Austropotamobius pallipes,1,l_CLI61,0.0007750313343222844,Climate
+Austropotamobius pallipes,1,l_CLI65,0.0012658470718184764,Climate
+Austropotamobius pallipes,1,l_CLI69,0.001628432188385692,Climate
+Austropotamobius pallipes,1,l_CLI72,2.568839621284499e-05,Climate
+Austropotamobius pallipes,1,l_CLI73,0.0004187055414323384,Climate
+Austropotamobius pallipes,1,l_CLI76,0.00019221885332535192,Climate
+Austropotamobius pallipes,1,l_CLI8,0.001239041959900079,Climate
+Austropotamobius pallipes,1,l_LAC1,1.2330238778229547e-05,Land Cover
+Austropotamobius pallipes,1,l_LAC10,0.0001783027985723358,Land Cover
+Austropotamobius pallipes,1,l_LAC11,3.113807000408219e-06,Land Cover
+Austropotamobius pallipes,1,l_LAC12,3.530359710659373e-18,Land Cover
+Austropotamobius pallipes,1,l_LAC13,0.00011516370820602264,Land Cover
+Austropotamobius pallipes,1,l_LAC15,8.984415598930962e-20,Land Cover
+Austropotamobius pallipes,1,l_LAC18,9.34674909252056e-19,Land Cover
+Austropotamobius pallipes,1,l_LAC19,0.0008512868203292124,Land Cover
+Austropotamobius pallipes,1,l_LAC20,2.2059447627244905e-18,Land Cover
+Austropotamobius pallipes,1,l_LAC21,0.00011010781838064226,Land Cover
+Austropotamobius pallipes,1,l_LAC3,1.527395155352486e-05,Land Cover
+Austropotamobius pallipes,1,l_LAC4,3.794021649010909e-05,Land Cover
+Austropotamobius pallipes,1,l_LAC5,2.7107664680031847e-18,Land Cover
+Austropotamobius pallipes,1,l_LAC6,0.0004180483287837168,Land Cover
+Austropotamobius pallipes,1,l_LAC7,5.6696700027410226e-05,Land Cover
+Austropotamobius pallipes,1,l_LAC9,0.0003115786260601298,Land Cover
+Austropotamobius pallipes,1,l_SOL1,0.010913927442498084,Soil
+Austropotamobius pallipes,1,l_SOL10,0.0010451224449052577,Soil
+Austropotamobius pallipes,1,l_SOL11,0.0002378137555898953,Soil
+Austropotamobius pallipes,1,l_SOL12,7.827374610589008e-05,Soil
+Austropotamobius pallipes,1,l_SOL13,0.0026508755833757275,Soil
+Austropotamobius pallipes,1,l_SOL14,0.0013414693416632017,Soil
+Austropotamobius pallipes,1,l_SOL15,0.0014481154008274995,Soil
+Austropotamobius pallipes,1,l_SOL16,7.883287693585037e-05,Soil
+Austropotamobius pallipes,1,l_SOL17,0.0008325349614803784,Soil
+Austropotamobius pallipes,1,l_SOL18,0.0009617079242212771,Soil
+Austropotamobius pallipes,1,l_SOL19,0.0019719262274725787,Soil
+Austropotamobius pallipes,1,l_SOL2,0.01536440460698275,Soil
+Austropotamobius pallipes,1,l_SOL20,0.00013818325866642986,Soil
+Austropotamobius pallipes,1,l_SOL21,0.00021384924478280089,Soil
+Austropotamobius pallipes,1,l_SOL22,0.000430584450169317,Soil
+Austropotamobius pallipes,1,l_SOL23,0.0002641832464264391,Soil
+Austropotamobius pallipes,1,l_SOL24,7.54272688895463e-05,Soil
+Austropotamobius pallipes,1,l_SOL25,0.031052726812634147,Soil
+Austropotamobius pallipes,1,l_SOL26,0.03714877965861127,Soil
+Austropotamobius pallipes,1,l_SOL27,0.04014834277299634,Soil
+Austropotamobius pallipes,1,l_SOL28,0.0001986254679012776,Soil
+Austropotamobius pallipes,1,l_SOL29,0.00022738046363021902,Soil
+Austropotamobius pallipes,1,l_SOL3,0.021548508658175022,Soil
+Austropotamobius pallipes,1,l_SOL30,0.00013185710420494614,Soil
+Austropotamobius pallipes,1,l_SOL31,0.0003914528571643805,Soil
+Austropotamobius pallipes,1,l_SOL32,0.00014731125012720122,Soil
+Austropotamobius pallipes,1,l_SOL33,0.014504801081502762,Soil
+Austropotamobius pallipes,1,l_SOL34,0.010392134892238097,Soil
+Austropotamobius pallipes,1,l_SOL35,0.01967772529831201,Soil
+Austropotamobius pallipes,1,l_SOL36,0.00010685872970381546,Soil
+Austropotamobius pallipes,1,l_SOL37,0.018353147495972083,Soil
+Austropotamobius pallipes,1,l_SOL38,0.005502551361953078,Soil
+Austropotamobius pallipes,1,l_SOL39,0.019934001233809798,Soil
+Austropotamobius pallipes,1,l_SOL4,0.0004222809952252692,Soil
+Austropotamobius pallipes,1,l_SOL40,0.000631433859813589,Soil
+Austropotamobius pallipes,1,l_SOL41,0.00017909057307339212,Soil
+Austropotamobius pallipes,1,l_SOL42,0.00011522740194582669,Soil
+Austropotamobius pallipes,1,l_SOL43,9.606512825506582e-05,Soil
+Austropotamobius pallipes,1,l_SOL44,0.00028590754397550793,Soil
+Austropotamobius pallipes,1,l_SOL45,8.079466009423346e-05,Soil
+Austropotamobius pallipes,1,l_SOL46,8.428971139191915e-06,Soil
+Austropotamobius pallipes,1,l_SOL47,8.282244031040043e-06,Soil
+Austropotamobius pallipes,1,l_SOL48,1.67320426332478e-05,Soil
+Austropotamobius pallipes,1,l_SOL5,9.363861815051546e-05,Soil
+Austropotamobius pallipes,1,l_SOL53,0.0003011726202069604,Soil
+Austropotamobius pallipes,1,l_SOL54,6.4453939039729e-05,Soil
+Austropotamobius pallipes,1,l_SOL55,0.0006577167975621761,Soil
+Austropotamobius pallipes,1,l_SOL56,0.0012883223020035395,Soil
+Austropotamobius pallipes,1,l_SOL57,0.0009907333410432723,Soil
+Austropotamobius pallipes,1,l_SOL58,0.0011887712419874482,Soil
+Austropotamobius pallipes,1,l_SOL59,0.0036170778233107627,Soil
+Austropotamobius pallipes,1,l_SOL6,0.00013915617866726786,Soil
+Austropotamobius pallipes,1,l_SOL60,0.00010225127703299298,Soil
+Austropotamobius pallipes,1,l_SOL7,0.00017339977668769563,Soil
+Austropotamobius pallipes,1,l_SOL8,5.5884435829891764e-05,Soil
+Austropotamobius pallipes,1,l_SOL9,0.0001583250809120243,Soil
+Austropotamobius pallipes,1,l_TOP1,0.00023455451112034718,Topography
+Austropotamobius pallipes,1,l_TOP10,0.0020962929174373835,Topography
+Austropotamobius pallipes,1,l_TOP101,0.01414402219206247,Topography
+Austropotamobius pallipes,1,l_TOP102,0.06333539436498942,Topography
+Austropotamobius pallipes,1,l_TOP103,0.00011472330845089867,Topography
+Austropotamobius pallipes,1,l_TOP104,0.0011900609037312612,Topography
+Austropotamobius pallipes,1,l_TOP105,0.00045139193375155285,Topography
+Austropotamobius pallipes,1,l_TOP106,0.000386999945753652,Topography
+Austropotamobius pallipes,1,l_TOP107,0.00045987415440584844,Topography
+Austropotamobius pallipes,1,l_TOP108,0.000563228695447079,Topography
+Austropotamobius pallipes,1,l_TOP109,0.015595805624301287,Topography
+Austropotamobius pallipes,1,l_TOP111,0.00024103043119668777,Topography
+Austropotamobius pallipes,1,l_TOP112,0.0001800072518276776,Topography
+Austropotamobius pallipes,1,l_TOP116,0.03683653437295982,Topography
+Austropotamobius pallipes,1,l_TOP118,0.0006266513765227739,Topography
+Austropotamobius pallipes,1,l_TOP12,0.002701196721989506,Topography
+Austropotamobius pallipes,1,l_TOP125,0.00021849636080592858,Topography
+Austropotamobius pallipes,1,l_TOP126,0.000189728417737355,Topography
+Austropotamobius pallipes,1,l_TOP127,7.490138089486232e-05,Topography
+Austropotamobius pallipes,1,l_TOP128,0.0004995918353232017,Topography
+Austropotamobius pallipes,1,l_TOP13,9.253152908379201e-05,Topography
+Austropotamobius pallipes,1,l_TOP132,0.0003999427251341681,Topography
+Austropotamobius pallipes,1,l_TOP133,0.00010894824613871427,Topography
+Austropotamobius pallipes,1,l_TOP134,0.001083665960745547,Topography
+Austropotamobius pallipes,1,l_TOP135,0.0009116761583885343,Topography
+Austropotamobius pallipes,1,l_TOP136,0.0006204946424644589,Topography
+Austropotamobius pallipes,1,l_TOP137,0.00016299893650244707,Topography
+Austropotamobius pallipes,1,l_TOP138,0.0008849500802205939,Topography
+Austropotamobius pallipes,1,l_TOP139,0.0011171855691333714,Topography
+Austropotamobius pallipes,1,l_TOP14,0.0003313684361788957,Topography
+Austropotamobius pallipes,1,l_TOP140,0.00038924801998989377,Topography
+Austropotamobius pallipes,1,l_TOP141,9.952906979067782e-05,Topography
+Austropotamobius pallipes,1,l_TOP142,0.002311814195706769,Topography
+Austropotamobius pallipes,1,l_TOP143,0.0008495438523963296,Topography
+Austropotamobius pallipes,1,l_TOP144,0.0006279201589794401,Topography
+Austropotamobius pallipes,1,l_TOP15,0.0029159473809847436,Topography
+Austropotamobius pallipes,1,l_TOP16,0.0002590948712953702,Topography
+Austropotamobius pallipes,1,l_TOP18,9.733421798727898e-05,Topography
+Austropotamobius pallipes,1,l_TOP19,0.00014313854632825354,Topography
+Austropotamobius pallipes,1,l_TOP2,0.0003308279857304405,Topography
+Austropotamobius pallipes,1,l_TOP20,0.00012877762958936695,Topography
+Austropotamobius pallipes,1,l_TOP22,0.0007908929381141309,Topography
+Austropotamobius pallipes,1,l_TOP23,0.0009120406297994227,Topography
+Austropotamobius pallipes,1,l_TOP26,0.00015736278912264383,Topography
+Austropotamobius pallipes,1,l_TOP27,6.052156631398293e-05,Topography
+Austropotamobius pallipes,1,l_TOP28,0.00012965346436611042,Topography
+Austropotamobius pallipes,1,l_TOP32,0.00011088400099175493,Topography
+Austropotamobius pallipes,1,l_TOP38,7.32389113482234e-05,Topography
+Austropotamobius pallipes,1,l_TOP39,8.890078028020352e-05,Topography
+Austropotamobius pallipes,1,l_TOP4,0.0004920465883329264,Topography
+Austropotamobius pallipes,1,l_TOP40,5.4993659201502676e-05,Topography
+Austropotamobius pallipes,1,l_TOP41,1.019993409331961e-19,Topography
+Austropotamobius pallipes,1,l_TOP42,0.0008021643576470817,Topography
+Austropotamobius pallipes,1,l_TOP43,0.0015886827183916128,Topography
+Austropotamobius pallipes,1,l_TOP44,0.00334530890347099,Topography
+Austropotamobius pallipes,1,l_TOP45,5.77884860319301e-18,Topography
+Austropotamobius pallipes,1,l_TOP46,0.0016801413363513686,Topography
+Austropotamobius pallipes,1,l_TOP47,0.0015079410579074573,Topography
+Austropotamobius pallipes,1,l_TOP48,0.001115820294659322,Topography
+Austropotamobius pallipes,1,l_TOP49,0.0003832931251594081,Topography
+Austropotamobius pallipes,1,l_TOP50,0.00039522728178583,Topography
+Austropotamobius pallipes,1,l_TOP51,0.000562110839981741,Topography
+Austropotamobius pallipes,1,l_TOP52,0.0008528298093156834,Topography
+Austropotamobius pallipes,1,l_TOP56,0.005097425083431916,Topography
+Austropotamobius pallipes,1,l_TOP59,0.005688585022018961,Topography
+Austropotamobius pallipes,1,l_TOP6,0.0002174606545460126,Topography
+Austropotamobius pallipes,1,l_TOP61,0.00149285945312749,Topography
+Austropotamobius pallipes,1,l_TOP62,0.0013805119947209908,Topography
+Austropotamobius pallipes,1,l_TOP63,0.0013672705060066223,Topography
+Austropotamobius pallipes,1,l_TOP64,0.0003214122296405089,Topography
+Austropotamobius pallipes,1,l_TOP65,7.197881588987062e-05,Topography
+Austropotamobius pallipes,1,l_TOP66,0.0004686141041024981,Topography
+Austropotamobius pallipes,1,l_TOP67,0.00147027452550326,Topography
+Austropotamobius pallipes,1,l_TOP68,0.000651199257633133,Topography
+Austropotamobius pallipes,1,l_TOP69,0.0009116106390719119,Topography
+Austropotamobius pallipes,1,l_TOP7,0.004739020025568526,Topography
+Austropotamobius pallipes,1,l_TOP70,0.0014788871089281576,Topography
+Austropotamobius pallipes,1,l_TOP71,0.007131778112432924,Topography
+Austropotamobius pallipes,1,l_TOP72,0.0009009797619372508,Topography
+Austropotamobius pallipes,1,l_TOP73,0.0002901866859075726,Topography
+Austropotamobius pallipes,1,l_TOP74,0.000997448118921967,Topography
+Austropotamobius pallipes,1,l_TOP75,0.004988673668118757,Topography
+Austropotamobius pallipes,1,l_TOP76,8.679131096847265e-05,Topography
+Austropotamobius pallipes,1,l_TOP83,0.0004151361719255297,Topography
+Austropotamobius pallipes,1,l_TOP85,0.0003485987749650428,Topography
+Austropotamobius pallipes,1,l_TOP86,0.0007170861328699004,Topography
+Austropotamobius pallipes,1,l_TOP87,0.0019859594824077225,Topography
+Austropotamobius pallipes,1,l_TOP88,0.0002810285841838444,Topography
+Austropotamobius pallipes,1,l_TOP89,0.00010995147686211562,Topography
+Austropotamobius pallipes,1,l_TOP9,0.00010510929549851844,Topography
+Austropotamobius pallipes,1,l_TOP90,0.0009738656294505526,Topography
+Austropotamobius pallipes,1,l_TOP91,0.003577810554786807,Topography
+Austropotamobius pallipes,1,l_TOP92,0.0010995701236035393,Topography
+Austropotamobius pallipes,1,l_TOP93,0.0019290434303398647,Topography
+Austropotamobius pallipes,1,l_TOP97,0.001332495128375599,Topography
+Austropotamobius pallipes,1,u_CLI11,0.0007413318235793053,Climate
+Austropotamobius pallipes,1,u_CLI15,0.025689887636817323,Climate
+Austropotamobius pallipes,1,u_CLI19,0.011478746240991284,Climate
+Austropotamobius pallipes,1,u_CLI23,0.0016712630065037614,Climate
+Austropotamobius pallipes,1,u_CLI27,0.024197669919409786,Climate
+Austropotamobius pallipes,1,u_CLI3,0.0008188394501395948,Climate
+Austropotamobius pallipes,1,u_CLI31,0.00015435581881178602,Climate
+Austropotamobius pallipes,1,u_CLI35,0.0012604930939688814,Climate
+Austropotamobius pallipes,1,u_CLI39,0.01678731410660727,Climate
+Austropotamobius pallipes,1,u_CLI43,0.0025716526452819865,Climate
+Austropotamobius pallipes,1,u_CLI47,0.0002789561890660165,Climate
+Austropotamobius pallipes,1,u_CLI55,0.0005576016812633418,Climate
+Austropotamobius pallipes,1,u_CLI59,0.00029458783879997893,Climate
+Austropotamobius pallipes,1,u_CLI63,0.000351431013488975,Climate
+Austropotamobius pallipes,1,u_CLI67,0.00040930779922766325,Climate
+Austropotamobius pallipes,1,u_CLI7,0.012686465649476588,Climate
+Austropotamobius pallipes,1,u_CLI71,0.00048408820654137567,Climate
+Austropotamobius pallipes,1,u_CLI75,0.00015253883456161127,Climate
+Austropotamobius pallipes,1,u_LAC1,4.029185844983574e-05,Land Cover
+Austropotamobius pallipes,1,u_LAC10,2.2686750674581573e-05,Land Cover
+Austropotamobius pallipes,1,u_LAC11,0.00014262209663765064,Land Cover
+Austropotamobius pallipes,1,u_LAC12,3.125178440718112e-05,Land Cover
+Austropotamobius pallipes,1,u_LAC13,0.00024182390428872165,Land Cover
+Austropotamobius pallipes,1,u_LAC15,0.00012680232478497715,Land Cover
+Austropotamobius pallipes,1,u_LAC18,1.4625977072568515e-05,Land Cover
+Austropotamobius pallipes,1,u_LAC19,0.0006316061023475845,Land Cover
+Austropotamobius pallipes,1,u_LAC2,0.000312933393292951,Land Cover
+Austropotamobius pallipes,1,u_LAC20,2.6490741023378295e-05,Land Cover
+Austropotamobius pallipes,1,u_LAC21,8.648673807416739e-05,Land Cover
+Austropotamobius pallipes,1,u_LAC22,7.011785182623448e-18,Land Cover
+Austropotamobius pallipes,1,u_LAC3,0.00015421914507758827,Land Cover
+Austropotamobius pallipes,1,u_LAC4,0.0006164837317821964,Land Cover
+Austropotamobius pallipes,1,u_LAC6,0.0004942098354624101,Land Cover
+Austropotamobius pallipes,1,u_LAC7,0.0001736738666556317,Land Cover
+Austropotamobius pallipes,1,u_LAC8,1.9432409033628005e-17,Land Cover
+Austropotamobius pallipes,1,u_LAC9,0.0006307879482247024,Land Cover
+Austropotamobius pallipes,1,u_SOL11,3.0305907828275162e-05,Soil
+Austropotamobius pallipes,1,u_SOL15,0.000380472176634857,Soil
+Austropotamobius pallipes,1,u_SOL19,0.0009049184372175556,Soil
+Austropotamobius pallipes,1,u_SOL23,0.0011842263611404555,Soil
+Austropotamobius pallipes,1,u_SOL27,0.006512453170582476,Soil
+Austropotamobius pallipes,1,u_SOL3,0.004939467559676841,Soil
+Austropotamobius pallipes,1,u_SOL31,5.482551704379764e-05,Soil
+Austropotamobius pallipes,1,u_SOL35,0.006731215378698279,Soil
+Austropotamobius pallipes,1,u_SOL39,0.006097195072755301,Soil
+Austropotamobius pallipes,1,u_SOL43,5.191674226522077e-05,Soil
+Austropotamobius pallipes,1,u_SOL47,2.960394571501561e-05,Soil
+Austropotamobius pallipes,1,u_SOL55,0.00011774227820131734,Soil
+Austropotamobius pallipes,1,u_SOL59,0.00188265678168679,Soil
+Austropotamobius pallipes,1,u_SOL7,9.369825831524774e-05,Soil
+Austropotamobius pallipes,1,u_TOP103,0.00021896821566031634,Topography
+Austropotamobius pallipes,1,u_TOP110,0.00010117600948770028,Topography
+Austropotamobius pallipes,1,u_TOP112,0.0001301117382351419,Topography
+Austropotamobius pallipes,1,u_TOP113,0.00016934798495766472,Topography
+Austropotamobius pallipes,1,u_TOP126,0.0002602418721501982,Topography
+Austropotamobius pallipes,1,u_TOP135,0.00017613229429043372,Topography
+Austropotamobius pallipes,1,u_TOP139,0.00023307596877421982,Topography
+Austropotamobius pallipes,1,u_TOP143,0.0009725153121776074,Topography
+Austropotamobius pallipes,1,u_TOP15,0.0003626484566877066,Topography
+Austropotamobius pallipes,1,u_TOP19,3.0784270440684036e-05,Topography
+Austropotamobius pallipes,1,u_TOP23,0.00030128853285471985,Topography
+Austropotamobius pallipes,1,u_TOP27,2.4698441152068143e-05,Topography
+Austropotamobius pallipes,1,u_TOP31,0.0025301843264657997,Topography
+Austropotamobius pallipes,1,u_TOP35,0.00010413597897048984,Topography
+Austropotamobius pallipes,1,u_TOP39,0.00012086833617579499,Topography
+Austropotamobius pallipes,1,u_TOP43,0.0003339730685728439,Topography
+Austropotamobius pallipes,1,u_TOP47,0.00010760459697757817,Topography
+Austropotamobius pallipes,1,u_TOP51,0.0003074554144477225,Topography
+Austropotamobius pallipes,1,u_TOP55,0.004856456188164832,Topography
+Austropotamobius pallipes,1,u_TOP59,0.0004005441629062635,Topography
+Austropotamobius pallipes,1,u_TOP67,0.00021011441489250914,Topography
+Austropotamobius pallipes,1,u_TOP7,0.0003468537393210407,Topography
+Austropotamobius pallipes,1,u_TOP79,0.0002792428970512233,Topography
+Austropotamobius pallipes,1,u_TOP83,0.001042897218972153,Topography
+Austropotamobius pallipes,2,l_CLI1,0.002574544696092481,Climate
+Austropotamobius pallipes,2,l_CLI10,0.0037930425052830194,Climate
+Austropotamobius pallipes,2,l_CLI12,6.247217399534874e-05,Climate
+Austropotamobius pallipes,2,l_CLI13,0.07988950595432755,Climate
+Austropotamobius pallipes,2,l_CLI16,0.0007453347456069793,Climate
+Austropotamobius pallipes,2,l_CLI17,0.05063757572166454,Climate
+Austropotamobius pallipes,2,l_CLI2,0.011418751053839752,Climate
+Austropotamobius pallipes,2,l_CLI22,0.02302365650467068,Climate
+Austropotamobius pallipes,2,l_CLI24,0.00011240191725738509,Climate
+Austropotamobius pallipes,2,l_CLI25,0.05414451611350034,Climate
+Austropotamobius pallipes,2,l_CLI28,0.00021425463269996294,Climate
+Austropotamobius pallipes,2,l_CLI30,0.00037926005877238873,Climate
+Austropotamobius pallipes,2,l_CLI32,0.00017573212836524473,Climate
+Austropotamobius pallipes,2,l_CLI33,0.0019084584710468086,Climate
+Austropotamobius pallipes,2,l_CLI36,0.00021484767463492147,Climate
+Austropotamobius pallipes,2,l_CLI39,0.05013073284368362,Climate
+Austropotamobius pallipes,2,l_CLI42,0.004729848154803812,Climate
+Austropotamobius pallipes,2,l_CLI45,0.0009205923611128962,Climate
+Austropotamobius pallipes,2,l_CLI5,0.0686410027188607,Climate
+Austropotamobius pallipes,2,l_CLI53,0.0016916162780294293,Climate
+Austropotamobius pallipes,2,l_CLI56,7.042391048816625e-05,Climate
+Austropotamobius pallipes,2,l_CLI57,0.0005469722363663206,Climate
+Austropotamobius pallipes,2,l_CLI60,0.0002991823111637622,Climate
+Austropotamobius pallipes,2,l_CLI61,0.001120740989492444,Climate
+Austropotamobius pallipes,2,l_CLI65,0.0009978868185812038,Climate
+Austropotamobius pallipes,2,l_CLI69,0.0009269655491237338,Climate
+Austropotamobius pallipes,2,l_CLI72,4.4305656386172286e-05,Climate
+Austropotamobius pallipes,2,l_CLI73,0.00037069281197271334,Climate
+Austropotamobius pallipes,2,l_CLI76,0.00010840671906136165,Climate
+Austropotamobius pallipes,2,l_CLI8,0.001105769786573803,Climate
+Austropotamobius pallipes,2,l_LAC1,4.098763993524353e-05,Land Cover
+Austropotamobius pallipes,2,l_LAC10,3.0682541509154156e-05,Land Cover
+Austropotamobius pallipes,2,l_LAC11,1.636432086812428e-17,Land Cover
+Austropotamobius pallipes,2,l_LAC12,8.998143732081376e-18,Land Cover
+Austropotamobius pallipes,2,l_LAC13,0.0001056249721063818,Land Cover
+Austropotamobius pallipes,2,l_LAC15,0.0,Land Cover
+Austropotamobius pallipes,2,l_LAC18,2.2888879659106967e-18,Land Cover
+Austropotamobius pallipes,2,l_LAC19,0.00037997143939736826,Land Cover
+Austropotamobius pallipes,2,l_LAC20,0.0,Land Cover
+Austropotamobius pallipes,2,l_LAC21,0.00013480854562080902,Land Cover
+Austropotamobius pallipes,2,l_LAC3,5.135358788671277e-05,Land Cover
+Austropotamobius pallipes,2,l_LAC4,1.0834120267097558e-18,Land Cover
+Austropotamobius pallipes,2,l_LAC5,3.4153537868150704e-06,Land Cover
+Austropotamobius pallipes,2,l_LAC6,0.00041011100555263713,Land Cover
+Austropotamobius pallipes,2,l_LAC7,2.9729138384259146e-05,Land Cover
+Austropotamobius pallipes,2,l_LAC9,9.677517171422318e-05,Land Cover
+Austropotamobius pallipes,2,l_SOL1,0.013928552711796664,Soil
+Austropotamobius pallipes,2,l_SOL10,0.0004631718899119981,Soil
+Austropotamobius pallipes,2,l_SOL11,0.002711319269006278,Soil
+Austropotamobius pallipes,2,l_SOL12,5.1118731034601866e-05,Soil
+Austropotamobius pallipes,2,l_SOL13,0.00105399904983613,Soil
+Austropotamobius pallipes,2,l_SOL14,0.0012425005261916377,Soil
+Austropotamobius pallipes,2,l_SOL15,0.001480407356442952,Soil
+Austropotamobius pallipes,2,l_SOL16,2.3797754049650922e-05,Soil
+Austropotamobius pallipes,2,l_SOL17,0.0013298846775207204,Soil
+Austropotamobius pallipes,2,l_SOL18,0.0012294262483539757,Soil
+Austropotamobius pallipes,2,l_SOL19,0.0018165937713797635,Soil
+Austropotamobius pallipes,2,l_SOL2,0.01830076391530261,Soil
+Austropotamobius pallipes,2,l_SOL20,4.1936626708648484e-05,Soil
+Austropotamobius pallipes,2,l_SOL21,0.0002347664799733832,Soil
+Austropotamobius pallipes,2,l_SOL22,0.0005563513116952709,Soil
+Austropotamobius pallipes,2,l_SOL23,0.0007520312432967714,Soil
+Austropotamobius pallipes,2,l_SOL24,0.00011320707522824242,Soil
+Austropotamobius pallipes,2,l_SOL25,0.025360470315194093,Soil
+Austropotamobius pallipes,2,l_SOL26,0.039365139745440154,Soil
+Austropotamobius pallipes,2,l_SOL27,0.03603973181865655,Soil
+Austropotamobius pallipes,2,l_SOL28,9.748038962372821e-05,Soil
+Austropotamobius pallipes,2,l_SOL29,0.00018234674940717982,Soil
+Austropotamobius pallipes,2,l_SOL3,0.034959164225941246,Soil
+Austropotamobius pallipes,2,l_SOL30,7.969057800989521e-05,Soil
+Austropotamobius pallipes,2,l_SOL31,0.00027467332917403386,Soil
+Austropotamobius pallipes,2,l_SOL32,1.4318594463493216e-05,Soil
+Austropotamobius pallipes,2,l_SOL33,0.01566942194550169,Soil
+Austropotamobius pallipes,2,l_SOL34,0.02040008923419794,Soil
+Austropotamobius pallipes,2,l_SOL35,0.02712384635163348,Soil
+Austropotamobius pallipes,2,l_SOL36,9.709021363481517e-05,Soil
+Austropotamobius pallipes,2,l_SOL37,0.025300103818102108,Soil
+Austropotamobius pallipes,2,l_SOL38,0.007028201179170063,Soil
+Austropotamobius pallipes,2,l_SOL39,0.015850454845963997,Soil
+Austropotamobius pallipes,2,l_SOL4,0.00020001630222555696,Soil
+Austropotamobius pallipes,2,l_SOL40,0.0003357557633690609,Soil
+Austropotamobius pallipes,2,l_SOL41,0.00022162322116133572,Soil
+Austropotamobius pallipes,2,l_SOL42,0.00022169023370357678,Soil
+Austropotamobius pallipes,2,l_SOL43,0.0001989075602412418,Soil
+Austropotamobius pallipes,2,l_SOL44,7.932163944869885e-05,Soil
+Austropotamobius pallipes,2,l_SOL45,6.060130937927084e-05,Soil
+Austropotamobius pallipes,2,l_SOL46,8.244306176663471e-06,Soil
+Austropotamobius pallipes,2,l_SOL47,0.0001079741790168688,Soil
+Austropotamobius pallipes,2,l_SOL48,8.6024218364859e-06,Soil
+Austropotamobius pallipes,2,l_SOL5,7.510823020518587e-05,Soil
+Austropotamobius pallipes,2,l_SOL53,0.00033774210023415803,Soil
+Austropotamobius pallipes,2,l_SOL54,0.00017983735788260294,Soil
+Austropotamobius pallipes,2,l_SOL55,0.0003957629786207893,Soil
+Austropotamobius pallipes,2,l_SOL56,0.00039235472995356133,Soil
+Austropotamobius pallipes,2,l_SOL57,0.0010118173145092708,Soil
+Austropotamobius pallipes,2,l_SOL58,0.0012506608965981182,Soil
+Austropotamobius pallipes,2,l_SOL59,0.0036956236326585712,Soil
+Austropotamobius pallipes,2,l_SOL6,2.3770164686351254e-05,Soil
+Austropotamobius pallipes,2,l_SOL60,9.451505524948675e-05,Soil
+Austropotamobius pallipes,2,l_SOL7,0.00010949283581898598,Soil
+Austropotamobius pallipes,2,l_SOL8,6.687882535020271e-05,Soil
+Austropotamobius pallipes,2,l_SOL9,0.0008448094901244523,Soil
+Austropotamobius pallipes,2,l_TOP1,0.0002656220394565871,Topography
+Austropotamobius pallipes,2,l_TOP10,0.005485821660726298,Topography
+Austropotamobius pallipes,2,l_TOP101,0.016679974922090095,Topography
+Austropotamobius pallipes,2,l_TOP102,0.052620313205637516,Topography
+Austropotamobius pallipes,2,l_TOP103,8.595144870810205e-05,Topography
+Austropotamobius pallipes,2,l_TOP104,0.0008768811970317878,Topography
+Austropotamobius pallipes,2,l_TOP105,0.00029967202552484576,Topography
+Austropotamobius pallipes,2,l_TOP106,0.00023546463976132262,Topography
+Austropotamobius pallipes,2,l_TOP107,0.0012114969955660405,Topography
+Austropotamobius pallipes,2,l_TOP108,0.00028027859826335885,Topography
+Austropotamobius pallipes,2,l_TOP109,0.010365654050036177,Topography
+Austropotamobius pallipes,2,l_TOP111,0.00015937884423451056,Topography
+Austropotamobius pallipes,2,l_TOP112,9.680851819918752e-05,Topography
+Austropotamobius pallipes,2,l_TOP116,0.040142691958421586,Topography
+Austropotamobius pallipes,2,l_TOP118,0.0004694577056587609,Topography
+Austropotamobius pallipes,2,l_TOP12,0.003516181771527836,Topography
+Austropotamobius pallipes,2,l_TOP125,0.0002544654307067131,Topography
+Austropotamobius pallipes,2,l_TOP126,0.00013357142969777178,Topography
+Austropotamobius pallipes,2,l_TOP127,1.3367521048411378e-05,Topography
+Austropotamobius pallipes,2,l_TOP128,0.0007522944381635456,Topography
+Austropotamobius pallipes,2,l_TOP13,7.534498202387677e-05,Topography
+Austropotamobius pallipes,2,l_TOP132,0.00031854467955427736,Topography
+Austropotamobius pallipes,2,l_TOP133,9.763693735119747e-05,Topography
+Austropotamobius pallipes,2,l_TOP134,0.0012212482241136145,Topography
+Austropotamobius pallipes,2,l_TOP135,0.0006724989578613626,Topography
+Austropotamobius pallipes,2,l_TOP136,0.00025421874779748584,Topography
+Austropotamobius pallipes,2,l_TOP137,0.00011222743343196258,Topography
+Austropotamobius pallipes,2,l_TOP138,0.0006917735424836024,Topography
+Austropotamobius pallipes,2,l_TOP139,0.0005581563229608987,Topography
+Austropotamobius pallipes,2,l_TOP14,0.00041959041815913385,Topography
+Austropotamobius pallipes,2,l_TOP140,0.0005513283695797555,Topography
+Austropotamobius pallipes,2,l_TOP141,0.0006665500179794639,Topography
+Austropotamobius pallipes,2,l_TOP142,0.0003407619842789212,Topography
+Austropotamobius pallipes,2,l_TOP143,0.0005989860334407261,Topography
+Austropotamobius pallipes,2,l_TOP144,0.00016615145868828713,Topography
+Austropotamobius pallipes,2,l_TOP15,0.002978807642870802,Topography
+Austropotamobius pallipes,2,l_TOP16,0.00024784783367991686,Topography
+Austropotamobius pallipes,2,l_TOP18,7.997692410677172e-05,Topography
+Austropotamobius pallipes,2,l_TOP19,0.00018261803050639367,Topography
+Austropotamobius pallipes,2,l_TOP2,0.00019615471414258747,Topography
+Austropotamobius pallipes,2,l_TOP20,0.00026358588355834014,Topography
+Austropotamobius pallipes,2,l_TOP22,0.0003412161218259248,Topography
+Austropotamobius pallipes,2,l_TOP23,0.00025744882416159657,Topography
+Austropotamobius pallipes,2,l_TOP26,9.228129343355277e-05,Topography
+Austropotamobius pallipes,2,l_TOP27,8.937493995772666e-05,Topography
+Austropotamobius pallipes,2,l_TOP28,1.053744599277707e-05,Topography
+Austropotamobius pallipes,2,l_TOP32,5.7244406714972135e-05,Topography
+Austropotamobius pallipes,2,l_TOP38,3.277425689074302e-05,Topography
+Austropotamobius pallipes,2,l_TOP39,2.256140829565601e-05,Topography
+Austropotamobius pallipes,2,l_TOP4,0.0002280880675798631,Topography
+Austropotamobius pallipes,2,l_TOP40,4.850435457879014e-05,Topography
+Austropotamobius pallipes,2,l_TOP41,1.8441661058873795e-06,Topography
+Austropotamobius pallipes,2,l_TOP42,0.0023264044906382312,Topography
+Austropotamobius pallipes,2,l_TOP43,0.0035372163571396427,Topography
+Austropotamobius pallipes,2,l_TOP44,0.004156810559691985,Topography
+Austropotamobius pallipes,2,l_TOP45,1.5410359151502203e-18,Topography
+Austropotamobius pallipes,2,l_TOP46,0.000352292167648303,Topography
+Austropotamobius pallipes,2,l_TOP47,0.0007609441374441281,Topography
+Austropotamobius pallipes,2,l_TOP48,0.000996379932627709,Topography
+Austropotamobius pallipes,2,l_TOP49,0.0011176061227835498,Topography
+Austropotamobius pallipes,2,l_TOP50,0.001031309433185351,Topography
+Austropotamobius pallipes,2,l_TOP51,0.0005209214631920851,Topography
+Austropotamobius pallipes,2,l_TOP52,0.001654265188096375,Topography
+Austropotamobius pallipes,2,l_TOP56,0.004499046843546812,Topography
+Austropotamobius pallipes,2,l_TOP59,0.006389780114618999,Topography
+Austropotamobius pallipes,2,l_TOP6,0.0002269345104216387,Topography
+Austropotamobius pallipes,2,l_TOP61,0.0005418331507689227,Topography
+Austropotamobius pallipes,2,l_TOP62,0.002609828146453077,Topography
+Austropotamobius pallipes,2,l_TOP63,0.0012317777269411146,Topography
+Austropotamobius pallipes,2,l_TOP64,8.068274219103007e-05,Topography
+Austropotamobius pallipes,2,l_TOP65,0.00022868589065633152,Topography
+Austropotamobius pallipes,2,l_TOP66,0.0010948689772814991,Topography
+Austropotamobius pallipes,2,l_TOP67,0.0021961538872817495,Topography
+Austropotamobius pallipes,2,l_TOP68,0.00022282434048659068,Topography
+Austropotamobius pallipes,2,l_TOP69,0.00029374807769307277,Topography
+Austropotamobius pallipes,2,l_TOP7,0.0017129958275073466,Topography
+Austropotamobius pallipes,2,l_TOP70,0.0009993761780660974,Topography
+Austropotamobius pallipes,2,l_TOP71,0.0020974396111446405,Topography
+Austropotamobius pallipes,2,l_TOP72,0.0009162711067751822,Topography
+Austropotamobius pallipes,2,l_TOP73,0.00015726752193802912,Topography
+Austropotamobius pallipes,2,l_TOP74,0.0008671958478341307,Topography
+Austropotamobius pallipes,2,l_TOP75,0.0032048918682328433,Topography
+Austropotamobius pallipes,2,l_TOP76,0.000115836029849116,Topography
+Austropotamobius pallipes,2,l_TOP83,0.0007150718855845236,Topography
+Austropotamobius pallipes,2,l_TOP85,9.263388937866322e-05,Topography
+Austropotamobius pallipes,2,l_TOP86,0.0012957008419455535,Topography
+Austropotamobius pallipes,2,l_TOP87,0.002284509909487526,Topography
+Austropotamobius pallipes,2,l_TOP88,0.00014822718247686604,Topography
+Austropotamobius pallipes,2,l_TOP89,0.00017768471314564424,Topography
+Austropotamobius pallipes,2,l_TOP9,4.236636982998887e-05,Topography
+Austropotamobius pallipes,2,l_TOP90,0.0016600420101147858,Topography
+Austropotamobius pallipes,2,l_TOP91,0.0017013991894195147,Topography
+Austropotamobius pallipes,2,l_TOP92,0.00023537029742065713,Topography
+Austropotamobius pallipes,2,l_TOP93,0.0025704368362895183,Topography
+Austropotamobius pallipes,2,l_TOP97,0.0016688347563764351,Topography
+Austropotamobius pallipes,2,u_CLI11,0.0004761913547745172,Climate
+Austropotamobius pallipes,2,u_CLI15,0.018987901396618025,Climate
+Austropotamobius pallipes,2,u_CLI19,0.010460611245021569,Climate
+Austropotamobius pallipes,2,u_CLI23,0.0006095598389511701,Climate
+Austropotamobius pallipes,2,u_CLI27,0.019739739006397583,Climate
+Austropotamobius pallipes,2,u_CLI3,0.0013380814720409865,Climate
+Austropotamobius pallipes,2,u_CLI31,0.0001591293032728857,Climate
+Austropotamobius pallipes,2,u_CLI35,0.001621980885087393,Climate
+Austropotamobius pallipes,2,u_CLI39,0.011932430727302672,Climate
+Austropotamobius pallipes,2,u_CLI43,0.0010169767578343087,Climate
+Austropotamobius pallipes,2,u_CLI47,0.00017743159080182936,Climate
+Austropotamobius pallipes,2,u_CLI55,0.00045302992085252203,Climate
+Austropotamobius pallipes,2,u_CLI59,9.350633457970392e-05,Climate
+Austropotamobius pallipes,2,u_CLI63,0.0009543238255173772,Climate
+Austropotamobius pallipes,2,u_CLI67,0.00025390828344320446,Climate
+Austropotamobius pallipes,2,u_CLI7,0.012327427058812217,Climate
+Austropotamobius pallipes,2,u_CLI71,0.00039150268134322805,Climate
+Austropotamobius pallipes,2,u_CLI75,9.745173894646108e-05,Climate
+Austropotamobius pallipes,2,u_LAC1,0.00012733454269995184,Land Cover
+Austropotamobius pallipes,2,u_LAC10,4.74231097393479e-05,Land Cover
+Austropotamobius pallipes,2,u_LAC11,0.00015107907193314795,Land Cover
+Austropotamobius pallipes,2,u_LAC12,5.313288280377172e-06,Land Cover
+Austropotamobius pallipes,2,u_LAC13,0.00041877910644326445,Land Cover
+Austropotamobius pallipes,2,u_LAC15,1.979017073781162e-06,Land Cover
+Austropotamobius pallipes,2,u_LAC18,0.001681789203126213,Land Cover
+Austropotamobius pallipes,2,u_LAC19,2.33784055945305e-05,Land Cover
+Austropotamobius pallipes,2,u_LAC2,0.0,Land Cover
+Austropotamobius pallipes,2,u_LAC20,6.767760331335188e-05,Land Cover
+Austropotamobius pallipes,2,u_LAC21,0.00022058191422905576,Land Cover
+Austropotamobius pallipes,2,u_LAC22,6.097471527408035e-19,Land Cover
+Austropotamobius pallipes,2,u_LAC3,5.918043560496901e-05,Land Cover
+Austropotamobius pallipes,2,u_LAC4,0.0002112567633962546,Land Cover
+Austropotamobius pallipes,2,u_LAC6,0.0004336764840293443,Land Cover
+Austropotamobius pallipes,2,u_LAC7,4.5247274429088465e-05,Land Cover
+Austropotamobius pallipes,2,u_LAC8,0.00018359872397741926,Land Cover
+Austropotamobius pallipes,2,u_LAC9,0.0007444268383470816,Land Cover
+Austropotamobius pallipes,2,u_SOL11,0.00018816438631775404,Soil
+Austropotamobius pallipes,2,u_SOL15,0.0007508192906317498,Soil
+Austropotamobius pallipes,2,u_SOL19,0.0008766508233223292,Soil
+Austropotamobius pallipes,2,u_SOL23,0.0007156300020217087,Soil
+Austropotamobius pallipes,2,u_SOL27,0.0069011200641674285,Soil
+Austropotamobius pallipes,2,u_SOL3,0.004618216093879957,Soil
+Austropotamobius pallipes,2,u_SOL31,0.00027248969320391766,Soil
+Austropotamobius pallipes,2,u_SOL35,0.010526596136224833,Soil
+Austropotamobius pallipes,2,u_SOL39,0.0056945307119599005,Soil
+Austropotamobius pallipes,2,u_SOL43,6.856210025212453e-06,Soil
+Austropotamobius pallipes,2,u_SOL47,3.382481238958408e-05,Soil
+Austropotamobius pallipes,2,u_SOL55,0.00011322914635972856,Soil
+Austropotamobius pallipes,2,u_SOL59,0.002923208041057078,Soil
+Austropotamobius pallipes,2,u_SOL7,0.0001077660237889424,Soil
+Austropotamobius pallipes,2,u_TOP103,0.0002367924910539079,Topography
+Austropotamobius pallipes,2,u_TOP110,3.603422454515927e-05,Topography
+Austropotamobius pallipes,2,u_TOP112,0.00015383220678678609,Topography
+Austropotamobius pallipes,2,u_TOP113,3.9734454873698816e-05,Topography
+Austropotamobius pallipes,2,u_TOP126,8.760383422760293e-05,Topography
+Austropotamobius pallipes,2,u_TOP135,2.7174786686343897e-05,Topography
+Austropotamobius pallipes,2,u_TOP139,0.00033426097459806156,Topography
+Austropotamobius pallipes,2,u_TOP143,0.0004465251782812531,Topography
+Austropotamobius pallipes,2,u_TOP15,0.0002504084529983151,Topography
+Austropotamobius pallipes,2,u_TOP19,1.2918603186529616e-05,Topography
+Austropotamobius pallipes,2,u_TOP23,6.126687639723138e-05,Topography
+Austropotamobius pallipes,2,u_TOP27,6.242329965751586e-06,Topography
+Austropotamobius pallipes,2,u_TOP31,0.0011204670480302883,Topography
+Austropotamobius pallipes,2,u_TOP35,3.7259110901426135e-05,Topography
+Austropotamobius pallipes,2,u_TOP39,6.362971252889783e-05,Topography
+Austropotamobius pallipes,2,u_TOP43,5.6179810978582505e-05,Topography
+Austropotamobius pallipes,2,u_TOP47,0.00011913252964126743,Topography
+Austropotamobius pallipes,2,u_TOP51,0.0008631424042432922,Topography
+Austropotamobius pallipes,2,u_TOP55,0.00468196023116819,Topography
+Austropotamobius pallipes,2,u_TOP59,0.0011442997336845258,Topography
+Austropotamobius pallipes,2,u_TOP67,0.00021909239558179637,Topography
+Austropotamobius pallipes,2,u_TOP7,0.0006933227329468182,Topography
+Austropotamobius pallipes,2,u_TOP79,9.438467649050453e-05,Topography
+Austropotamobius pallipes,2,u_TOP83,4.0114189220962516e-05,Topography
+Austropotamobius pallipes,3,l_CLI1,0.008544172111215049,Climate
+Austropotamobius pallipes,3,l_CLI10,0.00246788895810291,Climate
+Austropotamobius pallipes,3,l_CLI12,0.000144470386669511,Climate
+Austropotamobius pallipes,3,l_CLI13,0.057146233100894554,Climate
+Austropotamobius pallipes,3,l_CLI16,0.00020407684984468532,Climate
+Austropotamobius pallipes,3,l_CLI17,0.05887180596642174,Climate
+Austropotamobius pallipes,3,l_CLI2,0.009439595463200067,Climate
+Austropotamobius pallipes,3,l_CLI22,0.01479795645986267,Climate
+Austropotamobius pallipes,3,l_CLI24,0.0003013184339376327,Climate
+Austropotamobius pallipes,3,l_CLI25,0.07465701544020406,Climate
+Austropotamobius pallipes,3,l_CLI28,0.00021301617533102426,Climate
+Austropotamobius pallipes,3,l_CLI30,0.0003733044107158962,Climate
+Austropotamobius pallipes,3,l_CLI32,0.00010376708164687176,Climate
+Austropotamobius pallipes,3,l_CLI33,0.0018494839580362606,Climate
+Austropotamobius pallipes,3,l_CLI36,0.00019037110523063751,Climate
+Austropotamobius pallipes,3,l_CLI39,0.05930485130255417,Climate
+Austropotamobius pallipes,3,l_CLI42,0.005338342601614063,Climate
+Austropotamobius pallipes,3,l_CLI45,0.0007997387968553327,Climate
+Austropotamobius pallipes,3,l_CLI5,0.09390227183679545,Climate
+Austropotamobius pallipes,3,l_CLI53,0.0017633423058413217,Climate
+Austropotamobius pallipes,3,l_CLI56,7.069605112280718e-05,Climate
+Austropotamobius pallipes,3,l_CLI57,0.0014150819089118446,Climate
+Austropotamobius pallipes,3,l_CLI60,0.00036225878908860567,Climate
+Austropotamobius pallipes,3,l_CLI61,0.0009783590245566703,Climate
+Austropotamobius pallipes,3,l_CLI65,0.0020936100447217,Climate
+Austropotamobius pallipes,3,l_CLI69,0.0022589756974152595,Climate
+Austropotamobius pallipes,3,l_CLI72,0.0001548375423605963,Climate
+Austropotamobius pallipes,3,l_CLI73,0.0002505086514415216,Climate
+Austropotamobius pallipes,3,l_CLI76,0.0001489781533799326,Climate
+Austropotamobius pallipes,3,l_CLI8,0.0017409013655852136,Climate
+Austropotamobius pallipes,3,l_LAC1,5.039311550314692e-05,Land Cover
+Austropotamobius pallipes,3,l_LAC10,6.303423833814255e-05,Land Cover
+Austropotamobius pallipes,3,l_LAC11,1.6752376457615486e-05,Land Cover
+Austropotamobius pallipes,3,l_LAC12,0.0,Land Cover
+Austropotamobius pallipes,3,l_LAC13,0.0007946068652041968,Land Cover
+Austropotamobius pallipes,3,l_LAC15,0.0,Land Cover
+Austropotamobius pallipes,3,l_LAC18,1.8805281132676136e-06,Land Cover
+Austropotamobius pallipes,3,l_LAC19,0.0012882788794756684,Land Cover
+Austropotamobius pallipes,3,l_LAC20,2.771859149366241e-21,Land Cover
+Austropotamobius pallipes,3,l_LAC21,5.6356812576949406e-05,Land Cover
+Austropotamobius pallipes,3,l_LAC3,8.809070573043086e-06,Land Cover
+Austropotamobius pallipes,3,l_LAC4,1.3638139600676689e-18,Land Cover
+Austropotamobius pallipes,3,l_LAC5,0.0,Land Cover
+Austropotamobius pallipes,3,l_LAC6,0.0005392449197293632,Land Cover
+Austropotamobius pallipes,3,l_LAC7,4.964477205995493e-05,Land Cover
+Austropotamobius pallipes,3,l_LAC9,0.00011099973850753607,Land Cover
+Austropotamobius pallipes,3,l_SOL1,0.011705947617925146,Soil
+Austropotamobius pallipes,3,l_SOL10,0.00013175178820397536,Soil
+Austropotamobius pallipes,3,l_SOL11,0.00036099927903708633,Soil
+Austropotamobius pallipes,3,l_SOL12,3.162086673472472e-05,Soil
+Austropotamobius pallipes,3,l_SOL13,0.0009753215911402593,Soil
+Austropotamobius pallipes,3,l_SOL14,0.0007918345937555903,Soil
+Austropotamobius pallipes,3,l_SOL15,0.0016750292483975005,Soil
+Austropotamobius pallipes,3,l_SOL16,9.232079437966183e-05,Soil
+Austropotamobius pallipes,3,l_SOL17,0.0014154402736424572,Soil
+Austropotamobius pallipes,3,l_SOL18,0.002252782166617345,Soil
+Austropotamobius pallipes,3,l_SOL19,0.0010110676126192134,Soil
+Austropotamobius pallipes,3,l_SOL2,0.022223530334308114,Soil
+Austropotamobius pallipes,3,l_SOL20,0.00011575179694152943,Soil
+Austropotamobius pallipes,3,l_SOL21,0.0006782498531610983,Soil
+Austropotamobius pallipes,3,l_SOL22,0.00030983366584388483,Soil
+Austropotamobius pallipes,3,l_SOL23,0.0006195939261455663,Soil
+Austropotamobius pallipes,3,l_SOL24,6.868718231546226e-05,Soil
+Austropotamobius pallipes,3,l_SOL25,0.020061489824163052,Soil
+Austropotamobius pallipes,3,l_SOL26,0.034445550312043875,Soil
+Austropotamobius pallipes,3,l_SOL27,0.034533847962176435,Soil
+Austropotamobius pallipes,3,l_SOL28,0.00020579107345650838,Soil
+Austropotamobius pallipes,3,l_SOL29,6.775449572207667e-05,Soil
+Austropotamobius pallipes,3,l_SOL3,0.029326686455418034,Soil
+Austropotamobius pallipes,3,l_SOL30,0.000246452364223673,Soil
+Austropotamobius pallipes,3,l_SOL31,0.0003220624373102123,Soil
+Austropotamobius pallipes,3,l_SOL32,0.00010478018845284436,Soil
+Austropotamobius pallipes,3,l_SOL33,0.018038062923202636,Soil
+Austropotamobius pallipes,3,l_SOL34,0.015733276897668253,Soil
+Austropotamobius pallipes,3,l_SOL35,0.030375347715790302,Soil
+Austropotamobius pallipes,3,l_SOL36,9.497946710712591e-05,Soil
+Austropotamobius pallipes,3,l_SOL37,0.011554243472985464,Soil
+Austropotamobius pallipes,3,l_SOL38,0.00691759526056744,Soil
+Austropotamobius pallipes,3,l_SOL39,0.010958649828068797,Soil
+Austropotamobius pallipes,3,l_SOL4,0.00035876777241502714,Soil
+Austropotamobius pallipes,3,l_SOL40,0.0003388394971164096,Soil
+Austropotamobius pallipes,3,l_SOL41,0.00015596653202630282,Soil
+Austropotamobius pallipes,3,l_SOL42,0.00027182505215905746,Soil
+Austropotamobius pallipes,3,l_SOL43,0.00036041260832740527,Soil
+Austropotamobius pallipes,3,l_SOL44,0.00014366384547669615,Soil
+Austropotamobius pallipes,3,l_SOL45,0.0001124722124344027,Soil
+Austropotamobius pallipes,3,l_SOL46,4.44740896608889e-05,Soil
+Austropotamobius pallipes,3,l_SOL47,9.834201004289622e-05,Soil
+Austropotamobius pallipes,3,l_SOL48,4.880100751440139e-05,Soil
+Austropotamobius pallipes,3,l_SOL5,0.00010657971271067615,Soil
+Austropotamobius pallipes,3,l_SOL53,0.0007180569081772209,Soil
+Austropotamobius pallipes,3,l_SOL54,2.9037919156945007e-05,Soil
+Austropotamobius pallipes,3,l_SOL55,0.0005603490574144171,Soil
+Austropotamobius pallipes,3,l_SOL56,0.0014712915747370646,Soil
+Austropotamobius pallipes,3,l_SOL57,0.0003957965331690272,Soil
+Austropotamobius pallipes,3,l_SOL58,0.0007556365275667313,Soil
+Austropotamobius pallipes,3,l_SOL59,0.001056488699799414,Soil
+Austropotamobius pallipes,3,l_SOL6,0.00010596203865706613,Soil
+Austropotamobius pallipes,3,l_SOL60,0.0001773265609977423,Soil
+Austropotamobius pallipes,3,l_SOL7,5.6512676175833767e-05,Soil
+Austropotamobius pallipes,3,l_SOL8,3.375731287692132e-05,Soil
+Austropotamobius pallipes,3,l_SOL9,0.00018751646490160125,Soil
+Austropotamobius pallipes,3,l_TOP1,0.0002901587099401064,Topography
+Austropotamobius pallipes,3,l_TOP10,0.0017555451719123928,Topography
+Austropotamobius pallipes,3,l_TOP101,0.0074818007519746295,Topography
+Austropotamobius pallipes,3,l_TOP102,0.026946694398690785,Topography
+Austropotamobius pallipes,3,l_TOP103,0.00014029198624290547,Topography
+Austropotamobius pallipes,3,l_TOP104,0.0010366824335530538,Topography
+Austropotamobius pallipes,3,l_TOP105,0.00011260224343884247,Topography
+Austropotamobius pallipes,3,l_TOP106,0.00011475140340182022,Topography
+Austropotamobius pallipes,3,l_TOP107,7.871998839413007e-05,Topography
+Austropotamobius pallipes,3,l_TOP108,0.0006703499325543275,Topography
+Austropotamobius pallipes,3,l_TOP109,0.015871444150425327,Topography
+Austropotamobius pallipes,3,l_TOP111,2.8130807400138596e-05,Topography
+Austropotamobius pallipes,3,l_TOP112,0.00017201341515024396,Topography
+Austropotamobius pallipes,3,l_TOP116,0.03604867912075314,Topography
+Austropotamobius pallipes,3,l_TOP118,0.00043544432892245015,Topography
+Austropotamobius pallipes,3,l_TOP12,0.0011083404064781953,Topography
+Austropotamobius pallipes,3,l_TOP125,0.00012968202929456324,Topography
+Austropotamobius pallipes,3,l_TOP126,0.00012696728799858501,Topography
+Austropotamobius pallipes,3,l_TOP127,5.091213487566258e-05,Topography
+Austropotamobius pallipes,3,l_TOP128,0.000873724623171337,Topography
+Austropotamobius pallipes,3,l_TOP13,4.106017414537598e-05,Topography
+Austropotamobius pallipes,3,l_TOP132,0.0005184790104487559,Topography
+Austropotamobius pallipes,3,l_TOP133,6.11577728332217e-05,Topography
+Austropotamobius pallipes,3,l_TOP134,0.0007345103728592134,Topography
+Austropotamobius pallipes,3,l_TOP135,0.0018706765791383921,Topography
+Austropotamobius pallipes,3,l_TOP136,0.0007314409741873493,Topography
+Austropotamobius pallipes,3,l_TOP137,0.00041616417230145875,Topography
+Austropotamobius pallipes,3,l_TOP138,0.0007302335210880469,Topography
+Austropotamobius pallipes,3,l_TOP139,0.0010257496877409274,Topography
+Austropotamobius pallipes,3,l_TOP14,0.00044307229381311184,Topography
+Austropotamobius pallipes,3,l_TOP140,0.0008690961742474564,Topography
+Austropotamobius pallipes,3,l_TOP141,0.000488350371519782,Topography
+Austropotamobius pallipes,3,l_TOP142,0.0008308399462745018,Topography
+Austropotamobius pallipes,3,l_TOP143,0.0006382212394846735,Topography
+Austropotamobius pallipes,3,l_TOP144,0.00044319962479892426,Topography
+Austropotamobius pallipes,3,l_TOP15,0.0014477290838359024,Topography
+Austropotamobius pallipes,3,l_TOP16,0.00011519528168078357,Topography
+Austropotamobius pallipes,3,l_TOP18,8.101352531225313e-05,Topography
+Austropotamobius pallipes,3,l_TOP19,0.00016267443234540752,Topography
+Austropotamobius pallipes,3,l_TOP2,0.00034150574634697427,Topography
+Austropotamobius pallipes,3,l_TOP20,0.00013994939374012275,Topography
+Austropotamobius pallipes,3,l_TOP22,0.0009422925448133077,Topography
+Austropotamobius pallipes,3,l_TOP23,0.00032564387392567144,Topography
+Austropotamobius pallipes,3,l_TOP26,9.887269506389012e-05,Topography
+Austropotamobius pallipes,3,l_TOP27,5.0858161820925264e-05,Topography
+Austropotamobius pallipes,3,l_TOP28,0.00012007710256901265,Topography
+Austropotamobius pallipes,3,l_TOP32,0.00010569665982967404,Topography
+Austropotamobius pallipes,3,l_TOP38,2.6049021349616357e-05,Topography
+Austropotamobius pallipes,3,l_TOP39,7.089779615810108e-05,Topography
+Austropotamobius pallipes,3,l_TOP4,0.0006765644113133844,Topography
+Austropotamobius pallipes,3,l_TOP40,0.00010326664091413784,Topography
+Austropotamobius pallipes,3,l_TOP41,5.895820271616906e-19,Topography
+Austropotamobius pallipes,3,l_TOP42,0.0002829216989252435,Topography
+Austropotamobius pallipes,3,l_TOP43,0.0021253294969216015,Topography
+Austropotamobius pallipes,3,l_TOP44,0.0016958619155834622,Topography
+Austropotamobius pallipes,3,l_TOP45,0.0,Topography
+Austropotamobius pallipes,3,l_TOP46,0.0013794789536333658,Topography
+Austropotamobius pallipes,3,l_TOP47,0.0003501569012994213,Topography
+Austropotamobius pallipes,3,l_TOP48,0.0011355547294134099,Topography
+Austropotamobius pallipes,3,l_TOP49,0.000836093211371444,Topography
+Austropotamobius pallipes,3,l_TOP50,0.000499525669203004,Topography
+Austropotamobius pallipes,3,l_TOP51,0.0010964655980179613,Topography
+Austropotamobius pallipes,3,l_TOP52,0.002503683641684385,Topography
+Austropotamobius pallipes,3,l_TOP56,0.006959273439537917,Topography
+Austropotamobius pallipes,3,l_TOP59,0.008057774767194333,Topography
+Austropotamobius pallipes,3,l_TOP6,0.00035603701937812407,Topography
+Austropotamobius pallipes,3,l_TOP61,0.001649784731352792,Topography
+Austropotamobius pallipes,3,l_TOP62,0.0033785173394110736,Topography
+Austropotamobius pallipes,3,l_TOP63,0.0014056062040267684,Topography
+Austropotamobius pallipes,3,l_TOP64,0.00010237788827736353,Topography
+Austropotamobius pallipes,3,l_TOP65,0.00024986576551275843,Topography
+Austropotamobius pallipes,3,l_TOP66,0.0011759362595332044,Topography
+Austropotamobius pallipes,3,l_TOP67,0.0022048217279774466,Topography
+Austropotamobius pallipes,3,l_TOP68,0.0010441305076064951,Topography
+Austropotamobius pallipes,3,l_TOP69,0.0005608544427269874,Topography
+Austropotamobius pallipes,3,l_TOP7,0.002438687553559713,Topography
+Austropotamobius pallipes,3,l_TOP70,0.0002504278570028495,Topography
+Austropotamobius pallipes,3,l_TOP71,0.0017463632078741956,Topography
+Austropotamobius pallipes,3,l_TOP72,0.0028680280825900224,Topography
+Austropotamobius pallipes,3,l_TOP73,0.0006619314523031048,Topography
+Austropotamobius pallipes,3,l_TOP74,0.0023897888876774315,Topography
+Austropotamobius pallipes,3,l_TOP75,0.00409755594261708,Topography
+Austropotamobius pallipes,3,l_TOP76,0.00018204002158993845,Topography
+Austropotamobius pallipes,3,l_TOP83,0.0010877613741652051,Topography
+Austropotamobius pallipes,3,l_TOP85,0.00032110323974019026,Topography
+Austropotamobius pallipes,3,l_TOP86,0.0034495045657667403,Topography
+Austropotamobius pallipes,3,l_TOP87,0.0035820642930213123,Topography
+Austropotamobius pallipes,3,l_TOP88,0.0003338114221422835,Topography
+Austropotamobius pallipes,3,l_TOP89,0.0002186489283611902,Topography
+Austropotamobius pallipes,3,l_TOP9,0.00013863190946006795,Topography
+Austropotamobius pallipes,3,l_TOP90,0.0016086992446028407,Topography
+Austropotamobius pallipes,3,l_TOP91,0.0032401392442434496,Topography
+Austropotamobius pallipes,3,l_TOP92,0.0012211372681863234,Topography
+Austropotamobius pallipes,3,l_TOP93,0.0013196212571582654,Topography
+Austropotamobius pallipes,3,l_TOP97,0.0015634875525003696,Topography
+Austropotamobius pallipes,3,u_CLI11,0.000529354894326956,Climate
+Austropotamobius pallipes,3,u_CLI15,0.018867498511228237,Climate
+Austropotamobius pallipes,3,u_CLI19,0.01605883826466832,Climate
+Austropotamobius pallipes,3,u_CLI23,0.003138726589938899,Climate
+Austropotamobius pallipes,3,u_CLI27,0.028481763134439397,Climate
+Austropotamobius pallipes,3,u_CLI3,0.0005037291476991532,Climate
+Austropotamobius pallipes,3,u_CLI31,0.0002900572461886894,Climate
+Austropotamobius pallipes,3,u_CLI35,0.0012462811720092073,Climate
+Austropotamobius pallipes,3,u_CLI39,0.007459368722381118,Climate
+Austropotamobius pallipes,3,u_CLI43,0.0010282724516515733,Climate
+Austropotamobius pallipes,3,u_CLI47,0.0002173252425906155,Climate
+Austropotamobius pallipes,3,u_CLI55,0.0002647605189700249,Climate
+Austropotamobius pallipes,3,u_CLI59,0.0001279159331524835,Climate
+Austropotamobius pallipes,3,u_CLI63,0.00031901050570536327,Climate
+Austropotamobius pallipes,3,u_CLI67,0.00034658315066371054,Climate
+Austropotamobius pallipes,3,u_CLI7,0.022906851519733835,Climate
+Austropotamobius pallipes,3,u_CLI71,0.0006460549030620791,Climate
+Austropotamobius pallipes,3,u_CLI75,0.00018639121928119433,Climate
+Austropotamobius pallipes,3,u_LAC1,9.821696129034521e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC10,7.841073234246337e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC11,6.89948696155856e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC12,1.7383792481113463e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC13,7.795328616851241e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC15,3.360924431819676e-06,Land Cover
+Austropotamobius pallipes,3,u_LAC18,0.0010196193934684625,Land Cover
+Austropotamobius pallipes,3,u_LAC19,0.00024537584938868,Land Cover
+Austropotamobius pallipes,3,u_LAC2,0.00030653476786571683,Land Cover
+Austropotamobius pallipes,3,u_LAC20,4.7633139426204546e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC21,0.00034447699918288213,Land Cover
+Austropotamobius pallipes,3,u_LAC22,1.3672414727459234e-18,Land Cover
+Austropotamobius pallipes,3,u_LAC3,8.729278806137986e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC4,0.0004845697530212638,Land Cover
+Austropotamobius pallipes,3,u_LAC6,0.0004300938848717016,Land Cover
+Austropotamobius pallipes,3,u_LAC7,5.0620733979818716e-05,Land Cover
+Austropotamobius pallipes,3,u_LAC8,0.00010588635898404625,Land Cover
+Austropotamobius pallipes,3,u_LAC9,0.0005556183829568095,Land Cover
+Austropotamobius pallipes,3,u_SOL11,0.00014188120309288017,Soil
+Austropotamobius pallipes,3,u_SOL15,0.000729700700221856,Soil
+Austropotamobius pallipes,3,u_SOL19,0.0009152167049498786,Soil
+Austropotamobius pallipes,3,u_SOL23,0.0008667453120587299,Soil
+Austropotamobius pallipes,3,u_SOL27,0.00630984932458882,Soil
+Austropotamobius pallipes,3,u_SOL3,0.0074931996300617466,Soil
+Austropotamobius pallipes,3,u_SOL31,0.0001132439447249094,Soil
+Austropotamobius pallipes,3,u_SOL35,0.010048952906347042,Soil
+Austropotamobius pallipes,3,u_SOL39,0.0033505050426820915,Soil
+Austropotamobius pallipes,3,u_SOL43,4.844735367430159e-05,Soil
+Austropotamobius pallipes,3,u_SOL47,8.099833502539003e-05,Soil
+Austropotamobius pallipes,3,u_SOL55,4.254685661388579e-05,Soil
+Austropotamobius pallipes,3,u_SOL59,0.003482009060081029,Soil
+Austropotamobius pallipes,3,u_SOL7,0.000116024434129169,Soil
+Austropotamobius pallipes,3,u_TOP103,0.00017905139358109206,Topography
+Austropotamobius pallipes,3,u_TOP110,0.00018587923684940957,Topography
+Austropotamobius pallipes,3,u_TOP112,0.00025726736016311373,Topography
+Austropotamobius pallipes,3,u_TOP113,0.0004880989663685981,Topography
+Austropotamobius pallipes,3,u_TOP126,0.000329377280873079,Topography
+Austropotamobius pallipes,3,u_TOP135,0.0002498835554487982,Topography
+Austropotamobius pallipes,3,u_TOP139,0.0003175748242787212,Topography
+Austropotamobius pallipes,3,u_TOP143,0.001390333417264673,Topography
+Austropotamobius pallipes,3,u_TOP15,0.0003067701609425245,Topography
+Austropotamobius pallipes,3,u_TOP19,3.422926071927822e-05,Topography
+Austropotamobius pallipes,3,u_TOP23,0.00017890142421608666,Topography
+Austropotamobius pallipes,3,u_TOP27,0.0001807490047545819,Topography
+Austropotamobius pallipes,3,u_TOP31,0.0014307746022476928,Topography
+Austropotamobius pallipes,3,u_TOP35,0.00011795403492165894,Topography
+Austropotamobius pallipes,3,u_TOP39,6.121073062007118e-05,Topography
+Austropotamobius pallipes,3,u_TOP43,0.00010301980394863874,Topography
+Austropotamobius pallipes,3,u_TOP47,0.00012240954008054628,Topography
+Austropotamobius pallipes,3,u_TOP51,0.0002662482391473239,Topography
+Austropotamobius pallipes,3,u_TOP55,0.003943329908181532,Topography
+Austropotamobius pallipes,3,u_TOP59,0.0001276438752427227,Topography
+Austropotamobius pallipes,3,u_TOP67,0.0005751037136141573,Topography
+Austropotamobius pallipes,3,u_TOP7,0.00032435347329010897,Topography
+Austropotamobius pallipes,3,u_TOP79,0.0002573812470738954,Topography
+Austropotamobius pallipes,3,u_TOP83,0.00039790839593173096,Topography
+Austropotamobius pallipes,4,l_CLI1,0.004818781565677853,Climate
+Austropotamobius pallipes,4,l_CLI10,0.003821502580524171,Climate
+Austropotamobius pallipes,4,l_CLI12,2.565173160366089e-05,Climate
+Austropotamobius pallipes,4,l_CLI13,0.04274952717118824,Climate
+Austropotamobius pallipes,4,l_CLI16,0.0014455266809698113,Climate
+Austropotamobius pallipes,4,l_CLI17,0.05281088821029442,Climate
+Austropotamobius pallipes,4,l_CLI2,0.010376905152319553,Climate
+Austropotamobius pallipes,4,l_CLI22,0.018165237710661166,Climate
+Austropotamobius pallipes,4,l_CLI24,0.0003642575778461148,Climate
+Austropotamobius pallipes,4,l_CLI25,0.08079677577884488,Climate
+Austropotamobius pallipes,4,l_CLI28,0.00013508140455222714,Climate
+Austropotamobius pallipes,4,l_CLI30,0.0002147230243025429,Climate
+Austropotamobius pallipes,4,l_CLI32,4.8777233301448666e-05,Climate
+Austropotamobius pallipes,4,l_CLI33,0.0023992643223573755,Climate
+Austropotamobius pallipes,4,l_CLI36,0.0002895186987300556,Climate
+Austropotamobius pallipes,4,l_CLI39,0.04829711812345888,Climate
+Austropotamobius pallipes,4,l_CLI42,0.004218531742372919,Climate
+Austropotamobius pallipes,4,l_CLI45,0.0012541528974762983,Climate
+Austropotamobius pallipes,4,l_CLI5,0.07760428201095253,Climate
+Austropotamobius pallipes,4,l_CLI53,0.001985747597360211,Climate
+Austropotamobius pallipes,4,l_CLI56,0.00021271685146941578,Climate
+Austropotamobius pallipes,4,l_CLI57,0.0012126049522657048,Climate
+Austropotamobius pallipes,4,l_CLI60,8.478223965278972e-05,Climate
+Austropotamobius pallipes,4,l_CLI61,0.001008160552513434,Climate
+Austropotamobius pallipes,4,l_CLI65,0.0018651745843722115,Climate
+Austropotamobius pallipes,4,l_CLI69,0.001657851604427098,Climate
+Austropotamobius pallipes,4,l_CLI72,0.00020312674005929505,Climate
+Austropotamobius pallipes,4,l_CLI73,0.0003563897496771549,Climate
+Austropotamobius pallipes,4,l_CLI76,0.0001159580786257512,Climate
+Austropotamobius pallipes,4,l_CLI8,0.0010550019157491387,Climate
+Austropotamobius pallipes,4,l_LAC1,9.435701456578599e-05,Land Cover
+Austropotamobius pallipes,4,l_LAC10,0.00011715676190605942,Land Cover
+Austropotamobius pallipes,4,l_LAC11,3.4848421975643815e-05,Land Cover
+Austropotamobius pallipes,4,l_LAC12,0.0,Land Cover
+Austropotamobius pallipes,4,l_LAC13,1.3029687542696482e-05,Land Cover
+Austropotamobius pallipes,4,l_LAC15,0.0,Land Cover
+Austropotamobius pallipes,4,l_LAC18,1.742647618504385e-18,Land Cover
+Austropotamobius pallipes,4,l_LAC19,0.0007634275088983529,Land Cover
+Austropotamobius pallipes,4,l_LAC20,9.505136666047048e-20,Land Cover
+Austropotamobius pallipes,4,l_LAC21,0.00018759882422360137,Land Cover
+Austropotamobius pallipes,4,l_LAC3,2.7170612007916048e-05,Land Cover
+Austropotamobius pallipes,4,l_LAC4,1.7426703668215924e-06,Land Cover
+Austropotamobius pallipes,4,l_LAC5,5.522331614074592e-06,Land Cover
+Austropotamobius pallipes,4,l_LAC6,0.000260126112643785,Land Cover
+Austropotamobius pallipes,4,l_LAC7,5.446614058419975e-05,Land Cover
+Austropotamobius pallipes,4,l_LAC9,0.00022105737229521254,Land Cover
+Austropotamobius pallipes,4,l_SOL1,0.016215894546264507,Soil
+Austropotamobius pallipes,4,l_SOL10,0.0005548920533428052,Soil
+Austropotamobius pallipes,4,l_SOL11,0.00027492665887843927,Soil
+Austropotamobius pallipes,4,l_SOL12,7.197971811890647e-05,Soil
+Austropotamobius pallipes,4,l_SOL13,0.0012664367534964656,Soil
+Austropotamobius pallipes,4,l_SOL14,0.0017981276224107346,Soil
+Austropotamobius pallipes,4,l_SOL15,0.001707736812952695,Soil
+Austropotamobius pallipes,4,l_SOL16,8.968779380676385e-05,Soil
+Austropotamobius pallipes,4,l_SOL17,0.0016474147391280828,Soil
+Austropotamobius pallipes,4,l_SOL18,0.001273296548403638,Soil
+Austropotamobius pallipes,4,l_SOL19,0.0018868110403448698,Soil
+Austropotamobius pallipes,4,l_SOL2,0.017919994413847822,Soil
+Austropotamobius pallipes,4,l_SOL20,3.798401762914623e-05,Soil
+Austropotamobius pallipes,4,l_SOL21,0.0002929735165654345,Soil
+Austropotamobius pallipes,4,l_SOL22,0.0005371231840505156,Soil
+Austropotamobius pallipes,4,l_SOL23,0.0005590056399421639,Soil
+Austropotamobius pallipes,4,l_SOL24,9.012082023817011e-05,Soil
+Austropotamobius pallipes,4,l_SOL25,0.02748212218223384,Soil
+Austropotamobius pallipes,4,l_SOL26,0.029718402334968197,Soil
+Austropotamobius pallipes,4,l_SOL27,0.026248345603379145,Soil
+Austropotamobius pallipes,4,l_SOL28,0.00048010660706191414,Soil
+Austropotamobius pallipes,4,l_SOL29,0.00024268207671511539,Soil
+Austropotamobius pallipes,4,l_SOL3,0.02402245494584552,Soil
+Austropotamobius pallipes,4,l_SOL30,0.0001697659274502351,Soil
+Austropotamobius pallipes,4,l_SOL31,0.0003864379688702368,Soil
+Austropotamobius pallipes,4,l_SOL32,0.00016048426478525524,Soil
+Austropotamobius pallipes,4,l_SOL33,0.00702719919891738,Soil
+Austropotamobius pallipes,4,l_SOL34,0.01975816441142147,Soil
+Austropotamobius pallipes,4,l_SOL35,0.01891428412403901,Soil
+Austropotamobius pallipes,4,l_SOL36,0.00016590006985776044,Soil
+Austropotamobius pallipes,4,l_SOL37,0.007544955480403532,Soil
+Austropotamobius pallipes,4,l_SOL38,0.009431242222912362,Soil
+Austropotamobius pallipes,4,l_SOL39,0.009060058233793685,Soil
+Austropotamobius pallipes,4,l_SOL4,0.000305402500023864,Soil
+Austropotamobius pallipes,4,l_SOL40,0.0004893028686219747,Soil
+Austropotamobius pallipes,4,l_SOL41,0.00013181638807455116,Soil
+Austropotamobius pallipes,4,l_SOL42,0.00012158037856221753,Soil
+Austropotamobius pallipes,4,l_SOL43,0.0002299897897872072,Soil
+Austropotamobius pallipes,4,l_SOL44,0.00023805886042425298,Soil
+Austropotamobius pallipes,4,l_SOL45,5.344957615788791e-05,Soil
+Austropotamobius pallipes,4,l_SOL46,4.243772941186167e-05,Soil
+Austropotamobius pallipes,4,l_SOL47,0.00012582105535879318,Soil
+Austropotamobius pallipes,4,l_SOL48,1.2598338515085555e-18,Soil
+Austropotamobius pallipes,4,l_SOL5,5.298102257061458e-05,Soil
+Austropotamobius pallipes,4,l_SOL53,0.0005134429934417964,Soil
+Austropotamobius pallipes,4,l_SOL54,3.8037872132252086e-05,Soil
+Austropotamobius pallipes,4,l_SOL55,0.00021799846566350215,Soil
+Austropotamobius pallipes,4,l_SOL56,0.001430258780777831,Soil
+Austropotamobius pallipes,4,l_SOL57,0.000811818176664645,Soil
+Austropotamobius pallipes,4,l_SOL58,0.0008079056102056854,Soil
+Austropotamobius pallipes,4,l_SOL59,0.0020104364637915867,Soil
+Austropotamobius pallipes,4,l_SOL6,8.498844900284053e-05,Soil
+Austropotamobius pallipes,4,l_SOL60,0.0002999745325243827,Soil
+Austropotamobius pallipes,4,l_SOL7,0.00018314019017873386,Soil
+Austropotamobius pallipes,4,l_SOL8,5.77939225587198e-05,Soil
+Austropotamobius pallipes,4,l_SOL9,0.0003575219152826039,Soil
+Austropotamobius pallipes,4,l_TOP1,0.0004205065714695939,Topography
+Austropotamobius pallipes,4,l_TOP10,0.0017454411707674268,Topography
+Austropotamobius pallipes,4,l_TOP101,0.02039394771576019,Topography
+Austropotamobius pallipes,4,l_TOP102,0.053488330978410166,Topography
+Austropotamobius pallipes,4,l_TOP103,0.0002170607373472632,Topography
+Austropotamobius pallipes,4,l_TOP104,0.0006062788341104255,Topography
+Austropotamobius pallipes,4,l_TOP105,7.84111209135578e-05,Topography
+Austropotamobius pallipes,4,l_TOP106,0.00017319799323356434,Topography
+Austropotamobius pallipes,4,l_TOP107,0.0001598257576574117,Topography
+Austropotamobius pallipes,4,l_TOP108,0.0008915049989628081,Topography
+Austropotamobius pallipes,4,l_TOP109,0.016488475502343326,Topography
+Austropotamobius pallipes,4,l_TOP111,5.18589280620705e-05,Topography
+Austropotamobius pallipes,4,l_TOP112,0.00013695808627230507,Topography
+Austropotamobius pallipes,4,l_TOP116,0.039562946261602526,Topography
+Austropotamobius pallipes,4,l_TOP118,0.00016996650479727128,Topography
+Austropotamobius pallipes,4,l_TOP12,0.0010452420791124731,Topography
+Austropotamobius pallipes,4,l_TOP125,0.0004099406073429753,Topography
+Austropotamobius pallipes,4,l_TOP126,0.0006953903251660106,Topography
+Austropotamobius pallipes,4,l_TOP127,0.00015029789402047725,Topography
+Austropotamobius pallipes,4,l_TOP128,0.0005556461346183737,Topography
+Austropotamobius pallipes,4,l_TOP13,0.00017691948806960116,Topography
+Austropotamobius pallipes,4,l_TOP132,0.0002281093605000108,Topography
+Austropotamobius pallipes,4,l_TOP133,4.5985850479754426e-05,Topography
+Austropotamobius pallipes,4,l_TOP134,0.000666099963913718,Topography
+Austropotamobius pallipes,4,l_TOP135,0.0014012062062706224,Topography
+Austropotamobius pallipes,4,l_TOP136,0.00040381939382250724,Topography
+Austropotamobius pallipes,4,l_TOP137,0.00025789992815143425,Topography
+Austropotamobius pallipes,4,l_TOP138,0.0008777544820206815,Topography
+Austropotamobius pallipes,4,l_TOP139,0.001125879730788363,Topography
+Austropotamobius pallipes,4,l_TOP14,0.00020432835742145345,Topography
+Austropotamobius pallipes,4,l_TOP140,0.00042770976452782025,Topography
+Austropotamobius pallipes,4,l_TOP141,0.0002997529921949861,Topography
+Austropotamobius pallipes,4,l_TOP142,0.00042308813472781393,Topography
+Austropotamobius pallipes,4,l_TOP143,0.0008159829811239089,Topography
+Austropotamobius pallipes,4,l_TOP144,0.000684602881094749,Topography
+Austropotamobius pallipes,4,l_TOP15,0.006563040747676436,Topography
+Austropotamobius pallipes,4,l_TOP16,0.0004004341031998948,Topography
+Austropotamobius pallipes,4,l_TOP18,0.0002206596472551117,Topography
+Austropotamobius pallipes,4,l_TOP19,0.00014619202945166727,Topography
+Austropotamobius pallipes,4,l_TOP2,0.0003616132917414245,Topography
+Austropotamobius pallipes,4,l_TOP20,4.815230532313977e-05,Topography
+Austropotamobius pallipes,4,l_TOP22,0.0010397611969926415,Topography
+Austropotamobius pallipes,4,l_TOP23,0.000524745485669027,Topography
+Austropotamobius pallipes,4,l_TOP26,8.239941864222037e-05,Topography
+Austropotamobius pallipes,4,l_TOP27,0.00011070826662121694,Topography
+Austropotamobius pallipes,4,l_TOP28,3.259569360762915e-05,Topography
+Austropotamobius pallipes,4,l_TOP32,4.5231028830672646e-05,Topography
+Austropotamobius pallipes,4,l_TOP38,0.00018261857159847394,Topography
+Austropotamobius pallipes,4,l_TOP39,0.00013443467754792196,Topography
+Austropotamobius pallipes,4,l_TOP4,0.000437437947548915,Topography
+Austropotamobius pallipes,4,l_TOP40,2.6439311500869805e-05,Topography
+Austropotamobius pallipes,4,l_TOP41,6.103866804071057e-19,Topography
+Austropotamobius pallipes,4,l_TOP42,0.002349790122036166,Topography
+Austropotamobius pallipes,4,l_TOP43,0.0012505782579909689,Topography
+Austropotamobius pallipes,4,l_TOP44,0.0025952587748332852,Topography
+Austropotamobius pallipes,4,l_TOP45,1.6517421952356441e-18,Topography
+Austropotamobius pallipes,4,l_TOP46,0.0008853377883143311,Topography
+Austropotamobius pallipes,4,l_TOP47,0.000703689385982727,Topography
+Austropotamobius pallipes,4,l_TOP48,0.0007822019410980532,Topography
+Austropotamobius pallipes,4,l_TOP49,0.0003023131610469388,Topography
+Austropotamobius pallipes,4,l_TOP50,0.0007099583326768612,Topography
+Austropotamobius pallipes,4,l_TOP51,0.0011789811246719821,Topography
+Austropotamobius pallipes,4,l_TOP52,0.0019115500025624203,Topography
+Austropotamobius pallipes,4,l_TOP56,0.005775107896047009,Topography
+Austropotamobius pallipes,4,l_TOP59,0.008744680858488278,Topography
+Austropotamobius pallipes,4,l_TOP6,0.00011272509954273826,Topography
+Austropotamobius pallipes,4,l_TOP61,0.00106831095203286,Topography
+Austropotamobius pallipes,4,l_TOP62,0.004397895511738781,Topography
+Austropotamobius pallipes,4,l_TOP63,0.00707134719331969,Topography
+Austropotamobius pallipes,4,l_TOP64,0.0002697141527721884,Topography
+Austropotamobius pallipes,4,l_TOP65,9.694558753248584e-05,Topography
+Austropotamobius pallipes,4,l_TOP66,0.002284293877354257,Topography
+Austropotamobius pallipes,4,l_TOP67,0.0007546832088272061,Topography
+Austropotamobius pallipes,4,l_TOP68,0.0003275186370358286,Topography
+Austropotamobius pallipes,4,l_TOP69,0.0005323909900617352,Topography
+Austropotamobius pallipes,4,l_TOP7,0.0023856945866589387,Topography
+Austropotamobius pallipes,4,l_TOP70,0.001230789235548817,Topography
+Austropotamobius pallipes,4,l_TOP71,0.003568428169501543,Topography
+Austropotamobius pallipes,4,l_TOP72,0.00020399493059195474,Topography
+Austropotamobius pallipes,4,l_TOP73,0.0003179224258105354,Topography
+Austropotamobius pallipes,4,l_TOP74,0.0022011286109081696,Topography
+Austropotamobius pallipes,4,l_TOP75,0.002180988042795044,Topography
+Austropotamobius pallipes,4,l_TOP76,0.00030457555946957404,Topography
+Austropotamobius pallipes,4,l_TOP83,0.0011361008532713057,Topography
+Austropotamobius pallipes,4,l_TOP85,0.00024511505811524283,Topography
+Austropotamobius pallipes,4,l_TOP86,0.0006491865349474925,Topography
+Austropotamobius pallipes,4,l_TOP87,0.008701129526840889,Topography
+Austropotamobius pallipes,4,l_TOP88,0.0007308984612059834,Topography
+Austropotamobius pallipes,4,l_TOP89,1.2104901543613544e-05,Topography
+Austropotamobius pallipes,4,l_TOP9,5.455899467869366e-05,Topography
+Austropotamobius pallipes,4,l_TOP90,0.0011874221026693117,Topography
+Austropotamobius pallipes,4,l_TOP91,0.001648689279850348,Topography
+Austropotamobius pallipes,4,l_TOP92,0.00041277520929171763,Topography
+Austropotamobius pallipes,4,l_TOP93,0.0019576220375559297,Topography
+Austropotamobius pallipes,4,l_TOP97,0.0014582570961494854,Topography
+Austropotamobius pallipes,4,u_CLI11,0.0009544179003130374,Climate
+Austropotamobius pallipes,4,u_CLI15,0.026860599609766393,Climate
+Austropotamobius pallipes,4,u_CLI19,0.02087696726817902,Climate
+Austropotamobius pallipes,4,u_CLI23,0.003309316478449681,Climate
+Austropotamobius pallipes,4,u_CLI27,0.027092275734079126,Climate
+Austropotamobius pallipes,4,u_CLI3,0.00042848291203907745,Climate
+Austropotamobius pallipes,4,u_CLI31,9.684142212315639e-05,Climate
+Austropotamobius pallipes,4,u_CLI35,0.0016109372227874077,Climate
+Austropotamobius pallipes,4,u_CLI39,0.015411754640484844,Climate
+Austropotamobius pallipes,4,u_CLI43,0.001209041100408314,Climate
+Austropotamobius pallipes,4,u_CLI47,0.00037064503301307276,Climate
+Austropotamobius pallipes,4,u_CLI55,0.00038847829860633225,Climate
+Austropotamobius pallipes,4,u_CLI59,0.0001188488010805045,Climate
+Austropotamobius pallipes,4,u_CLI63,0.0002618195163966326,Climate
+Austropotamobius pallipes,4,u_CLI67,0.0005161393206968167,Climate
+Austropotamobius pallipes,4,u_CLI7,0.025169428639812967,Climate
+Austropotamobius pallipes,4,u_CLI71,0.0007752222336062321,Climate
+Austropotamobius pallipes,4,u_CLI75,0.00018862800507170386,Climate
+Austropotamobius pallipes,4,u_LAC1,6.812426530052211e-05,Land Cover
+Austropotamobius pallipes,4,u_LAC10,6.248409987719264e-05,Land Cover
+Austropotamobius pallipes,4,u_LAC11,6.276339211164526e-05,Land Cover
+Austropotamobius pallipes,4,u_LAC12,3.6445953398349384e-05,Land Cover
+Austropotamobius pallipes,4,u_LAC13,0.0001703349716275766,Land Cover
+Austropotamobius pallipes,4,u_LAC15,1.0980459645155711e-20,Land Cover
+Austropotamobius pallipes,4,u_LAC18,0.00024706222572694976,Land Cover
+Austropotamobius pallipes,4,u_LAC19,0.0009355898412187153,Land Cover
+Austropotamobius pallipes,4,u_LAC2,0.00034997016363924545,Land Cover
+Austropotamobius pallipes,4,u_LAC20,6.995992656426823e-06,Land Cover
+Austropotamobius pallipes,4,u_LAC21,1.9365190382478552e-05,Land Cover
+Austropotamobius pallipes,4,u_LAC22,0.0,Land Cover
+Austropotamobius pallipes,4,u_LAC3,0.00018317810904305395,Land Cover
+Austropotamobius pallipes,4,u_LAC4,0.000491861368804591,Land Cover
+Austropotamobius pallipes,4,u_LAC6,0.00024648114820354004,Land Cover
+Austropotamobius pallipes,4,u_LAC7,0.00012550073976884206,Land Cover
+Austropotamobius pallipes,4,u_LAC8,8.207656725759271e-05,Land Cover
+Austropotamobius pallipes,4,u_LAC9,0.0005434477423455148,Land Cover
+Austropotamobius pallipes,4,u_SOL11,0.00017113631039269303,Soil
+Austropotamobius pallipes,4,u_SOL15,0.0007954937109685251,Soil
+Austropotamobius pallipes,4,u_SOL19,0.0006323664473897149,Soil
+Austropotamobius pallipes,4,u_SOL23,0.0002986294965447501,Soil
+Austropotamobius pallipes,4,u_SOL27,0.005552779964178518,Soil
+Austropotamobius pallipes,4,u_SOL3,0.005250663333459778,Soil
+Austropotamobius pallipes,4,u_SOL31,9.774055318470995e-05,Soil
+Austropotamobius pallipes,4,u_SOL35,0.0072071601109571235,Soil
+Austropotamobius pallipes,4,u_SOL39,0.004256542472746179,Soil
+Austropotamobius pallipes,4,u_SOL43,4.078002889472299e-05,Soil
+Austropotamobius pallipes,4,u_SOL47,3.499628539688317e-05,Soil
+Austropotamobius pallipes,4,u_SOL55,0.00012282290078541528,Soil
+Austropotamobius pallipes,4,u_SOL59,0.0004962685336317115,Soil
+Austropotamobius pallipes,4,u_SOL7,0.0001279679223534839,Soil
+Austropotamobius pallipes,4,u_TOP103,9.015629778030731e-05,Topography
+Austropotamobius pallipes,4,u_TOP110,3.6078214267894174e-05,Topography
+Austropotamobius pallipes,4,u_TOP112,0.00034778313775313214,Topography
+Austropotamobius pallipes,4,u_TOP113,0.00023289767268300354,Topography
+Austropotamobius pallipes,4,u_TOP126,0.0002700151620549801,Topography
+Austropotamobius pallipes,4,u_TOP135,0.00015519902923622704,Topography
+Austropotamobius pallipes,4,u_TOP139,0.00019567706535031493,Topography
+Austropotamobius pallipes,4,u_TOP143,0.0004679114100894661,Topography
+Austropotamobius pallipes,4,u_TOP15,0.0002302230150721624,Topography
+Austropotamobius pallipes,4,u_TOP19,8.903271305433485e-05,Topography
+Austropotamobius pallipes,4,u_TOP23,6.201192250819128e-05,Topography
+Austropotamobius pallipes,4,u_TOP27,5.72956372990728e-05,Topography
+Austropotamobius pallipes,4,u_TOP31,0.003501899083514758,Topography
+Austropotamobius pallipes,4,u_TOP35,8.329703062043528e-05,Topography
+Austropotamobius pallipes,4,u_TOP39,6.903166695913297e-05,Topography
+Austropotamobius pallipes,4,u_TOP43,0.0006589181417290218,Topography
+Austropotamobius pallipes,4,u_TOP47,0.00012047760075795053,Topography
+Austropotamobius pallipes,4,u_TOP51,0.00035293117400621055,Topography
+Austropotamobius pallipes,4,u_TOP55,0.006931076521697961,Topography
+Austropotamobius pallipes,4,u_TOP59,0.0007224952968861496,Topography
+Austropotamobius pallipes,4,u_TOP67,0.0005809295903269192,Topography
+Austropotamobius pallipes,4,u_TOP7,0.0013195446823318414,Topography
+Austropotamobius pallipes,4,u_TOP79,0.000965129296169971,Topography
+Austropotamobius pallipes,4,u_TOP83,0.000557937729509452,Topography
+Austropotamobius pallipes,5,l_CLI1,0.0029247789769847447,Climate
+Austropotamobius pallipes,5,l_CLI10,0.003883358688556942,Climate
+Austropotamobius pallipes,5,l_CLI12,0.00015581591013685074,Climate
+Austropotamobius pallipes,5,l_CLI13,0.06336138621065365,Climate
+Austropotamobius pallipes,5,l_CLI16,0.0008466168942353892,Climate
+Austropotamobius pallipes,5,l_CLI17,0.06156536315809164,Climate
+Austropotamobius pallipes,5,l_CLI2,0.007415814447802003,Climate
+Austropotamobius pallipes,5,l_CLI22,0.014285190067874376,Climate
+Austropotamobius pallipes,5,l_CLI24,9.844736668431068e-05,Climate
+Austropotamobius pallipes,5,l_CLI25,0.0631855514390961,Climate
+Austropotamobius pallipes,5,l_CLI28,0.00011493955088726716,Climate
+Austropotamobius pallipes,5,l_CLI30,0.00030163535136420305,Climate
+Austropotamobius pallipes,5,l_CLI32,6.877038104634006e-05,Climate
+Austropotamobius pallipes,5,l_CLI33,0.00243492695460285,Climate
+Austropotamobius pallipes,5,l_CLI36,0.0005259786830327155,Climate
+Austropotamobius pallipes,5,l_CLI39,0.04928269880239303,Climate
+Austropotamobius pallipes,5,l_CLI42,0.0038052903085391446,Climate
+Austropotamobius pallipes,5,l_CLI45,0.0004882716575498294,Climate
+Austropotamobius pallipes,5,l_CLI5,0.07075128033091811,Climate
+Austropotamobius pallipes,5,l_CLI53,0.0015422135737500433,Climate
+Austropotamobius pallipes,5,l_CLI56,0.00011591308118513782,Climate
+Austropotamobius pallipes,5,l_CLI57,0.000555743874646077,Climate
+Austropotamobius pallipes,5,l_CLI60,0.00045120309364547333,Climate
+Austropotamobius pallipes,5,l_CLI61,0.0006968904804935805,Climate
+Austropotamobius pallipes,5,l_CLI65,0.001349308309273425,Climate
+Austropotamobius pallipes,5,l_CLI69,0.0014376260878987525,Climate
+Austropotamobius pallipes,5,l_CLI72,8.432934590452059e-05,Climate
+Austropotamobius pallipes,5,l_CLI73,0.0001303742127302442,Climate
+Austropotamobius pallipes,5,l_CLI76,0.00015860567555630052,Climate
+Austropotamobius pallipes,5,l_CLI8,0.0028441631172609907,Climate
+Austropotamobius pallipes,5,l_LAC1,3.822656269387238e-05,Land Cover
+Austropotamobius pallipes,5,l_LAC10,5.983887918247373e-05,Land Cover
+Austropotamobius pallipes,5,l_LAC11,2.8739952943270813e-05,Land Cover
+Austropotamobius pallipes,5,l_LAC12,0.0,Land Cover
+Austropotamobius pallipes,5,l_LAC13,0.0003495446037517217,Land Cover
+Austropotamobius pallipes,5,l_LAC15,0.0,Land Cover
+Austropotamobius pallipes,5,l_LAC18,7.699933880464736e-19,Land Cover
+Austropotamobius pallipes,5,l_LAC19,0.0010333057989027497,Land Cover
+Austropotamobius pallipes,5,l_LAC20,2.187002802011216e-18,Land Cover
+Austropotamobius pallipes,5,l_LAC21,1.7728189455342457e-05,Land Cover
+Austropotamobius pallipes,5,l_LAC3,2.433614724210365e-18,Land Cover
+Austropotamobius pallipes,5,l_LAC4,4.82966598900711e-06,Land Cover
+Austropotamobius pallipes,5,l_LAC5,1.8235162518196178e-06,Land Cover
+Austropotamobius pallipes,5,l_LAC6,0.0006848468767282166,Land Cover
+Austropotamobius pallipes,5,l_LAC7,3.862970409866648e-05,Land Cover
+Austropotamobius pallipes,5,l_LAC9,0.0003472223751305413,Land Cover
+Austropotamobius pallipes,5,l_SOL1,0.012792290472138939,Soil
+Austropotamobius pallipes,5,l_SOL10,0.0002493118285138209,Soil
+Austropotamobius pallipes,5,l_SOL11,0.0005133627197585672,Soil
+Austropotamobius pallipes,5,l_SOL12,9.561657283856452e-05,Soil
+Austropotamobius pallipes,5,l_SOL13,0.0017259873557026713,Soil
+Austropotamobius pallipes,5,l_SOL14,0.0008105813517873019,Soil
+Austropotamobius pallipes,5,l_SOL15,0.0010993856161425975,Soil
+Austropotamobius pallipes,5,l_SOL16,6.571779012506825e-05,Soil
+Austropotamobius pallipes,5,l_SOL17,0.0019450857203805027,Soil
+Austropotamobius pallipes,5,l_SOL18,0.001098715029472727,Soil
+Austropotamobius pallipes,5,l_SOL19,0.001825800111084571,Soil
+Austropotamobius pallipes,5,l_SOL2,0.021263081528530094,Soil
+Austropotamobius pallipes,5,l_SOL20,0.00019642460638561772,Soil
+Austropotamobius pallipes,5,l_SOL21,0.0002848964865871003,Soil
+Austropotamobius pallipes,5,l_SOL22,0.0006250129585354905,Soil
+Austropotamobius pallipes,5,l_SOL23,0.0008018157482807841,Soil
+Austropotamobius pallipes,5,l_SOL24,7.271086863553218e-05,Soil
+Austropotamobius pallipes,5,l_SOL25,0.03100288187218636,Soil
+Austropotamobius pallipes,5,l_SOL26,0.03021572789028121,Soil
+Austropotamobius pallipes,5,l_SOL27,0.048368422463074455,Soil
+Austropotamobius pallipes,5,l_SOL28,0.00018215979782762419,Soil
+Austropotamobius pallipes,5,l_SOL29,0.00028773094168847414,Soil
+Austropotamobius pallipes,5,l_SOL3,0.033202064097665455,Soil
+Austropotamobius pallipes,5,l_SOL30,0.00014382219361401175,Soil
+Austropotamobius pallipes,5,l_SOL31,0.00019589942564732804,Soil
+Austropotamobius pallipes,5,l_SOL32,4.646830945121142e-05,Soil
+Austropotamobius pallipes,5,l_SOL33,0.009480837483836295,Soil
+Austropotamobius pallipes,5,l_SOL34,0.014927857961837408,Soil
+Austropotamobius pallipes,5,l_SOL35,0.03002973648979569,Soil
+Austropotamobius pallipes,5,l_SOL36,0.00012856082265639952,Soil
+Austropotamobius pallipes,5,l_SOL37,0.009541427459657428,Soil
+Austropotamobius pallipes,5,l_SOL38,0.0029261903440916826,Soil
+Austropotamobius pallipes,5,l_SOL39,0.01352990297342628,Soil
+Austropotamobius pallipes,5,l_SOL4,0.00032222411504077456,Soil
+Austropotamobius pallipes,5,l_SOL40,0.00020482897211024373,Soil
+Austropotamobius pallipes,5,l_SOL41,8.566848750959935e-05,Soil
+Austropotamobius pallipes,5,l_SOL42,0.00019472270449790726,Soil
+Austropotamobius pallipes,5,l_SOL43,0.00011151861945439378,Soil
+Austropotamobius pallipes,5,l_SOL44,8.627675007593773e-05,Soil
+Austropotamobius pallipes,5,l_SOL45,2.87186887910295e-05,Soil
+Austropotamobius pallipes,5,l_SOL46,3.4843239050553346e-06,Soil
+Austropotamobius pallipes,5,l_SOL47,0.0001497704924829013,Soil
+Austropotamobius pallipes,5,l_SOL48,6.50138456942567e-06,Soil
+Austropotamobius pallipes,5,l_SOL5,3.069490438524759e-05,Soil
+Austropotamobius pallipes,5,l_SOL53,0.00015605614834227985,Soil
+Austropotamobius pallipes,5,l_SOL54,3.558160105217378e-06,Soil
+Austropotamobius pallipes,5,l_SOL55,0.00021145537148410635,Soil
+Austropotamobius pallipes,5,l_SOL56,0.0002737266186760525,Soil
+Austropotamobius pallipes,5,l_SOL57,0.0006068428326433542,Soil
+Austropotamobius pallipes,5,l_SOL58,0.0013968667551107965,Soil
+Austropotamobius pallipes,5,l_SOL59,0.0019987930466391,Soil
+Austropotamobius pallipes,5,l_SOL6,5.428717518989262e-05,Soil
+Austropotamobius pallipes,5,l_SOL60,0.00010810396761375086,Soil
+Austropotamobius pallipes,5,l_SOL7,6.559645576698179e-05,Soil
+Austropotamobius pallipes,5,l_SOL8,6.895660183911137e-05,Soil
+Austropotamobius pallipes,5,l_SOL9,0.00018984627063739186,Soil
+Austropotamobius pallipes,5,l_TOP1,0.0003526341896639879,Topography
+Austropotamobius pallipes,5,l_TOP10,0.0017368220827583256,Topography
+Austropotamobius pallipes,5,l_TOP101,0.015615971156762859,Topography
+Austropotamobius pallipes,5,l_TOP102,0.05023582825105279,Topography
+Austropotamobius pallipes,5,l_TOP103,0.0002340127148943242,Topography
+Austropotamobius pallipes,5,l_TOP104,0.00047672175900747633,Topography
+Austropotamobius pallipes,5,l_TOP105,0.0003312462030022093,Topography
+Austropotamobius pallipes,5,l_TOP106,0.00017739593311036537,Topography
+Austropotamobius pallipes,5,l_TOP107,9.887918749705579e-05,Topography
+Austropotamobius pallipes,5,l_TOP108,0.00015613132512025664,Topography
+Austropotamobius pallipes,5,l_TOP109,0.02125859171234381,Topography
+Austropotamobius pallipes,5,l_TOP111,8.279896683823706e-05,Topography
+Austropotamobius pallipes,5,l_TOP112,0.00021046704748569503,Topography
+Austropotamobius pallipes,5,l_TOP116,0.04043545082616981,Topography
+Austropotamobius pallipes,5,l_TOP118,0.0005719173183730898,Topography
+Austropotamobius pallipes,5,l_TOP12,0.002755284577734343,Topography
+Austropotamobius pallipes,5,l_TOP125,0.00013530399666240062,Topography
+Austropotamobius pallipes,5,l_TOP126,0.0003275157191655192,Topography
+Austropotamobius pallipes,5,l_TOP127,0.00014510236846615752,Topography
+Austropotamobius pallipes,5,l_TOP128,0.0006961262033040554,Topography
+Austropotamobius pallipes,5,l_TOP13,8.148929705330462e-05,Topography
+Austropotamobius pallipes,5,l_TOP132,0.0004770359351529823,Topography
+Austropotamobius pallipes,5,l_TOP133,8.550970111807513e-05,Topography
+Austropotamobius pallipes,5,l_TOP134,0.0005851709420847539,Topography
+Austropotamobius pallipes,5,l_TOP135,0.0008962748531852335,Topography
+Austropotamobius pallipes,5,l_TOP136,0.0005931827480135755,Topography
+Austropotamobius pallipes,5,l_TOP137,4.5318773577391755e-05,Topography
+Austropotamobius pallipes,5,l_TOP138,0.0006556971401477023,Topography
+Austropotamobius pallipes,5,l_TOP139,0.0009465948097672951,Topography
+Austropotamobius pallipes,5,l_TOP14,0.0008877493207671217,Topography
+Austropotamobius pallipes,5,l_TOP140,0.0003601437192796879,Topography
+Austropotamobius pallipes,5,l_TOP141,7.894591919602216e-05,Topography
+Austropotamobius pallipes,5,l_TOP142,0.0009256493108849417,Topography
+Austropotamobius pallipes,5,l_TOP143,0.0008163504534691009,Topography
+Austropotamobius pallipes,5,l_TOP144,0.0006754418851918487,Topography
+Austropotamobius pallipes,5,l_TOP15,0.0022796167122883125,Topography
+Austropotamobius pallipes,5,l_TOP16,0.0010804097362656173,Topography
+Austropotamobius pallipes,5,l_TOP18,3.00930178248401e-05,Topography
+Austropotamobius pallipes,5,l_TOP19,0.00013371749659256735,Topography
+Austropotamobius pallipes,5,l_TOP2,0.0003100013460122819,Topography
+Austropotamobius pallipes,5,l_TOP20,0.00011356025876128448,Topography
+Austropotamobius pallipes,5,l_TOP22,0.0008861479884412569,Topography
+Austropotamobius pallipes,5,l_TOP23,0.0012226184436967015,Topography
+Austropotamobius pallipes,5,l_TOP26,2.7913725395432095e-05,Topography
+Austropotamobius pallipes,5,l_TOP27,6.585208849873847e-05,Topography
+Austropotamobius pallipes,5,l_TOP28,7.937490838363298e-05,Topography
+Austropotamobius pallipes,5,l_TOP32,2.0378965607269867e-05,Topography
+Austropotamobius pallipes,5,l_TOP38,0.00011255481481156583,Topography
+Austropotamobius pallipes,5,l_TOP39,9.799572464036205e-05,Topography
+Austropotamobius pallipes,5,l_TOP4,0.0008337943422018991,Topography
+Austropotamobius pallipes,5,l_TOP40,0.00010651280319804704,Topography
+Austropotamobius pallipes,5,l_TOP41,3.088905057408641e-18,Topography
+Austropotamobius pallipes,5,l_TOP42,0.0012665737876769252,Topography
+Austropotamobius pallipes,5,l_TOP43,0.003927295372822061,Topography
+Austropotamobius pallipes,5,l_TOP44,0.004696264746299612,Topography
+Austropotamobius pallipes,5,l_TOP45,6.242132496780522e-19,Topography
+Austropotamobius pallipes,5,l_TOP46,0.0008084499303516227,Topography
+Austropotamobius pallipes,5,l_TOP47,0.0007421044489435173,Topography
+Austropotamobius pallipes,5,l_TOP48,0.0008162555260587864,Topography
+Austropotamobius pallipes,5,l_TOP49,0.0005789886613736384,Topography
+Austropotamobius pallipes,5,l_TOP50,0.0005551002978442953,Topography
+Austropotamobius pallipes,5,l_TOP51,0.0014572722018479198,Topography
+Austropotamobius pallipes,5,l_TOP52,0.0015199913195447232,Topography
+Austropotamobius pallipes,5,l_TOP56,0.002535339858344826,Topography
+Austropotamobius pallipes,5,l_TOP59,0.00439408757514188,Topography
+Austropotamobius pallipes,5,l_TOP6,0.00012464192435329523,Topography
+Austropotamobius pallipes,5,l_TOP61,0.0012601471398997002,Topography
+Austropotamobius pallipes,5,l_TOP62,0.003479341904005595,Topography
+Austropotamobius pallipes,5,l_TOP63,0.003753085984413562,Topography
+Austropotamobius pallipes,5,l_TOP64,0.00018685485731922383,Topography
+Austropotamobius pallipes,5,l_TOP65,4.153052535076499e-05,Topography
+Austropotamobius pallipes,5,l_TOP66,0.0017205054590558638,Topography
+Austropotamobius pallipes,5,l_TOP67,0.0035308907493667454,Topography
+Austropotamobius pallipes,5,l_TOP68,0.0003861336631863896,Topography
+Austropotamobius pallipes,5,l_TOP69,0.0007335456363567976,Topography
+Austropotamobius pallipes,5,l_TOP7,0.0015160011184415711,Topography
+Austropotamobius pallipes,5,l_TOP70,0.0010077179767342486,Topography
+Austropotamobius pallipes,5,l_TOP71,0.002633914145852468,Topography
+Austropotamobius pallipes,5,l_TOP72,0.0002557229563331707,Topography
+Austropotamobius pallipes,5,l_TOP73,0.0006575117990614894,Topography
+Austropotamobius pallipes,5,l_TOP74,0.001266457483174417,Topography
+Austropotamobius pallipes,5,l_TOP75,0.0051997459837009544,Topography
+Austropotamobius pallipes,5,l_TOP76,0.000130580428756602,Topography
+Austropotamobius pallipes,5,l_TOP83,0.0006777010312505682,Topography
+Austropotamobius pallipes,5,l_TOP85,0.00042585986622040086,Topography
+Austropotamobius pallipes,5,l_TOP86,0.0017083157424423563,Topography
+Austropotamobius pallipes,5,l_TOP87,0.006797187138674788,Topography
+Austropotamobius pallipes,5,l_TOP88,0.00011391865656864177,Topography
+Austropotamobius pallipes,5,l_TOP89,0.0001392956189565125,Topography
+Austropotamobius pallipes,5,l_TOP9,7.568085549178922e-05,Topography
+Austropotamobius pallipes,5,l_TOP90,0.0028621190170720896,Topography
+Austropotamobius pallipes,5,l_TOP91,0.004397904978106844,Topography
+Austropotamobius pallipes,5,l_TOP92,0.00024920369967585835,Topography
+Austropotamobius pallipes,5,l_TOP93,0.001590321659269783,Topography
+Austropotamobius pallipes,5,l_TOP97,0.001532613654683742,Topography
+Austropotamobius pallipes,5,u_CLI11,0.0003969679667282635,Climate
+Austropotamobius pallipes,5,u_CLI15,0.01866727684425321,Climate
+Austropotamobius pallipes,5,u_CLI19,0.011180383925499965,Climate
+Austropotamobius pallipes,5,u_CLI23,0.0010616473065997898,Climate
+Austropotamobius pallipes,5,u_CLI27,0.025790477318833542,Climate
+Austropotamobius pallipes,5,u_CLI3,0.0013844961566474958,Climate
+Austropotamobius pallipes,5,u_CLI31,0.0001168920115423873,Climate
+Austropotamobius pallipes,5,u_CLI35,0.0015655814411356997,Climate
+Austropotamobius pallipes,5,u_CLI39,0.013750527184880085,Climate
+Austropotamobius pallipes,5,u_CLI43,0.0010670021550349222,Climate
+Austropotamobius pallipes,5,u_CLI47,0.00017241486931864595,Climate
+Austropotamobius pallipes,5,u_CLI55,0.0001447248451341867,Climate
+Austropotamobius pallipes,5,u_CLI59,0.00022014928218051913,Climate
+Austropotamobius pallipes,5,u_CLI63,0.00024699107109925534,Climate
+Austropotamobius pallipes,5,u_CLI67,0.00035088811434497646,Climate
+Austropotamobius pallipes,5,u_CLI7,0.024981958748232228,Climate
+Austropotamobius pallipes,5,u_CLI71,0.00039584876953323636,Climate
+Austropotamobius pallipes,5,u_CLI75,0.00014800356109870486,Climate
+Austropotamobius pallipes,5,u_LAC1,7.236210556522708e-06,Land Cover
+Austropotamobius pallipes,5,u_LAC10,4.9200828182494395e-05,Land Cover
+Austropotamobius pallipes,5,u_LAC11,0.00013493323613997243,Land Cover
+Austropotamobius pallipes,5,u_LAC12,1.7412953639207813e-18,Land Cover
+Austropotamobius pallipes,5,u_LAC13,0.00010979250369828513,Land Cover
+Austropotamobius pallipes,5,u_LAC15,1.9257535916830856e-05,Land Cover
+Austropotamobius pallipes,5,u_LAC18,0.0009584170634969605,Land Cover
+Austropotamobius pallipes,5,u_LAC19,0.0012147771157525846,Land Cover
+Austropotamobius pallipes,5,u_LAC2,0.000282559290759704,Land Cover
+Austropotamobius pallipes,5,u_LAC20,6.87823534978568e-05,Land Cover
+Austropotamobius pallipes,5,u_LAC21,3.015411325985326e-18,Land Cover
+Austropotamobius pallipes,5,u_LAC22,1.5886838241545367e-19,Land Cover
+Austropotamobius pallipes,5,u_LAC3,0.00010067280161590247,Land Cover
+Austropotamobius pallipes,5,u_LAC4,0.00029090260444319,Land Cover
+Austropotamobius pallipes,5,u_LAC6,0.0004192319267640075,Land Cover
+Austropotamobius pallipes,5,u_LAC7,2.4013968698962382e-05,Land Cover
+Austropotamobius pallipes,5,u_LAC8,0.0,Land Cover
+Austropotamobius pallipes,5,u_LAC9,0.001013064072909756,Land Cover
+Austropotamobius pallipes,5,u_SOL11,0.00010858125918091806,Soil
+Austropotamobius pallipes,5,u_SOL15,0.00042021724055446466,Soil
+Austropotamobius pallipes,5,u_SOL19,0.00041173199792280475,Soil
+Austropotamobius pallipes,5,u_SOL23,0.0001640717865610985,Soil
+Austropotamobius pallipes,5,u_SOL27,0.00886006549733427,Soil
+Austropotamobius pallipes,5,u_SOL3,0.0021984645545124527,Soil
+Austropotamobius pallipes,5,u_SOL31,0.0001326806230768713,Soil
+Austropotamobius pallipes,5,u_SOL35,0.009169246479663041,Soil
+Austropotamobius pallipes,5,u_SOL39,0.003075035823341292,Soil
+Austropotamobius pallipes,5,u_SOL43,5.744835130991123e-05,Soil
+Austropotamobius pallipes,5,u_SOL47,5.9478841838507346e-05,Soil
+Austropotamobius pallipes,5,u_SOL55,9.365179062453839e-05,Soil
+Austropotamobius pallipes,5,u_SOL59,0.00010976627693525066,Soil
+Austropotamobius pallipes,5,u_SOL7,3.256349985820204e-05,Soil
+Austropotamobius pallipes,5,u_TOP103,0.00016896942290554027,Topography
+Austropotamobius pallipes,5,u_TOP110,8.815538294315314e-05,Topography
+Austropotamobius pallipes,5,u_TOP112,0.00020915987300477217,Topography
+Austropotamobius pallipes,5,u_TOP113,0.0003147094708890501,Topography
+Austropotamobius pallipes,5,u_TOP126,0.0002726280265313197,Topography
+Austropotamobius pallipes,5,u_TOP135,0.00010164679231547467,Topography
+Austropotamobius pallipes,5,u_TOP139,0.0005003350245207193,Topography
+Austropotamobius pallipes,5,u_TOP143,0.00046333952304386793,Topography
+Austropotamobius pallipes,5,u_TOP15,0.00033324824030160616,Topography
+Austropotamobius pallipes,5,u_TOP19,8.896873746705995e-05,Topography
+Austropotamobius pallipes,5,u_TOP23,0.00015967948633929696,Topography
+Austropotamobius pallipes,5,u_TOP27,9.259002957265694e-05,Topography
+Austropotamobius pallipes,5,u_TOP31,0.0009136868589741903,Topography
+Austropotamobius pallipes,5,u_TOP35,0.0001515593619902625,Topography
+Austropotamobius pallipes,5,u_TOP39,0.00010055906498629603,Topography
+Austropotamobius pallipes,5,u_TOP43,0.000274041600957296,Topography
+Austropotamobius pallipes,5,u_TOP47,0.00010324270635263544,Topography
+Austropotamobius pallipes,5,u_TOP51,0.00042083182750810624,Topography
+Austropotamobius pallipes,5,u_TOP55,0.004861251182264786,Topography
+Austropotamobius pallipes,5,u_TOP59,0.000575866187517337,Topography
+Austropotamobius pallipes,5,u_TOP67,0.0003816100977726168,Topography
+Austropotamobius pallipes,5,u_TOP7,0.0004238699775611569,Topography
+Austropotamobius pallipes,5,u_TOP79,0.0005373233289635568,Topography
+Austropotamobius pallipes,5,u_TOP83,0.00043596829069619494,Topography

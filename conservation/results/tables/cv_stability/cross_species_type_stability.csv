@@ -1,0 +1,13 @@
+species,type,mean_importance,sd_importance
+Pontastacus leptodactylus,Climate,40.61873358537748,0.739312778327522
+Pontastacus leptodactylus,Topography,32.6765676586924,0.48844537947603134
+Pontastacus leptodactylus,Soil,25.214141374881553,0.424282888159135
+Pontastacus leptodactylus,Land Cover,1.490557381048577,0.10006800298445824
+Austropotamobius fulcisianus,Climate,54.009743864648364,0.9985513929961843
+Austropotamobius fulcisianus,Topography,18.64141626952173,1.46408491088236
+Austropotamobius fulcisianus,Soil,26.799496266437217,2.0035709311949814
+Austropotamobius fulcisianus,Land Cover,0.5493435993926984,0.10282841288535201
+Austropotamobius pallipes,Climate,46.95835456806828,2.408190326524391
+Austropotamobius pallipes,Topography,22.527177221835355,2.219754831030139
+Austropotamobius pallipes,Soil,29.888971666252928,2.6936636276738826
+Austropotamobius pallipes,Land Cover,0.6254965438434303,0.0838915015417754

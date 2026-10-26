@@ -1,0 +1,39 @@
+Decision Rules for Austropotamobius fulcisianus
+============================================================
+Total leaves: 9
+
+Rule 1: INVASIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.25 AND Precip. of driest month [min] (kg/m²) <= 23.0 AND Mean temp. of warmest quarter [max] (°C) <= 25.2
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 2: NATIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.25 AND Precip. of driest month [min] (kg/m²) <= 23.0 AND Mean temp. of warmest quarter [max] (°C) > 25.2
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 3: INVASIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.25 AND Precip. of driest month [min] (kg/m²) > 23.0 AND Temp. seasonality (SD × 100) [min] (°C/100) <= 539.45
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 4: NATIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.25 AND Precip. of driest month [min] (kg/m²) > 23.0 AND Temp. seasonality (SD × 100) [min] (°C/100) > 539.45 AND Dist. to basin outlet [max] (m) <= 2599408.0 AND Tree cover, needleleaved, evergreen   (%) <= 0.978
+  Samples: 1 (native: 99.4%, invasive: 0.6%)
+
+Rule 5: INVASIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.25 AND Precip. of driest month [min] (kg/m²) > 23.0 AND Temp. seasonality (SD × 100) [min] (°C/100) > 539.45 AND Dist. to basin outlet [max] (m) <= 2599408.0 AND Tree cover, needleleaved, evergreen   (%) > 0.978
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 6: INVASIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.25 AND Precip. of driest month [min] (kg/m²) > 23.0 AND Temp. seasonality (SD × 100) [min] (°C/100) > 539.45 AND Dist. to basin outlet [max] (m) > 2599408.0
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 7: INVASIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) > 35.25 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.45 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [max] (cmolc/kg) <= 21.5
+  Samples: 1 (native: 0.0%, invasive: 100.0%)
+
+Rule 8: NATIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) > 35.25 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) <= 35.45 AND Cation exchange capacity of the fine earth fraction  (< 2 mm) [max] (cmolc/kg) > 21.5
+  Samples: 1 (native: 100.0%, invasive: 0.0%)
+
+Rule 9: INVASIVE
+  IF Isothermality (bio2 / bio7) (× 100) [max] (°C) > 35.25 AND Isothermality (bio2 / bio7) (× 100) [max] (°C) > 35.45
+  Samples: 1 (native: 0.0%, invasive: 100.0%)

@@ -1,0 +1,356 @@
+[
+  {
+    "species": "Pontastacus leptodactylus",
+    "range": "native",
+    "n_presence": 885,
+    "strategy_a_accuracy": 0.8971751412429378,
+    "strategy_a_auc": 0.9291072169555366,
+    "strategy_b_accuracy": 0.9118644067796609,
+    "strategy_b_auc": 0.9381786842861247,
+    "strategy_a_features": 193,
+    "strategy_b_features": 190,
+    "strategy_a_type_pct": {
+      "Climate": 85.53645186335248,
+      "Land Cover": 0.0,
+      "Soil": 10.193796238400797,
+      "Topography": 4.269751898246724
+    },
+    "strategy_b_type_pct": {
+      "Climate": 85.28430626642655,
+      "Land Cover": 0.0,
+      "Soil": 8.489419475140322,
+      "Topography": 6.226274258433119
+    },
+    "top10_overlap_n": 3,
+    "top10_overlap_vars": [
+      "l_CLI45",
+      "l_CLI69",
+      "l_SOL3"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI45: Ann. precip. [min] (kg/m\u00b2)",
+      "l_CLI69: Precip. of warmest quarter [min] (kg/m\u00b2)",
+      "l_SOL3: Derived saturated water content (vol. frac.) [mean] (v%)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI45",
+      "l_SOL3",
+      "l_SOL2",
+      "l_CLI6",
+      "l_TOP116",
+      "l_CLI30",
+      "l_TOP7",
+      "l_CLI69",
+      "l_CLI33",
+      "l_CLI72"
+    ],
+    "strategy_b_top10": [
+      "l_CLI45",
+      "l_SOL3",
+      "l_CLI69",
+      "l_CLI9",
+      "l_TOP101",
+      "l_TOP30",
+      "l_TOP12",
+      "l_TOP102",
+      "l_SOL27",
+      "l_CLI53"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/pontastacus_leptodactylus_native_strategy_compare.png"
+  },
+  {
+    "species": "Pontastacus leptodactylus",
+    "range": "invasive",
+    "n_presence": 820,
+    "strategy_a_accuracy": 0.9542682926829269,
+    "strategy_a_auc": 0.9632436049970255,
+    "strategy_b_accuracy": 0.9347560975609757,
+    "strategy_b_auc": 0.9472598155859607,
+    "strategy_a_features": 182,
+    "strategy_b_features": 183,
+    "strategy_a_type_pct": {
+      "Climate": 30.48434494625816,
+      "Land Cover": 2.568346022337683,
+      "Soil": 0.6033005019513222,
+      "Topography": 66.34400852945284
+    },
+    "strategy_b_type_pct": {
+      "Climate": 24.60083541694488,
+      "Land Cover": 0.0,
+      "Soil": 1.3053967640736268,
+      "Topography": 74.09376781898149
+    },
+    "top10_overlap_n": 3,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_TOP102",
+      "l_TOP53"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_TOP102: Cell upstream distance (between focal cell and next cell) [max] (\u2013)",
+      "l_TOP53: Elev. diff. to basin outlet [min] (m)"
+    ],
+    "strategy_a_top10": [
+      "l_TOP102",
+      "l_CLI14",
+      "l_CLI5",
+      "l_LAC21",
+      "l_TOP53",
+      "l_TOP10",
+      "l_TOP29",
+      "l_SOL20",
+      "l_TOP109",
+      "l_TOP112"
+    ],
+    "strategy_b_top10": [
+      "l_TOP102",
+      "l_CLI69",
+      "l_CLI6",
+      "l_CLI45",
+      "l_TOP30",
+      "l_SOL36",
+      "l_TOP48",
+      "l_TOP53",
+      "l_CLI14",
+      "l_TOP99"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/pontastacus_leptodactylus_invasive_strategy_compare.png"
+  },
+  {
+    "species": "Austropotamobius fulcisianus",
+    "range": "native",
+    "n_presence": 227,
+    "strategy_a_accuracy": 0.9250793650793652,
+    "strategy_a_auc": 0.9185840042941493,
+    "strategy_b_accuracy": 0.9382905982905984,
+    "strategy_b_auc": 0.9231969940955448,
+    "strategy_a_features": 182,
+    "strategy_b_features": 178,
+    "strategy_a_type_pct": {
+      "Climate": 17.059321138288126,
+      "Land Cover": 0.0,
+      "Soil": 79.22593899448451,
+      "Topography": 3.7147398672273657
+    },
+    "strategy_b_type_pct": {
+      "Climate": 17.575948746648734,
+      "Land Cover": 0.0,
+      "Soil": 78.1031426467527,
+      "Topography": 4.320908606598554
+    },
+    "top10_overlap_n": 3,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI60",
+      "l_SOL3"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI60: Precip. seasonality (CV) [sd] (kg/m\u00b2)",
+      "l_SOL3: Derived saturated water content (vol. frac.) [mean] (v%)"
+    ],
+    "strategy_a_top10": [
+      "l_SOL1",
+      "l_CLI14",
+      "l_SOL3",
+      "l_TOP109",
+      "l_CLI8",
+      "l_TOP76",
+      "l_TOP127",
+      "l_CLI60",
+      "l_TOP19",
+      "l_TOP139"
+    ],
+    "strategy_b_top10": [
+      "l_SOL3",
+      "l_CLI14",
+      "l_CLI9",
+      "l_CLI60",
+      "l_TOP101",
+      "l_TOP111",
+      "l_SOL16",
+      "l_CLI12",
+      "l_TOP13",
+      "l_TOP133"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/austropotamobius_fulcisianus_native_strategy_compare.png"
+  },
+  {
+    "species": "Austropotamobius fulcisianus",
+    "range": "invasive",
+    "n_presence": 629,
+    "strategy_a_accuracy": 0.957854297097325,
+    "strategy_a_auc": 0.9597286470143613,
+    "strategy_b_accuracy": 0.9737589325238728,
+    "strategy_b_auc": 0.969410229276896,
+    "strategy_a_features": 181,
+    "strategy_b_features": 187,
+    "strategy_a_type_pct": {
+      "Climate": 21.05973137066609,
+      "Land Cover": 0.0,
+      "Soil": 1.7540374906171767,
+      "Topography": 77.18623113871674
+    },
+    "strategy_b_type_pct": {
+      "Climate": 92.35585563786134,
+      "Land Cover": 0.0,
+      "Soil": 0.3279355635799632,
+      "Topography": 7.316208798558701
+    },
+    "top10_overlap_n": 3,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI9",
+      "l_TOP101"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI9: Isothermality (bio2 / bio7) (\u00d7 100) [min] (\u00b0C)",
+      "l_TOP101: Cell upstream distance (between focal cell and next cell) [min] (\u2013)"
+    ],
+    "strategy_a_top10": [
+      "l_TOP53",
+      "l_CLI41",
+      "l_CLI57",
+      "l_CLI9",
+      "l_SOL11",
+      "l_CLI14",
+      "l_CLI66",
+      "l_TOP101",
+      "l_CLI5",
+      "l_SOL9"
+    ],
+    "strategy_b_top10": [
+      "l_CLI70",
+      "l_CLI14",
+      "l_TOP101",
+      "l_TOP10",
+      "l_CLI44",
+      "l_CLI62",
+      "l_CLI9",
+      "l_SOL56",
+      "l_TOP138",
+      "l_TOP139"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/austropotamobius_fulcisianus_invasive_strategy_compare.png"
+  },
+  {
+    "species": "Austropotamobius pallipes",
+    "range": "native",
+    "n_presence": 2790,
+    "strategy_a_accuracy": 0.9817204301075269,
+    "strategy_a_auc": 0.9853769221875363,
+    "strategy_b_accuracy": 0.9750896057347671,
+    "strategy_b_auc": 0.9806849860613301,
+    "strategy_a_features": 277,
+    "strategy_b_features": 268,
+    "strategy_a_type_pct": {
+      "Climate": 77.50080078130502,
+      "Land Cover": 0.0,
+      "Soil": 1.0822164753138033,
+      "Topography": 21.416982743381176
+    },
+    "strategy_b_type_pct": {
+      "Climate": 78.22839369178716,
+      "Land Cover": 0.0,
+      "Soil": 0.07052345055650058,
+      "Topography": 21.701082857656345
+    },
+    "top10_overlap_n": 4,
+    "top10_overlap_vars": [
+      "l_CLI14",
+      "l_CLI56",
+      "l_TOP102",
+      "u_TOP117"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI14: Temp. seasonality (SD \u00d7 100) [max] (\u00b0C/100)",
+      "l_CLI56: Precip. of driest month [sd] (kg/m\u00b2)",
+      "l_TOP102: Cell upstream distance (between focal cell and next cell) [max] (\u2013)",
+      "u_TOP117: Difference between source elevation and outlet elevation + outlet drop (m)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI14",
+      "l_TOP102",
+      "u_TOP117",
+      "l_CLI56",
+      "l_CLI2",
+      "u_SOL59",
+      "l_SOL35",
+      "u_CLI11",
+      "l_SOL46",
+      "l_TOP76"
+    ],
+    "strategy_b_top10": [
+      "l_CLI14",
+      "l_TOP102",
+      "u_TOP117",
+      "l_TOP53",
+      "l_CLI56",
+      "l_CLI65",
+      "l_TOP43",
+      "l_TOP109",
+      "l_CLI26",
+      "l_CLI6"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/austropotamobius_pallipes_native_strategy_compare.png"
+  },
+  {
+    "species": "Austropotamobius pallipes",
+    "range": "invasive",
+    "n_presence": 231,
+    "strategy_a_accuracy": 0.9415381019167836,
+    "strategy_a_auc": 0.9312693560712706,
+    "strategy_b_accuracy": 0.9827021972884525,
+    "strategy_b_auc": 0.9827937095282145,
+    "strategy_a_features": 177,
+    "strategy_b_features": 260,
+    "strategy_a_type_pct": {
+      "Climate": 93.42186828401167,
+      "Land Cover": 0.0,
+      "Soil": 6.578131715988335,
+      "Topography": 0.0
+    },
+    "strategy_b_type_pct": {
+      "Climate": 94.16966613143593,
+      "Land Cover": 0.0,
+      "Soil": 0.7421150278293137,
+      "Topography": 5.088218840734761
+    },
+    "top10_overlap_n": 2,
+    "top10_overlap_vars": [
+      "l_CLI13",
+      "l_CLI57"
+    ],
+    "top10_overlap_vars_readable": [
+      "l_CLI13: Temp. seasonality (SD \u00d7 100) [min] (\u00b0C/100)",
+      "l_CLI57: Precip. seasonality (CV) [min] (kg/m\u00b2)"
+    ],
+    "strategy_a_top10": [
+      "l_CLI13",
+      "l_CLI1",
+      "l_SOL59",
+      "l_CLI22",
+      "l_SOL19",
+      "l_CLI57",
+      "l_CLI5",
+      "l_SOL8",
+      "l_CLI49",
+      "l_SOL6"
+    ],
+    "strategy_b_top10": [
+      "l_CLI13",
+      "l_TOP114",
+      "u_CLI71",
+      "l_CLI57",
+      "l_TOP40",
+      "l_SOL32",
+      "l_TOP92",
+      "l_TOP91",
+      "l_TOP90",
+      "l_TOP9"
+    ],
+    "figure": "results/figures/pseudoabsence_sensitivity/austropotamobius_pallipes_invasive_strategy_compare.png"
+  }
+]

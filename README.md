@@ -5,6 +5,14 @@ This repository accompanies the manuscript:
 >
 > *Journal of Biogeography* (accepted 2026), manuscript 2253676.
 
+The repository root is this paper (Paper 1). Two companion papers that use the same
+pipeline live in their own self-contained folders and leave the root untouched:
+
+| Folder | Paper |
+|---|---|
+| [`conservation/`](conservation/) | Paper 2 — niche retention in historically translocated crayfish (*Biodiversity and Conservation*, in revision) |
+| [`lineage/`](lineage/) | Paper 3 — environmental structure of *Austropotamobius torrentium* lineages |
+
 ## Overview
 
 Biological invasions involve not only changes in niche position but a reorganisation of the environmental axes that distinguish species' distributions. This study tests whether the dominant axes of niche reorganisation differ systematically with invasion pathway type, using decision trees and random forests trained on ~400 hydrologically resolved environmental variables from GeoTraits.

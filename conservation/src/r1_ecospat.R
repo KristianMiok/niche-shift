@@ -35,7 +35,7 @@
 # Outputs carry the set name: r1_ecospat_results_<set>.csv and
 # r1_ecospat_null_D_<set>_<species>.csv (the 1000 simulated D values of each test).
 # Figures: src/r1_ecospat_figure.R (Fig3_ecospat_niche_dynamics.png,
-# FigS7_ecospat_niche_dynamics_all_variables.png, FigS8_ecospat_null_distributions.png),
+# FigS6_ecospat_niche_dynamics_all_variables.png, FigS7_ecospat_null_distributions.png),
 # which rebuilds the 100 km grids (terra rasters cannot be saved with saveRDS) and reads
 # the simulated D values from these files.
 #

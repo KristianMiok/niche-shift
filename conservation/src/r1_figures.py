@@ -6,6 +6,11 @@ r1_figures.py — R1 figures (items 16-18 of the revision list), 300 dpi PNG.
           permutation importance (loss of balanced accuracy when a whole domain is
           shuffled; filled = stratified CV, open = 100 km spatial blocks)
   Fig S2  top 20 decision-tree variables per species, bars coloured by domain
+  Fig S4  decision-tree Gini importance across species (heatmap; top 15 variables per
+          species with importance >= 0.005), domain shown as a colour strip
+  Fig S5  cross-validation stability of domain-level random-forest Gini importance:
+          mean +/- SD over the 5 stratified folds, one PNG per species and a 3-panel
+          version (inputs: results/tables/cv_stability/*_type_summary.csv)
 
 Domain colours are a colour-vision-deficiency-safe set (validated adjacent and all
 pairs; red/blue/green semantics of the submitted figures kept, soil moved from brown
@@ -26,6 +31,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from matplotlib.colors import PowerNorm
 from matplotlib.patches import Patch
 
 from r1_common import DOMAINS, FIGURES, SHORT, SPECIES, TABLES, domain_of, domain_shares, ensure_dirs
@@ -155,7 +161,95 @@ def figS2():
     return out
 
 
+def figS4(n_top=15, min_imp=0.005):
+    glossary = load_glossary("data/raw/S2.xlsx")
+    imp = {sp: pd.read_csv(RES / f"{safe(sp)}_feature_importances.csv").set_index("variable").importance
+           for sp in SPECIES}
+    rows = set()
+    for sp, s in imp.items():
+        rows.update(s[s >= min_imp].sort_values(ascending=False).head(n_top).index)
+    m = pd.DataFrame({sp: [float(imp[sp].get(v, 0.0)) for v in rows] for sp in SPECIES}, index=list(rows))
+    m = m.loc[m.max(axis=1).sort_values(ascending=False).index]
+    fig = plt.figure(figsize=(7.6, 0.24 * len(m) + 1.2))
+    gs = fig.add_gridspec(1, 3, width_ratios=[0.035, 1, 0.05], wspace=0.04, bottom=0.07, top=0.93)
+    ax_strip, ax, cax = fig.add_subplot(gs[0]), fig.add_subplot(gs[1]), fig.add_subplot(gs[2])
+    for i, v in enumerate(m.index):
+        ax_strip.add_patch(plt.Rectangle((0, i - 0.5), 1, 1, color=DOMAIN_COLORS[domain_of(v)], linewidth=0))
+    ax_strip.set_xlim(0, 1); ax_strip.set_ylim(len(m) - 0.5, -0.5)
+    ax_strip.set_xticks([]); ax_strip.set_yticks(range(len(m)))
+    ax_strip.set_yticklabels([make_label(v, glossary, max_len=52) for v in m.index], fontsize=6.5, color=INK)
+    for s in ax_strip.spines.values():
+        s.set_visible(False)
+    ax_strip.tick_params(axis="y", length=0)
+    im = ax.imshow(m.values, cmap="Greys", norm=PowerNorm(0.5, vmin=0, vmax=1), aspect="auto")
+    for i in range(len(m)):
+        for j in range(len(SPECIES)):
+            val = m.values[i, j]
+            if val >= 0.005:
+                ax.text(j, i, f"{val:.2f}", ha="center", va="center", fontsize=6.5,
+                        color="white" if val > 0.25 else INK)
+    ax.set_xticks(range(len(SPECIES)))
+    ax.set_xticklabels([f"$\\it{{{SHORT[sp].split()[0]}}}$ $\\it{{{SHORT[sp].split()[1]}}}$" for sp in SPECIES])
+    ax.xaxis.tick_top()
+    ax.set_yticks([])
+    for s in ax.spines.values():
+        s.set_visible(False)
+    cb = fig.colorbar(im, cax=cax)
+    cb.set_label("Decision-tree Gini importance (square-root colour scale)")
+    handles = [Patch(facecolor=DOMAIN_COLORS[d], label=d) for d in DOMAINS]
+    fig.legend(handles=handles, loc="upper center", ncol=4, bbox_to_anchor=(0.55, 0.055), fontsize=7.5)
+    out = FIGURES / "FigS4_dt_importance_heatmap.png"
+    fig.savefig(out, dpi=300, bbox_inches="tight", facecolor="white")
+    plt.close(fig)
+    return out
+
+
+def figS5():
+    """Fold stability of domain-level RF Gini importance, one panel per species."""
+    data = {sp: pd.read_csv(RES / "cv_stability" / f"{safe(sp)}_type_summary.csv").set_index("type") for sp in SPECIES}
+    ymax = max(float((d.mean_pct + d.sd_pct).max()) for d in data.values())
+    ymax = 10 * np.ceil(ymax / 10 + 0.05)
+
+    def panel(ax, sp):
+        d = data[sp].reindex(DOMAINS)
+        x = np.arange(len(DOMAINS))
+        ax.bar(x, d.mean_pct, 0.62, color=[DOMAIN_COLORS[k] for k in DOMAINS], edgecolor="white", linewidth=0.8)
+        ax.errorbar(x, d.mean_pct, yerr=d.sd_pct, fmt="none", ecolor=INK, elinewidth=0.9, capsize=3)
+        for xi, (mu, sd) in enumerate(zip(d.mean_pct, d.sd_pct)):
+            ax.text(xi, mu + sd + ymax * 0.015, f"{mu:.1f} \u00b1 {sd:.1f}", ha="center", va="bottom", fontsize=7, color=INK2)
+        ax.set_xticks(x)
+        ax.set_xticklabels(DOMAINS)
+        ax.set_ylim(0, ymax)
+        ax.set_ylabel("Share of random-forest Gini importance (%)")
+        g, s = SHORT[sp].split()
+        ax.set_title(f"$\\it{{{g}}}$ $\\it{{{s}}}$", loc="left")
+        ax.yaxis.grid(True, color=GRID, linewidth=0.6); ax.set_axisbelow(True)
+
+    outs = []
+    for sp in SPECIES:
+        fig, ax = plt.subplots(figsize=(3.6, 3.0))
+        panel(ax, sp)
+        out = FIGURES / f"FigS5_type_stability_{safe(sp)}.png"
+        fig.savefig(out, dpi=300, bbox_inches="tight", facecolor="white")
+        plt.close(fig)
+        outs.append(out)
+    fig, axes = plt.subplots(1, 3, figsize=(10.5, 3.2), sharey=True)
+    for ax, sp in zip(axes, SPECIES):
+        panel(ax, sp)
+    for ax in axes[1:]:
+        ax.set_ylabel("")
+    fig.text(0.5, -0.04, "Mean \u00b1 SD over the five stratified cross-validation folds", ha="center", fontsize=7.5, color=INK2)
+    out = FIGURES / "FigS5_type_stability.png"
+    fig.savefig(out, dpi=300, bbox_inches="tight", facecolor="white")
+    plt.close(fig)
+    outs.append(out)
+    return outs
+
+
 if __name__ == "__main__":
     ensure_dirs()
     print(fig2())
     print(figS2())
+    print(figS4())
+    for o in figS5():
+        print(o)

@@ -1,0 +1,13 @@
+species,domain,mean_pct,sd_pct,mean_sd
+Pontastacus leptodactylus,Climate,40.81,0.42,40.8 ± 0.4
+Pontastacus leptodactylus,Topography,32.73,0.14,32.7 ± 0.1
+Pontastacus leptodactylus,Soil,25.01,0.26,25.0 ± 0.3
+Pontastacus leptodactylus,Land Cover,1.46,0.07,1.5 ± 0.1
+Austropotamobius fulcisianus,Climate,53.98,1.52,54.0 ± 1.5
+Austropotamobius fulcisianus,Topography,18.54,1.72,18.5 ± 1.7
+Austropotamobius fulcisianus,Soil,26.97,2.29,27.0 ± 2.3
+Austropotamobius fulcisianus,Land Cover,0.52,0.07,0.5 ± 0.1
+Austropotamobius pallipes,Climate,47.66,2.41,47.7 ± 2.4
+Austropotamobius pallipes,Topography,21.72,2.2,21.7 ± 2.2
+Austropotamobius pallipes,Soil,30.01,2.69,30.0 ± 2.7
+Austropotamobius pallipes,Land Cover,0.61,0.05,0.6 ± 0.1

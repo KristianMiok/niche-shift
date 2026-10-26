@@ -1,0 +1,85 @@
+species,selection,variable,domain,description,shap_pct,rf_gini_pct,dt_gini_pct,rank_shap,rank_rf_gini,rank_dt_gini
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI14,Climate,Temp. seasonality (SD × 100) [max] (°C/100),5.67,4.14,14.4,1,3,3
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI19,Climate,Max temp. of warmest month [mean] (°C),5.52,4.85,46.42,2,1,1
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI38,Climate,Mean temp. of warmest quarter [max] (°C),5.47,4.66,0.28,3,2,20
+Pontastacus leptodactylus,top 20 by SHAP,l_TOP109,Topography,Topological dimension of streams (–),4.56,3.15,15.47,4,4,2
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI57,Climate,Precip. seasonality (CV) [min] (kg/m²),3.87,2.76,2.97,5,8,6
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI53,Climate,Precip. of driest month [min] (kg/m²),3.79,2.78,0.0,6,7,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI26,Climate,Temp. ann. range (bio5 – bio6) [max] (°C),3.75,2.86,0.0,7,6,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI5,Climate,Mean diurnal range (mean of monthly (max temp – min temp)) [min] (°C),3.62,2.87,0.0,8,5,
+Pontastacus leptodactylus,top 20 by SHAP,l_TOP102,Topography,Cell upstream distance (between focal cell and next cell) [max] (–),3.18,2.53,3.96,9,10,4
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI1,Climate,Ann. mean air temp. [min] (°C),3.1,2.54,3.35,10,9,5
+Pontastacus leptodactylus,top 20 by SHAP,l_SOL31,Soil,Cation exchange capacity of the fine earth fraction  (< 2 mm) [mean] (cmolc/kg),2.72,2.24,0.0,11,11,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI45,Climate,Ann. precip. [min] (kg/m²),2.06,1.7,0.0,12,12,
+Pontastacus leptodactylus,top 20 by SHAP,l_SOL29,Soil,Cation exchange capacity of the fine earth fraction  (< 2 mm) [min] (cmolc/kg),1.93,1.7,0.0,13,13,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI73,Climate,Precip. of coldest quarter [min] (kg/m²),1.87,1.4,0.0,14,16,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI33,Climate,Mean temp. of driest quarter [min] (°C),1.7,1.51,0.0,15,14,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI30,Climate,Mean temp. of wettest quarter [max] (°C),1.68,1.49,0.0,16,15,
+Pontastacus leptodactylus,top 20 by SHAP,l_CLI21,Climate,Min temp. of coldest month [min] (°C),1.57,1.31,0.0,17,17,
+Pontastacus leptodactylus,top 20 by SHAP,l_TOP101,Topography,Cell upstream distance (between focal cell and next cell) [min] (–),1.4,1.18,0.0,18,18,
+Pontastacus leptodactylus,top 20 by SHAP,l_SOL30,Soil,Cation exchange capacity of the fine earth fraction  (< 2 mm) [max] (cmolc/kg),1.35,1.18,0.0,19,19,
+Pontastacus leptodactylus,top 20 by SHAP,l_SOL23,Soil,Coarse fragments by volume (>2 mm) [mean] (v%),1.03,0.7,0.0,20,27,
+Pontastacus leptodactylus,decision tree only,l_TOP144,Topography,"Compound topographic index – a steady state wetness index, also known as topographic wetness index (TWI) (Beven & Kirkby, 1979) (–)",0.18,0.34,1.99,100,79,7
+Pontastacus leptodactylus,decision tree only,l_TOP97,Topography,Segment upstream distance (between focal cell and the init or node) [min] (–),0.55,0.55,1.39,35,38,8
+Pontastacus leptodactylus,decision tree only,l_SOL35,Soil,"Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%)",0.65,0.67,1.25,30,28,9
+Pontastacus leptodactylus,decision tree only,l_LAC7,Land Cover,"Tree cover, needleleaved, evergreen   (%)",0.12,0.18,1.19,138,147,10
+Pontastacus leptodactylus,decision tree only,l_TOP7,Topography,Cell minimum curvature (low up-focal-down) [mean] (m⁻¹),0.15,0.27,1.15,120,113,11
+Pontastacus leptodactylus,decision tree only,l_TOP24,Topography,Longest upstream distance (between focal grid cell and the furthest sub-catchment drainage divide) [sd] (m),0.24,0.4,1.1,73,60,12
+Pontastacus leptodactylus,decision tree only,l_TOP67,Topography,Segment upstream mean gradient (between focal cell and the init or node) [mean] (–),0.12,0.22,0.9,140,131,13
+Pontastacus leptodactylus,decision tree only,l_TOP16,Topography,Cell gradient [sd] (–),0.24,0.29,0.88,76,107,14
+Pontastacus leptodactylus,decision tree only,l_LAC10,Land Cover,Mosaic tree & shrub (>50%) / herbaceous (<50%) (100) (%),0.06,0.1,0.8,175,174,15
+Pontastacus leptodactylus,decision tree only,l_SOL42,Soil,"Soil pH in H2O and KCl solution, multiplied by 10 (pH in H2O x 10) [max] (pH)",1.01,0.89,0.69,21,22,16
+Pontastacus leptodactylus,decision tree only,l_SOL18,Soil,Silt fraction by weight (0.0002–0.05 mm) [max] (w%),0.45,0.42,0.65,45,51,17
+Pontastacus leptodactylus,decision tree only,l_TOP127,Topography,"Long-term mean ann. flow (FLO1K, 1980-2010) [sd] (m³/s)",0.27,0.38,0.58,62,68,18
+Pontastacus leptodactylus,decision tree only,l_TOP35,Topography,Dist. to downstream node [mean] (m),0.22,0.33,0.46,78,85,19
+Pontastacus leptodactylus,decision tree only,l_CLI8,Climate,Mean diurnal range (mean of monthly (max temp – min temp)) [sd] (°C),0.08,0.14,0.09,168,164,21
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI10,Climate,Isothermality (bio2 / bio7) (× 100) [max] (°C),16.09,13.59,90.42,1,1,1
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI69,Climate,Precip. of warmest quarter [min] (kg/m²),7.76,7.49,0.0,2,2,
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI13,Climate,Temp. seasonality (SD × 100) [min] (°C/100),7.1,6.35,1.56,3,3,3
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI65,Climate,Precip. of driest quarter [min] (kg/m²),5.76,5.93,0.0,4,4,
+Austropotamobius fulcisianus,top 20 by SHAP,l_TOP102,Topography,Cell upstream distance (between focal cell and next cell) [max] (–),4.89,4.79,0.0,5,5,
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI53,Climate,Precip. of driest month [min] (kg/m²),4.69,4.52,5.23,6,6,2
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI61,Climate,Precip. of wettest quarter [min] (kg/m²),3.69,4.24,0.0,7,7,
+Austropotamobius fulcisianus,top 20 by SHAP,l_TOP30,Topography,Dist. to basin outlet [max] (m),3.29,3.53,0.63,8,8,6
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL27,Soil,Bulk density of the fine earth fraction (< 2 mm) [mean] (kg/m³),2.32,3.06,0.0,9,9,
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL26,Soil,Bulk density of the fine earth fraction (< 2 mm) [max] (kg/m³),2.23,2.67,0.0,10,10,
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI34,Climate,Mean temp. of driest quarter [max] (°C),1.93,2.13,0.0,11,11,
+Austropotamobius fulcisianus,top 20 by SHAP,l_TOP101,Topography,Cell upstream distance (between focal cell and next cell) [min] (–),1.78,1.52,0.0,12,17,
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI25,Climate,Temp. ann. range (bio5 – bio6) [min] (°C),1.73,1.7,0.0,13,13,
+Austropotamobius fulcisianus,top 20 by SHAP,l_TOP122,Topography,Elevation of the sub-catchment [mean] (m),1.68,1.56,0.0,14,16,
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL3,Soil,Derived saturated water content (vol. frac.) [mean] (v%),1.64,1.84,0.0,15,12,
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL31,Soil,Cation exchange capacity of the fine earth fraction  (< 2 mm) [mean] (cmolc/kg),1.44,1.24,0.0,16,21,
+Austropotamobius fulcisianus,top 20 by SHAP,l_CLI22,Climate,Min temp. of coldest month [max] (°C),1.43,1.61,0.0,17,15,
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL25,Soil,Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³),1.41,1.69,0.0,18,14,
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL1,Soil,Derived saturated water content (vol. frac.) [min] (v%),1.33,1.47,0.0,19,18,
+Austropotamobius fulcisianus,top 20 by SHAP,l_SOL2,Soil,Derived saturated water content (vol. frac.) [max] (v%),1.31,1.45,0.0,20,19,
+Austropotamobius fulcisianus,decision tree only,l_SOL30,Soil,Cation exchange capacity of the fine earth fraction  (< 2 mm) [max] (cmolc/kg),0.98,0.85,1.05,25,28,4
+Austropotamobius fulcisianus,decision tree only,l_CLI38,Climate,Mean temp. of warmest quarter [max] (°C),1.12,0.89,0.78,22,26,5
+Austropotamobius fulcisianus,decision tree only,l_LAC7,Land Cover,"Tree cover, needleleaved, evergreen   (%)",0.06,0.07,0.32,86,97,7
+Austropotamobius pallipes,top 20 by SHAP,l_CLI13,Climate,Temp. seasonality (SD × 100) [min] (°C/100),8.17,7.5,91.32,1,2,1
+Austropotamobius pallipes,top 20 by SHAP,l_CLI5,Climate,Mean diurnal range (mean of monthly (max temp – min temp)) [min] (°C),7.65,8.47,0.0,2,1,
+Austropotamobius pallipes,top 20 by SHAP,l_CLI25,Climate,Temp. ann. range (bio5 – bio6) [min] (°C),7.11,6.49,0.0,3,3,
+Austropotamobius pallipes,top 20 by SHAP,l_CLI17,Climate,Max temp. of warmest month [min] (°C),6.43,6.23,0.0,4,5,
+Austropotamobius pallipes,top 20 by SHAP,l_CLI39,Climate,Mean temp. of warmest quarter [mean] (°C),5.96,6.33,0.0,5,4,
+Austropotamobius pallipes,top 20 by SHAP,l_TOP102,Topography,Cell upstream distance (between focal cell and next cell) [max] (–),4.96,4.36,0.0,6,6,
+Austropotamobius pallipes,top 20 by SHAP,l_SOL27,Soil,Bulk density of the fine earth fraction (< 2 mm) [mean] (kg/m³),2.86,3.37,0.0,7,8,
+Austropotamobius pallipes,top 20 by SHAP,l_TOP116,Topography,Outlet elevation (elevation of stream outlet) (m),2.77,3.14,0.0,8,9,
+Austropotamobius pallipes,top 20 by SHAP,l_SOL26,Soil,Bulk density of the fine earth fraction (< 2 mm) [max] (kg/m³),2.64,3.69,0.0,9,7,
+Austropotamobius pallipes,top 20 by SHAP,u_CLI15,Climate,Temp. seasonality (SD × 100) [mean] (°C/100),2.13,2.58,0.0,10,10,
+Austropotamobius pallipes,top 20 by SHAP,l_SOL25,Soil,Bulk density of the fine earth fraction (< 2 mm) [min] (kg/m³),2.03,2.01,0.0,11,15,
+Austropotamobius pallipes,top 20 by SHAP,l_CLI22,Climate,Min temp. of coldest month [max] (°C),2.0,2.03,0.0,12,14,
+Austropotamobius pallipes,top 20 by SHAP,u_CLI27,Climate,Temp. ann. range (bio5 – bio6) [mean] (°C),1.87,2.38,0.0,13,12,
+Austropotamobius pallipes,top 20 by SHAP,l_SOL3,Soil,Derived saturated water content (vol. frac.) [mean] (v%),1.8,2.21,0.0,14,13,
+Austropotamobius pallipes,top 20 by SHAP,l_TOP101,Topography,Cell upstream distance (between focal cell and next cell) [min] (–),1.77,1.7,0.0,15,18,
+Austropotamobius pallipes,top 20 by SHAP,l_SOL35,Soil,"Cumulative probability of Histosols (soils with high organic matter) occurrence (WRB, USDA) [mean] (%)",1.75,2.48,0.0,16,11,
+Austropotamobius pallipes,top 20 by SHAP,l_TOP109,Topography,Topological dimension of streams (–),1.56,1.27,3.45,17,22,2
+Austropotamobius pallipes,top 20 by SHAP,u_CLI19,Climate,Max temp. of warmest month [mean] (°C),1.51,1.92,0.0,18,16,
+Austropotamobius pallipes,top 20 by SHAP,l_SOL2,Soil,Derived saturated water content (vol. frac.) [max] (v%),1.46,1.9,0.0,19,17,
+Austropotamobius pallipes,top 20 by SHAP,l_CLI2,Climate,Ann. mean air temp. [max] (°C),1.26,0.7,0.0,20,31,
+Austropotamobius pallipes,decision tree only,l_SOL18,Soil,Silt fraction by weight (0.0002–0.05 mm) [max] (w%),0.43,0.15,1.84,41,69,3
+Austropotamobius pallipes,decision tree only,l_CLI69,Climate,Precip. of warmest quarter [min] (kg/m²),0.22,0.2,1.72,61,50,4
+Austropotamobius pallipes,decision tree only,l_CLI10,Climate,Isothermality (bio2 / bio7) (× 100) [max] (°C),0.38,0.39,1.19,45,38,5
+Austropotamobius pallipes,decision tree only,l_SOL23,Soil,Coarse fragments by volume (>2 mm) [mean] (v%),0.07,0.03,0.34,115,154,6
+Austropotamobius pallipes,decision tree only,l_CLI33,Climate,Mean temp. of driest quarter [min] (°C),0.94,0.35,0.14,26,41,7
+Austropotamobius pallipes,decision tree only,l_TOP112,Topography,Sinusoid of the stream reach (fractal dimension: stream length/straight stream length) (m),0.01,0.01,0.0,236,204,8
+Austropotamobius pallipes,decision tree only,l_TOP47,Topography,Elevation difference of the longest path from focal grid cell to the sub-catchment drainage divide [mean] (m),0.08,0.08,0.0,108,88,9

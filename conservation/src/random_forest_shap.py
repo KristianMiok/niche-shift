@@ -153,24 +153,32 @@ def compute_importance_by_type(importances_df, importance_col):
 def plot_shap_summary(
     shap_values, X_sample, feature_names,
     species_name, n_top=15,
-    output_dir="results/figures",
+    output_dir="results/figures", glossary=None,
 ):
-    """SHAP beeswarm plot for top features."""
+    """SHAP beeswarm plot for top features (Figure S3).
+
+    Rows are labelled "code: description" from the S2 glossary when it is given;
+    SHAP values refer to the non-native class, so positive values push a record
+    towards non-native.
+    """
     import shap
 
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
 
+    labels = [make_label(v, glossary, max_len=52) for v in feature_names] if glossary else feature_names
     fig, ax = plt.subplots(figsize=(10, max(5, n_top * 0.4)))
     shap.summary_plot(
         shap_values,
         features=X_sample,
-        feature_names=feature_names,
+        feature_names=labels,
         max_display=n_top,
         show=False,
         plot_size=None,
     )
-    plt.title(f"{species_name}: SHAP Values (top {n_top} features)", fontsize=12)
+    genus, epithet = species_name.split()[:2]
+    plt.title(f"$\\it{{{genus}}}$ $\\it{{{epithet}}}$: top {n_top} variables by mean |SHAP|", fontsize=12)
+    plt.xlabel("SHAP value (positive: towards non-native)")
     plt.tight_layout()
 
     safe_name = species_name.replace(" ", "_").lower()
@@ -341,7 +349,7 @@ def analyze_species_rf(
     figures_dir = str(Path(output_dir) / "figures")
     shap_fig = plot_shap_summary(
         shap_vals, X_sample, feature_names,
-        species_name, output_dir=figures_dir,
+        species_name, output_dir=figures_dir, glossary=glossary,
     )
     print(f"  SHAP plot saved to {shap_fig}")
 

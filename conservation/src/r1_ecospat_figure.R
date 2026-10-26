@@ -3,9 +3,9 @@
 #   figures/Fig3_ecospat_niche_dynamics.png
 #       niche dynamics per species (columns) for the climatic and the non-climatic
 #       variables (rows); 100 km background, intersection = 0.1. Replaces Figure 3.
-#   figures/FigS7_ecospat_niche_dynamics_all_variables.png
-#       the same for the full variable set of the classifiers. Replaces Figure S7.
-#   figures/FigS8_ecospat_null_distributions.png
+#   figures/FigS6_ecospat_niche_dynamics_all_variables.png
+#       the same for the full variable set of the classifiers (Figure S6 of the revision).
+#   figures/FigS7_ecospat_null_distributions.png
 #       null distributions of D (equivalency; similarity in both directions) against
 #       the observed D, as cumulative distributions, for every species and variable set.
 #
@@ -123,14 +123,14 @@ dyn_figure <- function(plot_sets, file) {
 }
 
 out <- c(dyn_figure(intersect(c("climate", "non_climate"), sets), "Fig3_ecospat_niche_dynamics.png"))
-if ("all" %in% sets) out <- c(out, dyn_figure("all", "FigS7_ecospat_niche_dynamics_all_variables.png"))
+if ("all" %in% sets) out <- c(out, dyn_figure("all", "FigS6_ecospat_niche_dynamics_all_variables.png"))
 
 # ---- null distributions ---------------------------------------------------------
 cols <- c(equivalency = "grey35", similarity_nat_to_non = COL_STAB, similarity_non_to_nat = COL_NAT)
 labs <- c(equivalency = "Equivalency (records reallocated between ranges)",
           similarity_nat_to_non = "Similarity, native to non-native (non-native niche shifted at random)",
           similarity_non_to_nat = "Similarity, non-native to native (native niche shifted at random)")
-f_tests <- "FigS8_ecospat_null_distributions.png"
+f_tests <- "FigS7_ecospat_null_distributions.png"
 png(file.path(fig_dir, f_tests), width = 3 * 1050, height = length(sets) * 950 + 330, res = 300)
 layout(rbind(matrix(seq_len(3 * length(sets)), ncol = 3, byrow = TRUE), rep(3 * length(sets) + 1, 3)),
        heights = c(rep(1, length(sets)), 0.36))

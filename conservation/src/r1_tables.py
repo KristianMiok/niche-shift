@@ -16,6 +16,13 @@ every number in Tables 2, 3 and S5 traces to one file.
                   tests (p for both alternatives), expansion, stability, unfilling
   r1_table_ecospat_sensitivity.csv  D, I and the dynamic indices for 50, 100 and 200 km
                   backgrounds and intersection 0.1 and 0
+  r1_TableS1.csv  per species, the 20 variables with the largest random-forest SHAP
+                  importance, with their SHAP, RF Gini and DT Gini importance (% of each
+                  model's total) and ranks, followed by the decision-tree variables
+                  outside that set (selection = "decision tree only")
+  r1_TableS2.csv  cross-validation fold stability: RF Gini importance by domain, mean
+                  and SD (n - 1) over the five stratified folds
+                  (from results/tables/cv_stability/*_type_summary.csv)
   r1_submitted_vs_regenerated.csv  submitted values next to the regenerated ones
 
 Run (from conservation/):  ../.venv/bin/python src/r1_tables.py
@@ -26,7 +33,8 @@ from pathlib import Path
 
 import pandas as pd
 
-from r1_common import DOMAINS, SPECIES, TABLES, domain_shares, ensure_dirs
+from r1_common import DOMAINS, SPECIES, TABLES, domain_of, domain_shares, ensure_dirs
+from variable_glossary import load_glossary, translate
 
 ECOSPAT_SETS = ["climate", "non_climate", "all"]
 FEATURE_SETS = ["all", "no_climate", "no_climate_no_cellstep", "climate_only"]
@@ -49,8 +57,52 @@ def safe(sp):
     return sp.replace(" ", "_").lower()
 
 
+def table_s1(n_top=20):
+    glossary = load_glossary("data/raw/S2.xlsx")
+    rows = []
+    for sp in SPECIES:
+        dt = pd.read_csv(RES / f"{safe(sp)}_feature_importances.csv").set_index("variable").importance
+        gi = pd.read_csv(RES / f"{safe(sp)}_rf_gini_importances.csv").set_index("variable").gini_importance
+        sh = pd.read_csv(RES / f"{safe(sp)}_rf_shap_importances.csv").set_index("variable").mean_abs_shap
+        pct = pd.DataFrame({"shap_pct": 100 * sh / sh.sum(), "rf_gini_pct": 100 * gi / gi.sum(),
+                            "dt_gini_pct": 100 * dt / dt.sum()}).fillna(0.0)
+        for col, rk in (("shap_pct", "rank_shap"), ("rf_gini_pct", "rank_rf_gini"), ("dt_gini_pct", "rank_dt_gini")):
+            pct[rk] = pct[col].rank(ascending=False, method="min").astype(int)
+        pct.loc[pct.dt_gini_pct == 0, "rank_dt_gini"] = pd.NA
+        top = pct.sort_values("shap_pct", ascending=False).head(n_top)
+        extra = pct[(pct.dt_gini_pct > 0) & ~pct.index.isin(top.index)].sort_values("dt_gini_pct", ascending=False)
+        for sel, block in (("top 20 by SHAP", top), ("decision tree only", extra)):
+            for v, r in block.iterrows():
+                rows.append({"species": sp, "selection": sel, "variable": v, "domain": domain_of(v),
+                             "description": translate(v, glossary),
+                             "shap_pct": round(r.shap_pct, 2), "rf_gini_pct": round(r.rf_gini_pct, 2),
+                             "dt_gini_pct": round(r.dt_gini_pct, 2), "rank_shap": int(r.rank_shap),
+                             "rank_rf_gini": int(r.rank_rf_gini),
+                             "rank_dt_gini": None if pd.isna(r.rank_dt_gini) else int(r.rank_dt_gini)})
+    out = pd.DataFrame(rows)
+    out["rank_dt_gini"] = out["rank_dt_gini"].astype("Int64")
+    out.to_csv(TABLES / "r1_TableS1.csv", index=False)
+    return out
+
+
+def table_s2():
+    rows = []
+    for sp in SPECIES:
+        d = pd.read_csv(RES / "cv_stability" / f"{safe(sp)}_type_summary.csv").set_index("type")
+        for dom in DOMAINS:
+            m, s = float(d.loc[dom, "mean_pct"]), float(d.loc[dom, "sd_pct"])
+            rows.append({"species": sp, "domain": dom, "mean_pct": round(m, 2), "sd_pct": round(s, 2),
+                         "mean_sd": f"{m:.1f} \u00b1 {s:.1f}"})
+    out = pd.DataFrame(rows)
+    out.to_csv(TABLES / "r1_TableS2.csv", index=False)
+    return out
+
+
 def main():
     ensure_dirs()
+    s1 = table_s1()
+    print(s1.groupby(["species", "selection"]).size())
+    print(table_s2().to_string(index=False))
     summ = pd.read_csv(TABLES / "r1_classification_summary.csv")
     cmp = pd.read_csv(TABLES / "r1_importance_domain_comparison.csv")
     eco_files = [TABLES / f"r1_ecospat_results_{s}.csv" for s in ECOSPAT_SETS]

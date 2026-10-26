@@ -67,13 +67,13 @@ the submitted pipeline). Outputs go to `results/revision/tables/` and
 | `r1_classification.py` | `r1_classification_{metrics,summary,per_fold}.csv`, `r1_noclimate_top_variables.csv` | KM-2 (balanced accuracy, MCC, class metrics), KM-4 (models without climate, and without climate and the cell-step variables), KM-7 (grid-block spatial CV) |
 | `r1_downsampling.py` | `r1_downsampling_{replicates,summary}.csv` | KM-2 (100 balanced subsamples) |
 | `r1_permutation_importance.py` | `r1_permutation_{grouped,variable}.csv`, `r1_importance_domain_comparison.csv` | KM-3 |
-| `r1_ecospat_prepare.py`, `r1_ecospat.R`, `r1_ecospat_figure.R` | `r1_ecospat_background_summary.csv`, `r1_ecospat_results_<set>.csv`, `r1_ecospat_null_D_<set>_<species>.csv`, `r1_ecospat_versions_<set>.json` (sets: `climate`, `non_climate`, `all`); `figures/Fig3_ecospat_niche_dynamics.png`, `FigS7_ecospat_niche_dynamics_all_variables.png`, `FigS8_ecospat_null_distributions.png` | KM-5, item 19 |
+| `r1_ecospat_prepare.py`, `r1_ecospat.R`, `r1_ecospat_figure.R` | `r1_ecospat_background_summary.csv`, `r1_ecospat_results_<set>.csv`, `r1_ecospat_null_D_<set>_<species>.csv`, `r1_ecospat_versions_<set>.json` (sets: `climate`, `non_climate`, `all`); `figures/Fig3_ecospat_niche_dynamics.png`, `FigS6_ecospat_niche_dynamics_all_variables.png`, `FigS7_ecospat_null_distributions.png` | KM-5, item 19 |
 | `r1_separate_models_audit.py` | `r1_background_geography.csv`, `r1_threshold_stability_*.csv`, `r1_separate_models_geo100*.csv` | KM-6, item 11 (background limits) |
 | `r1_basin_id_audit.py` | `r1_basin_id_audit.csv` | KM-7 (why basin_id was replaced) |
 | `r1_uncertain_records.py` | `r1_uncertain_records.csv` | KM-8 |
 | `r1_status_by_country.py` | `r1_status_by_country.csv` | item 10 |
-| `r1_figures.py` | `figures/Fig2_domain_importance.png`, `figures/FigS2_top20_dt_by_domain.png` | items 16-17 |
-| `r1_tables.py` | `r1_Table2.csv`, `r1_Table3.csv`, `r1_TableS5.csv`, `r1_table_feature_sets.csv`, `r1_table_ecospat.csv`, `r1_table_ecospat_sensitivity.csv`, `r1_submitted_vs_regenerated.csv` | Tables 2, 3, S5 and the new tables |
+| `r1_figures.py` | `figures/Fig2_domain_importance.png`, `FigS2_top20_dt_by_domain.png`, `FigS4_dt_importance_heatmap.png`, `FigS5_type_stability*.png` | items 16-17, Figs. S4-S5 |
+| `r1_tables.py` | `r1_Table2.csv`, `r1_Table3.csv`, `r1_TableS1.csv`, `r1_TableS2.csv`, `r1_TableS5.csv`, `r1_table_feature_sets.csv`, `r1_table_ecospat.csv`, `r1_table_ecospat_sensitivity.csv`, `r1_submitted_vs_regenerated.csv` | Tables 2, 3, S1, S2, S5 and the new tables |
 
 Run order (from inside `conservation/`): `r1_classification.py` (then
 `--sets no_climate_no_cellstep`), `r1_permutation_importance.py`, `r1_downsampling.py`,
@@ -88,7 +88,32 @@ the World of Crayfish data policy, and are rebuilt by `r1_ecospat_prepare.py`.
 Item 18: `decision_tree.py`, `niche_overlap_metrics.py` and `pseudoabsence_sensitivity.py`
 now label the second class "non-native" in figures and rule files (outputs regenerated;
 values unchanged). Internal variable and JSON key names of the inherited pipeline still
-say "invasive".
+say "invasive". The SHAP summary plots of `random_forest_shap.py` (Fig. S3) label each
+variable with its description and state that positive SHAP values push a record towards
+non-native.
+
+### Files behind each item of the revised manuscript
+
+| Item | File |
+|---|---|
+| Table 2 | `results/revision/tables/r1_Table2.csv` |
+| Table 3 | `results/revision/tables/r1_Table3.csv` |
+| Table 5 (ecospat) | `results/revision/tables/r1_table_ecospat.csv` |
+| Figure 2 | `results/revision/figures/Fig2_domain_importance.png` |
+| Figure 3 | `results/revision/figures/Fig3_ecospat_niche_dynamics.png` |
+| Table S1 | `results/revision/tables/r1_TableS1.csv` (top 20 variables by RF SHAP, plus the other decision-tree variables) |
+| Table S2 | `results/revision/tables/r1_TableS2.csv` |
+| Tables S3-S5 | `r1_table_feature_sets.csv`, `r1_table_ecospat_sensitivity.csv`, `r1_TableS5.csv` in `results/revision/tables/` |
+| Figure S1 | `results/figures/*_decision_tree.png` |
+| Figure S2 | `results/revision/figures/FigS2_top20_dt_by_domain.png` |
+| Figure S3 | `results/figures/*_shap_summary.png` |
+| Figure S4 | `results/revision/figures/FigS4_dt_importance_heatmap.png` |
+| Figure S5 | `results/revision/figures/FigS5_type_stability*.png` |
+| Figure S6 | `results/revision/figures/FigS6_ecospat_niche_dynamics_all_variables.png` |
+| Figure S7 | `results/revision/figures/FigS7_ecospat_null_distributions.png` |
+
+Section 3.4, the former Tables S3-S4 and the former Figure S6 (separate niche models)
+were dropped in the revision; their scripts and outputs stay in the repository.
 
 ## Provenance
 
